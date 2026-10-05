@@ -4,15 +4,18 @@ import { RequireAuth } from "@/components/auth/RequireAuth";
 import { AppShell } from "@/components/shell/AppShell";
 import { useAuth } from "@/providers/AuthProvider";
 import { GameProvider } from "@/providers/GameProvider";
+import { ShellUIProvider } from "@/providers/ShellUIProvider";
 
 function SignedInGame() {
   const { user } = useAuth();
   // Keyed by account so switching players remounts game state from that player's own saved runs.
   return (
     <GameProvider key={user?.id ?? "none"}>
-      <AppShell>
-        <Outlet />
-      </AppShell>
+      <ShellUIProvider>
+        <AppShell>
+          <Outlet />
+        </AppShell>
+      </ShellUIProvider>
     </GameProvider>
   );
 }

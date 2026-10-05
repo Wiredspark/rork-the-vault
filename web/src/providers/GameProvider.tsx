@@ -378,6 +378,7 @@ export const [GameProvider, useGame] = createContextHook(() => {
     episode,
     state,
     runs: data.runs,
+    runUpdatedAt: data.runUpdatedAt,
     soundOn: data.soundOn,
     syncStatus,
     sfx,

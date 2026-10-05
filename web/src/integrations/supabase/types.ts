@@ -110,7 +110,19 @@ export type Database = {
       }
     }
     Functions: {
-      [_ in never]: never
+      leaderboard_standings: {
+        Args: { p_episode_id?: string; p_scope?: string }
+        Returns: {
+          cracked_count: number
+          display_name: string
+          is_me: boolean
+          rank: number
+          runs_count: number
+          total_players: number
+          total_vc: number
+          user_id: string
+        }[]
+      }
     }
     Enums: {
       [_ in never]: never

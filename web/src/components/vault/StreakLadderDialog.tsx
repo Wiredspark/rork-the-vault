@@ -5,12 +5,20 @@ import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle, Di
 import { MULTIPLIER_LADDER, formatMultiplier } from "@/lib/scoring";
 import { cn } from "@/lib/utils";
 
+interface StreakLadderDialogProps {
+  currentStreak: number;
+  /** Optional trigger; omit and pass `open`/`onOpenChange` to control it externally. */
+  children?: ReactNode;
+  open?: boolean;
+  onOpenChange?: (open: boolean) => void;
+}
+
 /** Explains the streak multiplier ladder and lifeline rules. */
-export function StreakLadderDialog({ children, currentStreak }: { children: ReactNode; currentStreak: number }) {
+export function StreakLadderDialog({ children, currentStreak, open, onOpenChange }: StreakLadderDialogProps) {
   const activeRung = Math.min(Math.max(currentStreak, 1), 5);
   return (
-    <Dialog>
-      <DialogTrigger asChild>{children}</DialogTrigger>
+    <Dialog open={open} onOpenChange={onOpenChange}>
+      {children && <DialogTrigger asChild>{children}</DialogTrigger>}
       <DialogContent className="max-w-md border-vault-neon/25 bg-vault-panel text-vault-ice">
         <DialogHeader>
           <DialogTitle className="flex items-center gap-2 font-display text-2xl font-medium">

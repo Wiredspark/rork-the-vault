@@ -1,16 +1,15 @@
 import { ArrowRight, Trophy } from "lucide-react";
-import { useState } from "react";
 import { Link } from "react-router-dom";
 
 import { EpisodePicker } from "@/components/vault/EpisodePicker";
-import { LeaderboardDialog } from "@/components/vault/Leaderboard";
 import { IMAGES } from "@/data/assets";
 import { ACTIVE_MODULE } from "@/data/modules";
 import { useGame } from "@/providers/GameProvider";
+import { useShellUI } from "@/providers/ShellUIProvider";
 
 function Hero() {
   const { episode, status, state } = useGame();
-  const [boardOpen, setBoardOpen] = useState<boolean>(false);
+  const { openLeaderboard } = useShellUI();
   const cta =
     status === "fresh"
       ? { to: "/play", label: "Enter the Vault" }
@@ -45,7 +44,7 @@ function Hero() {
             </Link>
             <button
               type="button"
-              onClick={() => setBoardOpen(true)}
+              onClick={() => openLeaderboard("standings")}
               className="ghost-neon-button h-14"
               aria-haspopup="dialog"
             >
@@ -61,7 +60,6 @@ function Hero() {
           <EpisodePicker className="mt-5" />
         </div>
       </div>
-      <LeaderboardDialog open={boardOpen} onOpenChange={setBoardOpen} />
     </section>
   );
 }

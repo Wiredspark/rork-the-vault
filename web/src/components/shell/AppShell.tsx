@@ -1,15 +1,20 @@
 import { Menu } from "lucide-react";
-import { useState, type ReactNode } from "react";
+import type { ReactNode } from "react";
 
 import { JourneyTrack } from "@/components/shell/JourneyTrack";
 import { PlayerMenu } from "@/components/shell/PlayerMenu";
 import { ScoreHUD } from "@/components/shell/ScoreHUD";
 import { SidebarContent } from "@/components/shell/Sidebar";
 import { Sheet, SheetContent, SheetTitle } from "@/components/ui/sheet";
+import { LeaderboardDialog } from "@/components/vault/Leaderboard";
+import { StreakLadderDialog } from "@/components/vault/StreakLadderDialog";
+import { useGame } from "@/providers/GameProvider";
+import { useShellUI } from "@/providers/ShellUIProvider";
 
 /** Shared chrome: drawer module menu plus sticky HUD bar (run progress, score, streak, player). */
 export function AppShell({ children }: { children: ReactNode }) {
-  const [menuOpen, setMenuOpen] = useState<boolean>(false);
+  const { menuOpen, setMenuOpen, flushAfterMenuClose, streakOpen, setStreakOpen } = useShellUI();
+  const { state } = useGame();
 
   return (
     <div className="flex min-h-screen flex-col">
@@ -21,11 +26,19 @@ export function AppShell({ children }: { children: ReactNode }) {
       </a>
 
       <Sheet open={menuOpen} onOpenChange={setMenuOpen}>
-        <SheetContent side="left" className="w-[300px] border-vault-neon/15 bg-vault-ink p-0 text-vault-ice">
+        <SheetContent
+          side="left"
+          className="w-[300px] border-vault-neon/15 bg-vault-ink p-0 text-vault-ice"
+          onCloseAutoFocus={(event) => {
+            if (flushAfterMenuClose()) event.preventDefault();
+          }}
+        >
           <SheetTitle className="sr-only">Main menu</SheetTitle>
           <SidebarContent onNavigate={() => setMenuOpen(false)} />
         </SheetContent>
       </Sheet>
+      <LeaderboardDialog />
+      <StreakLadderDialog currentStreak={state.streak} open={streakOpen} onOpenChange={setStreakOpen} />
 
       <header className="sticky top-0 z-40 border-b border-vault-neon/10 bg-vault-ink/85 backdrop-blur-xl">
         <div className="mx-auto w-full max-w-[1280px]">

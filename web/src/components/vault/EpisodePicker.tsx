@@ -1,5 +1,5 @@
 import { Check, ChevronsUpDown } from "lucide-react";
-import { memo, useMemo, useState } from "react";
+import { memo, useMemo } from "react";
 
 import { Command, CommandEmpty, CommandGroup, CommandInput, CommandItem, CommandList } from "@/components/ui/command";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
@@ -8,6 +8,7 @@ import { getEpisodesForModule, type Episode } from "@/lib/episode";
 import { runStatus, type GameState } from "@/lib/gameEngine";
 import { cn } from "@/lib/utils";
 import { useGame } from "@/providers/GameProvider";
+import { useShellUI } from "@/providers/ShellUIProvider";
 
 type RunBadge = "cracked" | "sealed" | "vault" | "playing" | null;
 
@@ -78,7 +79,8 @@ const EpisodeRow = memo(function EpisodeRow({
 /** Searchable episode dropdown for the dashboard hero; replaces the old chip row so the catalogue can grow. */
 export function EpisodePicker({ className }: { className?: string }) {
   const { episode, runs, selectEpisode } = useGame();
-  const [open, setOpen] = useState<boolean>(false);
+  // Open state lives in the shell so the drawer's "Choose Episode" item can open it.
+  const { pickerOpen: open, setPickerOpen: setOpen } = useShellUI();
   const episodes = useMemo(() => getEpisodesForModule(ACTIVE_MODULE.id), []);
   const groups = useMemo(() => groupByTens(episodes), [episodes]);
   const crackedCount = useMemo(() => episodes.filter((ep) => runs[ep.id]?.vaultOutcome === "cracked").length, [episodes, runs]);
