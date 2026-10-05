@@ -16,7 +16,8 @@ export const [ShellUIProvider, useShellUI] = createContextHook(() => {
   const [streakOpen, setStreakOpen] = useState<boolean>(false);
   const [pickerOpen, setPickerOpen] = useState<boolean>(false);
   // Overlays launched from the drawer open only after it finishes closing, so the
-  // drawer's focus-return doesn't immediately dismiss the new overlay.
+  // drawer's focus-return doesn't immediately dismiss the new overlay. On desktop
+  // the rail is persistent (menu never opens), so these fire straight away.
   const afterMenuClose = useRef<(() => void) | null>(null);
 
   const openLeaderboard = useCallback((section: BoardSection = "standings", scope?: BoardScope) => {
@@ -25,10 +26,17 @@ export const [ShellUIProvider, useShellUI] = createContextHook(() => {
     setBoardOpen(true);
   }, []);
 
-  const runAfterMenuClose = useCallback((fn: () => void) => {
-    afterMenuClose.current = fn;
-    setMenuOpen(false);
-  }, []);
+  const runAfterMenuClose = useCallback(
+    (fn: () => void) => {
+      if (!menuOpen) {
+        fn();
+        return;
+      }
+      afterMenuClose.current = fn;
+      setMenuOpen(false);
+    },
+    [menuOpen],
+  );
 
   /** Called from the drawer's onCloseAutoFocus. Returns true when a pending overlay took over focus. */
   const flushAfterMenuClose = useCallback((): boolean => {

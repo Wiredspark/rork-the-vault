@@ -1,11 +1,12 @@
 import { ArrowRight, Check, Clock, Lock } from "lucide-react";
-import { memo, useEffect, useRef, useState, type ComponentType, type ReactNode } from "react";
+import { memo, useEffect, useRef, useState, type ComponentType, type CSSProperties, type ReactNode } from "react";
 import { Link } from "react-router-dom";
 
 import { RoundDot } from "@/components/play/RoundDot";
 import { DigitTile } from "@/components/vault/DigitTile";
 import { Popover, PopoverContent, PopoverTrigger } from "@/components/ui/popover";
 import { roundProgress, roundStats, VAULT_MAX_ATTEMPTS, type AnswerRecord, type RoundProgress } from "@/lib/gameEngine";
+import { roundStyle } from "@/lib/roundIdentity";
 import { formatMoney } from "@/lib/scoring";
 import { cn } from "@/lib/utils";
 import { useGame } from "@/providers/GameProvider";
@@ -32,9 +33,10 @@ const Tick = memo(function Tick({ state, bonus }: { state: TickState; bonus: boo
       className={cn(
         "block shrink-0 transition-all duration-500",
         bonus ? "h-[7px] w-[7px] rotate-45 rounded-[1.5px]" : "h-1 min-w-[6px] flex-1 rounded-full",
-        state === "correct" && "bg-vault-neon shadow-[0_0_8px_rgba(207,171,92,0.5)]",
+        // Progress takes the round's thematic identity color (scoped via --round-rgb on the segment).
+        state === "correct" && "bg-round shadow-[0_0_8px_rgb(var(--round-rgb)/0.5)]",
         state === "wrong" && "bg-vault-danger/70",
-        state === "current" && "animate-pulse bg-vault-neonhi",
+        state === "current" && "animate-pulse bg-round shadow-[0_0_7px_rgb(var(--round-rgb)/0.9)]",
         state === "upcoming" && "bg-white/[0.12]",
       )}
     />
@@ -49,6 +51,7 @@ function Segment({
   emphasis,
   grow,
   ariaLabel,
+  style,
   children,
   details,
   marker,
@@ -59,6 +62,7 @@ function Segment({
   emphasis: boolean;
   grow: number;
   ariaLabel: string;
+  style?: CSSProperties;
   children: ReactNode;
   details: ReactNode;
 }) {
@@ -68,7 +72,7 @@ function Segment({
         <button
           type="button"
           aria-label={ariaLabel}
-          style={grow > 0 ? { flexGrow: grow, flexBasis: 0 } : { flex: "none" }}
+          style={{ ...style, ...(grow > 0 ? { flexGrow: grow, flexBasis: 0 } : { flex: "none" }) }}
           className="group flex min-w-0 flex-col gap-1.5 rounded-md px-1.5 py-1.5 text-left outline-none transition-colors hover:bg-white/[0.03] focus-visible:ring-1 focus-visible:ring-vault-neon/60"
         >
           <span className="flex items-baseline justify-between gap-2">
@@ -111,8 +115,10 @@ function RoundSegment({ roundIndex }: { roundIndex: number }) {
       ? round.standard.map((q) => formatMoney(q.payout)).join(" / ")
       : `${formatMoney(round.minPayout)} – ${formatMoney(round.maxPayout)}`;
 
+  // Scope --round-rgb on the whole segment so the progress ticks pick up this round's identity color.
   return (
     <Segment
+      style={roundStyle(round.index)}
       label={`R${round.number}`}
       marker={<RoundDot roundIndex={round.index} glow={progress === "active"} className={cn(progress === "locked" && "opacity-40")} />}
       meta={`${stats.answered}/${stats.total}`}

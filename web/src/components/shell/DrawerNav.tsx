@@ -1,4 +1,4 @@
-import { BarChart3, Disc3, Gauge, Home, KeyRound, Play, Trophy, Zap, type LucideIcon } from "lucide-react";
+import { BarChart3, Disc3, Gauge, Home, KeyRound, Play, Trophy, type LucideIcon } from "lucide-react";
 import { NavLink, useLocation, useNavigate } from "react-router-dom";
 
 import { cn } from "@/lib/utils";
@@ -54,10 +54,13 @@ function Section({ title, children }: { title: string; children: React.ReactNode
   );
 }
 
-/** Drawer sections mirroring every dashboard destination: Play, Compete, Episodes. */
+/**
+ * Drawer sections — the essential destinations only (results and streak guidance live in the HUD).
+ * Overlay items run through runAfterMenuClose, which fires immediately when the rail is persistent.
+ */
 export function DrawerNav({ onNavigate }: { onNavigate?: () => void }) {
-  const { episode, status, state, knownDigits, multiplier } = useGame();
-  const { runAfterMenuClose, openLeaderboard, setStreakOpen, setPickerOpen } = useShellUI();
+  const { episode, status, state, knownDigits } = useGame();
+  const { runAfterMenuClose, openLeaderboard, setPickerOpen } = useShellUI();
   const navigate = useNavigate();
   const { pathname } = useLocation();
 
@@ -80,11 +83,10 @@ export function DrawerNav({ onNavigate }: { onNavigate?: () => void }) {
         <RouteItem to="/" icon={Home} label="Dashboard" hint="Home · current episode" onNavigate={onNavigate} />
         <RouteItem to="/play" icon={Play} label={status === "playing" ? "Continue Run" : "Play Rounds"} hint={playHint} onNavigate={onNavigate} />
         <RouteItem to="/vault" icon={KeyRound} label="Vault Chamber" hint={vaultHint} onNavigate={onNavigate} />
-        <RouteItem to="/results" icon={BarChart3} label="Results" hint={status === "complete" ? "Final score" : "Score so far"} onNavigate={onNavigate} />
       </Section>
 
       <Section title="Compete">
-        <ActionItem icon={Trophy} label="Leaderboard" hint="Top 10 · your global rank" onSelect={() => runAfterMenuClose(() => openLeaderboard("standings"))} />
+        <ActionItem icon={Trophy} label="Leaderboard" hint="Top 10 · your rank" onSelect={() => runAfterMenuClose(() => openLeaderboard("standings"))} />
         <ActionItem icon={Gauge} label="Career Stats" hint="All time · week · episode" onSelect={() => runAfterMenuClose(() => openLeaderboard("stats"))} />
       </Section>
 
@@ -100,12 +102,6 @@ export function DrawerNav({ onNavigate }: { onNavigate?: () => void }) {
               window.setTimeout(() => setPickerOpen(true), pathname === "/" ? 0 : 60);
             })
           }
-        />
-        <ActionItem
-          icon={Zap}
-          label="Streak Guide"
-          hint={`Streak ${state.streak} · ${multiplier.toFixed(2)}×`}
-          onSelect={() => runAfterMenuClose(() => setStreakOpen(true))}
         />
       </Section>
     </nav>

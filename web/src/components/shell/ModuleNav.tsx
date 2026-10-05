@@ -1,6 +1,5 @@
 import { Headphones, Lock } from "lucide-react";
 import { NavLink } from "react-router-dom";
-import { toast } from "sonner";
 
 import { VAULT_MODULES } from "@/data/modules";
 import { cn } from "@/lib/utils";
@@ -11,7 +10,7 @@ interface ModuleNavProps {
 
 const ITEM_BASE = "flex w-full items-center gap-3 rounded-lg px-3.5 py-2.5 text-left transition-colors" as const;
 
-/** Drawer "Modules" section: the live genre plus locked Coming Soon genres, each with icon + label. */
+/** Drawer "Modules" section: the live genre plus a single muted coming-soon note — kept lean on purpose. */
 export function ModuleNav({ onNavigate }: ModuleNavProps) {
   return (
     <section aria-label="Modules">
@@ -30,27 +29,17 @@ export function ModuleNav({ onNavigate }: ModuleNavProps) {
                 </span>
               </NavLink>
             </li>
-          ) : (
-            <li key={module.id}>
-              <button
-                type="button"
-                onClick={() =>
-                  toast(`${module.name} is still sealed`, {
-                    description: "New genres are coming soon. Different genres, same higher stakes.",
-                  })
-                }
-                className={cn(ITEM_BASE, "group hover:bg-white/[0.03]")}
-                aria-label={`${module.name} — coming soon`}
-              >
-                <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-md border border-vault-line">
-                  <Lock className="h-3.5 w-3.5 text-vault-muted transition-colors group-hover:text-vault-neon/70" aria-hidden="true" />
-                </span>
-                <span className="flex-1 text-[14px] text-vault-ice/70">{module.name}</span>
-                <span className="font-mono text-[9px] uppercase tracking-[0.16em] text-vault-muted">Soon</span>
-              </button>
-            </li>
-          ),
+          ) : null,
         )}
+        <li>
+          <div className={cn(ITEM_BASE, "opacity-60")} aria-label="More genres coming soon">
+            <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-md border border-vault-line">
+              <Lock className="h-3.5 w-3.5 text-vault-muted" aria-hidden="true" />
+            </span>
+            <span className="flex-1 text-[14px] text-vault-ice/70">More genres</span>
+            <span className="font-mono text-[9px] uppercase tracking-[0.16em] text-vault-muted">Soon</span>
+          </div>
+        </li>
       </ul>
     </section>
   );
