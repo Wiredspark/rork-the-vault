@@ -1,7 +1,8 @@
 import { ArrowRight, Check, KeyRound, Shield, Timer, X } from "lucide-react";
-import { useCallback, useEffect } from "react";
+import { useCallback, useEffect, useState } from "react";
 import { Navigate, useNavigate } from "react-router-dom";
 
+import { AutoAdvanceBar, autoAdvanceDelay } from "@/components/play/AutoAdvanceBar";
 import { CountdownRing } from "@/components/play/CountdownRing";
 import { LifelineBar } from "@/components/play/LifelineBar";
 import { RoundDot } from "@/components/play/RoundDot";
@@ -98,7 +99,8 @@ interface QuestionStageProps {
 }
 
 function QuestionStage({ round, slot, question }: QuestionStageProps) {
-  const { episode, state, answer, next, activateFiftyFifty, activateShield, activateSwap, canSwap } = useGame();
+  const { episode, state, answer, next, activateFiftyFifty, activateShield, activateSwap, canSwap, autoAdvance, toggleAutoAdvance } = useGame();
+  const [holding, setHolding] = useState<boolean>(false);
   const isFeedback = state.phase === "feedback";
   const isBonus = slot.type === "bonus";
   const record = isFeedback ? state.answers[state.answers.length - 1] : null;
@@ -217,7 +219,12 @@ function QuestionStage({ round, slot, question }: QuestionStageProps) {
         </div>
 
         {isFeedback && record && (
-          <div className="mt-7 animate-rise-in rounded-lg border border-vault-neon/20 bg-black/30 p-5" aria-live="polite">
+          <div
+            className="mt-7 animate-rise-in rounded-lg border border-vault-neon/20 bg-black/30 p-5"
+            aria-live="polite"
+            onPointerEnter={(e) => e.pointerType === "mouse" && setHolding(true)}
+            onPointerLeave={() => setHolding(false)}
+          >
             <div className="flex flex-wrap items-center gap-x-6 gap-y-3">
               <p className={cn("font-display text-2xl", record.correct ? "text-vault-success" : "text-vault-danger")}>
                 {record.correct ? "Correct" : record.timedOut ? "Time's up" : "Not quite"}
@@ -251,10 +258,30 @@ function QuestionStage({ round, slot, question }: QuestionStageProps) {
               </div>
             )}
             {question.fact && <p className="mt-3 leading-relaxed text-vault-ice/75">{question.fact}</p>}
-            <button type="button" onClick={next} className="neon-button mt-5 h-12" autoFocus>
-              {isLastInRound ? "Finish round" : "Next question"}
-              <ArrowRight className="h-4 w-4" aria-hidden="true" />
-            </button>
+            {autoAdvance ? (
+              <AutoAdvanceBar
+                key={`${slot.id}:${question.id}`}
+                durationMs={autoAdvanceDelay(question.fact)}
+                holding={holding}
+                label={isLastInRound ? "Finish round" : "Next now"}
+                onDone={next}
+                onDisable={toggleAutoAdvance}
+              />
+            ) : (
+              <div className="mt-5 flex flex-wrap items-center gap-3">
+                <button type="button" onClick={next} className="neon-button h-12" autoFocus>
+                  {isLastInRound ? "Finish round" : "Next question"}
+                  <ArrowRight className="h-4 w-4" aria-hidden="true" />
+                </button>
+                <button
+                  type="button"
+                  onClick={toggleAutoAdvance}
+                  className="rounded-md px-2 py-1.5 font-mono text-[10.5px] uppercase tracking-[0.14em] text-vault-muted transition-colors hover:text-vault-neon"
+                >
+                  Turn on auto-advance
+                </button>
+              </div>
+            )}
           </div>
         )}
       </section>
@@ -291,7 +318,7 @@ function QuestionStage({ round, slot, question }: QuestionStageProps) {
               );
             })}
           </div>
-          <p className="mt-3 text-xs text-vault-muted">Keys 1–4 or A–D answer · Enter continues</p>
+          <p className="mt-3 text-xs text-vault-muted">Keys 1–4 or A–D answer · Enter continues{autoAdvance ? " · auto-advance on" : ""}</p>
         </div>
       </aside>
     </div>

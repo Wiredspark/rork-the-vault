@@ -1,4 +1,4 @@
-import { ChevronDown, CloudAlert, CloudCheck, Loader2, LogOut, RotateCcw, Sparkles, Volume2, VolumeX } from "lucide-react";
+import { ChevronDown, CloudAlert, CloudCheck, FastForward, Loader2, LogOut, RotateCcw, Sparkles, Volume2, VolumeX } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import { toast } from "sonner";
 
@@ -40,7 +40,7 @@ function SyncIcon({ status }: { status: SyncStatus }) {
 
 /** Signed-in player chip with run, episode and account controls. */
 export function PlayerMenu() {
-  const { episode, soundOn, syncStatus, toggleSound, resetRun, loadDemo, selectEpisode } = useGame();
+  const { episode, soundOn, autoAdvance, syncStatus, toggleSound, toggleAutoAdvance, resetRun, loadDemo, selectEpisode } = useGame();
   const { user, displayName, signOut } = useAuth();
   const navigate = useNavigate();
   const episodes = getEpisodesForModule("rnb");
@@ -103,6 +103,16 @@ export function PlayerMenu() {
         <DropdownMenuItem onSelect={toggleSound} className="gap-2">
           {soundOn ? <Volume2 className="h-4 w-4" /> : <VolumeX className="h-4 w-4" />}
           Sound {soundOn ? "on" : "off"}
+        </DropdownMenuItem>
+        <DropdownMenuItem
+          onSelect={(e) => {
+            e.preventDefault();
+            toggleAutoAdvance();
+          }}
+          className="gap-2"
+        >
+          <FastForward className="h-4 w-4" />
+          Auto-advance {autoAdvance ? "on" : "off"}
         </DropdownMenuItem>
         <DropdownMenuItem
           onSelect={() => {

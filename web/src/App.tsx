@@ -2,6 +2,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { BrowserRouter, Route, Routes, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 
+import { AdminLayout } from "@/components/admin/AdminLayout";
 import { ProtectedLayout } from "@/components/auth/ProtectedLayout";
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
@@ -13,6 +14,10 @@ import NotFound from "./pages/NotFound";
 import Play from "./pages/Play";
 import Results from "./pages/Results";
 import VaultChamber from "./pages/VaultChamber";
+import AdminEpisodeEditor from "./pages/admin/AdminEpisodeEditor";
+import AdminEpisodes from "./pages/admin/AdminEpisodes";
+import AdminLogin from "./pages/admin/AdminLogin";
+import AdminRoles from "./pages/admin/AdminRoles";
 
 const queryClient = new QueryClient();
 
@@ -33,6 +38,12 @@ const App = () => (
           <ScrollToTop />
           <Routes>
             <Route path="/auth" element={<Auth />} />
+            <Route path="/admin/login" element={<AdminLogin />} />
+            <Route path="/admin" element={<AdminLayout />}>
+              <Route index element={<AdminEpisodes />} />
+              <Route path="episodes/:id" element={<AdminEpisodeEditor />} />
+              <Route path="roles" element={<AdminRoles />} />
+            </Route>
             <Route element={<ProtectedLayout />}>
               <Route path="/" element={<Dashboard />} />
               <Route path="/play" element={<Play />} />

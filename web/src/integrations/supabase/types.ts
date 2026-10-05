@@ -18,6 +18,66 @@ export type Database = {
   }
   public: {
     Tables: {
+      admin_users: {
+        Row: {
+          created_at: string
+          granted_by: string | null
+          role: string
+          user_id: string
+        }
+        Insert: {
+          created_at?: string
+          granted_by?: string | null
+          role?: string
+          user_id: string
+        }
+        Update: {
+          created_at?: string
+          granted_by?: string | null
+          role?: string
+          user_id?: string
+        }
+        Relationships: []
+      }
+      episodes: {
+        Row: {
+          content: Json
+          created_at: string
+          created_by: string | null
+          id: string
+          module_id: string
+          publish_at: string | null
+          status: string
+          title: string
+          updated_at: string
+          updated_by: string | null
+        }
+        Insert: {
+          content: Json
+          created_at?: string
+          created_by?: string | null
+          id: string
+          module_id?: string
+          publish_at?: string | null
+          status?: string
+          title?: string
+          updated_at?: string
+          updated_by?: string | null
+        }
+        Update: {
+          content?: Json
+          created_at?: string
+          created_by?: string | null
+          id?: string
+          module_id?: string
+          publish_at?: string | null
+          status?: string
+          title?: string
+          updated_at?: string
+          updated_by?: string | null
+        }
+        Relationships: []
+      }
       game_runs: {
         Row: {
           created_at: string
@@ -110,6 +170,21 @@ export type Database = {
       }
     }
     Functions: {
+      admin_promote: { Args: { p_email: string }; Returns: string }
+      admin_revoke: { Args: { p_user_id: string }; Returns: undefined }
+      admin_roster: {
+        Args: never
+        Returns: {
+          created_at: string
+          display_name: string
+          email: string
+          granted_by_name: string
+          role: string
+          user_id: string
+        }[]
+      }
+      is_admin: { Args: never; Returns: boolean }
+      is_founder: { Args: never; Returns: boolean }
       leaderboard_standings: {
         Args: { p_episode_id?: string; p_scope?: string }
         Returns: {
@@ -123,6 +198,7 @@ export type Database = {
           user_id: string
         }[]
       }
+      my_admin_role: { Args: never; Returns: string }
     }
     Enums: {
       [_ in never]: never

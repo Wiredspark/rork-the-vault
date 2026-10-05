@@ -9,15 +9,17 @@ const DEFAULT_TIMERS: { standard: number; bonus: number }[] = [
   { standard: 20, bonus: 23 },
 ];
 
-interface RawSource {
+export interface RawSource {
   title: string;
   url: string;
 }
 
-interface RawQuestion {
+/** Episode JSON question as authored (bundled files, uploads, and the admin editor all share this shape). */
+export interface RawQuestion {
+  [extra: string]: unknown;
   id: string;
   round: number;
-  slot: number;
+  slot: number | null;
   type: string;
   difficulty: string;
   category: string;
@@ -39,7 +41,8 @@ interface RawQuestion {
   };
 }
 
-interface RawRound {
+export interface RawRound {
+  [extra: string]: unknown;
   round: number;
   name: string;
   tag: string;
@@ -50,7 +53,8 @@ interface RawRound {
   reserve?: RawQuestion[];
 }
 
-interface RawEpisode {
+export interface RawEpisode {
+  [extra: string]: unknown;
   episodeId: string;
   title: string;
   theme: string;
@@ -162,8 +166,9 @@ function normalizeQuestion(raw: RawQuestion, timers: RoundTimers): Question {
   };
 }
 
-function extractStory(note: string): string {
-  const withoutRule = note.replace(/^Digit \d \(index \d\) is always visible\.\s*/i, "");
+/** Player-facing vault story from the episode's vault note. */
+export function extractStory(note: string): string {
+  const withoutRule = (note ?? "").replace(/^Digit \d \(index \d\) is always visible\.\s*/i, "");
   const dash = withoutRule.indexOf("—");
   const story = (dash >= 0 ? withoutRule.slice(dash + 1) : withoutRule).trim();
   return story.length ? story[0].toUpperCase() + story.slice(1) : story;
@@ -241,7 +246,7 @@ function normalizeEpisode(raw: RawEpisode, moduleId: string): Episode {
 }
 
 /** Fatal structural problems that would break gameplay (manual A7 / C4). Empty = playable. */
-function validateEpisode(raw: RawEpisode): string[] {
+export function validateEpisode(raw: RawEpisode): string[] {
   const errors: string[] = [];
   if (!raw.episodeId) errors.push("missing episodeId");
   if (!Array.isArray(raw.rounds) || raw.rounds.length !== 3) errors.push("must have exactly 3 rounds");
@@ -261,19 +266,53 @@ function validateEpisode(raw: RawEpisode): string[] {
   return errors;
 }
 
-const EPISODES: Episode[] = Object.entries(EPISODE_FILES)
-  .flatMap(([path, mod]) => {
-    const raw = mod.default as RawEpisode;
+/** Builds a playable episode from raw JSON, or returns null (with a warning) when it would break gameplay. */
+export function buildEpisode(raw: RawEpisode, source: string): Episode | null {
+  try {
     const errors = validateEpisode(raw);
     if (errors.length) {
-      console.warn(`[vault] Skipping ${path}:`, errors.slice(0, 5).join("; "));
-      return [];
+      console.warn(`[vault] Skipping ${source}:`, errors.slice(0, 5).join("; "));
+      return null;
     }
-    return [normalizeEpisode(raw, "rnb")];
-  })
-  .sort((a, b) => a.number - b.number);
+    return normalizeEpisode(raw, "rnb");
+  } catch {
+    console.warn(`[vault] Skipping ${source}: malformed episode JSON`);
+    return null;
+  }
+}
 
-const EPISODES_BY_ID: Record<string, Episode> = Object.fromEntries(EPISODES.map((e) => [e.id, e]));
+// Bundled JSON files in data/episodes/ are always available; released episodes from the
+// admin hub are registered on sign-in and override a bundled file with the same id.
+const BUNDLED_RAW: RawEpisode[] = Object.values(EPISODE_FILES).map((mod) => mod.default as RawEpisode);
+
+let EPISODES: Episode[] = [];
+let EPISODES_BY_ID: Record<string, Episode> = {};
+
+function rebuildRegistry(remote: RawEpisode[]) {
+  const byId = new Map<string, Episode>();
+  Object.entries(EPISODE_FILES).forEach(([path, mod]) => {
+    const ep = buildEpisode(mod.default as RawEpisode, path);
+    if (ep) byId.set(ep.id, ep);
+  });
+  remote.forEach((raw) => {
+    const ep = buildEpisode(raw, `remote ${raw?.episodeId ?? "?"}`);
+    if (ep) byId.set(ep.id, ep);
+  });
+  EPISODES = [...byId.values()].sort((a, b) => a.number - b.number);
+  EPISODES_BY_ID = Object.fromEntries(EPISODES.map((e) => [e.id, e]));
+}
+
+rebuildRegistry([]);
+
+/** Registers released episodes published from the admin hub. Call before game state mounts. */
+export function registerRemoteEpisodes(raws: RawEpisode[]) {
+  rebuildRegistry(raws);
+}
+
+/** Raw JSON of the bundled episode files (read-only; clone before editing). */
+export function getBundledRawEpisodes(): RawEpisode[] {
+  return BUNDLED_RAW;
+}
 
 export const DEFAULT_EPISODE_ID = "EP001";
 

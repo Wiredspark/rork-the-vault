@@ -37,6 +37,8 @@ interface PersistedData {
   /** Epoch ms of each run's last local change; used to reconcile with the cloud copy. */
   runUpdatedAt: Record<string, number>;
   soundOn: boolean;
+  /** Device-only preference: move to the next question automatically after feedback. */
+  autoAdvance: boolean;
 }
 
 interface CloudProgress {
@@ -76,11 +78,12 @@ function parsePersisted(raw: string | null): PersistedData | null {
     runs,
     runUpdatedAt,
     soundOn: parsed.soundOn ?? true,
+    autoAdvance: parsed.autoAdvance ?? true,
   };
 }
 
 function loadPersisted(userId: string): PersistedData {
-  const fallback: PersistedData = { activeEpisodeId: DEFAULT_EPISODE_ID, runs: {}, runUpdatedAt: {}, soundOn: true };
+  const fallback: PersistedData = { activeEpisodeId: DEFAULT_EPISODE_ID, runs: {}, runUpdatedAt: {}, soundOn: true, autoAdvance: true };
   try {
     const own = parsePersisted(window.localStorage.getItem(STORAGE_PREFIX + userId));
     if (own) return own;
@@ -169,6 +172,7 @@ export const [GameProvider, useGame] = createContextHook(() => {
     });
     const remoteEpisode = cloud.prefs?.activeEpisodeId;
     setData({
+      autoAdvance: data.autoAdvance,
       runs,
       runUpdatedAt,
       soundOn: cloud.prefs?.soundOn ?? data.soundOn,
@@ -355,6 +359,7 @@ export const [GameProvider, useGame] = createContextHook(() => {
         setData((prev) => ({ ...prev, soundOn: !prev.soundOn }));
         setPrefsDirty(true);
       },
+      toggleAutoAdvance: () => setData((prev) => ({ ...prev, autoAdvance: !prev.autoAdvance })),
     }),
     [answer, commit, episode, setRun, state, submitCode],
   );
@@ -380,6 +385,7 @@ export const [GameProvider, useGame] = createContextHook(() => {
     runs: data.runs,
     runUpdatedAt: data.runUpdatedAt,
     soundOn: data.soundOn,
+    autoAdvance: data.autoAdvance,
     syncStatus,
     sfx,
     ...derived,
