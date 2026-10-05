@@ -11,6 +11,7 @@ import {
   KeyRound,
   ListOrdered,
   Loader2,
+  Share2,
   Sparkles,
   Target,
   Trophy,
@@ -23,12 +24,14 @@ import { memo, useMemo, useState } from "react";
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { ShareRankDialog } from "@/components/vault/ShareRankDialog";
 import { ACTIVE_MODULE } from "@/data/modules";
 import { supabase } from "@/integrations/supabase/client";
 import { computeCareerStats, formatAccuracy, weekStartMs, type CareerStats } from "@/lib/careerStats";
 import { getEpisode, getEpisodesForModule } from "@/lib/episode";
 import { runStatus, totalPayout } from "@/lib/gameEngine";
 import { formatMoney } from "@/lib/scoring";
+import type { ShareCardData } from "@/lib/shareCard";
 import { cn } from "@/lib/utils";
 import { useAuth } from "@/providers/AuthProvider";
 import { useGame } from "@/providers/GameProvider";
@@ -138,7 +141,21 @@ function Notice({ icon: Icon, title, body, tone = "neutral" }: { icon: LucideIco
 }
 
 /** Your global position for the active scope — always shown, even when you're outside the top 10. */
-function YourRankCard({ me, totalPlayers, isPending, scope, episodeId }: { me: Standing | null; totalPlayers: number; isPending: boolean; scope: BoardScope; episodeId: string }) {
+function YourRankCard({
+  me,
+  totalPlayers,
+  isPending,
+  scope,
+  episodeId,
+  onShare,
+}: {
+  me: Standing | null;
+  totalPlayers: number;
+  isPending: boolean;
+  scope: BoardScope;
+  episodeId: string;
+  onShare: () => void;
+}) {
   const percentile = me && totalPlayers > 0 ? Math.max(1, Math.ceil((me.rank / totalPlayers) * 100)) : null;
   return (
     <div className="relative overflow-hidden rounded-xl border border-vault-neon/30 bg-[radial-gradient(120%_140%_at_0%_0%,rgba(207,171,92,0.16),transparent_60%)] px-4 py-3.5">
@@ -175,6 +192,16 @@ function YourRankCard({ me, totalPlayers, isPending, scope, episodeId }: { me: S
             </>
           )}
         </div>
+        <button
+          type="button"
+          onClick={onShare}
+          disabled={isPending}
+          aria-label="Share your rank and stats"
+          className="flex h-11 shrink-0 items-center gap-1.5 rounded-lg border border-vault-neon/45 bg-vault-neon/10 px-3 text-[13px] font-medium text-vault-neonhi transition-[transform,background-color] hover:bg-vault-neon/20 active:scale-95 disabled:opacity-40 focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-vault-neon/60"
+        >
+          <Share2 className="h-4 w-4" aria-hidden="true" />
+          Share
+        </button>
       </div>
     </div>
   );
@@ -296,7 +323,8 @@ const TAB_TRIGGER =
 
 /** Leaderboard + career stats: top 10, your true global rank, and All Time / This Week / By Episode views. */
 export function LeaderboardDialog() {
-  const { user } = useAuth();
+  const { user, displayName } = useAuth();
+  const [shareOpen, setShareOpen] = useState<boolean>(false);
   const { episode, runs, runUpdatedAt } = useGame();
   const { boardOpen, setBoardOpen, boardScope, setBoardScope, boardSection, openLeaderboard } = useShellUI();
   const [episodeId, setEpisodeId] = useState<string>(episode.id);
@@ -325,6 +353,22 @@ export function LeaderboardDialog() {
           : undefined;
     return computeCareerStats(runs, include);
   }, [boardScope, episodeId, runUpdatedAt, runs]);
+
+  const shareData = useMemo<ShareCardData>(() => {
+    const ep = getEpisode(episodeId);
+    const scopeLabel = boardScope === "week" ? "This Week" : boardScope === "episode" ? `${episodeId}${ep ? ` · ${ep.title}` : ""}` : "All Time";
+    return {
+      playerName: me?.displayName ?? displayName ?? "Player",
+      moduleName: ACTIVE_MODULE.name,
+      scopeLabel,
+      rank: me?.rank ?? null,
+      totalPlayers,
+      stats,
+      isEpisodeScope: boardScope === "episode",
+      bestRunEpisodeId: stats.bestRun?.episodeId ?? null,
+      url: window.location.origin,
+    };
+  }, [boardScope, displayName, episodeId, me, stats, totalPlayers]);
 
   const pickEpisode = (id: string) => {
     setEpisodeId(id);
@@ -379,7 +423,7 @@ export function LeaderboardDialog() {
           )}
 
           <div className="mt-3">
-            <YourRankCard me={me} totalPlayers={totalPlayers} isPending={Boolean(user) && query.isPending} scope={boardScope} episodeId={episodeId} />
+            <YourRankCard me={me} totalPlayers={totalPlayers} isPending={Boolean(user) && query.isPending} scope={boardScope} episodeId={episodeId} onShare={() => setShareOpen(true)} />
           </div>
 
           <Tabs value={boardSection} onValueChange={(v) => openLeaderboard(v as BoardSection)} className="mt-4">
@@ -432,6 +476,7 @@ export function LeaderboardDialog() {
             </TabsContent>
           </Tabs>
         </div>
+        <ShareRankDialog open={shareOpen} onOpenChange={setShareOpen} data={shareData} />
       </DialogContent>
     </Dialog>
   );
