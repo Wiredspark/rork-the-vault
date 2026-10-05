@@ -1,4 +1,5 @@
 import { AuthError, createAdminClient, requireAuth } from "../_shared/auth.ts";
+import { isEmailConfigured, renderEmail, resolveAppUrl, sendEmail } from "../_shared/email.ts";
 
 const corsHeaders = {
   "Access-Control-Allow-Origin": "*",
@@ -13,7 +14,8 @@ function json(body: unknown, status = 200): Response {
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 
 /**
- * Founder-only: creates a confirmed email/password account and grants it the admin role.
+ * Founder-only: creates a confirmed email/password account, grants it the admin role and
+ * emails a welcome message with a one-time "set your password" link (when email is configured).
  * Body: { email, password, displayName }
  */
 Deno.serve(async (req) => {
@@ -66,7 +68,36 @@ Deno.serve(async (req) => {
       .insert({ user_id: userId, role: "admin", granted_by: caller.id });
     if (grantError) throw grantError;
 
-    return json({ ok: true, userId });
+    let emailSent = false;
+    if (isEmailConfigured()) {
+      try {
+        const appUrl = resolveAppUrl(req);
+        const { data: link, error: linkError } = await admin.auth.admin.generateLink({
+          type: "recovery",
+          email,
+          options: appUrl ? { redirectTo: `${appUrl}/auth` } : undefined,
+        });
+        if (linkError) throw linkError;
+        const inviter = (caller.user_metadata?.display_name as string | undefined) ?? "The founding admin";
+        const { html, text } = renderEmail({
+          preheader: "You have admin access to The Vault. Set your password to get started.",
+          kicker: "Admin access",
+          title: `Welcome to the Admin Hub, ${displayName}`,
+          paragraphs: [
+            `${inviter} created an admin account for you on The Vault. You can now edit episodes, run bulk imports and schedule releases.`,
+            "Set your own password with the button below. The link works once and expires in an hour. After that, sign in at the Admin Hub with this email.",
+          ],
+          cta: { label: "Set my password", url: link.properties.action_link },
+          footnote: appUrl ? `Admin Hub: ${appUrl}/admin/login` : "If you weren't expecting this, you can ignore this email.",
+        });
+        await sendEmail({ to: email, subject: "Your Vault admin account is ready", html, text });
+        emailSent = true;
+      } catch (err) {
+        console.error("welcome email failed", err instanceof Error ? err.message : "unknown");
+      }
+    }
+
+    return json({ ok: true, userId, emailSent });
   } catch (err) {
     if (err instanceof AuthError) return json({ error: "Unauthorized" }, 401);
     console.error("admin-create-user failed", err instanceof Error ? err.message : "unknown");

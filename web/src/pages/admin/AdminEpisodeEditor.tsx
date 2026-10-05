@@ -39,6 +39,7 @@ import {
   fetchAdminEpisode,
   fetchAdminEpisodes,
   formatDateTime,
+  notifyQuietly,
   saveEpisode,
   type AdminEpisodeRow,
   type DbEpisodeStatus,
@@ -289,6 +290,9 @@ export default function AdminEpisodeEditor() {
   const saveMutation = useMutation({
     mutationFn: saveEpisode,
     onSuccess: (saved, vars) => {
+      const releaseChanged =
+        saved.status !== "draft" && (!row || row.status === "draft" || row.publishAt !== saved.publishAt);
+      if (releaseChanged) notifyQuietly({ action: "episode_released", episodeId: saved.id });
       setRow(saved);
       setDirty(false);
       setDraft((prev) => (prev ? finalizeEpisode(prev, { keepKeys: true }) : prev));

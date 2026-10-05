@@ -1,6 +1,6 @@
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
-import { Crown, Loader2, Lock, ShieldCheck, UserMinus, UserPlus, UsersRound, Wand2 } from "lucide-react";
+import { Crown, Loader2, Lock, Mail, MailCheck, MailWarning, Send, ShieldCheck, UserMinus, UserPlus, UsersRound, Wand2 } from "lucide-react";
 import { useState } from "react";
 import { useForm } from "react-hook-form";
 import { toast } from "sonner";
@@ -18,7 +18,18 @@ import {
   AlertDialogTitle,
 } from "@/components/ui/alert-dialog";
 import { useAdminRole } from "@/hooks/use-admin-role";
-import { adminErrorMessage, createAdminAccount, fetchRoster, formatWhen, promoteAdmin, revokeAdmin, type RosterEntry } from "@/lib/admin/api";
+import {
+  adminErrorMessage,
+  createAdminAccount,
+  fetchEmailStatus,
+  fetchRoster,
+  formatWhen,
+  notifyQuietly,
+  promoteAdmin,
+  revokeAdmin,
+  sendAdminNotification,
+  type RosterEntry,
+} from "@/lib/admin/api";
 import { cn } from "@/lib/utils";
 import { initialsFor, useAuth } from "@/providers/AuthProvider";
 
@@ -98,8 +109,9 @@ function PromoteForm() {
   const form = useForm<PromoteValues>({ resolver: zodResolver(promoteSchema), defaultValues: { email: "" } });
   const mutation = useMutation({
     mutationFn: (v: PromoteValues) => promoteAdmin(v.email.trim()),
-    onSuccess: (_d, v) => {
+    onSuccess: (userId, v) => {
       toast.success(`${v.email} is now an admin`);
+      if (userId) notifyQuietly({ action: "role_granted", userId });
       form.reset();
       queryClient.invalidateQueries({ queryKey: ["admin-roster"] });
     },
@@ -127,12 +139,12 @@ function PromoteForm() {
 function CreateForm() {
   const queryClient = useQueryClient();
   const form = useForm<CreateValues>({ resolver: zodResolver(createSchema), defaultValues: { displayName: "", email: "", password: "" } });
-  const [lastCreated, setLastCreated] = useState<{ email: string; password: string } | null>(null);
+  const [lastCreated, setLastCreated] = useState<{ email: string; password: string; emailSent: boolean } | null>(null);
   const mutation = useMutation({
     mutationFn: (v: CreateValues) => createAdminAccount({ email: v.email.trim(), password: v.password, displayName: v.displayName.trim() }),
-    onSuccess: (_d, v) => {
-      toast.success(`Admin account created for ${v.email}`);
-      setLastCreated({ email: v.email.trim(), password: v.password });
+    onSuccess: (result, v) => {
+      toast.success(result.emailSent ? `Admin account created. Welcome email sent to ${v.email}` : `Admin account created for ${v.email}`);
+      setLastCreated({ email: v.email.trim(), password: v.password, emailSent: result.emailSent });
       form.reset();
       queryClient.invalidateQueries({ queryKey: ["admin-roster"] });
     },
@@ -142,7 +154,7 @@ function CreateForm() {
   return (
     <form onSubmit={form.handleSubmit((v) => mutation.mutate(v))} noValidate className="flex flex-col gap-3">
       <p className="text-[13.5px] leading-relaxed text-vault-ice/65">
-        Create a brand-new, pre-confirmed account with admin access. Share the temporary password privately. They can change it by resetting their password from the sign-in screen.
+        Create a brand-new, pre-confirmed account with admin access. They get a welcome email with a one-time link to set their own password. Keep the temporary password as a backup.
       </p>
       <Field label="Display name" htmlFor="create-name">
         <input id="create-name" className={cn(INPUT, err.displayName && "border-vault-danger/70")} autoComplete="off" {...form.register("displayName")} />
@@ -172,7 +184,9 @@ function CreateForm() {
       </button>
       {lastCreated && (
         <div className="rounded-lg border border-vault-success/40 bg-vault-success/[0.06] p-3 text-[13px]" role="status">
-          <p className="text-vault-success">Account ready. Share these details privately:</p>
+          <p className="text-vault-success">
+            {lastCreated.emailSent ? "Account ready. Welcome email sent. Backup credentials:" : "Account ready. No email was sent, so share these details privately:"}
+          </p>
           <p className="mt-1.5 break-all font-mono text-[12px] text-vault-ice/90">{lastCreated.email}</p>
           <p className="break-all font-mono text-[12px] text-vault-ice/90">{lastCreated.password}</p>
           <button
@@ -195,6 +209,51 @@ function CreateForm() {
   );
 }
 
+/** Shows whether the transactional sender is live and lets any admin send themselves a test. */
+function EmailDeliveryPanel() {
+  const status = useQuery({ queryKey: ["admin-email-status"], queryFn: fetchEmailStatus, staleTime: 60_000 });
+  const test = useMutation({
+    mutationFn: () => sendAdminNotification({ action: "test" }),
+    onSuccess: (r) => toast.success(r.to ? `Test email sent to ${r.to}` : "Test email sent"),
+    onError: (error) => toast.error(error instanceof Error ? error.message : "Couldn't send the test email."),
+  });
+  const configured = status.data === true;
+  return (
+    <Panel
+      title="Email delivery"
+      icon={Mail}
+      id="email-title"
+      action={
+        status.isPending ? (
+          <Loader2 className="h-3.5 w-3.5 animate-spin text-vault-muted" aria-label="Checking" />
+        ) : (
+          <span
+            className={cn(
+              "inline-flex items-center gap-1.5 rounded-full border px-2.5 py-0.5 font-mono text-[10px] uppercase tracking-[0.16em]",
+              configured ? "border-vault-success/40 bg-vault-success/10 text-vault-success" : "border-dashed border-vault-muted/50 text-vault-muted",
+            )}
+          >
+            {configured ? <MailCheck className="h-3 w-3" aria-hidden="true" /> : <MailWarning className="h-3 w-3" aria-hidden="true" />}
+            {configured ? "Connected" : "Not set up"}
+          </span>
+        )
+      }
+    >
+      <p className="text-[13.5px] leading-relaxed text-vault-ice/65">
+        {configured
+          ? "Password resets, sign-up confirmations, admin welcome emails and release notices are sent through Resend."
+          : status.isError
+            ? "Couldn't check the email sender right now."
+            : "Emails can't be sent yet. Admin actions still work; notices are skipped until the sender is connected."}
+      </p>
+      <button type="button" disabled={!configured || test.isPending} onClick={() => test.mutate()} className="ghost-neon-button mt-4 h-10 w-full">
+        {test.isPending ? <Loader2 className="h-4 w-4 animate-spin" aria-hidden="true" /> : <Send className="h-4 w-4" aria-hidden="true" />}
+        Send me a test email
+      </button>
+    </Panel>
+  );
+}
+
 /** Admin roster with founder-only promote / create / revoke controls. */
 export default function AdminRoles() {
   const { user } = useAuth();
@@ -208,6 +267,7 @@ export default function AdminRoles() {
     mutationFn: (entry: RosterEntry) => revokeAdmin(entry.userId),
     onSuccess: (_d, entry) => {
       toast.success(`${entry.displayName} is no longer an admin`);
+      notifyQuietly({ action: "role_revoked", userId: entry.userId });
       queryClient.invalidateQueries({ queryKey: ["admin-roster"] });
     },
     onError: (error) => toast.error(adminErrorMessage(error, "Couldn't remove admin access.")),
@@ -244,6 +304,7 @@ export default function AdminRoles() {
           )}
         </Panel>
 
+        <div className="flex flex-col gap-6">
         {isFounder ? (
           <Panel title="Add an admin" icon={UserPlus} id="add-title">
             <div role="tablist" aria-label="How to add" className="mb-4 grid grid-cols-2 gap-1 rounded-lg border border-vault-line bg-vault-ink/60 p-1">
@@ -277,6 +338,8 @@ export default function AdminRoles() {
             </p>
           </Panel>
         )}
+        <EmailDeliveryPanel />
+        </div>
       </div>
 
       <AlertDialog open={Boolean(revoking)} onOpenChange={(o) => !o && setRevoking(null)}>

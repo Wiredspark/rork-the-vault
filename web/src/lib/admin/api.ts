@@ -110,9 +110,11 @@ export async function fetchRoster(): Promise<RosterEntry[]> {
   }));
 }
 
-export async function promoteAdmin(email: string): Promise<void> {
-  const { error } = await supabase.rpc("admin_promote", { p_email: email });
+/** Promotes an existing player; resolves with the promoted user's id. */
+export async function promoteAdmin(email: string): Promise<string> {
+  const { data, error } = await supabase.rpc("admin_promote", { p_email: email });
   if (error) throw error;
+  return data;
 }
 
 export async function revokeAdmin(userId: string): Promise<void> {
@@ -126,23 +128,63 @@ export interface CreateAdminInput {
   displayName: string;
 }
 
-/** Founder-only: server function creates a confirmed account and grants admin. */
-export async function createAdminAccount(input: CreateAdminInput): Promise<void> {
-  const { data, error } = await supabase.functions.invoke<{ ok?: boolean; error?: string }>("admin-create-user", { body: input });
-  if (error) {
-    let message = "Couldn't create the account. Try again.";
-    const context = (error as { context?: Response }).context;
-    if (context && typeof context.json === "function") {
-      try {
-        const body = (await context.json()) as { error?: string };
-        if (body?.error) message = body.error;
-      } catch {
-        // keep fallback
-      }
+async function functionErrorMessage(error: unknown, fallback: string): Promise<string> {
+  const context = (error as { context?: Response }).context;
+  if (context && typeof context.json === "function") {
+    try {
+      const body = (await context.json()) as { error?: string };
+      if (body?.error) return body.error;
+    } catch {
+      // keep fallback
     }
-    throw new Error(message);
   }
+  return fallback;
+}
+
+export interface CreateAdminResult {
+  /** True when the welcome email (with a set-password link) was delivered to the new admin. */
+  emailSent: boolean;
+}
+
+/** Founder-only: server function creates a confirmed account, grants admin and emails a welcome link. */
+export async function createAdminAccount(input: CreateAdminInput): Promise<CreateAdminResult> {
+  const { data, error } = await supabase.functions.invoke<{ ok?: boolean; error?: string; emailSent?: boolean }>("admin-create-user", { body: input });
+  if (error) throw new Error(await functionErrorMessage(error, "Couldn't create the account. Try again."));
   if (!data?.ok) throw new Error(data?.error ?? "Couldn't create the account. Try again.");
+  return { emailSent: Boolean(data.emailSent) };
+}
+
+export type NotifyAction =
+  | { action: "test" }
+  | { action: "role_granted"; userId: string }
+  | { action: "role_revoked"; userId: string }
+  | { action: "episode_released"; episodeId: string };
+
+export interface NotifyResult {
+  sent: number;
+  to?: string;
+}
+
+/** Sends an admin system email through the `admin-notify` function. */
+export async function sendAdminNotification(payload: NotifyAction): Promise<NotifyResult> {
+  const { data, error } = await supabase.functions.invoke<{ ok?: boolean; sent?: number; to?: string; error?: string }>("admin-notify", { body: payload });
+  if (error) throw new Error(await functionErrorMessage(error, "Couldn't send the email."));
+  if (!data?.ok) throw new Error(data?.error ?? "Couldn't send the email.");
+  return { sent: data.sent ?? 0, to: data.to };
+}
+
+/** Fire-and-forget variant for notifications that must never block an admin action. */
+export function notifyQuietly(payload: NotifyAction): void {
+  sendAdminNotification(payload).catch((err: unknown) => {
+    console.warn("[admin] notification skipped:", err instanceof Error ? err.message : "unknown");
+  });
+}
+
+/** Whether the transactional email sender is configured on the server. */
+export async function fetchEmailStatus(): Promise<boolean> {
+  const { data, error } = await supabase.functions.invoke<{ ok?: boolean; configured?: boolean }>("admin-notify", { body: { action: "status" } });
+  if (error) throw new Error(await functionErrorMessage(error, "Couldn't check email status."));
+  return Boolean(data?.configured);
 }
 
 /** "in 3 days", "2h ago", or a date for anything older than a week. */
