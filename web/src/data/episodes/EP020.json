@@ -1,0 +1,1535 @@
+{
+  "episodeId": "EP020",
+  "title": "The 2000s Turn",
+  "theme": "Same soul, new software. Alicia Keys, Beyoncé's solo launch, Usher's Confessions, and the acts who redefined R&B for the second decade.",
+  "narrativePurpose": "Test knowledge of the early-2000s R&B wave — the albums, singles, producers, and label infrastructure that built the second generation of the genre's commercial peak.",
+  "toneProgression": "Albums and breakthrough singles → producers, labels, and chart stats → debut album connections, label history, and birth names",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 2-0-0-4 — the year the decade stopped borrowing from the 90s and built its own sound. Usher's Confessions, Ciara's crunk & B debut, John Legend's Get Lifted, and Mario's Let Me Love You arrived within twelve months of each other."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The albums and breakthrough singles that defined R&B's second wave. If you were listening to the radio between 2001 and 2006, you know all of these.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP020-R1-Q1",
+          "episodeId": "EP020",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Usher's 2004 mega-album — which produced 'Yeah!', 'Burn', and 'Confessions Pt. II' — was titled what?",
+          "choices": [
+            "Raymond v. Raymond",
+            "Confessions",
+            "8701",
+            "Here I Stand"
+          ],
+          "correctIndex": 1,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Usher",
+            "song": null,
+            "album": "Confessions",
+            "year": 2004,
+            "topicTags": [
+              "Usher",
+              "Confessions",
+              "2004",
+              "Arista Records",
+              "album"
+            ],
+            "fact": "'Confessions' debuted at #1 on the Billboard 200 in 2004 and went on to sell over ten million copies in the US alone — becoming the best-selling R&B album of the decade. Its combination of club bangers and raw ballads represented the fullest articulation of early-2000s R&B's sonic range.",
+            "storyHook": "The album that had two completely different moods and somehow made both of them work at the same time. 'Yeah!' and 'Burn' are not the same song, and they both hit #1.",
+            "sourceNotes": "Confessions liner notes (Arista/LaFace Records, 2004). Billboard 200 chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Billboard",
+                "url": "https://www.billboard.com/music/chart-beat/usher-confessions-2004-chart-rewind-1235653042/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R1-Q2",
+          "episodeId": "EP020",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Alicia Keys' debut album — released in 2001 and opening with that instantly recognizable piano intro — was titled what?",
+          "choices": [
+            "As I Am",
+            "Girl on Fire",
+            "The Diary of Alicia Keys",
+            "Songs in A Minor"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Alicia Keys",
+            "song": null,
+            "album": "Songs in A Minor",
+            "year": 2001,
+            "topicTags": [
+              "Alicia Keys",
+              "Songs in A Minor",
+              "2001",
+              "J Records",
+              "debut album"
+            ],
+            "fact": "'Songs in A Minor' debuted at #1 on the Billboard 200 in June 2001 and sold 236,000 copies in its first week — a new first-week sales record for a debut album at the time. Its piano-driven production and Keys's gospel-rooted vocal style introduced a sound that had no exact precedent in contemporary R&B.",
+            "storyHook": "Piano-driven R&B at a time when the genre was running away from acoustic instruments. Alicia Keys walked toward them and broke a first-week sales record.",
+            "sourceNotes": "Songs in A Minor liner notes (J Records, 2001). Billboard 200 chart archives. First-week sales documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/album/songs-in-a-minor-mw0000588149",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R1-Q3",
+          "episodeId": "EP020",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Beyoncé's first solo album — released in 2003 while Destiny's Child was on hiatus — was titled what?",
+          "choices": [
+            "Lemonade",
+            "B'Day",
+            "Dangerously in Love",
+            "4"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Beyoncé",
+            "song": null,
+            "album": "Dangerously in Love",
+            "year": 2003,
+            "topicTags": [
+              "Beyoncé",
+              "Dangerously in Love",
+              "2003",
+              "Columbia Records",
+              "solo debut"
+            ],
+            "fact": "'Dangerously in Love' debuted at #1 on the Billboard 200 in 2003 and won five Grammy Awards at the 46th ceremony in 2004 — including Best Contemporary R&B Album. Beyoncé's five wins that night tied the record for most Grammy Awards won by a female artist in a single ceremony, a milestone that announced the full scale of her solo commercial power.",
+            "storyHook": "The question going into 2003 was whether Beyoncé could carry a record on her own. The album debuted at #1 and won five Grammys. The question was answered.",
+            "sourceNotes": "Dangerously in Love liner notes (Columbia Records, 2003). Billboard 200 chart archives. Grammy Award records (46th ceremony, 2004). Grammy record documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Grammy.com",
+                "url": "https://www.grammy.com/news/beyonce-dangerously-in-love-debut-album-anniversary",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R1-Q4",
+          "episodeId": "EP020",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Ciara's 2004 debut single — which introduced the 'crunk & B' sound to mainstream R&B radio — was titled what?",
+          "choices": [
+            "Oh",
+            "1, 2 Step",
+            "Promise",
+            "Goodies"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ciara",
+            "song": "Goodies",
+            "album": "Goodies",
+            "year": 2004,
+            "topicTags": [
+              "Ciara",
+              "Goodies",
+              "2004",
+              "LaFace Records",
+              "crunk and B",
+              "debut single"
+            ],
+            "fact": "'Goodies' spent seven weeks at #1 on the Billboard Hot 100 in 2004 and introduced Ciara as the defining female voice of crunk & B — the Atlanta-born fusion of crunk production and traditional R&B melody. The song's combination of Lil Jon's production aesthetic with Ciara's singing and dancing created a sound that dominated radio for the next two years.",
+            "storyHook": "The Atlanta sound, the crunk production, the R&B voice — Ciara fused all three in her debut single and spent seven weeks at #1. The 'crunk & B' era had a face.",
+            "sourceNotes": "Goodies album liner notes (LaFace Records, 2004). Billboard Hot 100 chart archives. AllMusic editorial.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/42100-Ciara-Goodies",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R1-Q5",
+          "episodeId": "EP020",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Mario's 2004 ballad — one of the longest-running number-one hits of the decade — was titled what?",
+          "choices": [
+            "Music",
+            "Let Me Love You",
+            "How Do I Breathe",
+            "Just a Friend 2002"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mario",
+            "song": "Let Me Love You",
+            "album": "Turning Point",
+            "year": 2004,
+            "topicTags": [
+              "Mario",
+              "Let Me Love You",
+              "2004",
+              "J Records",
+              "Hot 100",
+              "ballad"
+            ],
+            "fact": "'Let Me Love You' spent nine weeks at #1 on the Billboard Hot 100 in late 2004 and early 2005 — one of the longest chart runs of the decade for an R&B ballad. Its Scott Storch production and Mario's teenage vocal clarity made it one of the cleanest-sounding records of the era.",
+            "storyHook": "Nine weeks at #1. A teenager singing a ballad about being better than her current man. The formula was not complicated. It worked anyway.",
+            "sourceNotes": "Turning Point liner notes (J Records, 2004). Billboard Hot 100 chart archives. AllMusic editorial.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/135319-Mario-Let-Me-Love-You",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R1-Q6",
+          "episodeId": "EP020",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "John Legend's 2004 debut album — which won the Grammy for Best R&B Album — was titled what?",
+          "choices": [
+            "Evolver",
+            "Get Lifted",
+            "Once Again",
+            "Love in the Future"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "John Legend",
+            "song": null,
+            "album": "Get Lifted",
+            "year": 2004,
+            "topicTags": [
+              "John Legend",
+              "Get Lifted",
+              "2004",
+              "GOOD Music",
+              "Columbia Records",
+              "Grammy"
+            ],
+            "fact": "'Get Lifted' was released on Kanye West's GOOD Music imprint through Columbia Records in December 2004 and won three Grammy Awards — including Best R&B Album and Best New Artist — at the 48th ceremony in 2006. John Legend's piano-driven soul approach drew heavily from gospel and classic soul traditions while inhabiting a distinctly contemporary production landscape.",
+            "storyHook": "Kanye West signed him. Columbia Records distributed him. The Grammy voters gave him Best New Artist. John Legend arrived fully formed.",
+            "sourceNotes": "Get Lifted liner notes (GOOD Music/Columbia, 2004). Grammy Award records (48th ceremony, 2006). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Grammy.com",
+                "url": "https://www.grammy.com/awards/48th-annual-grammy-awards",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R1-B1",
+          "episodeId": "EP020",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Beyoncé's first solo single — the lead track from 'Dangerously in Love' — was titled what?",
+          "choices": [
+            "Crazy in Love",
+            "Irreplaceable",
+            "Halo",
+            "Single Ladies"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "2",
+            "bonusHint": "DIGIT 1 OF 3 — BEYONCÉ'S FIRST SOLO SINGLE TITLE"
+          },
+          "metadata": {
+            "artist": "Beyoncé",
+            "song": "Crazy in Love",
+            "album": "Dangerously in Love",
+            "year": 2003,
+            "topicTags": [
+              "Beyoncé",
+              "Crazy in Love",
+              "solo debut single",
+              "2003",
+              "Columbia Records",
+              "bonus digit"
+            ],
+            "fact": "'Crazy in Love' debuted at #1 on the Billboard Hot 100 in June 2003 and became the defining pop moment of Beyoncé's solo launch — its Chi-Lites sample, horn stabs, and the memorable Jay-Z rap verse announced her solo era with maximum commercial impact.",
+            "storyHook": "The horn stabs. The hair flip. The bridge. 'Crazy in Love' was not a tentative debut single. It was a declaration.",
+            "sourceNotes": "Dangerously in Love liner notes (Columbia Records, 2003). Billboard Hot 100 chart archives. Chi-Lites sample clearance documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Billboard",
+                "url": "https://www.billboard.com/lists/beyonce-billboard-hot-100-top-10s-list/03-bonnie-clyde/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP020-R1-RES1",
+          "episodeId": "EP020",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "'Get Lifted' won which Grammy Award at the 48th ceremony — confirming John Legend as the defining new R&B voice of the mid-2000s?",
+          "choices": [
+            "Best R&B Album",
+            "Best R&B Song",
+            "Best New Artist",
+            "Album of the Year"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "John Legend",
+            "song": null,
+            "album": "Get Lifted",
+            "year": 2006,
+            "topicTags": [
+              "John Legend",
+              "Get Lifted",
+              "Grammy",
+              "Best R&B Album",
+              "48th Grammy Awards",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "48th Grammy Award records (2006). Grammy.com official database.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Grammy.com",
+                "url": "https://www.grammy.com/awards/48th-annual-grammy-awards",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R1-RES2",
+          "episodeId": "EP020",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Alicia Keys — who grew up studying classical piano — was born in which New York City borough?",
+          "choices": [
+            "Brooklyn",
+            "Manhattan",
+            "Queens",
+            "The Bronx"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Alicia Keys",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Alicia Keys",
+              "Manhattan",
+              "New York",
+              "birthplace",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Alicia Keys official biography. J Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/name/nm1006024/bio/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R1-RES3",
+          "episodeId": "EP020",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Ne-Yo's 2006 debut album — which contained the chart-topping ballad 'So Sick' — was titled what?",
+          "choices": [
+            "Because of You",
+            "Year of the Gentleman",
+            "Libra Scale",
+            "In My Own Words"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ne-Yo",
+            "song": "So Sick",
+            "album": "In My Own Words",
+            "year": 2006,
+            "topicTags": [
+              "Ne-Yo",
+              "In My Own Words",
+              "So Sick",
+              "2006",
+              "Def Jam",
+              "debut album",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "In My Own Words liner notes (Def Jam, 2006). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/155899-Ne-Yo-In-My-Own-Words",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R1-RES4",
+          "episodeId": "EP020",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Ciara's debut single 'Goodies' featured which North Carolina rapper — best known for his own 2001 hit 'Raise Up'?",
+          "choices": [
+            "Rapsody",
+            "Little Brother",
+            "Petey Pablo",
+            "J. Cole"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ciara",
+            "song": "Goodies",
+            "album": "Goodies",
+            "year": 2004,
+            "topicTags": [
+              "Ciara",
+              "Goodies",
+              "Petey Pablo",
+              "North Carolina",
+              "feature",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Goodies liner notes (LaFace Records, 2004). Petey Pablo discography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Billboard",
+                "url": "https://www.billboard.com/music/music-news/ciaras-goodies-climbs-to-no-1-66659/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Producers, labels, chart stats, and the behind-the-scenes infrastructure that built the 2000s R&B sound.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP020-R2-Q1",
+          "episodeId": "EP020",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Before releasing 'Get Lifted,' John Legend served as a background vocalist and session pianist on the early albums of which rapper — who later signed him to his label?",
+          "choices": [
+            "Common",
+            "Talib Kweli",
+            "Mos Def",
+            "Kanye West"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "John Legend",
+            "song": null,
+            "album": "Get Lifted",
+            "year": 2004,
+            "topicTags": [
+              "John Legend",
+              "Kanye West",
+              "GOOD Music",
+              "College Dropout",
+              "session musician",
+              "background vocals"
+            ],
+            "fact": "John Legend sang background vocals and played piano on Kanye West's debut 'The College Dropout' (2004) and 'Late Registration' (2005) before Kanye signed him to GOOD Music and co-executive produced 'Get Lifted.' Their creative partnership was one of the defining collaborations of mid-2000s R&B and hip-hop.",
+            "storyHook": "He was in the room before his own name was on the door. By the time 'Get Lifted' came out, Kanye West had already put him on two albums.",
+            "sourceNotes": "The College Dropout and Late Registration production credits (Roc-A-Fella/Def Jam, 2004-2005). Get Lifted liner notes (GOOD Music/Columbia, 2004). John Legend biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/release/17010786-Kanye-West-The-College-Dropout",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R2-Q2",
+          "episodeId": "EP020",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Usher's 'Yeah!' — featuring Lil Jon and Ludacris — spent how many consecutive weeks at #1 on the Billboard Hot 100 in 2004?",
+          "choices": [
+            "7",
+            "12",
+            "9",
+            "15"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Usher",
+            "song": "Yeah!",
+            "album": "Confessions",
+            "year": 2004,
+            "topicTags": [
+              "Usher",
+              "Yeah!",
+              "Lil Jon",
+              "Ludacris",
+              "Billboard Hot 100",
+              "12 weeks",
+              "chart"
+            ],
+            "fact": "'Yeah!' spent twelve consecutive weeks at #1 on the Billboard Hot 100 in 2004 — one of the longest chart runs of the decade. Produced by Lil Jon, it fused the crunk production aesthetic with Usher's smooth R&B delivery and Ludacris's comic-book rapper energy, creating one of the decade's most unlikely but undeniable crossover combinations.",
+            "storyHook": "Lil Jon produced it. Ludacris rapped on it. Usher sang on it. Twelve weeks at #1. Nobody asked for that combination and nobody could stop listening to it.",
+            "sourceNotes": "Billboard Hot 100 chart archives (2004). Confessions liner notes (Arista/LaFace, 2004). RIAA chart documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Billboard",
+                "url": "https://www.billboard.com/lists/usher-biggest-billboard-hot-100-hit-songs/yeah-feat-lil-jon-ludacris/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R2-Q3",
+          "episodeId": "EP020",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Ne-Yo's debut single 'So Sick' — a song about being unable to escape a breakup — reached #1 on the Billboard Hot 100 in which year?",
+          "choices": [
+            "2004",
+            "2005",
+            "2006",
+            "2007"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ne-Yo",
+            "song": "So Sick",
+            "album": "In My Own Words",
+            "year": 2006,
+            "topicTags": [
+              "Ne-Yo",
+              "So Sick",
+              "2006",
+              "Def Jam",
+              "#1",
+              "Billboard Hot 100"
+            ],
+            "fact": "'So Sick' reached #1 on the Billboard Hot 100 in March 2006 — Ne-Yo's debut single introduced a new template for 2000s R&B balladry, combining self-aware emotional precision with a production simplicity that made it stand apart from the maximalist crunk-influenced sound dominating radio at the time.",
+            "storyHook": "A quiet ballad about being tired of love songs, released during the loudest period of 2000s R&B. It went to #1 anyway.",
+            "sourceNotes": "Billboard Hot 100 chart archives (2006). In My Own Words liner notes (Def Jam, 2006). AllMusic editorial.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Billboard",
+                "url": "https://www.billboard.com/music/music-news/ne-yo-completes-chart-takeover-with-so-sick-59446/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R2-Q4",
+          "episodeId": "EP020",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Mario's 'Let Me Love You' was produced by which Toronto-born hitmaker who dominated mid-2000s R&B and hip-hop production?",
+          "choices": [
+            "Scott Storch",
+            "Timbaland",
+            "Pharrell Williams",
+            "Kanye West"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mario",
+            "song": "Let Me Love You",
+            "album": "Turning Point",
+            "year": 2004,
+            "topicTags": [
+              "Mario",
+              "Let Me Love You",
+              "Scott Storch",
+              "Ne-Yo",
+              "producer",
+              "Toronto",
+              "co-writer",
+              "mid-2000s"
+            ],
+            "fact": "Scott Storch produced 'Let Me Love You' — and the song was co-written by a then-unknown Shaffer Chimere Smith, who would release his own debut under the name Ne-Yo just one year later. The writing credit meant that Ne-Yo had a song spending nine weeks at #1 on the Hot 100 before anyone outside the industry knew his name — one of the more unusual pre-fame footprints in 2000s R&B.",
+            "storyHook": "Toronto-raised. Philadelphia-born. Produced half the hits on the radio in 2004. Scott Storch's fingerprints are on more of the decade's R&B than most people realize.",
+            "sourceNotes": "Turning Point production and writing credits (J Records, 2004). Ne-Yo ASCAP songwriting documentation. Scott Storch biographical records. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "ASCAP",
+                "url": "https://www.ascap.com/playback/2005/fall/features/storch",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R2-Q5",
+          "episodeId": "EP020",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "John Legend's 'Get Lifted' was released on which Kanye West-founded label imprint — putting R&B in the same house as hip-hop's most self-conscious auteur?",
+          "choices": [
+            "Interscope Records",
+            "Def Jam",
+            "GOOD Music",
+            "Roc-A-Fella Records"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "John Legend",
+            "song": null,
+            "album": "Get Lifted",
+            "year": 2004,
+            "topicTags": [
+              "John Legend",
+              "GOOD Music",
+              "Kanye West",
+              "Get Lifted",
+              "Columbia Records",
+              "label imprint"
+            ],
+            "fact": "GOOD Music — Kanye West's label imprint, distributed through Columbia Records — was home to John Legend for the early phase of his career. The signing reflected Kanye's deliberate effort to build a roster that crossed genre lines, pairing soul-oriented R&B with his own experimental hip-hop aesthetic.",
+            "storyHook": "Kanye West's label. John Legend's album. The two most self-serious artists in their respective lanes, working together. It produced three Grammy wins.",
+            "sourceNotes": "Get Lifted liner notes (GOOD Music/Columbia, 2004). GOOD Music label history. Grammy Award records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/name/nm1775466/bio/?ref_=nm_ov_ql_1",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R2-B1",
+          "episodeId": "EP020",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Mario's 'Let Me Love You' spent how many weeks at #1 on the Billboard Hot 100 — making it one of the longest-running chart-toppers of the mid-2000s?",
+          "choices": [
+            "7",
+            "5",
+            "9",
+            "12"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 2 OF 3 — WEEKS LET ME LOVE YOU SPENT AT NUMBER ONE"
+          },
+          "metadata": {
+            "artist": "Mario",
+            "song": "Let Me Love You",
+            "album": "Turning Point",
+            "year": 2004,
+            "topicTags": [
+              "Mario",
+              "Let Me Love You",
+              "9 weeks",
+              "Billboard Hot 100",
+              "#1",
+              "chart",
+              "bonus digit"
+            ],
+            "fact": "'Let Me Love You' spent nine weeks at #1 on the Billboard Hot 100 between late 2004 and early 2005 — Scott Storch's production and Mario's teenage vocal performance made the song one of the most ubiquitous R&B ballads of the decade.",
+            "storyHook": "Nine weeks. A teenager. A ballad. Nine weeks.",
+            "sourceNotes": "Billboard Hot 100 chart archives (2004-2005). J Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Billboard",
+                "url": "https://www.billboard.com/music/rb-hip-hop/mario-scott-storch-let-me-love-you-15th-anniversary-re-release-interview-8550946/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP020-R2-RES1",
+          "episodeId": "EP020",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Alicia Keys' ‘Fallin’’ won multiple Grammys at the 44th Grammy Awards, including one outside the R&B field. What was the non-R&B category?",
+          "choices": [
+            "Song of the Year",
+            "Best R&B Song",
+            "Record of the Year",
+            "Best New Artist"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Alicia Keys",
+            "song": "Fallin'",
+            "album": "Songs in A Minor",
+            "year": 2002,
+            "topicTags": [
+              "Alicia Keys",
+              "Fallin'",
+              "Song of the Year",
+              "Grammy",
+              "44th Grammy Awards",
+              "swap reserve"
+            ],
+            "fact": "Alicia Keys won five Grammy Awards at the 44th ceremony in 2002, including Song of the Year for 'Fallin'' and Best New Artist — making her the most-awarded artist of that Grammy night and one of the most decorated debut artists in Grammy history.",
+            "storyHook": "",
+            "sourceNotes": "44th Grammy Award records (2002). Grammy.com official database. Recording Academy archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Grammy.com",
+                "url": "https://www.grammy.com/awards/44th-annual-grammy-awards",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R2-RES2",
+          "episodeId": "EP020",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Ne-Yo — born in Camden, Arkansas — was primarily raised in which Nevada city before relocating to pursue his music career?",
+          "choices": [
+            "Carson City",
+            "Reno",
+            "Henderson",
+            "Las Vegas"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ne-Yo",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Ne-Yo",
+              "Las Vegas",
+              "Nevada",
+              "origin",
+              "Camden",
+              "Arkansas",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Ne-Yo official biography. Def Jam Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/artist/ne-yo-mn0000846634#biography",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R2-RES3",
+          "episodeId": "EP020",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Ciara's 2004 debut single 'Goodies' — which introduced the crunk & B sound to mainstream radio — was produced by which Atlanta hitmaker?",
+          "choices": [
+            "Scott Storch",
+            "Lil Jon",
+            "Jermaine Dupri",
+            "Timbaland"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ciara",
+            "song": "Goodies",
+            "album": "Goodies",
+            "year": 2004,
+            "topicTags": [
+              "Ciara",
+              "Goodies",
+              "Lil Jon",
+              "crunk & B",
+              "producer",
+              "2004",
+              "Atlanta"
+            ],
+            "fact": "Lil Jon produced Ciara's debut single 'Goodies' (2004) — bringing his crunk energy to an R&B context and helping coin the 'crunk & B' genre label. The production was central to what made the track distinctive: the combination of hard Atlanta drums with Ciara's smooth delivery.",
+            "storyHook": "The crunk sound found a new lane. Lil Jon built the beat. Ciara introduced herself to the world on top of it.",
+            "sourceNotes": "PRIORITY VERIFY: Confirm Lil Jon produced Ciara's 'Goodies.' Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Goodies (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Goodies_(song)",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "Goodies (Ciara album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Goodies_(Ciara_album)",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "Goodies Lyrics — Ciara – Dork",
+                "url": "https://readdork.com/lyrics/ciara-goodies-2004",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-18",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Debut album connections, label history, and the birth names behind the 2000s R&B wave.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP020-R3-Q1",
+          "episodeId": "EP020",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Before 'Get Lifted,' John Legend sang background vocals and played piano on which Kanye West debut album — his most prominent pre-fame recording credit?",
+          "choices": [
+            "Graduation",
+            "808s & Heartbreak",
+            "The College Dropout",
+            "Late Registration"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "John Legend",
+            "song": null,
+            "album": "The College Dropout",
+            "year": 2004,
+            "topicTags": [
+              "John Legend",
+              "The College Dropout",
+              "Kanye West",
+              "background vocals",
+              "session work",
+              "pre-fame"
+            ],
+            "fact": "John Legend contributed background vocals and piano to 'The College Dropout' in 2004 — the same year his own 'Get Lifted' was released. The two albums came out within months of each other, and both charted simultaneously, creating an unusual moment where a session musician and his patron were competing for the same radio real estate.",
+            "storyHook": "He played piano on Kanye's debut and released his own debut in the same year. Two albums. Same fingerprints. Different names on the cover.",
+            "sourceNotes": "The College Dropout production and vocal credits (Roc-A-Fella/Def Jam, 2004). Get Lifted liner notes (GOOD Music/Columbia, 2004). John Legend biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/release/17010786-Kanye-West-The-College-Dropout",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R3-Q2",
+          "episodeId": "EP020",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "'Songs in A Minor' was released on which Clive Davis label imprint — the one he founded after departing Arista Records in 2000?",
+          "choices": [
+            "Jive Records",
+            "LaFace Records",
+            "J Records",
+            "Arista Records"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Alicia Keys",
+            "song": null,
+            "album": "Songs in A Minor",
+            "year": 2001,
+            "topicTags": [
+              "Alicia Keys",
+              "Songs in A Minor",
+              "J Records",
+              "Clive Davis",
+              "label history",
+              "2001"
+            ],
+            "fact": "Clive Davis founded J Records in 2000 after his contentious departure from Arista Records — Alicia Keys was among the label's founding artists. J Records was distributed by BMG and quickly established itself as a commercial force with Keys's debut album as its flagship release. Davis later folded J Records back into the Sony/BMG infrastructure, but not before shaping the early careers of Keys and several other major 2000s R&B artists.",
+            "storyHook": "Clive Davis left Arista. Started a new label. Made Alicia Keys his first big bet. The bet paid off before the year was out.",
+            "sourceNotes": "Songs in A Minor liner notes (J Records, 2001). J Records label history documentation. Clive Davis biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/artist/alicia-keys-mn0000005307#biography",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R3-B1",
+          "episodeId": "EP020",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Mario's 'Let Me Love You' appeared on which 2004 album — his second release, not his debut?",
+          "choices": [
+            "Go!",
+            "Mario",
+            "Turning Point",
+            "D.N.A."
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 3 OF 3 — THE ALBUM THAT CONTAINED LET ME LOVE YOU"
+          },
+          "metadata": {
+            "artist": "Mario",
+            "song": "Let Me Love You",
+            "album": "Turning Point",
+            "year": 2004,
+            "topicTags": [
+              "Mario",
+              "Turning Point",
+              "Let Me Love You",
+              "second album",
+              "J Records",
+              "bonus digit"
+            ],
+            "fact": "'Turning Point' was Mario's second album — his self-titled 2002 debut had established him as a teenage R&B presence, but it was 'Turning Point' that delivered the career-defining single. The album's title proved prophunctual: 'Let Me Love You' changed the commercial trajectory of his career completely.",
+            "storyHook": "Second album. Biggest hit. The turning point was the title. It was also the actual turning point.",
+            "sourceNotes": "Turning Point liner notes (J Records, 2004). Mario official discography. Billboard chart documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/210689-Mario-Turning-Point",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP020-R3-RES1",
+          "episodeId": "EP020",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Born Alicia Augello Cook, this Grammy-winning singer adopted a stage name that dropped both of her birth surnames. What stage name is she known by?",
+          "choices": [
+            "Alicia Keys",
+            "Alicia Cook",
+            "Alicia Augello",
+            "Alicia Crawford"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Alicia Keys",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Alicia Keys",
+              "Cook",
+              "birth name",
+              "Alicia Augello Cook",
+              "stage name",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Alicia Keys official biography. J Records press materials. Birth records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Alicia Keys Official YouTube",
+                "url": "https://youtu.be/aNIYslcFv2c?si=S2uLzKtH7UHvIJti (17:22 — Choosing A Name)",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP020-R3-RES2",
+          "episodeId": "EP020",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Chris Brown's 2005 debut single — which introduced him as the next generation of R&B and peaked at #1 on the Hot 100 — was titled what?",
+          "choices": [
+            "With You",
+            "Yo (Excuse Me Miss)",
+            "Gimme That",
+            "Run It!"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Chris Brown",
+            "song": "Run It!",
+            "album": "Chris Brown",
+            "year": 2005,
+            "topicTags": [
+              "Chris Brown",
+              "Run It!",
+              "2005",
+              "Jive Records",
+              "debut single",
+              "#1",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Chris Brown liner notes (Jive Records, 2005). Billboard Hot 100 chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/artist/chris-brown-mn0000266063#biography",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-18T18:55:32.407926+00:00"
+  }
+}

@@ -1,0 +1,1547 @@
+{
+  "episodeId": "EP050",
+  "title": "The Boutique Boom",
+  "theme": "Between 1991 and 1998, major record labels handed boutique imprint deals and soundtrack budgets to anyone who could fuse a hip-hop breakbeat with gospel-trained vocals. Soundtracks became low-risk testing grounds to break new acts without committing to a full album. The result was a glorious, high-gloss ecosystem of imprint infrastructure and One-Hit Royalty.",
+  "narrativePurpose": "Trace the boutique imprint model from its blueprint at Uptown Records through the founding of Bad Boy, LaFace, So So Def, and Flavor Unit — and the film soundtracks that served as the era's commercial launching pads.",
+  "toneProgression": "The hits and films that defined the era → the label infrastructure and key figures who built it → the archival connections hiding inside the boutique boom's most celebrated moments",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "3"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-3 — the year Puff Daddy left Uptown Records and founded Bad Boy Entertainment, Janet Jackson's 'Again' dominated from the Poetic Justice soundtrack, and the boutique imprint model locked in as the dominant commercial architecture of 1990s R&B. 1993: the year the ecosystem solidified."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The hits and films that defined the boutique boom and the soundtrack era.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP050-R1-Q1",
+          "episodeId": "EP050",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The New Jack City (1991) soundtrack launched the boutique era with a monster hit — which Color Me Badd single became one of the biggest R&B records of 1991?",
+          "choices": [
+            "I Need Love",
+            "New Jack City",
+            "My Eternal",
+            "I Wanna Sex You Up"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-song-i-wanna-sex-you-up-color-me-badd-new-jack-city-soundtrack-1991",
+            "artist": "Color Me Badd",
+            "song": "I Wanna Sex You Up",
+            "album": "New Jack City (soundtrack)",
+            "year": 1991,
+            "topicTags": [
+              "Color Me Badd",
+              "I Wanna Sex You Up",
+              "New Jack City",
+              "soundtrack",
+              "1991",
+              "boutique era"
+            ],
+            "fact": "'I Wanna Sex You Up' by Color Me Badd appeared on the New Jack City soundtrack and became one of the biggest R&B crossover hits of 1991 — an early marker of the boutique-era soundtrack model in action.",
+            "storyHook": "'I Wanna Sex You Up.' 1991. The New Jack City soundtrack. The boutique era didn't announce itself — it just turned up the volume.",
+            "sourceNotes": "Verified: 'I Wanna Sex You Up' appeared on the New Jack City soundtrack. Sources: Apple Music https://music.apple.com/us/album/new-jack-city-music-from-the-motion-picture/331059476, Wikipedia https://en.wikipedia.org/wiki/New_Jack_City_(soundtrack)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "New Jack City (Music from the Motion Picture) – Apple Music",
+                "url": "https://music.apple.com/us/album/new-jack-city-music-from-the-motion-picture/331059476",
+                "accessed": "2026-06-07"
+              },
+              {
+                "title": "New Jack City (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/New_Jack_City_(soundtrack)",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R1-Q2",
+          "episodeId": "EP050",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Poetic Justice (1993) — featuring Janet Jackson's soundtrack hit 'Again' — was directed by which Oscar-nominated filmmaker?",
+          "choices": [
+            "John Singleton",
+            "Mario Van Peebles",
+            "F. Gary Gray",
+            "Spike Lee"
+          ],
+          "correctIndex": 0,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-film-poetic-justice-1993-john-singleton-director",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "John Singleton",
+              "Poetic Justice",
+              "Janet Jackson",
+              "1993",
+              "director",
+              "soundtrack"
+            ],
+            "fact": "John Singleton directed Poetic Justice (1993) — the film that starred Janet Jackson and Tupac Shakur and produced the era-defining soundtrack hit 'Again.' Singleton had become the youngest director ever nominated for the Academy Award for Best Director for Boyz n the Hood.",
+            "storyHook": "John Singleton. From Boyz n the Hood to Poetic Justice. He turned a film about love letters and barbershops into one of the boutique era's defining cultural events.",
+            "sourceNotes": "Verified: John Singleton directed Poetic Justice (1993). Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Poetic Justice – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Poetic_Justice_(film)",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "film",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R1-Q3",
+          "episodeId": "EP050",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Uptown Records — the boutique imprint that pioneered the hip-hop/R&B fusion sound and launched Mary J. Blige and Jodeci — was founded by which music executive?",
+          "choices": [
+            "Berry Gordy",
+            "Andre Harrell",
+            "Russell Simmons",
+            "Sean Combs"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-label-uptown-records-andre-harrell-founder-mca-distribution",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1986,
+            "topicTags": [
+              "Andre Harrell",
+              "Uptown Records",
+              "MCA",
+              "Mary J. Blige",
+              "Jodeci",
+              "boutique imprint"
+            ],
+            "fact": "Andre Harrell founded Uptown Records in 1986 as a joint venture with MCA Records. The label's pairing of gospel-reared vocalists with hip-hop production became the blueprint for the boutique era.",
+            "storyHook": "Andre Harrell built Uptown Records and handed the boutique era its blueprint. Without Uptown, there is no Bad Boy. Without Bad Boy, the whole ecosystem looks different.",
+            "sourceNotes": "Verified: Andre Harrell founded Uptown Records as a joint venture with MCA. Source: Wikipedia https://en.wikipedia.org/wiki/Andre_Harrell",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Andre Harrell – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Andre_Harrell",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R1-Q4",
+          "episodeId": "EP050",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Puff Daddy departed Uptown Records and founded Bad Boy Entertainment in which year — the same year that became the boutique boom's defining turning point?",
+          "choices": [
+            "1993",
+            "1990",
+            "1992",
+            "1994"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-label-bad-boy-entertainment-founded-1993-puff-daddy-arista",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "Bad Boy Entertainment",
+              "Puff Daddy",
+              "Sean Combs",
+              "1993",
+              "Arista Records",
+              "boutique imprint"
+            ],
+            "fact": "Puff Daddy (Sean Combs) founded Bad Boy Entertainment in 1993 after leaving Uptown Records, signing a distribution deal with Arista Records and almost immediately signing The Notorious B.I.G.",
+            "storyHook": "1993. Puff Daddy left Uptown, founded Bad Boy, and signed Biggie. The boutique era had its new center of gravity.",
+            "sourceNotes": "Verified: Bad Boy Entertainment founded 1993, distributed by Arista. Source: Wikipedia https://en.wikipedia.org/wiki/Bad_Boy_Records",
+            "clipCue": "",
+            "hostNote": "Sean Combs has been subject to significant ongoing legal proceedings. The question addresses only the historical founding of Bad Boy Entertainment in 1993.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bad Boy Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bad_Boy_Records",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP050-R1-Q5",
+          "episodeId": "EP050",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "LaFace Records — the Atlanta boutique imprint home to TLC, Toni Braxton, and Usher — was co-founded by Babyface alongside which other music executive?",
+          "choices": [
+            "Clive Davis",
+            "Jimmy Jam",
+            "Teddy Riley",
+            "L.A. Reid"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-label-laface-records-la-reid-babyface-co-founders-atlanta-arista",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1989,
+            "topicTags": [
+              "LaFace Records",
+              "L.A. Reid",
+              "Babyface",
+              "Atlanta",
+              "Arista Records",
+              "boutique imprint",
+              "TLC",
+              "Toni Braxton"
+            ],
+            "fact": "L.A. Reid and Babyface co-founded LaFace Records in 1989, basing it in Atlanta with distribution through Arista — a decision that helped shift the center of gravity for R&B production from New York to the American South.",
+            "storyHook": "L.A. Reid and Babyface. Atlanta. LaFace Records. Before LaFace, the South was a market. After LaFace, the South was running the market.",
+            "sourceNotes": "Verified: L.A. Reid and Babyface co-founded LaFace Records. Source: Wikipedia https://en.wikipedia.org/wiki/LaFace_Records",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "LaFace Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/LaFace_Records",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R1-Q6",
+          "episodeId": "EP050",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Flavor Unit Entertainment — the boutique management and label venture that bridged hip-hop culture and R&B crossover appeal — was co-founded by which rapper, born Dana Owens?",
+          "choices": [
+            "Da Brat",
+            "Queen Latifah",
+            "MC Lyte",
+            "Missy Elliott"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-label-flavor-unit-entertainment-queen-latifah-dana-owens-shakim-compere",
+            "artist": "Queen Latifah",
+            "song": null,
+            "album": null,
+            "year": 1989,
+            "topicTags": [
+              "Queen Latifah",
+              "Flavor Unit",
+              "Dana Owens",
+              "Shakim Compere",
+              "boutique imprint",
+              "management"
+            ],
+            "fact": "Queen Latifah (born Dana Elaine Owens) co-founded Flavor Unit Entertainment with Shakim Compere in 1989 — originally as a record label and management company, expanding to become a multimedia production operation.",
+            "storyHook": "Dana Owens. Queen Latifah. Flavor Unit. She wasn't just an artist in the boutique era — she was building the infrastructure alongside everyone else.",
+            "sourceNotes": "Verified: Queen Latifah (Dana Owens) and Shakim Compere co-founded Flavor Unit in 1989. Source: Flavor Unit YouTube channel https://www.youtube.com/c/FlavorUnit",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Flavor Unit – YouTube channel/about",
+                "url": "https://www.youtube.com/c/FlavorUnit",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R1-B1",
+          "episodeId": "EP050",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "New Jack City (1991) — the film that anchored the boutique era's soundtrack model and starred Wesley Snipes as drug kingpin Nino Brown — was directed by which filmmaker?",
+          "choices": [
+            "John Singleton",
+            "Mario Van Peebles",
+            "F. Gary Gray",
+            "Spike Lee"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — NEW JACK CITY'S DIRECTOR"
+          },
+          "metadata": {
+            "factKey": "ep050-film-new-jack-city-mario-van-peebles-director-1991",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "Mario Van Peebles",
+              "New Jack City",
+              "1991",
+              "Wesley Snipes",
+              "director",
+              "soundtrack"
+            ],
+            "fact": "Mario Van Peebles directed New Jack City (1991) — the film that starred Wesley Snipes as Nino Brown and whose soundtrack became one of the boutique era's first major commercial proving grounds.",
+            "storyHook": "Mario Van Peebles. New Jack City. 1991. The film that set the template for a decade of soundtrack deals.",
+            "sourceNotes": "Verified: Mario Van Peebles directed New Jack City. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "New Jack City – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/New_Jack_City",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "film",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP050-R1-RES1",
+          "episodeId": "EP050",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "So So Def — Jermaine Dupri's Atlanta boutique imprint that launched Xscape and Da Brat — was distributed by which major label throughout its 1990s commercial peak?",
+          "choices": [
+            "Columbia Records",
+            "Epic",
+            "Atlantic",
+            "MCA"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-label-so-so-def-jermaine-dupri-columbia-records-distribution",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "So So Def",
+              "Jermaine Dupri",
+              "Columbia Records",
+              "Atlanta",
+              "boutique imprint",
+              "distribution"
+            ],
+            "fact": "So So Def Recordings had a distribution deal with Sony's Columbia Records through the 1990s — Jermaine Dupri's Atlanta imprint used that infrastructure to break Xscape, Da Brat, and later Jagged Edge.",
+            "storyHook": "Jermaine Dupri. So So Def. Columbia Records. Atlanta had two boutique powerhouses — LaFace and So So Def — and both were rewiring the sound of 1990s R&B.",
+            "sourceNotes": "Verified: So So Def distributed by Columbia Records. Source: Wikipedia https://en.wikipedia.org/wiki/So_So_Def_Recordings",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "So So Def Recordings – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/So_So_Def_Recordings",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R1-RES2",
+          "episodeId": "EP050",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Poetic Justice (1993) starred Janet Jackson alongside which rapper making one of his earliest and most celebrated film appearances?",
+          "choices": [
+            "Tupac Shakur",
+            "Method Man",
+            "Snoop Dogg",
+            "Ice Cube"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-film-poetic-justice-tupac-shakur-janet-jackson-1993",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "Tupac Shakur",
+              "Janet Jackson",
+              "Poetic Justice",
+              "1993",
+              "film"
+            ],
+            "fact": "Tupac Shakur starred opposite Janet Jackson in Poetic Justice — one of his most prominent early film roles, and a casting that made the film a cultural event well beyond its soundtrack.",
+            "storyHook": "Janet Jackson. Tupac Shakur. Poetic Justice. The boutique era had film stars, rap stars, and soundtrack hits — sometimes in the same movie.",
+            "sourceNotes": "Verified: Tupac Shakur starred in Poetic Justice alongside Janet Jackson. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Poetic Justice – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Poetic_Justice_(film)",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "film",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R1-RES3",
+          "episodeId": "EP050",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The boutique era's signature production style — New Jack Swing — was pioneered by which producer, whose fusion of hip-hop drum programming with R&B vocal arrangements defined the sound of the early 1990s?",
+          "choices": [
+            "Puff Daddy",
+            "Babyface",
+            "Timbaland",
+            "Teddy Riley"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-producer-teddy-riley-new-jack-swing-pioneer-hip-hop-rb-fusion",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1987,
+            "topicTags": [
+              "Teddy Riley",
+              "New Jack Swing",
+              "producer",
+              "hip-hop",
+              "R&B",
+              "boutique era"
+            ],
+            "fact": "Teddy Riley developed New Jack Swing in the mid-to-late 1980s — a production style defined by hard hip-hop drum programming layered with R&B melodic singing. It was the sonic foundation the boutique era built on.",
+            "storyHook": "Before the boutique labels had their imprint deals, Teddy Riley had already built the sound they were all going to use.",
+            "sourceNotes": "Verified: Teddy Riley pioneered New Jack Swing. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Teddy Riley – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Teddy_Riley",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R1-RES4",
+          "episodeId": "EP050",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Color Me Badd — whose 'I Wanna Sex You Up' appeared on the New Jack City soundtrack — formed in which American city?",
+          "choices": [
+            "New Orleans",
+            "Dallas",
+            "Houston",
+            "Oklahoma City"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-artist-color-me-badd-oklahoma-city-origin-northwest-classen-high-school",
+            "artist": "Color Me Badd",
+            "song": null,
+            "album": null,
+            "year": 1985,
+            "topicTags": [
+              "Color Me Badd",
+              "Oklahoma City",
+              "formation",
+              "New Jack City",
+              "boutique era"
+            ],
+            "fact": "Color Me Badd formed in Oklahoma City, Oklahoma in 1985 — the four members meeting at Northwest Classen High School. An unlikely origin for one of the boutique era's most commercially successful vocal groups.",
+            "storyHook": "Oklahoma City. Northwest Classen High School. 1985. Color Me Badd was the last place you'd expect the boutique era's most outrageous vocal group to come from.",
+            "sourceNotes": "Verified: Color Me Badd formed in Oklahoma City. Source: Wikipedia https://en.wikipedia.org/wiki/Color_Me_Badd",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Color Me Badd – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Color_Me_Badd",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The label infrastructure and key figures who built the boutique boom.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP050-R2-Q1",
+          "episodeId": "EP050",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Uptown Records — the boutique blueprint label that launched Mary J. Blige and Jodeci — was distributed throughout its commercial peak by which major label?",
+          "choices": [
+            "Columbia",
+            "Atlantic",
+            "MCA Records",
+            "Polygram"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-label-uptown-records-mca-distribution-joint-venture-1986",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1986,
+            "topicTags": [
+              "Uptown Records",
+              "MCA Records",
+              "Andre Harrell",
+              "distribution",
+              "boutique imprint"
+            ],
+            "fact": "Andre Harrell founded Uptown Records in a joint venture with MCA Records in 1986. MCA's distribution infrastructure gave Uptown national reach — enabling the label to break Mary J. Blige, Jodeci, and Heavy D & the Boyz.",
+            "storyHook": "Uptown Records. MCA distribution. The boutique model ran on infrastructure — Andre Harrell knew he needed a major label's reach to make his imprint work.",
+            "sourceNotes": "Verified: Uptown Records distributed by MCA. Source: Wikipedia https://en.wikipedia.org/wiki/Andre_Harrell",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Andre Harrell – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Andre_Harrell",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R2-Q2",
+          "episodeId": "EP050",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Before founding Bad Boy Entertainment, Puff Daddy briefly attended which historically Black university — dropping out in 1989 to pursue music industry opportunities?",
+          "choices": [
+            "Spelman College",
+            "Howard University",
+            "NYU",
+            "Hampton University"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-artist-puff-daddy-sean-combs-howard-university-dropped-out-1989",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1989,
+            "topicTags": [
+              "Puff Daddy",
+              "Sean Combs",
+              "Howard University",
+              "biography",
+              "Uptown Records"
+            ],
+            "fact": "Sean Combs dropped out of Howard University in 1989 — where he had been majoring in business — and became an intern at Uptown Records in New York, beginning the career that led to Bad Boy Entertainment.",
+            "storyHook": "Howard University. 1989. He was majoring in business. He dropped out to intern at a record label. The boutique era's most important dropout.",
+            "sourceNotes": "Verified: Sean Combs dropped out of Howard University in 1989 before interning at Uptown Records. Source: News4Buffalo repost https://www.facebook.com/news4buffalo/posts/870 NOTE: Sean Combs has been subject to significant ongoing federal legal proceedings. Question addresses only his 1989 university departure — unrelated to criminal matters.",
+            "clipCue": "",
+            "hostNote": "Sean Combs has been subject to significant ongoing federal legal proceedings. This question addresses only his historical university attendance in 1989 — host should be prepared for audience awareness of the current context.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Howard University is cutting ties to Sean 'Diddy' Combs – News4Buffalo repost",
+                "url": "https://www.facebook.com/news4buffalo/posts/870",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP050-R2-Q3",
+          "episodeId": "EP050",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "LaFace Records — co-founded by L.A. Reid and Babyface — was based in which city, helping shift the commercial center of R&B production from New York to the American South?",
+          "choices": [
+            "New York",
+            "Los Angeles",
+            "Atlanta",
+            "Detroit"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-label-laface-records-based-atlanta-georgia-arista-distribution",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1989,
+            "topicTags": [
+              "LaFace Records",
+              "Atlanta",
+              "L.A. Reid",
+              "Babyface",
+              "Arista Records",
+              "Southern R&B"
+            ],
+            "fact": "LaFace Records was based in Atlanta, Georgia — a strategic decision by L.A. Reid and Babyface that helped shift the center of 1990s R&B production from New York southward. Together with So So Def, LaFace made Atlanta the decade's dominant music city.",
+            "storyHook": "LaFace Records. Atlanta. 1989. By the end of the decade, Atlanta wasn't just an R&B market — it was running the genre.",
+            "sourceNotes": "Verified: LaFace Records based in Atlanta. Source: Wikipedia https://en.wikipedia.org/wiki/LaFace_Records",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "LaFace Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/LaFace_Records",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R2-Q4",
+          "episodeId": "EP050",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Andre Harrell — who founded Uptown Records — had previously risen to vice president and general manager at which pioneering hip-hop label before striking out to build his own boutique operation?",
+          "choices": [
+            "Atlantic",
+            "Uptown",
+            "Def Jam",
+            "Motown"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-label-andre-harrell-def-jam-vp-gm-before-uptown-russell-simmons",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1983,
+            "topicTags": [
+              "Andre Harrell",
+              "Def Jam",
+              "Russell Simmons",
+              "Uptown Records",
+              "biography",
+              "executive"
+            ],
+            "fact": "Andre Harrell met Russell Simmons in 1983, joined Def Jam Recordings, and became vice president and general manager within two years. In 1986, when MCA offered him his own label deal, he left Def Jam to found Uptown Records.",
+            "storyHook": "Andre Harrell learned the business at Def Jam. Then he took everything he learned and built Uptown. That's how the blueprint gets written.",
+            "sourceNotes": "Verified: Andre Harrell worked at Def Jam as VP/GM before founding Uptown in 1986. Source: Wikipedia https://en.wikipedia.org/wiki/Andre_Harrell",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Andre Harrell – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Andre_Harrell",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R2-Q5",
+          "episodeId": "EP050",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Soul Food (1997) soundtrack showcased late-boutique era R&B with a track pairing Mary J. Blige alongside which rapper?",
+          "choices": [
+            "Queen Latifah",
+            "Foxy Brown",
+            "Missy Elliott",
+            "Lil' Kim"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-song-i-can-love-you-mary-j-blige-lil-kim-soul-food-soundtrack-1997",
+            "artist": "Mary J. Blige feat. Lil' Kim",
+            "song": "I Can Love You",
+            "album": "Share My World / Soul Food soundtrack",
+            "year": 1997,
+            "topicTags": [
+              "Mary J. Blige",
+              "Lil' Kim",
+              "I Can Love You",
+              "Soul Food",
+              "1997",
+              "soundtrack"
+            ],
+            "fact": "'I Can Love You' by Mary J. Blige featuring Lil' Kim was prominently featured in association with the Soul Food soundtrack — alongside its release on Blige's 1997 album Share My World — making it one of the most memorable pairings of the late-boutique era.",
+            "storyHook": "Mary J. Blige. Lil' Kim. 'I Can Love You.' The boutique era's most combustible pairing, attached to one of 1997's defining soundtracks.",
+            "sourceNotes": "Verified: 'I Can Love You' by Mary J. Blige ft. Lil' Kim was associated with the Soul Food soundtrack. NOTE: primary release was on Share My World (1997); the Soul Food tie-in is documented but the track was not exclusive to the soundtrack. Source: Instagram https://www.instagram.com/reel/DXouBckjY-i/ (weak source — sourcing here is soft; fact-check against primary discography if needed).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soundtrack of the Day: 'I Can Love You' – Mary J. Blige ft. Lil' Kim",
+                "url": "https://www.instagram.com/reel/DXouBckjY-i/",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": [
+              "VERIFY_FACT"
+            ]
+          }
+        },
+        {
+          "id": "EP050-R2-B1",
+          "episodeId": "EP050",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "New Jack City (1991) starred which actor as Nino Brown — the drug kingpin whose commanding performance made the film a defining cultural event of the boutique era?",
+          "choices": [
+            "Ice-T",
+            "Laurence Fishburne",
+            "Wesley Snipes",
+            "Chris Rock"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — NEW JACK CITY'S STAR"
+          },
+          "metadata": {
+            "factKey": "ep050-film-new-jack-city-wesley-snipes-nino-brown-1991",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "Wesley Snipes",
+              "New Jack City",
+              "Nino Brown",
+              "1991",
+              "film"
+            ],
+            "fact": "Wesley Snipes starred as Nino Brown in New Jack City (1991) — a performance that established him as one of the decade's most commanding screen presences and helped drive the film's soundtrack into the commercial mainstream.",
+            "storyHook": "Wesley Snipes as Nino Brown. New Jack City needed a force of nature at its center — and it got one.",
+            "sourceNotes": "Verified: Wesley Snipes starred as Nino Brown in New Jack City. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "New Jack City – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/New_Jack_City",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "film",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP050-R2-RES1",
+          "episodeId": "EP050",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Flavor Unit Entertainment — Queen Latifah's boutique management and label venture — was co-founded alongside which business partner and longtime collaborator?",
+          "choices": [
+            "Lyor Cohen",
+            "Shakim Compere",
+            "Naughty by Nature",
+            "KRS-One"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-label-flavor-unit-shakim-compere-queen-latifah-co-founder-1989",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1989,
+            "topicTags": [
+              "Shakim Compere",
+              "Flavor Unit",
+              "Queen Latifah",
+              "co-founder",
+              "management",
+              "boutique"
+            ],
+            "fact": "Shakim Compere co-founded Flavor Unit Entertainment with Queen Latifah in 1989 — a management and label operation that helped shape the intersection of hip-hop and R&B throughout the 1990s.",
+            "storyHook": "Queen Latifah and Shakim Compere. Flavor Unit. 1989. Not every boutique story started with a major label deal — sometimes it started with a management company and a plan.",
+            "sourceNotes": "Verified: Shakim Compere co-founded Flavor Unit with Queen Latifah in 1989. Source: Flavor Unit YouTube channel https://www.youtube.com/c/FlavorUnit",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Flavor Unit – YouTube channel/about",
+                "url": "https://www.youtube.com/c/FlavorUnit",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R2-RES2",
+          "episodeId": "EP050",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Why Do Fools Fall in Love (1998) soundtrack featured which R&B vocal group performing the film's title song — a cover of the Frankie Lymon original?",
+          "choices": [
+            "TLC",
+            "SWV",
+            "En Vogue",
+            "Destiny's Child"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-song-why-do-fools-fall-in-love-en-vogue-cover-1998-soundtrack",
+            "artist": "En Vogue",
+            "song": "Why Do Fools Fall in Love",
+            "album": "Why Do Fools Fall in Love (soundtrack)",
+            "year": 1998,
+            "topicTags": [
+              "En Vogue",
+              "Why Do Fools Fall in Love",
+              "Frankie Lymon",
+              "1998",
+              "soundtrack",
+              "cover"
+            ],
+            "fact": "En Vogue covered 'Why Do Fools Fall in Love' for the 1998 biopic's soundtrack — a pairing of the era's most polished vocal group with one of doo-wop's most celebrated songs.",
+            "storyHook": "En Vogue. Frankie Lymon. 1998. The boutique era's most sophisticated vocal group covering the 1950s' most heartbreaking teenage hit.",
+            "sourceNotes": "Verified: En Vogue covered 'Why Do Fools Fall in Love' for the 1998 film soundtrack. Source: Wikipedia https://en.wikipedia.org/wiki/Why_Do_Fools_Fall_in_Love_(film). NOTE: sourcing for the En Vogue cover specifically came from associated soundtrack materials referenced in the film entry — treat as solid but flag if more direct sourcing becomes available.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Why Do Fools Fall in Love (film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Why_Do_Fools_Fall_in_Love_(film)",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R2-RES3",
+          "episodeId": "EP050",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Bad Boy Entertainment and LaFace Records — two of the boutique era's most commercially dominant imprints — were both distributed by which major label?",
+          "choices": [
+            "Arista Records",
+            "Columbia",
+            "MCA",
+            "Epic"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-label-bad-boy-laface-arista-records-clive-davis-distribution",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "Bad Boy Records",
+              "LaFace Records",
+              "Arista Records",
+              "Clive Davis",
+              "distribution",
+              "boutique imprint"
+            ],
+            "fact": "Both Bad Boy Entertainment and LaFace Records were distributed by Arista Records — giving Clive Davis's operation an outsized share of the boutique era's commercial dominance across two of the decade's most important imprints.",
+            "storyHook": "Bad Boy. LaFace. Both on Arista. Clive Davis had a habit of putting himself in the middle of whatever was about to become the defining sound of a decade.",
+            "sourceNotes": "Verified: Both Bad Boy and LaFace distributed by Arista Records. Sources: Wikipedia https://en.wikipedia.org/wiki/Bad_Boy_Records, Wikipedia https://en.wikipedia.org/wiki/LaFace_Records",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bad Boy Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bad_Boy_Records",
+                "accessed": "2026-06-07"
+              },
+              {
+                "title": "LaFace Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/LaFace_Records",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival connections hiding inside the boutique boom's most celebrated moments.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP050-R3-Q1",
+          "episodeId": "EP050",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Before founding Uptown Records, Andre Harrell performed in a hip-hop duo — adopting which stage name alongside partner Alonzo Brown?",
+          "choices": [
+            "Run",
+            "Dr. Jeckyll",
+            "LL Cool J",
+            "The Fresh Prince"
+          ],
+          "correctIndex": 1,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-artist-andre-harrell-dr-jeckyll-rap-duo-alonzo-brown-mr-hyde",
+            "artist": "Dr. Jeckyll & Mr. Hyde",
+            "song": null,
+            "album": null,
+            "year": 1981,
+            "topicTags": [
+              "Andre Harrell",
+              "Dr. Jeckyll",
+              "Dr. Jeckyll & Mr. Hyde",
+              "Alonzo Brown",
+              "rap duo",
+              "biography"
+            ],
+            "fact": "Andre Harrell performed as 'Dr. Jeckyll' (spelled with an extra 'e') in the hip-hop duo Dr. Jeckyll & Mr. Hyde — with Alonzo Brown performing as Mr. Hyde. His performing career preceded and directly informed his later work building Uptown Records.",
+            "storyHook": "Before Uptown Records, Andre Harrell was Dr. Jeckyll. The man who built the boutique era's blueprint was himself a recording artist — something almost nobody knows.",
+            "sourceNotes": "Verified: Andre Harrell performed as 'Dr. Jeckyll' in Dr. Jeckyll & Mr. Hyde with Alonzo Brown as Mr. Hyde. NOTE: Wikipedia spells the stage name 'Dr. Jeckyll' (with extra 'e') — this spelling used in question and answer text. Source: Wikipedia https://en.wikipedia.org/wiki/Andre_Harrell",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Andre Harrell – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Andre_Harrell",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R3-Q2",
+          "episodeId": "EP050",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Why Do Fools Fall in Love (1998) — starring Halle Berry, Vivica A. Fox, and Lela Rochon as three women who each claimed to be his widow — dramatized the life of which teenage rock and roll pioneer?",
+          "choices": [
+            "Frankie Lymon",
+            "Jackie Wilson",
+            "Sam Cooke",
+            "Clyde McPhatter"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-film-why-do-fools-fall-in-love-frankie-lymon-biopic-1998",
+            "artist": "Frankie Lymon",
+            "song": null,
+            "album": null,
+            "year": 1998,
+            "topicTags": [
+              "Frankie Lymon",
+              "Why Do Fools Fall in Love",
+              "biopic",
+              "1998",
+              "Halle Berry",
+              "Vivica A. Fox",
+              "Lela Rochon"
+            ],
+            "fact": "Why Do Fools Fall in Love (1998) dramatized the true story of Frankie Lymon — the lead singer of the Teenagers who recorded the original song at age 13 in 1956. The film centered on three women who each claimed legal status as his widow.",
+            "storyHook": "Frankie Lymon. Three women. One estate. The boutique era used his story to close out the decade — a biopic about who owns the legacy of a teenage R&B pioneer.",
+            "sourceNotes": "Verified: Why Do Fools Fall in Love (1998) is based on the story of Frankie Lymon. Source: Wikipedia https://en.wikipedia.org/wiki/Why_Do_Fools_Fall_in_Love_(film)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Why Do Fools Fall in Love (film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Why_Do_Fools_Fall_in_Love_(film)",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R3-B1",
+          "episodeId": "EP050",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Bad Boy Entertainment's earliest signings included Faith Evans — who became notable not only for her music but for her 1994 marriage to which fellow Bad Boy artist?",
+          "choices": [
+            "Jay-Z",
+            "Craig Mack",
+            "Tupac Shakur",
+            "The Notorious B.I.G."
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — FAITH EVANS'S BAD BOY HUSBAND"
+          },
+          "metadata": {
+            "factKey": "ep050-artist-faith-evans-notorious-big-marriage-1994-bad-boy",
+            "artist": "Faith Evans / The Notorious B.I.G.",
+            "song": null,
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "Faith Evans",
+              "The Notorious B.I.G.",
+              "Bad Boy Entertainment",
+              "1994",
+              "marriage"
+            ],
+            "fact": "Faith Evans married The Notorious B.I.G. (Christopher Wallace) on August 4, 1994 — a union that made her one of the most publicly visible artists in Bad Boy's early roster and a central figure in the label's narrative.",
+            "storyHook": "Faith Evans. Biggie. 1994. Bad Boy's earliest signings were connected by more than a label deal — they were connected by a marriage that made the boutique era's most important imprint into something like a family.",
+            "sourceNotes": "Verified: Faith Evans and The Notorious B.I.G. married in 1994. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "The Notorious B.I.G. was murdered in March 1997. The question addresses only his 1994 marriage to Faith Evans — host should be aware of the sensitivity of the subject.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Faith Evans – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Faith_Evans",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP050-R3-RES1",
+          "episodeId": "EP050",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Will Smith's massive 1997 hit 'Men in Black' — the centerpiece of the film's soundtrack — was built around a sample of which 1982 funk and soul recording by Patrice Rushen?",
+          "choices": [
+            "I'll Be There",
+            "Don't Stop 'Til You Get Enough",
+            "Forget Me Nots",
+            "Boogie Wonderland"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-song-men-in-black-will-smith-samples-forget-me-nots-patrice-rushen-1982",
+            "artist": "Will Smith / Patrice Rushen",
+            "song": "Men in Black / Forget Me Nots",
+            "album": "Men in Black (soundtrack)",
+            "year": 1997,
+            "topicTags": [
+              "Will Smith",
+              "Men in Black",
+              "Patrice Rushen",
+              "Forget Me Nots",
+              "sample",
+              "1997",
+              "soundtrack"
+            ],
+            "fact": "Will Smith's 'Men in Black' heavily sampled Patrice Rushen's 1982 funk classic 'Forget Me Nots' — a boutique-era soundtrack hit that drew on the deep soul catalog for its commercial foundation.",
+            "storyHook": "Patrice Rushen. 1982. 'Forget Me Nots.' Fifteen years later, Will Smith sampled it for the biggest hit on the Men in Black soundtrack. The soul catalog never stopped paying dividends.",
+            "sourceNotes": "Verified: 'Men in Black' by Will Smith heavily samples 'Forget Me Nots' by Patrice Rushen. Source: Wikipedia https://en.wikipedia.org/wiki/Men_in_Black_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Men in Black (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Men_in_Black_(song)",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP050-R3-RES2",
+          "episodeId": "EP050",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "John Singleton — who directed Poetic Justice — had previously become the youngest director ever nominated for the Academy Award for Best Director for which 1991 film?",
+          "choices": [
+            "Boyz n the Hood",
+            "Menace II Society",
+            "Juice",
+            "Friday"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep050-film-boyz-n-the-hood-john-singleton-youngest-oscar-nominee-best-director-1991",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "John Singleton",
+              "Boyz n the Hood",
+              "1991",
+              "Academy Award",
+              "Best Director",
+              "youngest nominee"
+            ],
+            "fact": "John Singleton directed Boyz n the Hood (1991) at age 23 and became the youngest director ever nominated for the Academy Award for Best Director — also nominated for Best Original Screenplay, becoming the first Black director ever nominated for Best Director.",
+            "storyHook": "Boyz n the Hood. 1991. John Singleton was 23 years old. The youngest Best Director nominee in Oscar history — and two years later he directed Poetic Justice.",
+            "sourceNotes": "Verified: John Singleton directed Boyz n the Hood (1991) and at age 23 became the youngest Oscar nominee for Best Director and first Black director nominated for that award. Source: Reddit note on record https://www.reddit.com/r/Moviesinthemaking/comments/11hyzcb/john_singleton_directing_boyz_n_the_hood_1991_for/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "John Singleton directing 'Boyz n the Hood' – Reddit note on Oscar record",
+                "url": "https://www.reddit.com/r/Moviesinthemaking/comments/11hyzcb/john_singleton_directing_boyz_n_the_hood_1991_for/",
+                "accessed": "2026-06-07"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "film",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-07",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-07T19:53:27.001626+00:00"
+  }
+}

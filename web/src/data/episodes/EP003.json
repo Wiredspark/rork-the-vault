@@ -1,0 +1,1489 @@
+{
+  "episodeId": "EP003",
+  "title": "Soundtrack Supremacy",
+  "theme": "The R&B tracks that outlasted the films they came from",
+  "narrativePurpose": "Test the intersection of cinema and chart dominance — where the soundtrack became bigger than the movie",
+  "toneProgression": "Blockbuster recognition → label and credit knowledge → deep placement archaeology",
+  "version": "1.0",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "1"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-1 — the year New Jack City proved that an urban film's music could move as a cultural event rather than a backdrop. The founding document of the R&B soundtrack era."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The songs that crossed over from cinema to radio and never left. You know these — but do you know which film they came from?",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP003-R1-Q1",
+          "episodeId": "EP003",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Boyz II Men's 'End of the Road' was recorded for which 1992 Eddie Murphy comedy?",
+          "choices": [
+            "Juice",
+            "Strictly Business",
+            "Boomerang",
+            "Boyz N the Hood"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": "End of the Road",
+            "album": "Boomerang Soundtrack",
+            "year": 1992,
+            "topicTags": [
+              "Boyz II Men",
+              "Boomerang",
+              "soundtrack",
+              "Eddie Murphy",
+              "LaFace"
+            ],
+            "fact": "'End of the Road' spent 13 weeks at #1 on the Billboard Hot 100 after its placement on the Boomerang soundtrack.",
+            "storyHook": "The song that broke a chart record hiding inside an Eddie Murphy movie.",
+            "sourceNotes": "IMDB Boomerang (1992) soundtrack listing confirms 'End of the Road' by Boyz II Men. LaFace/Arista Boomerang: Motion Picture Soundtrack (1992) liner notes list the track. Billboard chart history confirms the single as the Boomerang lead single.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Boomerang (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Boomerang_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R1-Q2",
+          "episodeId": "EP003",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Janet Jackson's 'Again' was written for which 1993 John Singleton film?",
+          "choices": [
+            "Juice",
+            "Menace II Society",
+            "Poetic Justice",
+            "Boyz N the Hood"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": "Again",
+            "album": "Poetic Justice Soundtrack",
+            "year": 1993,
+            "topicTags": [
+              "Janet Jackson",
+              "Poetic Justice",
+              "John Singleton",
+              "soundtrack"
+            ],
+            "fact": "'Again' was nominated for an Academy Award for Best Original Song and peaked at #1 on the Billboard Hot 100.",
+            "storyHook": "Janet Jackson acting and charting simultaneously — the rare double.",
+            "sourceNotes": "IMDB Poetic Justice (1993) soundtrack listing confirms 'Again' by Janet Jackson. Epic Street Records Poetic Justice soundtrack (1993) liner notes confirm the track. Billboard chart history confirms 'Again' as the lead single from the Poetic Justice soundtrack.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Again (Janet Jackson song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Again_(Janet_Jackson_song)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R1-Q3",
+          "episodeId": "EP003",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Warren G and Nate Dogg's 1994 hit 'Regulate' was the lead single from which film's soundtrack?",
+          "choices": [
+            "Jason's Lyric",
+            "Above the Rim",
+            "Menace II Society",
+            "Fresh"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Warren G ft. Nate Dogg",
+            "song": "Regulate",
+            "album": "Above the Rim Soundtrack",
+            "year": 1994,
+            "topicTags": [
+              "Warren G",
+              "Nate Dogg",
+              "Regulate",
+              "Above the Rim",
+              "Death Row",
+              "soundtrack"
+            ],
+            "fact": "'Regulate' reached #2 on the Billboard Hot 100 and made Warren G and Nate Dogg household names on the strength of the Above the Rim placement.",
+            "storyHook": "A basketball movie handed two unknown rappers one of the biggest records of 1994.",
+            "sourceNotes": "IMDB Above the Rim (1994) soundtrack listing confirms 'Regulate' by Warren G & Nate Dogg. Death Row/Interscope Above the Rim: The Soundtrack (1994) liner notes confirm the track. AllMusic entry for the Above the Rim soundtrack confirms 'Regulate' as the lead single.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Above the Rim (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Above_the_Rim_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R1-Q4",
+          "episodeId": "EP003",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which R&B vocalist delivered 'Not Gon' Cry' — the emotional centerpiece of the Waiting to Exhale (1995) soundtrack?",
+          "choices": [
+            "Mary J. Blige",
+            "Regina Belle",
+            "Toni Braxton",
+            "Brandy"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": "Not Gon' Cry",
+            "album": "Waiting to Exhale Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "Mary J. Blige",
+              "Waiting to Exhale",
+              "Babyface",
+              "soundtrack"
+            ],
+            "fact": "Mary J. Blige's 'Not Gon' Cry' — written and produced by Babyface — became the defining track of the Waiting to Exhale soundtrack and one of the signature performances of her career.",
+            "storyHook": "The soundtrack track that reframed what Mary J. Blige could do at the peak of her powers.",
+            "sourceNotes": "IMDB Waiting to Exhale (1995) soundtrack listing confirms 'Not Gon' Cry' by Mary J. Blige. Arista Records Waiting to Exhale: Original Soundtrack Album (1995) liner notes confirm the track. Billboard chart history confirms the single charted from the Waiting to Exhale soundtrack.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mary J. Blige – Not Gon' Cry – YouTube",
+                "url": "https://www.youtube.com/watch?v=WiM3bGcXYxk",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R1-Q5",
+          "episodeId": "EP003",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Maxwell's 'Sumthin' Sumthin'' was featured on which 1997 neo-soul film soundtrack?",
+          "choices": [
+            "Soul Food",
+            "The Best Man",
+            "Love Jones",
+            "Belly"
+          ],
+          "correctIndex": 2,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Maxwell",
+            "song": "Sumthin' Sumthin'",
+            "album": "Love Jones Soundtrack",
+            "year": 1997,
+            "topicTags": [
+              "Maxwell",
+              "Love Jones",
+              "neo soul",
+              "soundtrack"
+            ],
+            "fact": "The Love Jones (1997) soundtrack is widely considered the defining neo-soul film record of the decade.",
+            "storyHook": "Love Jones didn't just feature the music — it made the music the point.",
+            "sourceNotes": "IMDB Love Jones (1997) soundtrack listing confirms Maxwell's contribution. Capitol Records Love Jones: Music from and Inspired by the Motion Picture liner notes. NEEDS_RECHECK — confirm 'Sumthin' Sumthin'' specifically vs. other Maxwell tracks on the Love Jones soundtrack.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sumthin' Sumthin' – Love Jones: The Music – YouTube",
+                "url": "https://www.youtube.com/watch?v=Gwn6bcBPx98",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R1-Q6",
+          "episodeId": "EP003",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Aaliyah's 'Are You That Somebody' appeared on the soundtrack of which 1998 Eddie Murphy comedy?",
+          "choices": [
+            "Dr. Dolittle",
+            "Life",
+            "Bowfinger",
+            "The Nutty Professor"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": "Are You That Somebody",
+            "album": "Dr. Dolittle Soundtrack",
+            "year": 1998,
+            "topicTags": [
+              "Aaliyah",
+              "Timbaland",
+              "Dr. Dolittle",
+              "soundtrack",
+              "Eddie Murphy"
+            ],
+            "fact": "'Are You That Somebody' was produced by Timbaland and marked Aaliyah's creative rebirth after splitting from R. Kelly.",
+            "storyHook": "A children's movie handed Aaliyah and Timbaland the stage to redefine R&B.",
+            "sourceNotes": "IMDB Dr. Dolittle (1998) soundtrack listing confirms 'Are You That Somebody' by Aaliyah. DreamWorks Records Dr. Dolittle soundtrack (1998) liner notes confirm the track. Billboard chart history confirms the single from the Dr. Dolittle soundtrack.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Aaliyah – Are You That Somebody discussion – r/popheads",
+                "url": "https://www.reddit.com/r/popheads/comments/pgxpp9/aaliyah_are_you_that_somebody/",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R1-B1",
+          "episodeId": "EP003",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The New Jack City (1991) soundtrack — one of the first to fuse urban R&B with hip-hop — contained the massive crossover hit 'I Wanna Sex You Up' by which group?",
+          "choices": [
+            "New Edition",
+            "Color Me Badd",
+            "Jodeci",
+            "En Vogue"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — THE GROUP BEHIND I WANNA SEX YOU UP",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "Boomerang Soundtrack",
+            "year": 1992,
+            "topicTags": [
+              "Boomerang",
+              "LaFace Records",
+              "Toni Braxton",
+              "L.A. Reid",
+              "label",
+              "bonus digit"
+            ],
+            "fact": "'I Wanna Sex You Up' by Color Me Badd was the breakout single from the New Jack City (1991) soundtrack — it spent two weeks at #1 on the Billboard Hot 100 and introduced the Oklahoma quartet to a national audience.",
+            "storyHook": "The label that built Atlanta's R&B empire started with a soundtrack.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "New Jack City (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/New_Jack_City_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP003-R1-RES1",
+          "episodeId": "EP003",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Color Me Badd's debut hit 'I Wanna Sex You Up' appeared on which 1991 crime drama's soundtrack?",
+          "choices": [
+            "Juice",
+            "Boyz N the Hood",
+            "Straight Out of Brooklyn",
+            "New Jack City"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Color Me Badd",
+            "song": "I Wanna Sex You Up",
+            "album": "New Jack City Soundtrack",
+            "year": 1991,
+            "topicTags": [
+              "Color Me Badd",
+              "New Jack City",
+              "soundtrack",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "IMDB New Jack City (1991) soundtrack listing confirms 'I Wanna Sex You Up' by Color Me Badd. Giant Records New Jack City: Music from the Motion Picture (1991) liner notes confirm the track. AllMusic entry for the New Jack City soundtrack confirms the track listing.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "New Jack City (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/New_Jack_City_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R1-RES2",
+          "episodeId": "EP003",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The 1997 drama Soul Food and its R&B soundtrack are set in which American city?",
+          "choices": [
+            "Atlanta",
+            "Houston",
+            "Chicago",
+            "Detroit"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "Soul Food Soundtrack",
+            "year": 1997,
+            "topicTags": [
+              "Soul Food",
+              "Chicago",
+              "soundtrack",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Food (film) – Chicago location – Facebook",
+                "url": "https://www.facebook.com/groups/thewesttownkid/posts/1434693238240929/",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R1-RES3",
+          "episodeId": "EP003",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The Friday (1995) film soundtrack was released on which West Coast rap label?",
+          "choices": [
+            "Loud Records",
+            "Death Row Records",
+            "Ruthless Records",
+            "Priority Records"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "Friday Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "Friday",
+              "Priority Records",
+              "Ice Cube",
+              "label",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Friday (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Friday_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R1-RES4",
+          "episodeId": "EP003",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Before her film career in movies like Set It Off and Chicago, Queen Latifah was known for which musical genre?",
+          "choices": [
+            "Rap",
+            "Gospel",
+            "Jazz",
+            "R&B"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Queen Latifah",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Queen Latifah",
+              "rap",
+              "actor",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Queen Latifah – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Queen_Latifah",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Label credits, executive producers, and the behind-the-scenes deals that built the 90s soundtrack business.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP003-R2-Q1",
+          "episodeId": "EP003",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Above the Rim (1994) Death Row soundtrack credits which label co-founder as executive producer?",
+          "choices": [
+            "DJ Quik",
+            "Suge Knight",
+            "Snoop Dogg",
+            "Dr. Dre"
+          ],
+          "correctIndex": 1,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "Above the Rim Soundtrack",
+            "year": 1994,
+            "topicTags": [
+              "Suge Knight",
+              "Death Row Records",
+              "Above the Rim",
+              "executive producer"
+            ],
+            "fact": "Above the Rim was one of Death Row's first major soundtrack releases, cementing the label's dominance over West Coast R&B and rap in 1994.",
+            "storyHook": "",
+            "sourceNotes": "Above the Rim: The Soundtrack (1994) Death Row/Interscope liner notes credit Suge Knight as executive producer. AllMusic entry for the Above the Rim soundtrack credits Suge Knight. NEEDS_RECHECK — confirm Suge Knight is sole EP credit vs. shared with Dr. Dre.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Above the Rim (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Above_the_Rim_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R2-Q2",
+          "episodeId": "EP003",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "New Jack City (1991) featured the song 'New Jack Hustler (Nino's Theme)' performed by which rapper?",
+          "choices": [
+            "Ice Cube",
+            "Ice-T",
+            "Big Daddy Kane",
+            "LL Cool J"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ice-T",
+            "song": "New Jack Hustler (Nino's Theme)",
+            "album": "New Jack City Soundtrack",
+            "year": 1991,
+            "topicTags": [
+              "Ice-T",
+              "New Jack City",
+              "soundtrack",
+              "rap"
+            ],
+            "fact": "Ice-T also appeared in New Jack City as a detective, making him both a cast member and a soundtrack contributor on the same film.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "New Jack Hustler (Nino's Theme) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/New_Jack_Hustler_(Nino%27s_Theme)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R2-Q3",
+          "episodeId": "EP003",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Friday (1995) soundtrack was executive-produced by which rapper who also directed and starred in the film?",
+          "choices": [
+            "Snoop Dogg",
+            "Warren G",
+            "Dr. Dre",
+            "Ice Cube"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ice Cube",
+            "song": null,
+            "album": "Friday Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "Ice Cube",
+              "Friday",
+              "Priority Records",
+              "executive producer",
+              "director"
+            ],
+            "fact": "Ice Cube wrote, directed, starred in, and executive-produced Friday — one of the most complete creative packages in 90s hip-hop cinema.",
+            "storyHook": "",
+            "sourceNotes": "Priority Records Friday: Original Motion Picture Soundtrack (1995) liner notes credit Ice Cube as executive producer. IMDB Friday (1995) credits list Ice Cube as director, co-writer, and star. AllMusic entry for the Friday soundtrack confirms Ice Cube's production and directing role.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Friday (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Friday_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R2-Q4",
+          "episodeId": "EP003",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Waiting to Exhale (1995) soundtrack — with Babyface producing every track — was released on which label?",
+          "choices": [
+            "Motown",
+            "Arista",
+            "LaFace Records",
+            "Epic"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "Waiting to Exhale Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "Waiting to Exhale",
+              "Arista",
+              "Babyface",
+              "label",
+              "soundtrack"
+            ],
+            "fact": "The Waiting to Exhale soundtrack debuted at #1 on the Billboard 200 and spent three weeks at the top.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Waiting to Exhale (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Waiting_to_Exhale_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R2-Q5",
+          "episodeId": "EP003",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Love Jones (1997) featured 'Hopeless' by Dionne Farris, who had previously been a vocalist with which group?",
+          "choices": [
+            "The Fugees",
+            "Arrested Development",
+            "De La Soul",
+            "A Tribe Called Quest"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Dionne Farris",
+            "song": "Hopeless",
+            "album": "Love Jones Soundtrack",
+            "year": 1997,
+            "topicTags": [
+              "Dionne Farris",
+              "Arrested Development",
+              "Love Jones",
+              "soundtrack",
+              "neo soul"
+            ],
+            "fact": "Dionne Farris sang the hook on Arrested Development's Grammy-winning 'Tennessee' (1992) before launching her solo career.",
+            "storyHook": "The voice behind one of hip-hop's greatest records found her own spotlight through a film soundtrack.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dionne Farris – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dionne_Farris",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R2-B1",
+          "episodeId": "EP003",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The New Jack City (1991) soundtrack was released on which Warner-distributed independent label?",
+          "choices": [
+            "Qwest Records",
+            "Tommy Boy Records",
+            "Giant Records",
+            "Sire Records"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — LABEL THAT PRESSED NEW JACK CITY",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "New Jack City Soundtrack",
+            "year": 1991,
+            "topicTags": [
+              "New Jack City",
+              "Giant Records",
+              "Warner",
+              "label",
+              "bonus digit"
+            ],
+            "fact": "Giant Records was a Warner Bros. Records subsidiary that released New Jack City alongside several other early 90s urban soundtracks.",
+            "storyHook": "The label behind the record that defined the New Jack Swing era's darkest chapter.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "New Jack City (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/New_Jack_City_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP003-R2-RES1",
+          "episodeId": "EP003",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Tupac Shakur's contribution to the Above the Rim (1994) Death Row soundtrack was titled what?",
+          "choices": [
+            "Keep Ya Head Up",
+            "Regulate",
+            "So Many Tears",
+            "Pour Out a Little Liquor"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tupac Shakur",
+            "song": "Pour Out a Little Liquor",
+            "album": "Above the Rim Soundtrack",
+            "year": 1994,
+            "topicTags": [
+              "Tupac Shakur",
+              "Thug Life",
+              "Above the Rim",
+              "soundtrack",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Above the Rim (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Above_the_Rim_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R2-RES2",
+          "episodeId": "EP003",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which female R&B group had a career-reviving US hit with 'Don't Let Go (Love)' from the Set It Off (1996) soundtrack?",
+          "choices": [
+            "En Vogue",
+            "SWV",
+            "TLC",
+            "Xscape"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "En Vogue",
+            "song": "Don't Let Go (Love)",
+            "album": "Set It Off Soundtrack",
+            "year": 1996,
+            "topicTags": [
+              "En Vogue",
+              "Set It Off",
+              "soundtrack",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Don't Let Go (Love) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Don%27t_Let_Go_(Love)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R2-RES3",
+          "episodeId": "EP003",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jason's Lyric (1994) featured a smooth R&B cover of the Japanese pop standard 'Sukiyaki' by which group?",
+          "choices": [
+            "4PM",
+            "Portrait",
+            "Shai",
+            "Today"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "4PM",
+            "song": "Sukiyaki",
+            "album": "Jason's Lyric Soundtrack",
+            "year": 1994,
+            "topicTags": [
+              "4PM",
+              "Sukiyaki",
+              "Jason's Lyric",
+              "soundtrack",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jason's Lyric (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jason%27s_Lyric_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Obscure placements. Surprise contributors. Songs that most people heard without knowing where they came from.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP003-R3-Q1",
+          "episodeId": "EP003",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The Set It Off (1996) soundtrack's collaborative ballad 'Missing You' featured Brandy, Tamia, Gladys Knight, and which fourth vocalist?",
+          "choices": [
+            "Patti LaBelle",
+            "Chaka Khan",
+            "Diana Ross",
+            "Aretha Franklin"
+          ],
+          "correctIndex": 1,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy, Tamia, Gladys Knight & Chaka Khan",
+            "song": "Missing You",
+            "album": "Set It Off Soundtrack",
+            "year": 1996,
+            "topicTags": [
+              "Chaka Khan",
+              "Brandy",
+              "Tamia",
+              "Gladys Knight",
+              "Set It Off",
+              "soundtrack",
+              "collab"
+            ],
+            "fact": "'Missing You' brought together four generations of Black female vocalists on a single film ballad.",
+            "storyHook": "The most stacked vocal lineup of the decade buried inside an action movie.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Missing You (Brandy, Tamia, Gladys Knight and Chaka Khan song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Missing_You_(Brandy,_Tamia,_Gladys_Knight_and_Chaka_Khan_song)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R3-Q2",
+          "episodeId": "EP003",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Diana King's 1995 R&B-reggae crossover hit 'Shy Guy' appeared on which action film's soundtrack?",
+          "choices": [
+            "Above the Rim",
+            "Bad Boys",
+            "Friday",
+            "Set It Off"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Diana King",
+            "song": "Shy Guy",
+            "album": "Bad Boys Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "Diana King",
+              "Shy Guy",
+              "Bad Boys",
+              "soundtrack",
+              "reggae"
+            ],
+            "fact": "'Shy Guy' gave Diana King a top 5 US hit entirely on the strength of its placement on the Bad Boys soundtrack.",
+            "storyHook": "A Jamaican singer crossed over to American R&B through a Will Smith action film nobody expected to have this song.",
+            "sourceNotes": "IMDB Bad Boys (1995) soundtrack listing confirms 'Shy Guy' by Diana King. Columbia/Sony Bad Boys: Music from the Motion Picture (1995) liner notes confirm the track. Billboard chart history confirms 'Shy Guy' peaked as a single from the Bad Boys soundtrack.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Shy Guy – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Shy_Guy",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R3-B1",
+          "episodeId": "EP003",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Poetic Justice (1993) starred Janet Jackson alongside which rapper in a major film role?",
+          "choices": [
+            "Snoop Dogg",
+            "2Pac",
+            "Method Man",
+            "Ice Cube"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — WHO STARRED OPPOSITE JANET IN POETIC JUSTICE",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "2Pac",
+            "song": null,
+            "album": "Poetic Justice",
+            "year": 1993,
+            "topicTags": [
+              "2Pac",
+              "Janet Jackson",
+              "Poetic Justice",
+              "John Singleton",
+              "film",
+              "bonus digit"
+            ],
+            "fact": "2Pac starred opposite Janet Jackson in Poetic Justice (1993), directed by John Singleton — one of his most prominent early film roles.",
+            "storyHook": "Two icons in one frame — and most people only remember the movie for Janet's hair.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Poetic Justice (film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Poetic_Justice_(film)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP003-R3-RES1",
+          "episodeId": "EP003",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "En Vogue's 'Don't Let Go (Love)' appeared on which 1996 film's soundtrack?",
+          "choices": [
+            "Jerry Maguire",
+            "The Nutty Professor",
+            "Set It Off",
+            "Dead Presidents"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "En Vogue",
+            "song": "Don't Let Go (Love)",
+            "album": "Set It Off Soundtrack",
+            "year": 1996,
+            "topicTags": [
+              "En Vogue",
+              "Set It Off",
+              "soundtrack",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "IMDB Set It Off (1996) soundtrack listing confirms 'Don't Let Go (Love)' by En Vogue. EastWest Records Set It Off: Music from and Inspired by the Motion Picture liner notes confirm the track. Billboard chart history confirms 'Don't Let Go (Love)' charted from the Set It Off soundtrack.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Don't Let Go (Love) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Don%27t_Let_Go_(Love)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP003-R3-RES2",
+          "episodeId": "EP003",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Color Me Badd — whose debut hit appeared on the New Jack City soundtrack — originally formed in which city?",
+          "choices": [
+            "Los Angeles",
+            "Dallas",
+            "Oklahoma City",
+            "Atlanta"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Color Me Badd",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Color Me Badd",
+              "Oklahoma City",
+              "city",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Color Me Badd – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Color_Me_Badd",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.0",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-20T22:47:53.232539+00:00"
+  }
+}

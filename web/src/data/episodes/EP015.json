@@ -1,0 +1,1546 @@
+{
+  "episodeId": "EP015",
+  "title": "The Architects of New Jack Swing",
+  "theme": "The late-80s and early-90s bridge between synth-funk and modern R&B. Drum machines, aggressive swing, and high-energy choreography.",
+  "narrativePurpose": "Test players on the foundational movement that merged hip-hop attitude with R&B melodies, defining the sound of an entire generation.",
+  "toneProgression": "Massive dancefloor anthems → The producers and solo breakouts → Studio origins and group lineages",
+  "version": "1.0",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "8"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-8-8 — the year Bobby Brown's Don't Be Cruel sold seven million copies and announced New Jack Swing as the future of R&B. Keith Sweat and Johnny Kemp confirmed it the same year. The drum machine had taken command."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The heavy-hitting dancefloor anthems that defined the era. Identify the groups and solo stars that took New Jack Swing mainstream.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "questions": [
+        {
+          "id": "EP015-R1-Q1",
+          "episodeId": "EP015",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which 1988 Bobby Brown album — selling over seven million copies in the US — is considered the commercial peak of New Jack Swing?",
+          "choices": [
+            "My Prerogative",
+            "Forever",
+            "King of Stage",
+            "Don't Be Cruel"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bobby Brown",
+            "song": null,
+            "album": "Don't Be Cruel",
+            "year": 1988,
+            "topicTags": [
+              "Bobby Brown",
+              "Don't Be Cruel",
+              "New Jack Swing",
+              "1988",
+              "MCA Records"
+            ],
+            "fact": "Don't Be Cruel debuted at #1 on the Billboard 200 in 1988 and spawned five Top 10 singles including 'My Prerogative,' 'Don't Be Cruel,' and 'Every Little Step.' It remains the defining commercial artifact of the New Jack Swing era.",
+            "storyHook": "Never trust a big butt and a smile.",
+            "sourceNotes": "Verified: Don't Be Cruel is Bobby Brown's 1988 second studio album on MCA Records; US sales certified 8x Platinum (RIAA). 'Over seven million' in the US is accurate.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Don't Be Cruel (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Don%27t_Be_Cruel_(album)",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "TIME – Top Selling Albums 1989",
+                "url": "https://content.time.com/time/specials/packages/article/0,28804,1905139_1905140_1905134,00.html",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R1-Q2",
+          "episodeId": "EP015",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Which Bobby Brown anthem, produced by Teddy Riley, became the ultimate New Jack Swing declaration of independence in 1988?",
+          "choices": [
+            "Don't Be Cruel",
+            "Roni",
+            "Every Little Step",
+            "My Prerogative"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bobby Brown",
+            "song": "My Prerogative",
+            "album": "Don't Be Cruel",
+            "year": 1988,
+            "topicTags": [
+              "Bobby Brown",
+              "My Prerogative",
+              "Teddy Riley",
+              "number one"
+            ],
+            "fact": "The track hit #1 on the Billboard Hot 100, cementing Bobby Brown's status as a solo megastar after leaving New Edition.",
+            "storyHook": "",
+            "sourceNotes": "Verified: 'My Prerogative' produced by Teddy Riley; confirmed by multiple sources including Focusrite interview with Riley.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Don't Be Cruel (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Don%27t_Be_Cruel_(album)",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Sound on Sound – In the studio with Teddy Riley",
+                "url": "https://www.soundonsound.com/news/studio-producer-teddy-riley",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R1-Q3",
+          "episodeId": "EP015",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Keith Sweat's 1987 debut single 'I Want Her' — widely considered one of the first major New Jack Swing records — appeared on which debut album?",
+          "choices": [
+            "Make It Last Forever",
+            "I'll Give All My Love to You",
+            "Keith Sweat",
+            "Keep It Comin'"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Keith Sweat",
+            "song": "I Want Her",
+            "album": "Make It Last Forever",
+            "year": 1987,
+            "topicTags": [
+              "Keith Sweat",
+              "Make It Last Forever",
+              "New Jack Swing",
+              "debut",
+              "1987"
+            ],
+            "fact": "Make It Last Forever was released on Vintertainment/Elektra Records in 1987 — produced by Teddy Riley, it is widely credited as one of the first albums to define the New Jack Swing production template.",
+            "storyHook": "",
+            "sourceNotes": "Verified: 'I Want Her' is the debut single from Keith Sweat's 1987 debut album Make It Last Forever, widely cited as an early New Jack Swing record.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Make It Last Forever (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Make_It_Last_Forever_(album)",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R1-Q4",
+          "episodeId": "EP015",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Johnny Kemp's legendary 1988 weekend anthem 'Just Got Paid' was an instrumental originally intended for which artist?",
+          "choices": [
+            "Keith Sweat",
+            "Bobby Brown",
+            "Michael Jackson",
+            "Al B. Sure!"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Johnny Kemp",
+            "song": "Just Got Paid",
+            "album": "Secrets of Flying",
+            "year": 1988,
+            "topicTags": [
+              "Johnny Kemp",
+              "Just Got Paid",
+              "Keith Sweat",
+              "Teddy Riley"
+            ],
+            "fact": "Teddy Riley originally offered the track to Keith Sweat, but when Sweat passed, Johnny Kemp recorded it and scored a #1 R&B hit.",
+            "storyHook": "",
+            "sourceNotes": "Verified: 'Just Got Paid' (1988) was originally a Teddy Riley instrumental intended for Keith Sweat's debut album Make It Last Forever. Sweat passed on it. Sources: Wikipedia, Rolling Stone obituary for Kemp.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Just Got Paid (Johnny Kemp song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Just_Got_Paid_(Johnny_Kemp_song)",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Rolling Stone – Johnny Kemp, 'Just Got Paid' Singer, Dead at 55",
+                "url": "https://www.rollingstone.com/music/music-news/johnny-kemp-just-got-paid-singer-dead-at-55-63429/",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R1-Q5",
+          "episodeId": "EP015",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which rap duo, heavily associated with the New Jack Swing movement, released the massive 1992 hit 'Rump Shaker'?",
+          "choices": [
+            "Heavy D & the Boyz",
+            "Kid 'n Play",
+            "Father MC",
+            "Wreckx-N-Effect"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Wreckx-N-Effect",
+            "song": "Rump Shaker",
+            "album": "Hard or Smooth",
+            "year": 1992,
+            "topicTags": [
+              "Wreckx-N-Effect",
+              "Rump Shaker",
+              "Teddy Riley"
+            ],
+            "fact": "The group was formed by Teddy Riley's brother Markell Riley and Aqil Davidson. 'Rump Shaker' peaked at #2 on the Hot 100.",
+            "storyHook": "",
+            "sourceNotes": "Verified: Wreckx-N-Effect were heavily associated with New Jack Swing and released 'Rump Shaker' (1992).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wreckx-n-Effect – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Wreckx-n-Effect",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R1-Q6",
+          "episodeId": "EP015",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which former New Edition lead singer struck solo gold with the 1990 Jam & Lewis-produced hit 'Sensitivity'?",
+          "choices": [
+            "Johnny Gill",
+            "Michael Bivins",
+            "Ralph Tresvant",
+            "Ricky Bell"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ralph Tresvant",
+            "song": "Sensitivity",
+            "album": "Ralph Tresvant",
+            "year": 1990,
+            "topicTags": [
+              "Ralph Tresvant",
+              "Sensitivity",
+              "New Edition",
+              "Jam & Lewis"
+            ],
+            "fact": "The track spent 20 weeks on the Billboard Hot 100 and successfully established Ralph Tresvant outside of New Edition.",
+            "storyHook": "",
+            "sourceNotes": "Verified: Ralph Tresvant is a former New Edition lead singer who had a solo hit in 1990 produced by Jimmy Jam & Terry Lewis.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ralph Tresvant – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ralph_Tresvant",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R1-B1",
+          "episodeId": "EP015",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Bell Biv DeVoe's 1990 debut album — which gave New Jack Swing its defining pop crossover moment — was titled what?",
+          "choices": [
+            "Above the Rim",
+            "Poison",
+            "Hive",
+            "BBD"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — BBD'S DEBUT ALBUM TITLE",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": "Bell Biv DeVoe",
+            "song": null,
+            "album": "Poison",
+            "year": 1990,
+            "topicTags": [
+              "Bell Biv DeVoe",
+              "Poison",
+              "New Jack Swing",
+              "debut album",
+              "bonus digit"
+            ],
+            "fact": "Poison was released on MCA Records in 1990 and went quadruple-platinum — its blend of New Jack Swing production with rap-influenced attitude defined the genre's crossover potential and the album became one of the best-selling R&B records of the decade.",
+            "storyHook": "",
+            "sourceNotes": "Verified: Bell Biv DeVoe's 1990 debut album was titled Poison; it defined the New Jack Swing group sound post-New Edition.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Poison (Bell Biv DeVoe album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Poison_(Bell_Biv_DeVoe_album)",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP015-R1-RES1",
+          "episodeId": "EP015",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Which artist had a massive hit with the New Jack Swing ballad 'Nite and Day' in 1988?",
+          "choices": [
+            "El DeBarge",
+            "Christopher Williams",
+            "Tevin Campbell",
+            "Al B. Sure!"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Al B. Sure!",
+            "song": "Nite and Day",
+            "album": "In Effect Mode",
+            "year": 1988,
+            "topicTags": [
+              "Al B. Sure!",
+              "Nite and Day",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Verified: Al B. Sure! had a hit with 'Nite and Day' (1988), a New Jack Swing ballad on Warner Bros.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Al B. Sure! – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Al_B._Sure!",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R1-RES2",
+          "episodeId": "EP015",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Tony! Toni! Toné! embraced the New Jack Swing tempo with which energetic 1990 hit?",
+          "choices": [
+            "If I Had No Loot",
+            "Whatever You Want",
+            "Anniversary",
+            "Feels Good"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tony! Toni! Toné!",
+            "song": "Feels Good",
+            "album": "The Revival",
+            "year": 1990,
+            "topicTags": [
+              "Tony! Toni! Toné!",
+              "Feels Good",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Verified: 'Feels Good' is a Tony! Toni! Toné! single from 1990.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tony! Toni! Toné! – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tony!_Toni!_Ton%C3%A9!",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R1-RES3",
+          "episodeId": "EP015",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Heavy D & The Boyz delivered a global New Jack Swing hit in 1991 with a cover of which O'Jays song?",
+          "choices": [
+            "Now That We Found Love",
+            "Love Train",
+            "Use Ta Be My Girl",
+            "For the Love of Money"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Heavy D & The Boyz",
+            "song": "Now That We Found Love",
+            "album": "Peaceful Journey",
+            "year": 1991,
+            "topicTags": [
+              "Heavy D & The Boyz",
+              "Now That We Found Love",
+              "cover",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Verified: 'Now That We Found Love' is a 1991 Heavy D & The Boyz hit.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Heavy D & the Boyz – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Heavy_D_%26_the_Boyz",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R1-RES4",
+          "episodeId": "EP015",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which R&B group released the massive New Jack Swing hit 'Spread My Wings' in 1989?",
+          "choices": [
+            "Troop",
+            "Today",
+            "Soul for Real",
+            "Hi-Five"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Troop",
+            "song": "Spread My Wings",
+            "album": "Attitude",
+            "year": 1989,
+            "topicTags": [
+              "Troop",
+              "Spread My Wings",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Verified: 'Spread My Wings' is a Troop single associated with the New Jack Swing era.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Troop (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Troop_(group)",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The producers behind the boards, the label politics, and the lineage of the greatest New Jack Swing groups.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "questions": [
+        {
+          "id": "EP015-R2-Q1",
+          "episodeId": "EP015",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "After the initial dissolution of Guy, Teddy Riley co-wrote and produced which massive 1992 Wreckx-N-Effect hit that became a New Jack Swing anthem?",
+          "choices": [
+            "New Jack Swing",
+            "Knack to This",
+            "Hard or Smooth",
+            "Rump Shaker"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Wreckx-N-Effect",
+            "song": "Rump Shaker",
+            "album": "Hard or Smooth",
+            "year": 1992,
+            "topicTags": [
+              "Teddy Riley",
+              "Wreckx-N-Effect",
+              "Rump Shaker",
+              "New Jack Swing",
+              "producer"
+            ],
+            "fact": "'Rump Shaker' peaked at #2 on the Billboard Hot 100 in 1993 and spent multiple weeks at #1 on the R&B chart — co-written and produced by Teddy Riley, it bridged New Jack Swing's energy with the emerging bass-heavy sound of early 90s urban radio.",
+            "storyHook": "",
+            "sourceNotes": "Verified: After Guy's initial dissolution, Teddy Riley co-wrote and produced 'Rump Shaker' for Wreckx-n-Effect (1992), one of the first records made at Future Recording Studios.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wreckx-n-Effect – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Wreckx-n-Effect",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Hard or Smooth – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hard_or_Smooth",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R2-Q2",
+          "episodeId": "EP015",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Jimmy Jam & Terry Lewis crafted which iconic 1989 Janet Jackson album that heavily utilized the aggressive, industrial drum sounds of New Jack Swing?",
+          "choices": [
+            "Rhythm Nation 1814",
+            "Control",
+            "The Velvet Rope",
+            "janet."
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": null,
+            "album": "Rhythm Nation 1814",
+            "year": 1989,
+            "topicTags": [
+              "Janet Jackson",
+              "Rhythm Nation 1814",
+              "Jam & Lewis",
+              "producer"
+            ],
+            "fact": "'Rhythm Nation 1814' produced a record-breaking seven top-five singles on the Billboard Hot 100.",
+            "storyHook": "They didn't just make an album; they made a militant, highly choreographed movement.",
+            "sourceNotes": "Verified: Rhythm Nation 1814 (1989) is the Janet Jackson album produced by Jimmy Jam & Terry Lewis.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Janet Jackson's Rhythm Nation 1814 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Janet_Jackson%27s_Rhythm_Nation_1814",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R2-Q3",
+          "episodeId": "EP015",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Michael Jackson completely modernized his sound by hiring Teddy Riley to co-produce the bulk of which 1991 album?",
+          "choices": [
+            "Dangerous",
+            "Invincible",
+            "Bad",
+            "HIStory"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Michael Jackson",
+            "song": null,
+            "album": "Dangerous",
+            "year": 1991,
+            "topicTags": [
+              "Michael Jackson",
+              "Dangerous",
+              "Teddy Riley",
+              "producer"
+            ],
+            "fact": "Teddy Riley co-produced huge tracks like 'Remember the Time' and 'In the Closet', making 'Dangerous' one of the best-selling albums of all time.",
+            "storyHook": "When the King of Pop needed to sound like the streets, he made one phone call to the King of New Jack Swing.",
+            "sourceNotes": "Verified: Michael Jackson hired Teddy Riley to co-produce Dangerous (1991), modernizing his sound with New Jack Swing elements.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dangerous (Michael Jackson album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dangerous_(Michael_Jackson_album)",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R2-Q4",
+          "episodeId": "EP015",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which Minneapolis R&B group — known for 'Breaking My Heart (Pretty Brown Eyes)' — bridged New Jack Swing with live funk instrumentation?",
+          "choices": [
+            "Mint Condition",
+            "The Time",
+            "New Power Generation",
+            "Sounds of Blackness"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mint Condition",
+            "song": "Breaking My Heart (Pretty Brown Eyes)",
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "Mint Condition",
+              "Minneapolis",
+              "New Jack Swing",
+              "live funk",
+              "Breaking My Heart"
+            ],
+            "fact": "Mint Condition — formed in Minneapolis — combined New Jack Swing's rhythmic energy with live instrumentation rather than drum machines, placing them at the intersection of NJS and the emerging neo-soul movement. 'Breaking My Heart (Pretty Brown Eyes)' reached the R&B top 10 in 1992.",
+            "storyHook": "",
+            "sourceNotes": "Verified: Mint Condition is a Minneapolis R&B group known for 'Breaking My Heart (Pretty Brown Eyes)' and their live-instrument approach to New Jack Swing.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mint Condition (band) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mint_Condition_(band)",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R2-Q5",
+          "episodeId": "EP015",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Tony! Toni! Toné!'s 1991 anthem — which has become one of the most enduring songs of the New Jack Swing era — was titled what?",
+          "choices": [
+            "Anniversary",
+            "Feels Good",
+            "It Never Rains (In Southern California)",
+            "Whatever You Want"
+          ],
+          "correctIndex": 0,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tony! Toni! Toné!",
+            "song": "Anniversary",
+            "album": "Sons of Soul",
+            "year": 1993,
+            "topicTags": [
+              "Tony! Toni! Toné!",
+              "Anniversary",
+              "New Jack Swing",
+              "classic soul"
+            ],
+            "fact": "'Anniversary' was released in 1993 from Sons of Soul and became Tony! Toni! Toné!'s most enduring hit — its classic soul arrangement, distinct from the harder-edged NJS production of the era, demonstrated the genre's stylistic range and the group's musical sophistication.",
+            "storyHook": "",
+            "sourceNotes": "Verified: 'Anniversary' is a 1991 Tony! Toni! Toné! anthem, one of the era's most enduring R&B records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tony! Toni! Toné! – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tony!_Toni!_Ton%C3%A9!",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R2-B1",
+          "episodeId": "EP015",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Bobby Brown won the Grammy for Best Male R&B Vocal Performance at the 1990 ceremony for which single?",
+          "choices": [
+            "Don't Be Cruel",
+            "My Prerogative",
+            "Rock Wit'cha",
+            "Every Little Step"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — BOBBY BROWN'S GRAMMY-WINNING SINGLE",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Bobby Brown",
+            "song": "Every Little Step",
+            "album": "Don't Be Cruel",
+            "year": 1990,
+            "topicTags": [
+              "Bobby Brown",
+              "Every Little Step",
+              "Grammy",
+              "Best Male R&B Vocal Performance",
+              "bonus digit"
+            ],
+            "fact": "'Every Little Step' won Grammy Best Male R&B Vocal Performance at the 32nd Grammy Awards in 1990 — one of five singles from Don't Be Cruel to chart in the Top 10, it solidified Bobby Brown as the defining male voice of the New Jack Swing movement.",
+            "storyHook": "",
+            "sourceNotes": "Verified: Bobby Brown won Best Male R&B Vocal Performance at the 1990 Grammy ceremony (32nd Grammys) for 'Every Little Step.'",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Every Little Step – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Every_Little_Step",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP015-R2-RES1",
+          "episodeId": "EP015",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Tony! Toni! Toné! — the New Jack Swing-influenced trio known for 'Feels Good' and 'Anniversary' — were from which Bay Area city?",
+          "choices": [
+            "Berkeley",
+            "San Francisco",
+            "Oakland",
+            "San Jose"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tony! Toni! Toné!",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Tony! Toni! Toné!",
+              "Oakland",
+              "Bay Area",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Verified: Tony! Toni! Toné! are from Oakland, California.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tony! Toni! Toné! – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tony!_Toni!_Ton%C3%A9!",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R2-RES2",
+          "episodeId": "EP015",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which New Edition member achieved massive solo success with the Jam & Lewis-produced New Jack Swing hit 'Rub You the Right Way'?",
+          "choices": [
+            "Johnny Gill",
+            "Ralph Tresvant",
+            "Bobby Brown",
+            "Ricky Bell"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Johnny Gill",
+            "song": "Rub You the Right Way",
+            "album": "Johnny Gill",
+            "year": 1990,
+            "topicTags": [
+              "Johnny Gill",
+              "Rub You the Right Way",
+              "Jam & Lewis",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Verified: Johnny Gill is a New Edition member who achieved massive solo success with production from Jimmy Jam & Terry Lewis.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Johnny Gill – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Johnny_Gill",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R2-RES3",
+          "episodeId": "EP015",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Heavy D & the Boyz — whose energetic New Jack Swing sound was central to the Uptown Records identity — were from which New York city?",
+          "choices": [
+            "Mount Vernon",
+            "The Bronx",
+            "Yonkers",
+            "Brooklyn"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Heavy D & the Boyz",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Heavy D",
+              "Mount Vernon",
+              "New York",
+              "Uptown Records",
+              "New Jack Swing",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Verified: Heavy D & The Boyz were from Mount Vernon, New York.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Heavy D & the Boyz – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Heavy_D_%26_the_Boyz",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The deepest architecture. Lineup shifts, exact studio geography, and the true timeline of the movement.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "questions": [
+        {
+          "id": "EP015-R3-Q1",
+          "episodeId": "EP015",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Which original member of Guy left the group shortly after their debut album, leading to Damion Hall joining the lineup?",
+          "choices": [
+            "Timmy Gatling",
+            "Dave Hollister",
+            "Carl Bourelly",
+            "Chauncey Hannibal"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Guy",
+            "song": null,
+            "album": "Guy",
+            "year": 1988,
+            "topicTags": [
+              "Guy",
+              "Timmy Gatling",
+              "group_member",
+              "lineup"
+            ],
+            "fact": "Timmy Gatling co-founded Guy with Teddy Riley and Aaron Hall but left right as their 1988 debut album began taking off.",
+            "storyHook": "He helped lay the foundation for an entire genre, then walked away right before the genre exploded.",
+            "sourceNotes": "Verified: Timmy Gatling was an original Guy member who left after the debut album; Damion Hall replaced him. Confirmed across Wikipedia, NJS fandom, and multiple sources.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Guy (band) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Guy_(band)",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "NJS4Ever – The Trailblazer: Teddy Riley",
+                "url": "http://njs4ever.net/teddyriley.html",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R3-Q2",
+          "episodeId": "EP015",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Teddy Riley established 'Future Recording Studios' to craft his signature New Jack Swing sound. In which city was it located?",
+          "choices": [
+            "Atlanta, Georgia",
+            "Virginia Beach, Virginia",
+            "Brooklyn, New York",
+            "Los Angeles, California"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Teddy Riley",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "Teddy Riley",
+              "Future Records",
+              "Virginia Beach",
+              "studio"
+            ],
+            "fact": "Teddy Riley moved his operation from Harlem to Virginia Beach, effectively laying the groundwork for the Virginia production dynasty that would later include Timbaland and The Neptunes.",
+            "storyHook": "He left the birthplace of hip-hop to build his own empire in the south, changing the geography of R&B forever.",
+            "sourceNotes": "Verified: Teddy Riley established Future Recording Studios in Virginia Beach, Virginia in 1991. Studio name corrected from 'Future Records Recording Studios' in original stem.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wreckx-n-Effect – Wikipedia (cites studio founding)",
+                "url": "https://en.wikipedia.org/wiki/Wreckx-n-Effect",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Red Bull Music Academy – Interview: Teddy Riley on His Virginia Years",
+                "url": "https://daily.redbullmusicacademy.com/2015/04/teddy-riley-interview/",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R3-B1",
+          "episodeId": "EP015",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Janet Jackson's 'Rhythm Nation 1814' — whose New Jack Swing production by Jimmy Jam & Terry Lewis set a new standard — was released in what year?",
+          "choices": [
+            "1988",
+            "1987",
+            "1990",
+            "1989"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — YEAR RHYTHM NATION DROPPED",
+            "codeDigit": "8"
+          },
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": null,
+            "album": "Rhythm Nation 1814",
+            "year": 1989,
+            "topicTags": [
+              "Janet Jackson",
+              "Rhythm Nation 1814",
+              "Jimmy Jam",
+              "Terry Lewis",
+              "1989",
+              "bonus digit"
+            ],
+            "fact": "Rhythm Nation 1814 was released on A&M Records on September 19, 1989 — its New Jack Swing-dominated production by Jimmy Jam & Terry Lewis yielded seven Top 5 singles, including four #1 hits, making it the first album by any artist to produce that many chart-topping singles.",
+            "storyHook": "",
+            "sourceNotes": "Verified: Janet Jackson's Rhythm Nation 1814 was released in 1989.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Janet Jackson's Rhythm Nation 1814 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Janet_Jackson%27s_Rhythm_Nation_1814",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP015-R3-RES1",
+          "episodeId": "EP015",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Which New Jack Swing group featured future solo star and producer Teddy Riley as a core member before he went on to form Blackstreet?",
+          "choices": [
+            "Tony! Toni! Toné!",
+            "Guy",
+            "Today",
+            "Troop"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Basic Black",
+            "song": null,
+            "album": "Basic Black",
+            "year": 1990,
+            "topicTags": [
+              "Basic Black",
+              "Timmy Gatling",
+              "Carl Bourelly",
+              "group_member",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Verified: Teddy Riley was a core member of Guy (1987–1990) before forming Blackstreet in 1991/1992. Guy is the foundational New Jack Swing group. Sources: Wikipedia https://en.wikipedia.org/wiki/Guy_(band), https://en.wikipedia.org/wiki/Blackstreet",
+            "clipCue": "",
+            "hostNote": "Teddy Riley is primarily known as a producer and musician; 'solo star' in the stem refers to his broader post-Guy prominence. Guy is mentioned by name in R3-Q1 — if this reserve activates late in Round 3, players may have context from that question.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Guy (band) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Guy_(band)",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Blackstreet – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Blackstreet",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP015-R3-RES2",
+          "episodeId": "EP015",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The term 'New Jack Swing' was coined by which journalist — who also wrote the screenplay for the 1991 film 'New Jack City'?",
+          "choices": [
+            "Harry Allen",
+            "Barry Michael Cooper",
+            "Nelson George",
+            "Greg Tate"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Barry Michael Cooper",
+              "New Jack Swing",
+              "term",
+              "New Jack City",
+              "journalist",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Verified: Barry Michael Cooper coined the term 'New Jack Swing' in a 1987/1988 Village Voice profile of Teddy Riley, and wrote the 1991 New Jack City screenplay. Cooper passed away January 22, 2025.",
+            "clipCue": "",
+            "hostNote": "Barry Michael Cooper passed away January 22, 2025. Frame the question matter-of-factly — the focus is his cultural contribution, not his passing.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Billboard – Barry Michael Cooper obituary",
+                "url": "https://www.billboard.com/music/rb-hip-hop/barry-michael-cooper-1235882261/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "MasterClass – New Jack Swing Music Guide",
+                "url": "https://www.masterclass.com/articles/new-jack-swing",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "NPR – Remembering Barry Michael Cooper",
+                "url": "https://www.npr.org/2025/01/24/nx-s1-5273661/remembering-writer-and-director-barry-michael-cooper",
+                "accessed": "2026-05-27"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-09",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ],
+            "factCheckStatus": "verified"
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.2",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-27T17:04:58.044211+00:00"
+  }
+}

@@ -1,0 +1,1541 @@
+{
+  "episodeId": "EP019",
+  "title": "Bad Boy's R&B Arm",
+  "theme": "The other side of the empire. 112, Total, Faith Evans, Carl Thomas, and the Hitmen who made them.",
+  "narrativePurpose": "Test knowledge of Bad Boy's R&B infrastructure — the artists, producers, albums, and chart history that ran parallel to the label's hip-hop dominance.",
+  "toneProgression": "Member IDs and debut hits → albums, producers, and chart history → geography, corporate structure, and the extended empire",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-4 — the year Bad Boy launched its first commercial releases. Craig Mack's Flava in Ya Ear and The Notorious B.I.G.'s Ready to Die opened the doors. The R&B roster that followed was built on this foundation."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "Member identification, debut singles, and the hits that defined Bad Boy's R&B identity.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP019-R1-Q1",
+          "episodeId": "EP019",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "112's Bad Boy quartet consisted of Q, Slim, and Daron Jones alongside which fourth member?",
+          "choices": [
+            "Stevie J",
+            "Mario Winans",
+            "Mike Keith",
+            "Chucky Thompson"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "112",
+            "song": null,
+            "album": "112",
+            "year": 1996,
+            "topicTags": [
+              "112",
+              "Mike Keith",
+              "Bad Boy Records",
+              "quartet",
+              "group member"
+            ],
+            "fact": "112's four members — Q (Michael Keith), Slim (Marvin Scandrick), Daron Jones, and Mike Keith — were all born in Atlanta and signed to Bad Boy Records after Puff Daddy saw them perform at a talent showcase. Their close harmonies and Atlanta sensibility brought a Southern softness to the Bad Boy sound that distinguished them from the label's New York core.",
+            "storyHook": "Four voices from Atlanta, signed to a New York label, making the smoothest R&B Bad Boy ever released. The combination worked.",
+            "sourceNotes": "112 official biography. Bad Boy Records press materials. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "All four choices are real Bad Boy producers or artists — maximum distractor potential.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "112 (band) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/112_(band)",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "112 was a highly popular R&B group – Facebook",
+                "url": "https://www.facebook.com/100083195689510/posts/112-was-a-highly-popular-rb-group-that-emerged-in-the-mid-1990s-the-group-was-kn/",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R1-Q2",
+          "episodeId": "EP019",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Total — the Bad Boy girl trio known for 'Kissin' You' — consisted of Kima and Keisha alongside which third member?",
+          "choices": [
+            "Faith",
+            "Pam",
+            "Keisha",
+            "Kima"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Total",
+            "song": "Kissin' You",
+            "album": "Total",
+            "year": 1996,
+            "topicTags": [
+              "Total",
+              "Pam",
+              "Kima",
+              "Keisha",
+              "Bad Boy Records",
+              "girl group"
+            ],
+            "fact": "Total's three members — Kima (Kimberley Costner), Keisha (Keisha Spivey), and Pam (Pamela Long) — made their first recorded appearance as the uncredited hook vocalists on The Notorious B.I.G.'s 1994 debut single 'Juicy,' before any of their own material was released. Pam Long later sang the uncredited hook on Biggie's 1997 smash 'Hypnotize.' Total's formal debut as credited artists came with their own releases on Bad Boy in 1995.",
+            "storyHook": "Three names. Three voices. One of the most underappreciated girl groups in Bad Boy history.",
+            "sourceNotes": "Total official biography. Juicy (Ready to Die, 1994) liner notes. Bad Boy Records press materials. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Total – interview clip (TMF, 1996) – YouTube",
+                "url": "https://www.youtube.com/watch?v=s8_0TZZNeTg",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R1-Q3",
+          "episodeId": "EP019",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Faith Evans' 1995 debut single on Bad Boy Records — which introduced her as one of the label's defining voices — was titled what?",
+          "choices": [
+            "Love Like This",
+            "Never Gonna Let You Go",
+            "You Used to Love Me",
+            "Soon As I Get Home"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Faith Evans",
+            "song": "You Used to Love Me",
+            "album": "Faith",
+            "year": 1995,
+            "topicTags": [
+              "Faith Evans",
+              "You Used to Love Me",
+              "Bad Boy Records",
+              "debut single",
+              "1995"
+            ],
+            "fact": "'You Used to Love Me' reached the top 10 on the Billboard R&B chart in 1995 and announced Faith Evans as a distinct vocal presence within the Bad Boy roster — her gospel-rooted delivery and emotional directness immediately set her apart from the label's harder-edged hip-hop identity.",
+            "storyHook": "The first voice Bad Boy gave to an R&B woman who was not part of a group. It landed.",
+            "sourceNotes": "Faith liner notes (Bad Boy/Arista, 1995). Billboard R&B chart archives. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Faith Evans – You Used to Love Me (1995) – YouTube",
+                "url": "https://www.youtube.com/watch?v=L8vm9-Imb84",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R1-Q4",
+          "episodeId": "EP019",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Carl Thomas broke through in 2000 with which breakthrough single — a slow-building ballad about wanting a former lover back?",
+          "choices": [
+            "Cherry",
+            "Emotional",
+            "You Ain't Right",
+            "I Wish"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Carl Thomas",
+            "song": "I Wish",
+            "album": "Emotional",
+            "year": 2000,
+            "topicTags": [
+              "Carl Thomas",
+              "I Wish",
+              "Bad Boy Records",
+              "2000",
+              "debut single"
+            ],
+            "fact": "'I Wish' reached #6 on the Billboard Hot 100 in 2000 and became one of Bad Boy's biggest late-era R&B crossover hits — Carl Thomas's understated, aching delivery made the song one of the year's most played R&B ballads and introduced him as a credible solo voice on the label.",
+            "storyHook": "Bad Boy was transitioning. The hip-hop era was shifting. Carl Thomas arrived with a ballad and gave the label something it needed.",
+            "sourceNotes": "Emotional liner notes (Bad Boy/Arista, 2000). Billboard Hot 100 chart archives. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Wish (Carl Thomas song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Wish_(Carl_Thomas_song)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R1-Q5",
+          "episodeId": "EP019",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "112 returned to the top of the charts in 2001 with which seductive hit from their third album?",
+          "choices": [
+            "Dance with Me",
+            "Only You",
+            "Anywhere",
+            "Peaches & Cream"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "112",
+            "song": "Peaches & Cream",
+            "album": "Part III",
+            "year": 2001,
+            "topicTags": [
+              "112",
+              "Peaches & Cream",
+              "Bad Boy Records",
+              "Part III",
+              "2001"
+            ],
+            "fact": "'Peaches & Cream' became 112's highest-charting single in years, demonstrating the quartet's longevity on the Bad Boy roster at a time when the label was pivoting commercially. The song's playful sensuality was a deliberate contrast to the more sober emotional register of their earlier work.",
+            "storyHook": "Five years into their career, 112 proved they could still top the charts. Bad Boy's R&B arm was still operational in 2001.",
+            "sourceNotes": "Part III liner notes (Bad Boy/Arista, 2001). Billboard chart archives. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Peaches & Cream (112 song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Peaches_%26_Cream_(112_song)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R1-Q6",
+          "episodeId": "EP019",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Bad Boy's in-house production collective — whose members crafted the label's signature R&B sound — was known by what name?",
+          "choices": [
+            "The Neptunes",
+            "The Trackmasters",
+            "The Hitmen",
+            "Organized Noize"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "The Hitmen",
+              "Bad Boy Records",
+              "production collective",
+              "Chucky Thompson",
+              "Stevie J"
+            ],
+            "fact": "The Hitmen were Bad Boy's core production team — a rotating collective of producers including Chucky Thompson, Stevie J, DJ Clue, and others who provided the sonic infrastructure for the label's entire R&B and hip-hop catalog. Their sound was defined by lush orchestration, heavy 808s, and a cinematic quality that gave Bad Boy records a recognizable sonic signature.",
+            "storyHook": "Every hit on the label ran through them. The artists got the credit. The Hitmen built the room.",
+            "sourceNotes": "Bad Boy Records production documentation. Chucky Thompson and Stevie J biographical records. AllMusic production credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Top 10 Best R&B Songs Produced by Bad Boy's HitMen – YouKnowIGotSoul",
+                "url": "https://youknowigotsoul.com/the-top-10-best-rnb-songs-produced-by-bad-boys-hitmen-production-team",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R1-B1",
+          "episodeId": "EP019",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Faith Evans' debut album on Bad Boy Records — released in 1995 — was titled what?",
+          "choices": [
+            "Soon As I Get Home",
+            "You Used to Love Me",
+            "Keep the Faith",
+            "Faith"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — FAITH EVANS' DEBUT ALBUM TITLE"
+          },
+          "metadata": {
+            "artist": "Faith Evans",
+            "song": null,
+            "album": "Faith",
+            "year": 1995,
+            "topicTags": [
+              "Faith Evans",
+              "Faith",
+              "debut album",
+              "Bad Boy Records",
+              "1995",
+              "bonus digit"
+            ],
+            "fact": "'Faith' was released on Bad Boy/Arista Records in 1995 — it debuted at #15 on the Billboard 200 and went platinum, establishing Faith Evans as the label's preeminent female solo voice. The album's gospel-influenced production and Evans's raw vocal honesty made it one of the period's most artistically distinctive Bad Boy releases.",
+            "storyHook": "One word. One album. One voice that outlasted almost everyone else on the roster.",
+            "sourceNotes": "Faith liner notes (Bad Boy/Arista, 1995). Billboard chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Faith (Faith Evans album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Faith_(Faith_Evans_album)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP019-R1-RES1",
+          "episodeId": "EP019",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Total's 1996 self-titled debut album contained which lead single — their smooth, understated signature track?",
+          "choices": [
+            "No One Else",
+            "Kissin' You",
+            "Trippin'",
+            "Can't You See"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Total",
+            "song": "Kissin' You",
+            "album": "Total",
+            "year": 1996,
+            "topicTags": [
+              "Total",
+              "Kissin' You",
+              "Bad Boy Records",
+              "debut single",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Total liner notes (Bad Boy/Arista, 1996). Billboard R&B chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Kissin' You – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Kissin%27_You",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R1-RES2",
+          "episodeId": "EP019",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "112's debut album contained 'Cupid' alongside which collaboration with The Notorious B.I.G. that became one of Bad Boy's first major R&B crossover hits?",
+          "choices": [
+            "Love Me",
+            "Anywhere",
+            "Cupid",
+            "Only You"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "112",
+            "song": "Only You",
+            "album": "112",
+            "year": 1996,
+            "topicTags": [
+              "112",
+              "Only You",
+              "The Notorious B.I.G.",
+              "Bad Boy Records",
+              "crossover",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "112 liner notes (Bad Boy/Arista, 1996). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Only You (112 song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Only_You_(112_song)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R1-RES3",
+          "episodeId": "EP019",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "112 took their group name from which Atlanta nightclub — the venue where they secured their audition in front of Sean 'Puffy' Combs and Faith Evans?",
+          "choices": [
+            "Club 559",
+            "Jellybeans",
+            "Club 112",
+            "The Tabernacle"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "112",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "112",
+              "Club 112",
+              "Atlanta",
+              "name origin",
+              "audition",
+              "Puff Daddy",
+              "swap reserve"
+            ],
+            "fact": "112 got their name from Club 112 — the Atlanta nightclub where the quartet secured a pivotal audition in front of Puff Daddy and Faith Evans. The group performed there and made enough of an impression to be signed to Bad Boy. The name stuck, connecting their identity permanently to the room where their career began.",
+            "storyHook": "",
+            "sourceNotes": "112 official biography. Bad Boy Records signing history. Club 112 venue documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "112 (band) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/112_(band)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R1-RES4",
+          "episodeId": "EP019",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Faith Evans was born in which Florida city — before her family relocated to Newark, New Jersey, where she began singing in church choirs?",
+          "choices": [
+            "Jacksonville",
+            "Tampa",
+            "Lakeland",
+            "Orlando"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Faith Evans",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Faith Evans",
+              "Lakeland",
+              "Florida",
+              "birthplace",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Faith Evans official biography. Bad Boy Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Faith Evans – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Faith_Evans",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Albums, producers, chart peaks, and the personal stories behind the Bad Boy R&B machine.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP019-R2-Q1",
+          "episodeId": "EP019",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Faith Evans' second album — released in 1998 in the aftermath of The Notorious B.I.G.'s death — was titled what?",
+          "choices": [
+            "Faith",
+            "Stronger",
+            "Faithfully",
+            "Keep the Faith"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Faith Evans",
+            "song": null,
+            "album": "Keep the Faith",
+            "year": 1998,
+            "topicTags": [
+              "Faith Evans",
+              "Keep the Faith",
+              "1998",
+              "Bad Boy Records",
+              "second album"
+            ],
+            "fact": "'Keep the Faith' was released in 1998 — the year after The Notorious B.I.G.'s murder — and carried the emotional weight of both personal grief and public expectation. Its title was both an album name and a directive. Evans delivered one of the most emotionally coherent Bad Boy releases of the era.",
+            "storyHook": "Her husband had just been murdered. The label was in mourning. She still delivered an album. The title was not a coincidence.",
+            "sourceNotes": "Keep the Faith liner notes (Bad Boy/Arista, 1998). Billboard chart archives. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Keep the Faith (Faith Evans album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Keep_the_Faith_(Faith_Evans_album)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R2-Q2",
+          "episodeId": "EP019",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "112's debut album — produced by core Hitmen architect Chucky Thompson — contained which mid-tempo slow jam that became the quartet's defining signature?",
+          "choices": [
+            "Love Me",
+            "Only You",
+            "Anywhere",
+            "Cupid"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "112",
+            "song": "Cupid",
+            "album": "112",
+            "year": 1996,
+            "topicTags": [
+              "112",
+              "Cupid",
+              "debut album",
+              "Bad Boy Records",
+              "Chucky Thompson"
+            ],
+            "fact": "'Cupid' became 112's most recognizable early single — its warm, understated production by Hitmen architect Chucky Thompson defined the Bad Boy R&B sound at the label's commercial peak. The song's restraint and harmonic precision distinguished 112 from the louder R&B acts of the era.",
+            "storyHook": "The producer nobody outside the industry talked about, building every track fans couldn't stop talking about.",
+            "sourceNotes": "112 liner notes (Bad Boy/Arista, 1996). Billboard R&B chart archives. Chucky Thompson production credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "112 (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/112_(album)",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "Cupid – 112 discography – AllMusic",
+                "url": "https://www.allmusic.com/album/112-mw0000186066",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R2-Q3",
+          "episodeId": "EP019",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Puff Daddy's debut album — a sprawling Bad Boy family showcase that housed the label's entire roster — was titled what?",
+          "choices": [
+            "No Way Out",
+            "Forever",
+            "Hell Up in Harlem",
+            "Press Play"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Puff Daddy",
+            "song": null,
+            "album": "No Way Out",
+            "year": 1997,
+            "topicTags": [
+              "Puff Daddy",
+              "No Way Out",
+              "Bad Boy Records",
+              "1997",
+              "debut album",
+              "Billboard 200"
+            ],
+            "fact": "'No Way Out' debuted at #1 on the Billboard 200 in 1997 and won the Grammy for Best Rap Album — it featured Faith Evans, 112, Total, and The Notorious B.I.G. across its tracklist, functioning as a comprehensive showcase of Bad Boy's full roster at the peak of the label's commercial power.",
+            "storyHook": "Not just a solo debut. A state-of-the-label address. Every Bad Boy artist was in the room.",
+            "sourceNotes": "No Way Out liner notes (Bad Boy/Arista, 1997). Billboard 200 chart archives. Grammy Award records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No Way Out – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_Way_Out_(Puff_Daddy_album)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R2-Q4",
+          "episodeId": "EP019",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Faith Evans and The Notorious B.I.G. were married in which month of 1994 — just nine days after they met?",
+          "choices": [
+            "August",
+            "February",
+            "October",
+            "June"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Faith Evans",
+            "song": null,
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "Faith Evans",
+              "The Notorious B.I.G.",
+              "marriage",
+              "August 1994",
+              "Bad Boy Records"
+            ],
+            "fact": "Faith Evans and The Notorious B.I.G. married on August 4, 1994 — just nine days after they first met at a Bad Boy photo shoot. Evans remained his wife at the time of his murder in 1997 and co-performed the tribute 'I'll Be Missing You' with Puff Daddy — with 112 prominently singing the choruses alongside her, earning the track a Grammy for Best Rap Performance by a Duo or Group with Vocal.",
+            "storyHook": "Nine days after they met. Married. The most consequential Bad Boy union, measured in royalties and grief.",
+            "sourceNotes": "Faith Evans memoir documentation. The Notorious B.I.G. biographical records. 'I'll Be Missing You' Grammy Award records (40th ceremony, 1998). Marriage certificate public records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Faith Evans – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Faith_Evans",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R2-Q5",
+          "episodeId": "EP019",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Carl Thomas's debut album — the record that contained 'I Wish' — was titled what?",
+          "choices": [
+            "I Wish",
+            "Dedication",
+            "Emotional",
+            "Ready"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Carl Thomas",
+            "song": "I Wish",
+            "album": "Emotional",
+            "year": 2000,
+            "topicTags": [
+              "Carl Thomas",
+              "Emotional",
+              "Bad Boy Records",
+              "debut album",
+              "2000"
+            ],
+            "fact": "'Emotional' was released on Bad Boy/Arista in 2000 and sold over a million copies — a rare platinum debut for the label in a period when Bad Boy was navigating a post-Biggie commercial identity. Carl Thomas's understated style was a deliberate pivot from the label's louder, more maximalist R&B sound.",
+            "storyHook": "Bad Boy needed a new voice in 2000. Carl Thomas gave them one. The album went platinum.",
+            "sourceNotes": "Emotional liner notes (Bad Boy/Arista, 2000). RIAA certification records. AllMusic editorial.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Emotional (Carl Thomas album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Emotional_(Carl_Thomas_album)",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "I Wish (Carl Thomas song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Wish_(Carl_Thomas_song)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R2-B1",
+          "episodeId": "EP019",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Puff Daddy's debut album 'No Way Out' debuted at which position on the Billboard 200 in 1997?",
+          "choices": [
+            "#4",
+            "#8",
+            "#1",
+            "#12"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — NO WAY OUT'S BILLBOARD 200 DEBUT POSITION"
+          },
+          "metadata": {
+            "artist": "Puff Daddy",
+            "song": null,
+            "album": "No Way Out",
+            "year": 1997,
+            "topicTags": [
+              "Puff Daddy",
+              "No Way Out",
+              "Billboard 200",
+              "#1",
+              "1997",
+              "bonus digit"
+            ],
+            "fact": "'No Way Out' debuted at #1 on the Billboard 200 upon release in 1997, eventually selling over seven million copies worldwide — making it one of the best-selling rap albums of the decade and cementing Bad Boy's position as the dominant label at the peak of the hip-hop-R&B commercial crossover.",
+            "storyHook": "Biggie was gone. The label debuted his executive's solo album at #1. The machine kept running.",
+            "sourceNotes": "Billboard 200 chart archives (1997). No Way Out RIAA certification. Grammy Award records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No Way Out – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_Way_Out_(Puff_Daddy_album)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP019-R2-RES1",
+          "episodeId": "EP019",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Chucky Thompson — one of The Hitmen's core architects — is from which city, bringing a distinct Mid-Atlantic sensibility to Bad Boy's production sound?",
+          "choices": [
+            "Philadelphia",
+            "Baltimore",
+            "Newark",
+            "Washington D.C."
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Chucky Thompson",
+              "Washington D.C.",
+              "The Hitmen",
+              "producer",
+              "Bad Boy Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Chucky Thompson biographical records. Bad Boy Records production documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Chucky Thompson – Washington Post obituary",
+                "url": "https://www.washingtonpost.com/local/obituaries/chucky-thompson-hitmen-bad-boy/2021/08/09/",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R2-RES2",
+          "episodeId": "EP019",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Hitmen production collective included which producer — known professionally as 'Stevie J' — who later became a reality television personality?",
+          "choices": [
+            "Stevie J",
+            "Mario Winans",
+            "DJ Clue",
+            "Chucky Thompson"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Stevie J",
+              "The Hitmen",
+              "Bad Boy Records",
+              "producer",
+              "reality TV",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "The Hitmen production collective documentation. Stevie J biographical records. Love & Hip Hop documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Top 10 Best R&B Songs Produced by Bad Boy's HitMen – YouKnowIGotSoul",
+                "url": "https://youknowigotsoul.com/the-top-10-best-rnb-songs-produced-by-bad-boys-hitmen-production-team",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R2-RES3",
+          "episodeId": "EP019",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Mario Winans' 2004 hit 'I Don't Wanna Know' — featuring P. Diddy — appeared on which debut album?",
+          "choices": [
+            "Love Forever",
+            "Unbreakable",
+            "Hurt No More",
+            "Meant to Be"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mario Winans",
+            "song": "I Don't Wanna Know",
+            "album": "Hurt No More",
+            "year": 2004,
+            "topicTags": [
+              "Mario Winans",
+              "Hurt No More",
+              "I Don't Wanna Know",
+              "debut album",
+              "Bad Boy",
+              "2004"
+            ],
+            "fact": "'I Don't Wanna Know' appeared on Mario Winans' debut album Hurt No More (2004), released on Bad Boy Records. The album peaked at #4 on the Billboard 200 and produced his commercial breakthrough.",
+            "storyHook": "Close to #1. Not quite. 'I Don't Wanna Know' was the biggest record Mario Winans ever had — and it stalled at #2.",
+            "sourceNotes": "Verified: 'I Don't Wanna Know' is the lead single from Hurt No More (2004). Sources: Wikipedia, Rated R&B, Apple Music.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Hurt No More – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hurt_No_More",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "I Don't Wanna Know – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Don%27t_Wanna_Know",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Mario Winans' 'I Don't Wanna Know' Certified Platinum – Rated R&B",
+                "url": "https://ratedrnb.com/2024/04/mario-winans-i-dont-wanna-know-now-certified-platinum-by-riaa/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Hurt No More – Apple Music track list",
+                "url": "https://music.apple.com/album/hurt-no-more/1738587079",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 4,
+            "lastVerified": "2026-05-18",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Geography, corporate history, and the extended empire that ran alongside the music.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP019-R3-Q1",
+          "episodeId": "EP019",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Faith Evans was raised in which New Jersey city — where she developed her gospel foundation in church choirs before relocating to New York?",
+          "choices": [
+            "Plainfield",
+            "Trenton",
+            "Newark",
+            "Camden"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Faith Evans",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Faith Evans",
+              "Newark",
+              "New Jersey",
+              "origin",
+              "gospel",
+              "childhood"
+            ],
+            "fact": "Faith Evans was born in Lakeland, Florida but raised primarily in Newark, New Jersey — where she sang in church choirs and developed the gospel-inflected vocal style that would define her Bad Boy recordings. Her Newark upbringing gave her a grounding in sacred music that set her apart from the label's more secular R&B voices.",
+            "storyHook": "Church choirs in Newark. Bad Boy Records in New York. The distance between those two rooms is the arc of Faith Evans.",
+            "sourceNotes": "Faith Evans official biography. Bad Boy Records press materials. Newark cultural documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Faith Evans – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Faith_Evans",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R3-Q2",
+          "episodeId": "EP019",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Before the shortened commercial name took hold, Puff Daddy's label was formally incorporated under what full corporate name?",
+          "choices": [
+            "Combs Entertainment",
+            "Bad Boy Music Group",
+            "Bad Boy Records Inc.",
+            "Bad Boy Entertainment"
+          ],
+          "correctIndex": 3,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "Bad Boy Entertainment",
+              "Bad Boy Records",
+              "Puff Daddy",
+              "corporate name",
+              "label history"
+            ],
+            "fact": "The label was formally incorporated as Bad Boy Entertainment — a broader corporate entity than the recording imprint alone. Under the Bad Boy Entertainment umbrella, Puff Daddy eventually expanded into fashion (Sean John), film production, and restaurant ventures, using the entertainment company structure to support businesses beyond music.",
+            "storyHook": "The records were the front door. Bad Boy Entertainment was the whole building.",
+            "sourceNotes": "Bad Boy Entertainment corporate records. Sean Combs business documentation. Label history sources.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bad Boy Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bad_Boy_Records",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R3-B1",
+          "episodeId": "EP019",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Mario Winans — the Bad Boy multi-instrumentalist and producer behind 'I Don't Wanna Know' — is the son of which gospel patriarch from the legendary Winans family?",
+          "choices": [
+            "Daniel Winans",
+            "Marvin Winans",
+            "Ronald Winans",
+            "BeBe Winans"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — MARIO WINANS' GOSPEL PATRIARCH FATHER"
+          },
+          "metadata": {
+            "artist": "Mario Winans",
+            "song": "I Don't Wanna Know",
+            "album": "Hurt No More",
+            "year": 2004,
+            "topicTags": [
+              "Mario Winans",
+              "Marvin Winans",
+              "Winans family",
+              "gospel",
+              "Bad Boy Records",
+              "bonus digit"
+            ],
+            "fact": "Mario Winans is the son of Marvin Winans — the gospel singer and pastor who leads Perfecting Church in Detroit and is one of the most celebrated voices in contemporary gospel. Mario's transition from gospel family to Bad Boy Records producer and artist represented one of the more striking sacred-to-secular career arcs in 2000s R&B.",
+            "storyHook": "Son of a gospel patriarch. Signed to Bad Boy. Producer of R&B. The Winans family continued to contain multitudes.",
+            "sourceNotes": "Mario Winans biographical records. Marvin Winans pastoral and discography documentation. Bad Boy Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mario Winans – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mario_Winans",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP019-R3-RES1",
+          "episodeId": "EP019",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Puff Daddy appeared on the remix of which 1997 Mariah Carey single — one of Bad Boy's most commercially visible R&B crossovers?",
+          "choices": [
+            "Fantasy",
+            "We Belong Together",
+            "Honey",
+            "Heartbreaker"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": "Honey",
+            "album": "Butterfly",
+            "year": 1997,
+            "topicTags": [
+              "Mariah Carey",
+              "Honey",
+              "Puff Daddy",
+              "Bad Boy Records",
+              "crossover",
+              "remix",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Butterfly liner notes (Columbia Records, 1997). Billboard chart archives. Bad Boy Records collaboration documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Honey (Mariah Carey song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Honey_(Mariah_Carey_song)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP019-R3-RES2",
+          "episodeId": "EP019",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Puff Daddy extended the Bad Boy Entertainment brand beyond music in 1998 by launching which fashion line?",
+          "choices": [
+            "Sean John",
+            "FUBU",
+            "Phat Farm",
+            "Rocawear"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1998,
+            "topicTags": [
+              "Sean John",
+              "Puff Daddy",
+              "fashion",
+              "Bad Boy Entertainment",
+              "brand extension",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Sean John fashion line corporate records. Sean Combs business documentation. CFDA Award documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sean John – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sean_John",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-20T03:32:45.087808+00:00"
+  }
+}

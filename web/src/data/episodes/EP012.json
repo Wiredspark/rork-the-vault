@@ -1,0 +1,1509 @@
+{
+  "episodeId": "EP012",
+  "title": "Soundtrack Supremacy II",
+  "theme": "The 1990s era where R&B movie soundtracks were often bigger, better, and more culturally dominant than traditional studio albums.",
+  "narrativePurpose": "Test players on the intersection of cinema and R&B, forcing them to recall which massive hits and deep cuts belonged to which iconic 90s films.",
+  "toneProgression": "Blockbuster movie singles → Specific soundtrack producers and deep cuts → Cassette-only hidden tracks and supergroup credits",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "2"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-2 — the year The Bodyguard's soundtrack set the commercial template every major R&B act would follow for a decade. An album marketed as a film tie-in that became the best-selling soundtrack of all time."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The massive crossover singles attached to blockbusters. Identify the R&B anthems that dominated the box office and the Billboard charts.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "questions": [
+        {
+          "id": "EP012-R1-Q1",
+          "episodeId": "EP012",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Whitney Houston starred in and performed the iconic title track for which 1992 romantic thriller?",
+          "choices": [
+            "Waiting to Exhale",
+            "Boomerang",
+            "Poetic Justice",
+            "The Bodyguard"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "I Will Always Love You",
+            "album": "The Bodyguard: Original Soundtrack Album",
+            "year": 1992,
+            "topicTags": [
+              "Whitney Houston",
+              "The Bodyguard",
+              "soundtrack",
+              "number one"
+            ],
+            "fact": "The Bodyguard soundtrack remains the best-selling soundtrack album of all time, with over 44 million copies sold worldwide.",
+            "storyHook": "The song was so big that LaFace Records eventually added it to the re-release of Cooleyhighharmony just to capitalize on the movie's success.",
+            "sourceNotes": "RIAA database. IMDB Soundtracks for The Bodyguard (1992). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Bodyguard (1992 film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Bodyguard_(1992_film)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 150,
+          "timer": 15
+        },
+        {
+          "id": "EP012-R1-Q2",
+          "episodeId": "EP012",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Coolio's 1995 Grammy-winning mega-hit 'Gangsta's Paradise' (featuring L.V.) was the lead single for which Michelle Pfeiffer film?",
+          "choices": [
+            "Friday",
+            "Dangerous Minds",
+            "Set It Off",
+            "Bad Boys"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "Coolio ft. L.V.",
+            "song": "Gangsta's Paradise",
+            "album": "Dangerous Minds: Music from the Motion Picture",
+            "year": 1995,
+            "topicTags": [
+              "Coolio",
+              "Dangerous Minds",
+              "soundtrack",
+              "Grammy"
+            ],
+            "fact": "'Gangsta's Paradise' spent 3 weeks at #1 on the Billboard Hot 100 and won the Grammy for Best Rap Solo Performance at the 1996 ceremony.",
+            "storyHook": "",
+            "sourceNotes": "IMDB Soundtracks for Dangerous Minds (1995). MCA Records official release. RIAA database.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dangerous Minds soundtrack – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dangerous_Minds_(soundtrack)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 250,
+          "timer": 15
+        },
+        {
+          "id": "EP012-R1-Q3",
+          "episodeId": "EP012",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The entire 1997 soundtrack for which Chicago-set family drama was written and produced solely by Babyface?",
+          "choices": [
+            "Love Jones",
+            "How Stella Got Her Groove Back",
+            "Soul Food",
+            "The Best Man"
+          ],
+          "correctIndex": 2,
+          "bonus": null,
+          "metadata": {
+            "artist": "Various Artists",
+            "song": null,
+            "album": "Soul Food: Music from the Original Motion Picture",
+            "year": 1997,
+            "topicTags": [
+              "Soul Food",
+              "Babyface",
+              "LaFace",
+              "soundtrack"
+            ],
+            "fact": "The Soul Food soundtrack went platinum and introduced the supergroup Milestone — featuring Babyface, K-Ci & JoJo, and Kevon Edmonds — to mainstream audiences.",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Soul Food (LaFace). IMDB Soundtracks database. RIAA certification data.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Food (film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soul_Food_(film)",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Top 10 Best Songs Babyface Wrote For Other Artists – YouKnowIGotSoul",
+                "url": "https://youknowigotsoul.com/the-top-10-best-songs-babyface-wrote-for-other-artists",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 350,
+          "timer": 15
+        },
+        {
+          "id": "EP012-R1-Q4",
+          "episodeId": "EP012",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The all-star anthem 'U Will Know' — featuring nearly every major male R&B voice of 1994 — was recorded for the soundtrack of which Houston-set film?",
+          "choices": [
+            "New Jack City",
+            "Jason's Lyric",
+            "Above the Rim",
+            "Menace II Society"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "Black Men United",
+            "song": "U Will Know",
+            "album": "Jason's Lyric: Music from the Motion Picture",
+            "year": 1994,
+            "topicTags": [
+              "Jason's Lyric",
+              "Black Men United",
+              "U Will Know",
+              "soundtrack"
+            ],
+            "fact": "'U Will Know' featured Boyz II Men, Brian McKnight, Usher, R. Kelly, and over a dozen other R&B stars — and was co-written by a then-unknown D'Angelo.",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Jason's Lyric (Mercury). IMDB Soundtracks database. ASCAP database.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jason's Lyric – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jason%27s_Lyric",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "U Will Know – Spotify",
+                "url": "https://open.spotify.com/track/5tPy7tAelXmHkA6OKYvZNC",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 450,
+          "timer": 15
+        },
+        {
+          "id": "EP012-R1-Q5",
+          "episodeId": "EP012",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which hip-hop artist collaborated with singer Nate Dogg for the 1994 hit 'Regulate' from the 'Above the Rim' soundtrack?",
+          "choices": [
+            "Warren G",
+            "Snoop Dogg",
+            "Tupac Shakur",
+            "Dr. Dre"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Warren G & Nate Dogg",
+            "song": "Regulate",
+            "album": "Above the Rim: The Soundtrack",
+            "year": 1994,
+            "topicTags": [
+              "Warren G",
+              "Nate Dogg",
+              "Regulate",
+              "Above the Rim",
+              "soundtrack",
+              "G-Funk"
+            ],
+            "fact": "'Regulate' heavily sampled Michael McDonald's 'I Keep Forgettin'' and became one of the defining anthems of the G-Funk era.",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Above the Rim (Death Row). IMDB Soundtracks database. ASCAP repertoire.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Regulate (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Regulate_(song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 550,
+          "timer": 15
+        },
+        {
+          "id": "EP012-R1-Q6",
+          "episodeId": "EP012",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "D'Angelo contributed 'Girl You Need to Change Your Mind' to the soundtrack of which 1996 Spike Lee film?",
+          "choices": [
+            "4 Little Girls",
+            "Clockers",
+            "Crooklyn",
+            "Get on the Bus"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": "Girl You Need to Change Your Mind",
+            "album": "Get on the Bus: Music from the Motion Picture",
+            "year": 1996,
+            "topicTags": [
+              "D'Angelo",
+              "Get on the Bus",
+              "Spike Lee",
+              "soundtrack"
+            ],
+            "fact": "D'Angelo's contribution to 'Get on the Bus' helped cement his credibility as a live-performance neo-soul artist beyond his debut album.",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Get on the Bus (Interscope). IMDB Soundtracks database. Discogs release credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Girl You Need a Change of Mind by D'Angelo – WhoSampled",
+                "url": "https://www.whosampled.com/D%27Angelo/Girl-You-Need-a-Change-of-Mind/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 750,
+          "timer": 15
+        },
+        {
+          "id": "EP012-R1-B1",
+          "episodeId": "EP012",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "In which month of 1995 was the landmark 'Waiting to Exhale' soundtrack released?",
+          "choices": [
+            "October",
+            "September",
+            "August",
+            "November"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — THE YEAR EVERY WOMAN EXHALED",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": "Various Artists",
+            "song": null,
+            "album": "Waiting to Exhale Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "Waiting to Exhale",
+              "Babyface",
+              "year",
+              "bonus digit"
+            ],
+            "fact": "The Waiting to Exhale soundtrack was released in November 1995 and debuted at #1 on the Billboard 200, remaining there for multiple weeks.",
+            "storyHook": "Babyface gathered the greatest female voices of a generation and crafted the blueprint for the modern R&B soundtrack.",
+            "sourceNotes": "RIAA database. Billboard 200 historical chart data.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Waiting to Exhale released November 14 1995 – Whitney Houston Facebook",
+                "url": "https://www.facebook.com/WhitneyHouston/posts/30-years-ago-today-november-14-1995-waiting-to-exhale-original-soundtrack-album-/1",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP012-R1-RES1",
+          "episodeId": "EP012",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The 1997 Soul Food film — whose soundtrack became a commercial hit — starred which actress in the lead role of Maxine Joseph?",
+          "choices": [
+            "Regina King",
+            "Halle Berry",
+            "Vivica A. Fox",
+            "Nia Long"
+          ],
+          "correctIndex": 2,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": "A Song For Mama",
+            "album": "Soul Food Soundtrack",
+            "year": 1997,
+            "topicTags": [
+              "Soul Food",
+              "Vivica A. Fox",
+              "Maxine Joseph",
+              "1997",
+              "soundtrack",
+              "swap reserve"
+            ],
+            "fact": "Soul Food (1997) starred Vivica A. Fox as Maxine Joseph alongside Nia Long and Vanessa L. Williams. The film was written and directed by George Tillman Jr. and grossed over $43 million at the US box office. Its soundtrack reached #2 on the Billboard 200.",
+            "storyHook": "Vivica A. Fox, Nia Long, and Vanessa L. Williams at the table. Soul Food in 1997 was the ensemble that backed up one of the decade's strongest R&B soundtracks.",
+            "sourceNotes": "IMDB Soundtracks database. Official CD liner notes for Soul Food (LaFace).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Food (film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soul_Food_(film)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 15
+        },
+        {
+          "id": "EP012-R1-RES2",
+          "episodeId": "EP012",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Coolio's 'Gangsta's Paradise' won which Grammy Award at the 38th ceremony in 1996?",
+          "choices": [
+            "Song of the Year",
+            "Record of the Year",
+            "Best R&B Song",
+            "Best Rap Solo Performance"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Coolio ft. L.V.",
+            "song": "Gangsta's Paradise",
+            "album": "Dangerous Minds Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "Coolio",
+              "Gangsta's Paradise",
+              "Grammy",
+              "Best Rap Solo Performance",
+              "1996",
+              "38th Grammy Awards"
+            ],
+            "fact": "'Gangsta's Paradise' won Best Rap Solo Performance at the 38th Grammy Awards in 1996. The song also won the MTV VMA for Video of the Year, making it one of the most award-decorated rap singles of the decade.",
+            "storyHook": "",
+            "sourceNotes": "PRIORITY VERIFY: Confirm 'Gangsta's Paradise' won Best Rap Solo Performance at 38th Grammys (1996). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Gangsta's Paradise – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Gangsta%27s_Paradise",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Coolio won Grammy for 'Gangsta's Paradise' – The Current",
+                "url": "https://www.thecurrent.org/feature/2026/02/28/feb-28-in-music-history-coolio-won-a-grammy-award-for-gangstas-paradise",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Watch Coolio Win A GRAMMY For 'Gangsta's Paradise' – Recording Academy",
+                "url": "https://www.youtube.com/watch?v=_8d4B5X6Xag",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 15
+        },
+        {
+          "id": "EP012-R1-RES3",
+          "episodeId": "EP012",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which artist provided the sultry 1996 hit 'Touch Me, Tease Me' (featuring Foxy Brown) for 'The Nutty Professor' soundtrack?",
+          "choices": [
+            "Case",
+            "Ginuwine",
+            "Donell Jones",
+            "Montell Jordan"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Case",
+            "song": "Touch Me, Tease Me",
+            "album": "The Nutty Professor Soundtrack",
+            "year": 1996,
+            "topicTags": [
+              "Case",
+              "The Nutty Professor",
+              "soundtrack",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "IMDB Soundtracks database. Def Jam official catalog. Discogs release page.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Touch Me Tease Me – Spotify",
+                "url": "https://open.spotify.com/track/7Ip3bBZzgBpjfkrdOR526P",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 15
+        },
+        {
+          "id": "EP012-R1-RES4",
+          "episodeId": "EP012",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Tevin Campbell's hit 'I2I' (Eye to Eye) was prominently featured in which 1995 animated Disney film?",
+          "choices": [
+            "Tarzan",
+            "A Goofy Movie",
+            "Hercules",
+            "The Lion King"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tevin Campbell",
+            "song": "I2I",
+            "album": "A Goofy Movie Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "Tevin Campbell",
+              "A Goofy Movie",
+              "Disney",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Official Disney soundtrack liner notes. IMDB Soundtracks database.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I2I – Disney Wiki",
+                "url": "https://disney.fandom.com/wiki/I2I",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 15
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Specific producers, deep soundtrack cuts, and the R&B anthems that eclipsed the films they were attached to.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "questions": [
+        {
+          "id": "EP012-R2-Q1",
+          "episodeId": "EP012",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Total's breakthrough 'Can't You See' and other Bad Boy-adjacent acts appeared on 'New Jersey Drive Vol. 1' — distributed through which hip-hop label?",
+          "choices": [
+            "Def Jam",
+            "Tommy Boy Records",
+            "Priority Records",
+            "Atlantic Records"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "Various Artists",
+            "song": null,
+            "album": "New Jersey Drive Vol. 1",
+            "year": 1995,
+            "topicTags": [
+              "New Jersey Drive",
+              "Tommy Boy Records",
+              "distribution",
+              "soundtrack"
+            ],
+            "fact": "New Jersey Drive Vol. 1 was distributed through Tommy Boy Records — primarily a hip-hop label — demonstrating how urban soundtracks of the mid-90s blurred genre lines.",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for New Jersey Drive Vol. 1 (Tommy Boy). IMDB Soundtracks database. Discogs label credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "New Jersey Drive, Vol. 1 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/New_Jersey_Drive,_Vol._1",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 1000,
+          "timer": 17
+        },
+        {
+          "id": "EP012-R2-Q2",
+          "episodeId": "EP012",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Destiny's Child recorded their debut single 'Killing Time' specifically for which 1997 sci-fi blockbuster soundtrack?",
+          "choices": [
+            "Men in Black",
+            "The Fifth Element",
+            "Blade",
+            "Independence Day"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": "Killing Time",
+            "album": "Men in Black Soundtrack",
+            "year": 1997,
+            "topicTags": [
+              "Destiny's Child",
+              "Men in Black",
+              "soundtrack",
+              "debut"
+            ],
+            "fact": "'Killing Time' predated the release of Destiny's Child's self-titled debut album and served as the world's introduction to the group.",
+            "storyHook": "Before they were independent women, they were just trying to get on a Will Smith movie soundtrack.",
+            "sourceNotes": "IMDB Soundtracks database for Men in Black (1997). Official CD liner notes (Columbia).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Killing Time (Destiny's Child song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Killing_Time_(Destiny%27s_Child_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 1200,
+          "timer": 17
+        },
+        {
+          "id": "EP012-R2-Q3",
+          "episodeId": "EP012",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Total's 1995 breakthrough track 'Can't You See' (featuring The Notorious B.I.G.) debuted on which film's soundtrack?",
+          "choices": [
+            "Bad Boys",
+            "Sunset Park",
+            "New Jersey Drive",
+            "Higher Learning"
+          ],
+          "correctIndex": 2,
+          "bonus": null,
+          "metadata": {
+            "artist": "Total",
+            "song": "Can't You See",
+            "album": "New Jersey Drive, Vol. 1",
+            "year": 1995,
+            "topicTags": [
+              "Total",
+              "New Jersey Drive",
+              "soundtrack",
+              "Bad Boy"
+            ],
+            "fact": "The song introduced Total as Bad Boy's flagship R&B girl group before their debut album even hit shelves.",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for New Jersey Drive Vol. 1 (Tommy Boy). IMDB Soundtracks database.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Can't You See (Total song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Can%27t_You_See_(Total_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 1400,
+          "timer": 17
+        },
+        {
+          "id": "EP012-R2-Q4",
+          "episodeId": "EP012",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which R&B supergroup—featuring Babyface, Kevon Edmonds, and K-Ci & JoJo—was formed strictly to record the track 'I Care 'Bout You' for the 'Soul Food' soundtrack?",
+          "choices": [
+            "LSG",
+            "TGT",
+            "Black Men United",
+            "Milestone"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Milestone",
+            "song": "I Care 'Bout You",
+            "album": "Soul Food Soundtrack",
+            "year": 1997,
+            "topicTags": [
+              "Milestone",
+              "Soul Food",
+              "supergroup",
+              "Babyface",
+              "soundtrack"
+            ],
+            "fact": "Milestone was a fictional group within the movie 'Soul Food', but the real-life R&B titans recorded the actual track for the official LaFace soundtrack.",
+            "storyHook": "A fake group in a movie turned into a real R&B supergroup for the soundtrack.",
+            "sourceNotes": "Official CD liner notes for Soul Food (LaFace). ASCAP and Discogs confirming roster. IMDB Soundtracks database.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Care 'bout You – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Care_%27bout_You",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 1800,
+          "timer": 17
+        },
+        {
+          "id": "EP012-R2-Q5",
+          "episodeId": "EP012",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "John Singleton's 1995 campus drama 'Higher Learning' featured a diverse rap and R&B soundtrack released on which major label?",
+          "choices": [
+            "Epic Records",
+            "Columbia",
+            "Def Jam",
+            "Interscope"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Various Artists",
+            "song": null,
+            "album": "Higher Learning Music from the Motion Picture",
+            "year": 1995,
+            "topicTags": [
+              "Higher Learning",
+              "Epic Records",
+              "John Singleton",
+              "soundtrack"
+            ],
+            "fact": "Higher Learning's Epic Records soundtrack included OutKast, Nas, Ice Cube, and Brandy — one of the most eclectic R&B-rap crossover compilations of the decade.",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Higher Learning (Epic). IMDB Soundtracks database. Discogs label credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Higher Learning (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Higher_Learning_(soundtrack)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 2100,
+          "timer": 17
+        },
+        {
+          "id": "EP012-R2-B1",
+          "episodeId": "EP012",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Space Jam soundtrack's opening theme — performed by which Miami bass group — became one of the most recognisable sports anthems of the decade?",
+          "choices": [
+            "Tag Team",
+            "69 Boyz",
+            "2 Live Crew",
+            "Quad City DJ's"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — THE GROUP BEHIND THE SPACE JAM THEME",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Various Artists",
+            "song": null,
+            "album": "Space Jam Soundtrack",
+            "year": 1996,
+            "topicTags": [
+              "Space Jam",
+              "Quad City DJ's",
+              "1996",
+              "soundtrack",
+              "Miami bass",
+              "Warner Bros"
+            ],
+            "fact": "The Quad City DJ's — a Miami bass group from Jacksonville, Florida — recorded the 'Space Jam' theme for the 1996 film. The track became one of the most enduring sports arena anthems in American pop culture history. The same group had previously charted with 'C'mon N' Ride It (The Train)' in 1996.",
+            "storyHook": "A Miami bass group from Jacksonville wrote the theme for one of the most watched basketball films of the decade. The Quad City DJ's and Space Jam remain inseparable.",
+            "sourceNotes": "Discogs entry for Space Jam (Warner Sunset/Atlantic). Official RIAA database.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Space Jam (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Space_Jam_(soundtrack)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP012-R2-RES1",
+          "episodeId": "EP012",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which producer crafted SWV's Wu-Tang remix of 'Anything' for the 'Above the Rim' soundtrack?",
+          "choices": [
+            "Teddy Riley",
+            "RZA",
+            "DeVante Swing",
+            "Brian Alexander Morgan"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "SWV",
+            "song": "Anything (Remix)",
+            "album": "Above the Rim Soundtrack",
+            "year": 1994,
+            "topicTags": [
+              "SWV",
+              "Above the Rim",
+              "Brian Alexander Morgan",
+              "producer",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Above the Rim (Death Row). Discogs release credits. ASCAP database.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Anything (SWV song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Anything_(SWV_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 17
+        },
+        {
+          "id": "EP012-R2-RES2",
+          "episodeId": "EP012",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Lauryn Hill's Grammy-sweeping 1998 solo debut — which won five Grammy Awards including Album of the Year — was released on which record label?",
+          "choices": [
+            "Epic Records",
+            "Def Jam",
+            "Columbia Records",
+            "Ruffhouse Records"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lauryn Hill",
+            "song": "The Sweetest Thing",
+            "album": "Love Jones Soundtrack",
+            "year": 1997,
+            "topicTags": [
+              "Lauryn Hill",
+              "The Miseducation of Lauryn Hill",
+              "Ruffhouse Records",
+              "1998",
+              "Grammy",
+              "swap reserve"
+            ],
+            "fact": "'The Miseducation of Lauryn Hill' was released on Ruffhouse Records — a subsidiary of Columbia Records — on August 25, 1998. Ruffhouse was the label home of The Fugees, through which Lauryn Hill had already established her commercial credentials. The album sold over 420,000 copies in its first week and went on to win five Grammy Awards in 1999.",
+            "storyHook": "Ruffhouse Records released 'The Miseducation of Lauryn Hill' and changed the conversation about what an R&B solo debut could be. Five Grammys later, the label's place in history was secure.",
+            "sourceNotes": "IMDB Soundtracks database. Official CD liner notes for Love Jones (Columbia).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Miseducation of Lauryn Hill – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Miseducation_of_Lauryn_Hill",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 17
+        },
+        {
+          "id": "EP012-R2-RES3",
+          "episodeId": "EP012",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which hip hop artist's R&B-leaning track 'Phobia' appeared on the 1995 'Higher Learning' soundtrack?",
+          "choices": [
+            "Goodie Mob",
+            "A Tribe Called Quest",
+            "OutKast",
+            "The Roots"
+          ],
+          "correctIndex": 2,
+          "bonus": null,
+          "metadata": {
+            "artist": "OutKast",
+            "song": "Phobia",
+            "album": "Higher Learning Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "OutKast",
+              "Higher Learning",
+              "soundtrack",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "IMDB Soundtracks database. Official CD liner notes for Higher Learning (Epic).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Higher Learning (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Higher_Learning_(soundtrack)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 17
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Uncredited placements, cassette-only hidden tracks, and deep collaborative history on legendary soundtracks.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "questions": [
+        {
+          "id": "EP012-R3-Q1",
+          "episodeId": "EP012",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The 'Above the Rim' soundtrack CD infamously excluded 'Pain', a fan-favorite hidden track (available only on cassette) by which West Coast legend?",
+          "choices": [
+            "Ice Cube",
+            "Dr. Dre",
+            "Tupac Shakur",
+            "Snoop Dogg"
+          ],
+          "correctIndex": 2,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tupac Shakur",
+            "song": "Pain",
+            "album": "Above the Rim Soundtrack",
+            "year": 1994,
+            "topicTags": [
+              "Tupac Shakur",
+              "Above the Rim",
+              "hidden track",
+              "cassette"
+            ],
+            "fact": "Death Row Records left 'Pain' off the original CD pressing of the soundtrack, making the cassette version a highly sought-after collector's item in the 90s.",
+            "storyHook": "Before streaming, if you didn't have the tape, you didn't have the track.",
+            "sourceNotes": "Discogs release comparisons (CD vs Cassette for Death Row Records). Historical reporting on 2Pac's catalog.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Above the Rim (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Above_the_Rim_(soundtrack)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 4500,
+          "timer": 20
+        },
+        {
+          "id": "EP012-R3-Q2",
+          "episodeId": "EP012",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Which neo-soul pioneer co-wrote and co-produced the massive Black Men United supergroup anthem 'U Will Know' for the 'Jason's Lyric' soundtrack?",
+          "choices": [
+            "D'Angelo",
+            "Maxwell",
+            "Brian McKnight",
+            "Raphael Saadiq"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Black Men United",
+            "song": "U Will Know",
+            "album": "Jason's Lyric Soundtrack",
+            "year": 1994,
+            "topicTags": [
+              "D'Angelo",
+              "Black Men United",
+              "Jason's Lyric",
+              "writer",
+              "producer"
+            ],
+            "fact": "Before dropping his debut album 'Brown Sugar', a young D'Angelo co-wrote and co-produced this anthem, which featured almost every major male R&B star of 1994.",
+            "storyHook": "A 20-year-old kid from Virginia wrote the song that Boyz II Men, Brian McKnight, Usher, and R. Kelly all stood in line to sing.",
+            "sourceNotes": "Official CD liner notes for Jason's Lyric (Mercury). ASCAP database confirms Michael 'D'Angelo' Archer as co-writer. Discogs credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "U Will Know – Spotify credits",
+                "url": "https://open.spotify.com/track/5tPy7tAelXmHkA6OKYvZNC",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Black Men United – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Black_Men_United",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "writer",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": 5500,
+          "timer": 20
+        },
+        {
+          "id": "EP012-R3-B1",
+          "episodeId": "EP012",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The 'Above the Rim' (1994) soundtrack — which launched 'Regulate' — was one of the first major commercial releases from which West Coast rap label?",
+          "choices": [
+            "Ruthless Records",
+            "Priority Records",
+            "Death Row Records",
+            "Loud Records"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — THE LABEL THAT BUILT ABOVE THE RIM",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Various Artists",
+            "song": null,
+            "album": "Above the Rim: The Soundtrack",
+            "year": 1994,
+            "topicTags": [
+              "Above the Rim",
+              "Death Row Records",
+              "label",
+              "bonus digit"
+            ],
+            "fact": "The Above the Rim soundtrack was one of Death Row Records' first major commercial releases, establishing the label's domination of both rap and R&B in 1994.",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Above the Rim (Death Row/Interscope). RIAA database. Discogs label credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Above the Rim (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Above_the_Rim_(soundtrack)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP012-R3-RES1",
+          "episodeId": "EP012",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "TLC contributed the song 'This Is How It Works' to the 'Waiting to Exhale' soundtrack. Who co-wrote and produced it?",
+          "choices": [
+            "Dallas Austin",
+            "Babyface",
+            "Lisa 'Left Eye' Lopes",
+            "Jermaine Dupri"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "This Is How It Works",
+            "album": "Waiting to Exhale Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "TLC",
+              "Babyface",
+              "Waiting to Exhale",
+              "producer",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Waiting to Exhale (Arista). ASCAP database confirms Kenneth Edmonds.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Waiting to Exhale: Original Soundtrack Album – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Waiting_to_Exhale:_Original_Soundtrack_Album",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 20
+        },
+        {
+          "id": "EP012-R3-RES2",
+          "episodeId": "EP012",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "D'Angelo's debut single 'Brown Sugar' (1995) peaked at which position on the Billboard Hot R&B/Hip-Hop Songs chart?",
+          "choices": [
+            "#5",
+            "#2",
+            "#14",
+            "#9"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": "Brown Sugar",
+            "album": "Brown Sugar",
+            "year": 1996,
+            "topicTags": [
+              "D'Angelo",
+              "Brown Sugar",
+              "R&B chart",
+              "Hot R&B",
+              "1995",
+              "peak"
+            ],
+            "fact": "D'Angelo's 'Brown Sugar' peaked at #5 on the Billboard Hot R&B/Hip-Hop Songs chart in 1995 and #27 on the Hot 100 — a strong showing for a neo-soul debut from an artist with no established mainstream lane.",
+            "storyHook": "",
+            "sourceNotes": "Verified: 'Brown Sugar' peaked at #5 Hot R&B/Hip-Hop Songs and #27 Hot 100. Sources: Wikipedia https://en.wikipedia.org/wiki/Brown_Sugar_(D%27Angelo_album), Billboard https://www.billboard.com/lists/dangelo-top-songs-hot-rb-hiphop-chart/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Brown Sugar (D'Angelo album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brown_Sugar_(D%27Angelo_album)",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "D'Angelo's Biggest Billboard Chart Hits – Billboard",
+                "url": "https://www.billboard.com/lists/dangelo-top-songs-hot-rb-hiphop-chart/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "D'Angelo released 'Brown Sugar' 29 years ago – Facebook",
+                "url": "https://www.facebook.com/GrindModeCypher/posts/dangelo-released-his-debut-album-brown-sugar-29-years-ago-and-it-went-platinum-w/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-06",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 20
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  }
+}

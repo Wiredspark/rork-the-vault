@@ -1,0 +1,1527 @@
+{
+  "episodeId": "EP060",
+  "title": "Men of Soul: The 2000s",
+  "theme": "The format's final commercial wave before solo artists and reality television fully took over — Jagged Edge and Ruff Endz carrying the genre's traditional sound into the new decade, B2K and Day26 representing two different routes into manufactured/televised groups, Pretty Ricky and the deep-cut acts Profyle and Prophet Jones rounding out the decade's quieter corners.",
+  "narrativePurpose": "Close the Men of Soul series — and the combined ten-episode Ladies/Men of Soul arc — by tracing the 2000s male vocal group landscape through chart facts, label infrastructure, and the increasingly thin documentation of the format's final years.",
+  "toneProgression": "The hits and chart records that defined the era → the labels, lineups, and reality-TV infrastructure behind the sound → the archival deep cuts and connective tissue closing out the series",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "0"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 2-0-0-0 — the year Jagged Edge's 'Let's Get Married' and Ruff Endz's 'No More' both broke through, opening the decade that would close out the format."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The hits and chart records that defined 2000s male vocal groups.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP060-R1-Q1",
+          "episodeId": "EP060",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Jagged Edge's April 2000 single, co-produced by Jermaine Dupri and Bryan-Michael Cox and written by the Casey brothers themselves, spent three weeks at #1 R&B and reached #11 Hot 100. What was it?",
+          "choices": [
+            "Promise",
+            "Where the Party At",
+            "Let's Get Married",
+            "Walked Outta Heaven"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-song-lets-get-married-jagged-edge-2000-dupri-cox-chart",
+            "artist": "Jagged Edge",
+            "song": "Let's Get Married",
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "Jagged Edge",
+              "Let's Get Married",
+              "2000",
+              "Jermaine Dupri",
+              "Bryan-Michael Cox",
+              "So So Def"
+            ],
+            "fact": "'Let's Get Married,' released April 11, 2000 on So So Def/Columbia, was co-produced by Jermaine Dupri and Bryan-Michael Cox and written by Brandon and Brian Casey — spending three weeks at #1 on the R&B/Hip-Hop chart and reaching #11 on the Hot 100.",
+            "storyHook": "Three weeks at #1 R&B. Written by the group's own twins. 'Let's Get Married' opened the decade as Jagged Edge's signature statement.",
+            "sourceNotes": "Verified: 'Let's Get Married' (April 11, 2000, So So Def/Columbia), co-produced by Jermaine Dupri/Bryan-Michael Cox, written by Brandon/Brian Casey, 3 weeks #1 R&B, #11 Hot 100. Sources: Wikipedia https://en.wikipedia.org/wiki/Let%27s_Get_Married_(Jagged_Edge_song), Decked Out Magazine https://deckedoutmagazine.com/2026/05/15/jagged-edge-lets-get-married-history/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Let's Get Married (Jagged Edge song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Let%27s_Get_Married_(Jagged_Edge_song)",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Jagged Edge: 'Let's Get Married' (2000) – Decked Out Magazine",
+                "url": "https://deckedoutmagazine.com/2026/05/15/jagged-edge-lets-get-married-history/",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R1-Q2",
+          "episodeId": "EP060",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "R&B duo Ruff Endz scored a 2000 hit, reaching #5 on the Hot 100, with which single?",
+          "choices": [
+            "Someone to Love You",
+            "No More",
+            "Heart 2 Heart",
+            "Hide U"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-song-no-more-ruff-endz-2000-chart-5-hot-100",
+            "artist": "Ruff Endz",
+            "song": "No More",
+            "album": "Love Crimes",
+            "year": 2000,
+            "topicTags": [
+              "Ruff Endz",
+              "No More",
+              "2000",
+              "#5 Hot 100",
+              "Love Crimes"
+            ],
+            "fact": "'No More' (2000), from Ruff Endz's album Love Crimes, became the duo's signature hit — reaching #5 on the Hot 100 and the Top 20 on the R&B chart.",
+            "storyHook": "#5 on the Hot 100. Ruff Endz's biggest crossover moment, right at the start of the decade.",
+            "sourceNotes": "Verified: 'No More' (2000) from Love Crimes, #5 Hot 100, Top 20 R&B. Source: Wikipedia https://en.wikipedia.org/wiki/No_More_(Ruff_Endz_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No More (Ruff Endz song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_More_(Ruff_Endz_song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R1-Q3",
+          "episodeId": "EP060",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "B2K's 2002 single, featuring P. Diddy, reached #1 on the Hot 100. What was it?",
+          "choices": [
+            "What a Girl Wants",
+            "Gots Ta Be",
+            "Bump, Bump, Bump",
+            "Uh Huh"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-song-bump-bump-bump-b2k-2002-p-diddy-number-one-hot-100",
+            "artist": "B2K",
+            "song": "Bump, Bump, Bump",
+            "album": null,
+            "year": 2002,
+            "topicTags": [
+              "B2K",
+              "Bump, Bump, Bump",
+              "P. Diddy",
+              "2002",
+              "#1 Hot 100"
+            ],
+            "fact": "'Bump, Bump, Bump' (2002), featuring P. Diddy, reached #1 on the Billboard Hot 100 and was a major R&B chart hit — B2K's biggest commercial moment.",
+            "storyHook": "#1 on the Hot 100. 'Bump, Bump, Bump' with P. Diddy was B2K's complete commercial breakthrough.",
+            "sourceNotes": "Verified: 'Bump, Bump, Bump' (2002) featuring P. Diddy, #1 Hot 100. Sources: German Wikipedia https://de.wikipedia.org/wiki/Bump,_Bump,_Bump, Omarion Simple English Wikipedia https://simple.wikipedia.org/wiki/Omarion",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bump, Bump, Bump – German Wikipedia",
+                "url": "https://de.wikipedia.org/wiki/Bump,_Bump,_Bump",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Omarion – Simple English Wikipedia",
+                "url": "https://simple.wikipedia.org/wiki/Omarion",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R1-Q4",
+          "episodeId": "EP060",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Jagged Edge's 2001 follow-up spent two weeks at #1 R&B and reached #9 on the Hot 100. What was it titled?",
+          "choices": [
+            "Goodbye",
+            "Promise",
+            "Truth Is",
+            "Let's Get Married"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-song-promise-jagged-edge-2001-chart-2-weeks-9-hot-100",
+            "artist": "Jagged Edge",
+            "song": "Promise",
+            "album": null,
+            "year": 2001,
+            "topicTags": [
+              "Jagged Edge",
+              "Promise",
+              "2001",
+              "#1 R&B",
+              "#9 Hot 100"
+            ],
+            "fact": "'Promise' (2001) spent two weeks at #1 on the R&B/Hip-Hop chart and peaked at #9 on the Hot 100 — confirming Jagged Edge as a sustained commercial presence rather than a one-hit act.",
+            "storyHook": "Two weeks at #1 R&B. 'Promise' proved 'Let's Get Married' wasn't a fluke.",
+            "sourceNotes": "Verified: 'Promise' (2001), 2 weeks #1 R&B, #9 Hot 100. Source: Wikipedia https://en.wikipedia.org/wiki/Promise_(Jagged_Edge_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Promise (Jagged Edge song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Promise_(Jagged_Edge_song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R1-Q5",
+          "episodeId": "EP060",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Miami group Pretty Ricky scored a 2005 breakthrough, reaching #7 on the Hot 100, with which single?",
+          "choices": [
+            "On the Hotline",
+            "Get Up",
+            "Push It Baby",
+            "Grind With Me"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-song-grind-with-me-pretty-ricky-2005-miami-chart-7",
+            "artist": "Pretty Ricky",
+            "song": "Grind With Me",
+            "album": null,
+            "year": 2005,
+            "topicTags": [
+              "Pretty Ricky",
+              "Grind With Me",
+              "2005",
+              "Miami",
+              "#7 Hot 100"
+            ],
+            "fact": "'Grind With Me' (2005) was Pretty Ricky's breakthrough hit, peaking at #7 on the Billboard Hot 100 and Top 10 on the R&B chart — establishing the Miami group within the decade's mid-period R&B landscape.",
+            "storyHook": "#7 on the Hot 100. 'Grind With Me' put Pretty Ricky and Miami's R&B scene on the national map.",
+            "sourceNotes": "Verified: 'Grind With Me' (2005), #7 Hot 100, Top 10 R&B. Source: Wikipedia https://en.wikipedia.org/wiki/Grind_With_Me",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Grind With Me – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Grind_With_Me",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R1-Q6",
+          "episodeId": "EP060",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Which B2K member served as the group's lead vocalist and frontman?",
+          "choices": [
+            "Raz-B",
+            "Omarion",
+            "J-Boog",
+            "Lil Fizz"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-omarion-b2k-lead-vocalist-frontman",
+            "artist": "Omarion",
+            "song": null,
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "Omarion",
+              "B2K",
+              "lead vocalist",
+              "frontman"
+            ],
+            "fact": "Omarion served as B2K's lead vocalist and frontman, later launching a solo career after the group's run.",
+            "storyHook": "Omarion was the voice out front on every B2K hit, before stepping into his own solo career.",
+            "sourceNotes": "Verified: Omarion was B2K's lead vocalist/frontman. Sources: Simple English Wikipedia https://simple.wikipedia.org/wiki/Omarion, Last.fm biography https://www.last.fm/music/Omarion/+wiki?ver=5",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Omarion – Simple English Wikipedia",
+                "url": "https://simple.wikipedia.org/wiki/Omarion",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Omarion – Last.fm biography",
+                "url": "https://www.last.fm/music/Omarion/+wiki?ver=5",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R1-B1",
+          "episodeId": "EP060",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Jagged Edge's lineup included a set of identical twins. What were their names?",
+          "choices": [
+            "Brandon and Brian Casey",
+            "DeVante Swing and Mr. Dalvin",
+            "K-Ci and JoJo Hailey",
+            "Marvin and Mervin Steals"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "2",
+            "bonusHint": "DIGIT 1 OF 3 — THE TWIN BROTHERS IN JAGGED EDGE"
+          },
+          "metadata": {
+            "factKey": "ep060-artist-brandon-brian-casey-identical-twins-jagged-edge",
+            "artist": "Jagged Edge",
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "Brandon Casey",
+              "Brian Casey",
+              "Jagged Edge",
+              "identical twins"
+            ],
+            "fact": "Brandon Casey and Brian Casey, identical twins, were two of Jagged Edge's four members — alongside Richard Wingo and Kyle Norman, in a group formed in Atlanta in 1995.",
+            "storyHook": "Identical twins, fronting an R&B quartet. Brandon and Brian Casey were the constant at the center of Jagged Edge.",
+            "sourceNotes": "Verified: Brandon and Brian Casey are identical twins and Jagged Edge members. Source: Genius artist bio https://genius.com/artists/Jagged-edge",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jagged Edge – Genius artist bio",
+                "url": "https://genius.com/artists/Jagged-edge",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP060-R1-RES1",
+          "episodeId": "EP060",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Marques Houston, Jerome Jones, and Kelton Kessee rebranded their group from Immature to which name in 1999?",
+          "choices": [
+            "IMx",
+            "Az Yet",
+            "Profyle",
+            "The Hitmen"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-imx-rebrand-1999-immature-houston-jones-kessee",
+            "artist": "IMx",
+            "song": null,
+            "album": null,
+            "year": 1999,
+            "topicTags": [
+              "IMx",
+              "Immature",
+              "1999",
+              "rebrand",
+              "Marques Houston"
+            ],
+            "fact": "Immature — Marques 'Batman' Houston, Jerome 'Romeo' Jones, and Kelton 'LDB' Kessee — rebranded as IMx in 1999 to reflect a more mature sound, releasing Introducing IMx (1999) and IMx (2001).",
+            "storyHook": "1999. The same three guys, but 'Immature' didn't fit anymore. IMx was the more grown-up name for a more grown-up sound.",
+            "sourceNotes": "Verified: Immature rebranded as IMx in 1999. Source: Facebook flashback post https://www.facebook.com/100086181999265/posts/formed-in-los-angeles-in-1991-and-managed-by-chris-stokes-the-american-rb-boy-ba",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Immature / IMx – Facebook flashback post",
+                "url": "https://www.facebook.com/100086181999265/posts/formed-in-los-angeles-in-1991-and-managed-by-chris-stokes-the-american-rb-boy-ba",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R1-RES2",
+          "episodeId": "EP060",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Ruff Endz, known for 'No More,' consisted of which two singers?",
+          "choices": [
+            "K-Ci and JoJo Hailey",
+            "David Davinch Chance and Dante Chi Jordan",
+            "Robert Curry and Willie Taylor",
+            "Pleasure P and Spectacular"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-david-davinch-chance-dante-chi-jordan-ruff-endz",
+            "artist": "Ruff Endz",
+            "song": null,
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "Ruff Endz",
+              "David Chance",
+              "Dante Jordan",
+              "duo"
+            ],
+            "fact": "Ruff Endz consisted of David 'Davinch' Chance and Dante 'Chi' Jordan, an R&B duo who scored their biggest hit with 'No More' in 2000.",
+            "storyHook": "Davinch and Chi. Two voices, one duo — Ruff Endz's entire identity.",
+            "sourceNotes": "Verified: Ruff Endz was David 'Davinch' Chance and Dante 'Chi' Jordan. Source: Wikipedia https://en.wikipedia.org/wiki/Ruff_Endz",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ruff Endz – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ruff_Endz",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R1-RES3",
+          "episodeId": "EP060",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Pretty Ricky, known for 'Grind With Me,' formed in which American city?",
+          "choices": [
+            "New Orleans",
+            "Atlanta",
+            "Miami",
+            "Houston"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-pretty-ricky-miami-formation",
+            "artist": "Pretty Ricky",
+            "song": null,
+            "album": null,
+            "year": 2001,
+            "topicTags": [
+              "Pretty Ricky",
+              "Miami",
+              "formation"
+            ],
+            "fact": "Pretty Ricky formed in Miami, Florida — placing them within the city's broader 2000s R&B and hip-hop scene rather than the Atlanta-centered infrastructure that had dominated the prior decade.",
+            "storyHook": "Miami, not Atlanta. Pretty Ricky's sound came out of a different city's scene entirely.",
+            "sourceNotes": "Verified: Pretty Ricky formed in Miami. Source: Wikipedia https://en.wikipedia.org/wiki/Pretty_Ricky",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Pretty Ricky – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Pretty_Ricky",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R1-RES4",
+          "episodeId": "EP060",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Jagged Edge's biggest hits were produced by which Atlanta-based hitmaker, also responsible for launching Xscape a decade earlier?",
+          "choices": [
+            "Dallas Austin",
+            "L.A. Reid",
+            "Jermaine Dupri",
+            "Babyface"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-jermaine-dupri-jagged-edge-xscape-producer-connection",
+            "artist": "Jermaine Dupri",
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "Jermaine Dupri",
+              "Jagged Edge",
+              "Xscape",
+              "So So Def",
+              "producer"
+            ],
+            "fact": "Jermaine Dupri produced Jagged Edge's biggest hits through his So So Def label — the same producer and label that had launched Xscape a decade earlier in the 1990s.",
+            "storyHook": "Jermaine Dupri built two different eras of Atlanta R&B with his own hands — Xscape first, then Jagged Edge.",
+            "sourceNotes": "Verified: Jermaine Dupri produced both Xscape (1990s) and Jagged Edge (late 1990s/2000s) via So So Def. Sources: Wikipedia (Dupri production discography) https://en.wikipedia.org/wiki/Jermaine_Dupri_production_discography, Genius (Jagged Edge bio) https://genius.com/artists/Jagged-edge",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jermaine Dupri production discography – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jermaine_Dupri_production_discography",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Jagged Edge – Genius artist bio",
+                "url": "https://genius.com/artists/Jagged-edge",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The labels, lineups, and reality-TV infrastructure behind the 2000s male vocal group sound.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP060-R2-Q1",
+          "episodeId": "EP060",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Day26 was formed in 2007 through which MTV reality competition series?",
+          "choices": [
+            "Making the Band 4",
+            "The Voice",
+            "American Idol",
+            "Making the Band 3"
+          ],
+          "correctIndex": 0,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-day26-making-the-band-4-2007-formation",
+            "artist": "Day26",
+            "song": null,
+            "album": null,
+            "year": 2007,
+            "topicTags": [
+              "Day26",
+              "Making the Band 4",
+              "2007",
+              "Sean Combs",
+              "MTV"
+            ],
+            "fact": "Day26 was formed in 2007 by Sean Combs on the MTV reality show Making the Band 4 — the original lineup consisting of Robert Curry, Brian Angel, Willie Taylor, Qwanell 'Que' Mosley, and Michael McCluney.",
+            "storyHook": "2007. Five guys assembled on camera, on MTV, by Sean Combs — the same reality-TV formula that had created Danity Kane two years before.",
+            "sourceNotes": "Verified: Day26 formed 2007 by Sean Combs on Making the Band 4; lineup Robert Curry, Brian Angel, Willie Taylor, Qwanell Mosley, Michael McCluney. Source: Wikipedia https://en.wikipedia.org/wiki/Day26",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Day26 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Day26",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R2-Q2",
+          "episodeId": "EP060",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "B2K recorded their catalog, including 'Bump, Bump, Bump,' for which label?",
+          "choices": [
+            "Arista",
+            "Epic Records",
+            "Bad Boy",
+            "Jive"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-label-epic-records-b2k",
+            "artist": "B2K",
+            "song": null,
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "B2K",
+              "Epic Records",
+              "label"
+            ],
+            "fact": "B2K's releases were issued through Epic Records (via Sony) during their early-2000s run — the same label that also released Ruff Endz's catalog.",
+            "storyHook": "Epic Records. Same label home for both B2K and Ruff Endz — two very different sounds, one shared roster.",
+            "sourceNotes": "Verified: B2K recorded for Epic Records. Source: Wikipedia https://en.wikipedia.org/wiki/B2K",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "B2K – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/B2K",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R2-Q3",
+          "episodeId": "EP060",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "How many members made up Jagged Edge's classic lineup?",
+          "choices": [
+            "Five",
+            "Four",
+            "Six",
+            "Three"
+          ],
+          "correctIndex": 1,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-jagged-edge-four-member-lineup",
+            "artist": "Jagged Edge",
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "Jagged Edge",
+              "lineup",
+              "four members"
+            ],
+            "fact": "Jagged Edge's classic lineup consisted of four members — Richard Wingo, Kyle Norman, and identical twins Brian Casey and Brandon Casey — formed in Atlanta in 1995.",
+            "storyHook": "Four voices. Two of them sharing the exact same face. Jagged Edge's lineup never needed a fifth.",
+            "sourceNotes": "Verified: Jagged Edge's classic lineup was Richard Wingo, Kyle Norman, Brian Casey, and Brandon Casey, formed in Atlanta in 1995. Sources: Genius bio https://genius.com/artists/Jagged-edge, YouTube documentary https://www.youtube.com/watch?v=NtUVzbKZhFE",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jagged Edge – Genius artist bio",
+                "url": "https://genius.com/artists/Jagged-edge",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Hollywood Insiders: The Unbreakable Legacy of Jagged Edge – YouTube",
+                "url": "https://www.youtube.com/watch?v=NtUVzbKZhFE",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R2-Q4",
+          "episodeId": "EP060",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Which Immature/IMx member, later a solo artist, was known by the nickname Batman?",
+          "choices": [
+            "Romeo",
+            "Marques Houston",
+            "Jerome Jones",
+            "Kelton Kessee"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-marques-houston-batman-nickname-immature-imx",
+            "artist": "Marques Houston",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "Marques Houston",
+              "Batman",
+              "Immature",
+              "IMx",
+              "nickname"
+            ],
+            "fact": "Marques Houston, known within the group by the nickname 'Batman,' was a member of Immature/IMx alongside Jerome 'Romeo' Jones and Kelton 'LDB' Kessee, before launching a solo career with the 2003 album MH.",
+            "storyHook": "'Batman.' That was Marques Houston's nickname inside the group, years before he went solo.",
+            "sourceNotes": "Verified: Marques Houston ('Batman') was a member of Immature/IMx, solo career began with MH (2003). Sources: Facebook flashback post https://www.facebook.com/100086181999265/posts/formed-in-los-angeles-in-1991-and-managed-by-chris-stokes-the-american-rb-boy-ba, Wikipedia https://en.wikipedia.org/wiki/Marques_Houston",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Immature / IMx – Facebook flashback post",
+                "url": "https://www.facebook.com/100086181999265/posts/formed-in-los-angeles-in-1991-and-managed-by-chris-stokes-the-american-rb-boy-ba",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Marques Houston – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Marques_Houston",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R2-Q5",
+          "episodeId": "EP060",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Ruff Endz's 2000 hit 'No More' came from which album?",
+          "choices": [
+            "Love Crimes",
+            "Hide U",
+            "Heart 2 Heart",
+            "Someone to Love You"
+          ],
+          "correctIndex": 0,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-album-love-crimes-ruff-endz-2000-no-more",
+            "artist": "Ruff Endz",
+            "song": "No More",
+            "album": "Love Crimes",
+            "year": 2000,
+            "topicTags": [
+              "Ruff Endz",
+              "Love Crimes",
+              "2000",
+              "No More",
+              "album"
+            ],
+            "fact": "'No More' (2000) came from Ruff Endz's album Love Crimes — the release that delivered the duo's signature hit and commercial peak.",
+            "storyHook": "Love Crimes. That's the album. 'No More' is the song everyone remembers from it.",
+            "sourceNotes": "Verified: 'No More' was from Ruff Endz's album Love Crimes (2000). Source: Wikipedia https://en.wikipedia.org/wiki/No_More_(Ruff_Endz_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No More (Ruff Endz song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_More_(Ruff_Endz_song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R2-B1",
+          "episodeId": "EP060",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Day26 was developed and produced by which entertainment mogul, who also created Danity Kane through the same reality TV format?",
+          "choices": [
+            "Jermaine Dupri",
+            "Sean Combs",
+            "Andre Harrell",
+            "L.A. Reid"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 2 OF 3 — THE PRODUCER BEHIND DAY26 AND DANITY KANE"
+          },
+          "metadata": {
+            "factKey": "ep060-artist-sean-combs-day26-danity-kane-producer-connection",
+            "artist": "Sean Combs",
+            "song": null,
+            "album": null,
+            "year": 2007,
+            "topicTags": [
+              "Sean Combs",
+              "Day26",
+              "Danity Kane",
+              "Making the Band",
+              "producer"
+            ],
+            "fact": "Sean Combs developed and produced Day26 through Making the Band 4 in 2007 — the same reality-TV format he had used to create Danity Kane two years earlier.",
+            "storyHook": "Two groups, same formula, same producer. Sean Combs built Danity Kane and Day26 on the exact same reality-TV blueprint, just two years apart.",
+            "sourceNotes": "Verified: Sean Combs created Day26 via Making the Band 4, having previously created Danity Kane via Making the Band 3. Source: Wikipedia (Day26, creation by Sean Combs) https://en.wikipedia.org/wiki/Day26",
+            "clipCue": "",
+            "hostNote": "Sean Combs has been subject to significant ongoing federal legal proceedings. The question addresses only his historical role producing Making the Band 4 and Day26 in 2007 — not any subsequent legal matters.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Day26 – Wikipedia (creation by Sean Combs)",
+                "url": "https://en.wikipedia.org/wiki/Day26",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP060-R2-RES1",
+          "episodeId": "EP060",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "B2K's debut single, released before Gots Ta Be and Bump, Bump, Bump, was which song?",
+          "choices": [
+            "Badaboom",
+            "What a Girl Wants",
+            "Gots Ta Be",
+            "Uh Huh"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-song-uh-huh-b2k-debut-single",
+            "artist": "B2K",
+            "song": "Uh Huh",
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "B2K",
+              "Uh Huh",
+              "debut single"
+            ],
+            "fact": "'Uh Huh' is widely cited as B2K's debut single, released before 'Gots Ta Be' and 'Bump, Bump, Bump,' giving the group their first chart entry.",
+            "storyHook": "Before 'Bump, Bump, Bump' made them stars, B2K's first single out the gate was 'Uh Huh.'",
+            "sourceNotes": "Verified: 'Uh Huh' was B2K's debut single, preceding 'Gots Ta Be' and 'Bump, Bump, Bump.' Source: Wikipedia (discography/singles) https://en.wikipedia.org/wiki/B2K",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "B2K – Wikipedia (discography/singles)",
+                "url": "https://en.wikipedia.org/wiki/B2K",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R2-RES2",
+          "episodeId": "EP060",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Which Day26 member went on to a notable solo R&B career after the group's run?",
+          "choices": [
+            "Robert Curry",
+            "Brian Angel",
+            "Willie Taylor",
+            "Michael McCluney"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-willie-taylor-day26-solo-career",
+            "artist": "Willie Taylor",
+            "song": null,
+            "album": null,
+            "year": 2009,
+            "topicTags": [
+              "Willie Taylor",
+              "Day26",
+              "solo career"
+            ],
+            "fact": "Willie Taylor pursued a notable solo R&B career following Day26's run as a group, becoming the member with the most visible post-group career.",
+            "storyHook": "Of Day26's five members, Willie Taylor is the one whose name kept showing up on R&B radio after the group wound down.",
+            "sourceNotes": "Verified: Willie Taylor had notable solo visibility after Day26. Source: 'What Happened to Day26?' YouTube explainer https://www.youtube.com/watch?v=Vkf7ISBLQlM",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "What Happened to Day26? – YouTube explainer",
+                "url": "https://www.youtube.com/watch?v=Vkf7ISBLQlM",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R2-RES3",
+          "episodeId": "EP060",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Pretty Ricky's classic lineup included a member who performed under which distinctive stage name, later also a solo artist?",
+          "choices": [
+            "Pleasure P",
+            "Slick'Em",
+            "Lil Fizz",
+            "J-Boog"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-pleasure-p-pretty-ricky-member-solo",
+            "artist": "Pleasure P",
+            "song": null,
+            "album": null,
+            "year": 2005,
+            "topicTags": [
+              "Pleasure P",
+              "Pretty Ricky",
+              "stage name",
+              "solo career"
+            ],
+            "fact": "Pleasure P was a member of Pretty Ricky's classic lineup, alongside brothers Spectacular, Slick'Em, and Baby Blue, later launching a solo career under the same stage name.",
+            "storyHook": "Pleasure P. One of Pretty Ricky's most recognizable members — and one of the few to build a name beyond the group.",
+            "sourceNotes": "Verified: Pleasure P was a Pretty Ricky member. Source: Wikipedia https://en.wikipedia.org/wiki/Pretty_Ricky",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Pretty Ricky – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Pretty_Ricky",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival deep cuts and connective tissue closing out the series.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP060-R3-Q1",
+          "episodeId": "EP060",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Jagged Edge was discovered when a member of which 1990s female group slipped their demo to Jermaine Dupri — the same producer who had launched that group a decade earlier?",
+          "choices": [
+            "Xscape",
+            "Total",
+            "702",
+            "TLC"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-kandi-burruss-xscape-jagged-edge-demo-dupri-connection",
+            "artist": "Xscape",
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "Xscape",
+              "Kandi Burruss",
+              "Jagged Edge",
+              "Jermaine Dupri",
+              "demo"
+            ],
+            "fact": "Jagged Edge was discovered when Kandi Burruss of Xscape — the group Jermaine Dupri had launched with So So Def in the early 1990s — slipped their demo to Dupri, leading him to sign and produce them.",
+            "storyHook": "Kandi Burruss handed Jermaine Dupri a demo tape. That tape was Jagged Edge — discovered by the same producer, through the same label, a decade after he'd built Xscape.",
+            "sourceNotes": "Verified: Jagged Edge discovered via Kandi Burruss slipping their demo to Jermaine Dupri, who had launched Xscape via So So Def. Sources: Wikipedia (Xscape) https://en.wikipedia.org/wiki/Xscape_(group), Wikipedia (Dupri production discography) https://en.wikipedia.org/wiki/Jermaine_Dupri_production_discography",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Xscape (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Xscape_(group)",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Jermaine Dupri production discography – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jermaine_Dupri_production_discography",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R3-Q2",
+          "episodeId": "EP060",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Prophet Jones member Jerome Goldee Lattisaw was the brother of which R&B singer?",
+          "choices": [
+            "Angela Winbush",
+            "Stacy Lattisaw",
+            "Cherrelle",
+            "Phyllis Hyman"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-jerome-goldee-lattisaw-brother-stacy-lattisaw-prophet-jones",
+            "artist": "Prophet Jones",
+            "song": null,
+            "album": null,
+            "year": 2001,
+            "topicTags": [
+              "Prophet Jones",
+              "Jerome Lattisaw",
+              "Stacy Lattisaw",
+              "Washington D.C.",
+              "biography"
+            ],
+            "fact": "Jerome 'Goldee' Lattisaw of Prophet Jones — a Washington, D.C. R&B/hip-hop quartet active around 2000-2002 — was the brother of R&B singer Stacy Lattisaw, linking the short-lived group to an earlier generation of R&B.",
+            "storyHook": "Prophet Jones barely made a dent commercially. But one member, Jerome 'Goldee' Lattisaw, had a sister who'd already made R&B history: Stacy Lattisaw.",
+            "sourceNotes": "Verified with caution — single niche-blog source, not a primary or Wikipedia-tier reference: Jerome 'Goldee' Lattisaw was the brother of Stacy Lattisaw. Source: Rare and Obscure Music blog https://rareandobscuremusic.wordpress.com/2017/01/14/prophet-jones/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Prophet Jones – Rare and Obscure Music blog",
+                "url": "https://rareandobscuremusic.wordpress.com/2017/01/14/prophet-jones/",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R3-B1",
+          "episodeId": "EP060",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Prophet Jones, a male R&B/hip-hop vocal quartet active around 2000-2002, formed in which American city?",
+          "choices": [
+            "Philadelphia",
+            "Washington, D.C.",
+            "Atlanta",
+            "Baltimore"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 3 OF 3 — PROPHET JONES'S HOME CITY"
+          },
+          "metadata": {
+            "factKey": "ep060-artist-prophet-jones-washington-dc-formation",
+            "artist": "Prophet Jones",
+            "song": null,
+            "album": null,
+            "year": 2001,
+            "topicTags": [
+              "Prophet Jones",
+              "Washington, D.C.",
+              "formation"
+            ],
+            "fact": "Prophet Jones — Patrick 'P' Rowe, Kevin 'K.D.' Jackson, Tony 'Hollywood' Dumas, and Jerome 'Goldee' Lattisaw — formed in Washington, D.C., releasing their self-titled album in 2001 before disbanding shortly after.",
+            "storyHook": "Washington, D.C. One self-titled album, in 2001. Prophet Jones came and went almost as quickly as they arrived.",
+            "sourceNotes": "Verified with caution — single niche-blog source: Prophet Jones formed in Washington, D.C. Source: Rare and Obscure Music blog https://rareandobscuremusic.wordpress.com/2017/01/14/prophet-jones/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Prophet Jones – Rare and Obscure Music blog",
+                "url": "https://rareandobscuremusic.wordpress.com/2017/01/14/prophet-jones/",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP060-R3-RES1",
+          "episodeId": "EP060",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Profyle, behind the 2000 hit 'Liar,' formed in which American city?",
+          "choices": [
+            "San Francisco",
+            "Detroit",
+            "Chicago",
+            "Atlanta"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-profyle-san-francisco-formation",
+            "artist": "Profyle",
+            "song": "Liar",
+            "album": "Whispers in the Dark",
+            "year": 2000,
+            "topicTags": [
+              "Profyle",
+              "San Francisco",
+              "Liar",
+              "Whispers in the Dark"
+            ],
+            "fact": "Profyle, whose 2000 album Whispers in the Dark produced the hit 'Liar,' formed in San Francisco — a city outside the Atlanta-centered infrastructure that had defined so much of the prior decade's R&B vocal group scene. The group's momentum never carried into a follow-up hit.",
+            "storyHook": "San Francisco, not Atlanta. Profyle's one hit, 'Liar,' came out of a city the era's R&B map usually skipped.",
+            "sourceNotes": "Verified with moderate confidence — origin city is less widely documented; San Francisco is repeated across niche R&B histories and matches prior EP017 sourcing, but isn't confirmed by a single authoritative primary source. Source: Wikipedia https://en.wikipedia.org/wiki/Profyle",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Profyle – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Profyle",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP060-R3-RES2",
+          "episodeId": "EP060",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Tony Hollywood Dumas and Jerome Goldee Lattisaw, both later in Prophet Jones, had previously been members of which 1990s R&B group together?",
+          "choices": [
+            "Me-2-U",
+            "Az Yet",
+            "Silk",
+            "Shai"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep060-artist-me-2-u-dumas-lattisaw-prior-group-prophet-jones",
+            "artist": "Prophet Jones",
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "Me-2-U",
+              "Tony Dumas",
+              "Jerome Lattisaw",
+              "Prophet Jones",
+              "1990s"
+            ],
+            "fact": "Tony 'Hollywood' Dumas and Jerome 'Goldee' Lattisaw were both members of Me-2-U, a 1990s R&B group, before reuniting in Prophet Jones around 2000.",
+            "storyHook": "Two members of Prophet Jones had already been in a group together once before — Me-2-U, a decade earlier.",
+            "sourceNotes": "Verified with caution — single niche-blog source: Dumas and Lattisaw were both Me-2-U members before Prophet Jones. Source: Rare and Obscure Music blog https://rareandobscuremusic.wordpress.com/2017/01/14/prophet-jones/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Prophet Jones – Rare and Obscure Music blog",
+                "url": "https://rareandobscuremusic.wordpress.com/2017/01/14/prophet-jones/",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-26T01:15:17.689947+00:00"
+  }
+}

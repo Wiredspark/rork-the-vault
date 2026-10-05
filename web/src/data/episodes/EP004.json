@@ -1,0 +1,1493 @@
+{
+  "episodeId": "EP004",
+  "title": "The Pen Game",
+  "theme": "Ghostwriters, songwriting credits, and the hands behind the hits",
+  "narrativePurpose": "Strip away the vocalist and test who actually wrote the record — the pipes behind the pipeline that built 90s R&B",
+  "toneProgression": "Famous writer pipelines → buried credits and reversed attribution → pseudonyms and uncredited architects",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "9"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-9 — the year the invisible architects ran the charts openly. Kandi Burruss co-wrote both No Scrubs and Bills Bills Bills in the same calendar year. The credits conversation entered public consciousness and never left."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "Famous writer-to-artist pipelines. The songs are household names. The writers behind them are less obvious.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP004-R1-Q1",
+          "episodeId": "EP004",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Toni Braxton's 1996 power ballad 'Un-Break My Heart' was written by which songwriter?",
+          "choices": [
+            "Babyface",
+            "Carole King",
+            "Jimmy Jam",
+            "Diane Warren"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Toni Braxton",
+            "song": "Un-Break My Heart",
+            "album": "Secrets",
+            "year": 1996,
+            "topicTags": [
+              "Toni Braxton",
+              "Diane Warren",
+              "songwriter",
+              "Un-Break My Heart"
+            ],
+            "fact": "Diane Warren wrote 'Un-Break My Heart' as a straight pop record — Toni Braxton and producer Babyface transformed it into one of the defining R&B ballads of the decade.",
+            "storyHook": "The songwriter nobody credits behind the record everybody knows.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Un-Break My Heart – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Un-Break_My_Heart",
+                "accessed": "2026-05-20"
+              },
+              {
+                "title": "Un-Break My Heart – Instagram caption",
+                "url": "https://www.instagram.com/reel/DVgwdYcDdA_/",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R1-Q2",
+          "episodeId": "EP004",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "R. Kelly wrote and produced 'You Are Not Alone' — the 1995 #1 hit — for which artist?",
+          "choices": [
+            "Prince",
+            "Luther Vandross",
+            "Michael Jackson",
+            "Stevie Wonder"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Michael Jackson",
+            "song": "You Are Not Alone",
+            "album": "HIStory: Past, Present and Future, Book I",
+            "year": 1995,
+            "topicTags": [
+              "R. Kelly",
+              "Michael Jackson",
+              "songwriter",
+              "You Are Not Alone"
+            ],
+            "fact": "'You Are Not Alone' became the first single ever to debut at #1 on the Billboard Hot 100 upon its release in 1995.",
+            "storyHook": "R. Kelly at his commercial peak — handing a record to the biggest name in music.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "You Are Not Alone – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/You_Are_Not_Alone",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R1-Q3",
+          "episodeId": "EP004",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which artist co-wrote the majority of tracks on Aaliyah's 1996 album 'One in a Million'?",
+          "choices": [
+            "Timbaland",
+            "R. Kelly",
+            "Jermaine Dupri",
+            "Missy Elliott"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": null,
+            "album": "One in a Million",
+            "year": 1996,
+            "topicTags": [
+              "Missy Elliott",
+              "Aaliyah",
+              "songwriter",
+              "One in a Million"
+            ],
+            "fact": "Missy Elliott co-wrote several tracks on 'One in a Million' alongside Timbaland, marking the beginning of one of R&B's most celebrated creative partnerships.",
+            "storyHook": "Missy behind the pen before anyone knew Missy's name.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "One in a Million (Aaliyah album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/One_in_a_Million_(Aaliyah_album)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R1-Q4",
+          "episodeId": "EP004",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "TLC's 1994 hit 'Creep' was written by which Atlanta-based songwriter-producer?",
+          "choices": [
+            "Jermaine Dupri",
+            "Babyface",
+            "Dallas Austin",
+            "Organized Noize"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "Creep",
+            "album": "CrazySexyCool",
+            "year": 1994,
+            "topicTags": [
+              "TLC",
+              "Dallas Austin",
+              "songwriter",
+              "Creep",
+              "Atlanta"
+            ],
+            "fact": "Dallas Austin wrote and produced 'Creep' — it reached #1 on the Billboard Hot 100 in early 1995.",
+            "storyHook": "Atlanta's most underrated songwriter handed TLC their biggest controversial moment.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dallas Austin recalls creating TLC's Creep – YouTube",
+                "url": "https://www.youtube.com/watch?v=Ti7gqTkSSTc",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R1-Q5",
+          "episodeId": "EP004",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Babyface wrote 'Breathe Again' for which singer's self-titled 1993 debut album?",
+          "choices": [
+            "Mariah Carey",
+            "Patti LaBelle",
+            "Toni Braxton",
+            "Whitney Houston"
+          ],
+          "correctIndex": 2,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Toni Braxton",
+            "song": "Breathe Again",
+            "album": "Toni Braxton",
+            "year": 1993,
+            "topicTags": [
+              "Babyface",
+              "Toni Braxton",
+              "songwriter",
+              "Breathe Again",
+              "LaFace"
+            ],
+            "fact": "'Breathe Again' peaked at #3 on the Billboard Hot 100 in 1994 and established Babyface's signature slow-burn ballad formula.",
+            "storyHook": "The most important creative partnership in early 90s R&B — and Babyface was holding the pen.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Breathe Again – Toni Braxton – Instagram",
+                "url": "https://www.instagram.com/reel/DU4kczJgNie/",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R1-Q6",
+          "episodeId": "EP004",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "R. Kelly ghostwrote and produced 'Down Low (Nobody Has to Know)' for which veteran soul group's 1996 comeback?",
+          "choices": [
+            "The Isley Brothers",
+            "Earth Wind & Fire",
+            "The Temptations",
+            "The O'Jays"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Isley Brothers ft. R. Kelly",
+            "song": "Down Low (Nobody Has to Know)",
+            "album": "Mission to Please",
+            "year": 1996,
+            "topicTags": [
+              "R. Kelly",
+              "The Isley Brothers",
+              "songwriter",
+              "ghostwriter",
+              "Down Low"
+            ],
+            "fact": "'Down Low (Nobody Has to Know)' reached #4 on the Billboard Hot 100 and revived the Isley Brothers' commercial relevance in the mid-90s.",
+            "storyHook": "R. Kelly writing for legends — the pen game at its most generational.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Down Low (Nobody Has to Know) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Down_Low_(Nobody_Has_to_Know)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R1-B1",
+          "episodeId": "EP004",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Jimmy Jam and Terry Lewis launched their Janet Jackson collaboration with 'Control.' In what year was it released?",
+          "choices": [
+            "1987",
+            "1984",
+            "1985",
+            "1986"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — YEAR CONTROL DROPPED",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": null,
+            "album": "Control",
+            "year": 1986,
+            "topicTags": [
+              "Jimmy Jam",
+              "Terry Lewis",
+              "Janet Jackson",
+              "Control",
+              "songwriter",
+              "bonus digit"
+            ],
+            "fact": "Control (1986) was the album that established Jimmy Jam and Terry Lewis as the premier R&B songwriter-producer duo of their generation.",
+            "storyHook": "The record that changed who held the pen in R&B.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Control (Janet Jackson album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Control_(Janet_Jackson_album)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP004-R1-RES1",
+          "episodeId": "EP004",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mariah Carey co-wrote her 1993 hit 'Hero' with which songwriter-producer?",
+          "choices": [
+            "Diane Warren",
+            "Babyface",
+            "Jimmy Jam",
+            "Walter Afanasieff"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": "Hero",
+            "album": "Music Box",
+            "year": 1993,
+            "topicTags": [
+              "Mariah Carey",
+              "Walter Afanasieff",
+              "songwriter",
+              "Hero",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Hero (Mariah Carey song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hero_(Mariah_Carey_song)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R1-RES2",
+          "episodeId": "EP004",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Babyface wrote Boyz II Men's 'On Bended Knee' — on which 1994 album did it appear?",
+          "choices": [
+            "Evolution",
+            "Nathan Michael Shawn Wanya",
+            "Cooleyhighharmony",
+            "II"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": "On Bended Knee",
+            "album": "II",
+            "year": 1994,
+            "topicTags": [
+              "Babyface",
+              "Boyz II Men",
+              "songwriter",
+              "On Bended Knee",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "On Bended Knee – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/On_Bended_Knee",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R1-RES3",
+          "episodeId": "EP004",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Jimmy Jam and Terry Lewis wrote 'Can You Stand the Rain' for which R&B group?",
+          "choices": [
+            "Boyz II Men",
+            "New Kids on the Block",
+            "Jodeci",
+            "New Edition"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "New Edition",
+            "song": "Can You Stand the Rain",
+            "album": "Heart Break",
+            "year": 1988,
+            "topicTags": [
+              "Jimmy Jam",
+              "Terry Lewis",
+              "New Edition",
+              "songwriter",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Can You Stand the Rain – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Can_You_Stand_the_Rain",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R1-RES4",
+          "episodeId": "EP004",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Before going solo, Missy Elliott signed her first record deal as a member of which mid-90s R&B group?",
+          "choices": [
+            "Total",
+            "Changing Faces",
+            "Sista",
+            "702"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Missy Elliott",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Missy Elliott",
+              "Sista",
+              "group member",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Missy Elliott – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Missy_Elliott",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Credits beneath the surface. Songs written for other artists, reversed attribution, and the writers who built careers in the background.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP004-R2-Q1",
+          "episodeId": "EP004",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "TLC's 1999 smash 'No Scrubs' was co-written by which member of Xscape?",
+          "choices": [
+            "LaTocha Scott",
+            "Tamika Scott",
+            "Kandi Burruss",
+            "Tiny Harris"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "No Scrubs",
+            "album": "FanMail",
+            "year": 1999,
+            "topicTags": [
+              "Kandi Burruss",
+              "TLC",
+              "No Scrubs",
+              "Xscape",
+              "songwriter"
+            ],
+            "fact": "Kandi Burruss co-wrote 'No Scrubs' alongside Kevin 'She'kspere' Briggs — the writing credit became the foundation of her post-Xscape career.",
+            "storyHook": "An Xscape member writing TLC's biggest late-career record — Atlanta songwriting at its most incestuous.",
+            "sourceNotes": "ASCAP database credits Kandi Burruss and Kevin Briggs as co-writers on 'No Scrubs'. LaFace/Arista FanMail (1999) liner notes confirm the writing credits. BMI database confirms Burruss writing credit.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No Scrubs – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_Scrubs",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R2-Q2",
+          "episodeId": "EP004",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which member of TLC is credited as co-writer on the group's 1994 hit 'Waterfalls'?",
+          "choices": [
+            "T-Boz",
+            "Dallas Austin",
+            "Lisa 'Left Eye' Lopes",
+            "Chilli"
+          ],
+          "correctIndex": 2,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "Waterfalls",
+            "album": "CrazySexyCool",
+            "year": 1994,
+            "topicTags": [
+              "Lisa Left Eye Lopes",
+              "TLC",
+              "Waterfalls",
+              "songwriter"
+            ],
+            "fact": "Left Eye wrote the rap verse on 'Waterfalls' and holds a co-writing credit on the track alongside Organized Noize's production team.",
+            "storyHook": "The verse that elevated Waterfalls from an R&B song into a cultural statement — and Left Eye put it on paper.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Waterfalls (TLC song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Waterfalls_(TLC_song)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R2-Q3",
+          "episodeId": "EP004",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Missy Elliott wrote '4 Page Letter' — a standout track from the 1996 album 'One in a Million' — for which artist?",
+          "choices": [
+            "Total",
+            "Destiny's Child",
+            "Aaliyah",
+            "702"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": "4 Page Letter",
+            "album": "One in a Million",
+            "year": 1996,
+            "topicTags": [
+              "Missy Elliott",
+              "Aaliyah",
+              "songwriter",
+              "4 Page Letter",
+              "One in a Million"
+            ],
+            "fact": "'4 Page Letter' became one of Aaliyah's signature album cuts and helped cement Missy Elliott's reputation as a writer for other artists before her own solo debut.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "4 Page Letter – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/4_Page_Letter",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R2-Q4",
+          "episodeId": "EP004",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "En Vogue's 1992 hit 'My Lovin' (You're Never Gonna Get It)' was written and produced by which songwriter duo?",
+          "choices": [
+            "Teddy Riley & Gene Griffin",
+            "L.A. Reid & Babyface",
+            "Denzil Foster & Thomas McElroy",
+            "Jimmy Jam & Terry Lewis"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "En Vogue",
+            "song": "My Lovin' (You're Never Gonna Get It)",
+            "album": "Funky Divas",
+            "year": 1992,
+            "topicTags": [
+              "Denzil Foster",
+              "Thomas McElroy",
+              "En Vogue",
+              "songwriter",
+              "Funky Divas"
+            ],
+            "fact": "Denzil Foster and Thomas McElroy were the creative architects of En Vogue's entire early catalog — writing and producing across both their debut and Funky Divas.",
+            "storyHook": "Two names nobody says when they talk about En Vogue — even though they built the whole sound.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "My Lovin' (You're Never Gonna Get It) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/My_Lovin%27_(You%27re_Never_Gonna_Get_It)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R2-Q5",
+          "episodeId": "EP004",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which songwriter co-wrote New Edition's 1988 ballad 'Can You Stand the Rain' alongside his production partner Terry Lewis?",
+          "choices": [
+            "Dallas Austin",
+            "Jimmy Jam",
+            "Babyface",
+            "L.A. Reid"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "New Edition",
+            "song": "Can You Stand the Rain",
+            "album": "Heart Break",
+            "year": 1988,
+            "topicTags": [
+              "Jimmy Jam",
+              "Terry Lewis",
+              "New Edition",
+              "songwriter",
+              "Can You Stand the Rain"
+            ],
+            "fact": "'Can You Stand the Rain' is widely cited as one of Jimmy Jam and Terry Lewis's most emotionally precise pieces of songwriting.",
+            "storyHook": "The song that proved Jam and Lewis weren't just hitmakers — they were craftsmen.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Can You Stand the Rain – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Can_You_Stand_the_Rain",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R2-B1",
+          "episodeId": "EP004",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Kandi Burruss co-wrote TLC's 'No Scrubs' — she also co-wrote which 1999 Destiny's Child hit?",
+          "choices": [
+            "Jumpin' Jumpin'",
+            "Bug a Boo",
+            "Bills, Bills, Bills",
+            "Say My Name"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — THE DESTINY'S CHILD HIT KANDI ALSO WROTE",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": "Bills, Bills, Bills",
+            "album": "The Writing's on the Wall",
+            "year": 1999,
+            "topicTags": [
+              "Kandi Burruss",
+              "Destiny's Child",
+              "Bills Bills Bills",
+              "songwriter",
+              "bonus digit"
+            ],
+            "fact": "Kandi Burruss co-wrote both 'No Scrubs' for TLC and 'Bills, Bills, Bills' for Destiny's Child in the same year — 1999 — establishing her as one of Atlanta's most productive songwriters.",
+            "storyHook": "The same pen, two different groups, two era-defining records — in the same twelve months.",
+            "sourceNotes": "ASCAP database credits Kandi Burruss and Kevin Briggs as co-writers on 'Bills, Bills, Bills'. Columbia/Sony The Writing's on the Wall (1999) liner notes confirm the writing credits. BMI database confirms Burruss writing credit on the track.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bills, Bills, Bills – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bills,_Bills,_Bills",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP004-R2-RES1",
+          "episodeId": "EP004",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jimmy Jam co-wrote 'Can You Stand the Rain' for New Edition alongside which production partner?",
+          "choices": [
+            "Dallas Austin",
+            "Babyface",
+            "L.A. Reid",
+            "Terry Lewis"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "New Edition",
+            "song": "Can You Stand the Rain",
+            "album": "Heart Break",
+            "year": 1988,
+            "topicTags": [
+              "Terry Lewis",
+              "Jimmy Jam",
+              "New Edition",
+              "songwriter",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Can You Stand the Rain – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Can_You_Stand_the_Rain",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R2-RES2",
+          "episodeId": "EP004",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "LaShawn Daniels co-wrote Destiny's Child's 'Say My Name' — he also co-wrote which 1999 Whitney Houston hit?",
+          "choices": [
+            "I Will Always Love You",
+            "It's Not Right But It's Okay",
+            "Heartbreak Hotel",
+            "My Love Is Your Love"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "It's Not Right But It's Okay",
+            "album": "My Love Is Your Love",
+            "year": 1999,
+            "topicTags": [
+              "LaShawn Daniels",
+              "Whitney Houston",
+              "Destiny's Child",
+              "songwriter",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "It's Not Right but It's Okay – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/It%27s_Not_Right_but_It%27s_Okay",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R2-RES3",
+          "episodeId": "EP004",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Dallas Austin named his Atlanta production company after his own initials. What does DARP stand for?",
+          "choices": [
+            "Dallas Austin Radio Promotions",
+            "Dallas Austin Rhythm Productions",
+            "Dope Atlanta Recording Productions",
+            "Dallas Austin Recording Projects"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Dallas Austin",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Dallas Austin",
+              "DARP",
+              "Atlanta",
+              "songwriter",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dallas Austin Recording Projects – Discogs",
+                "url": "https://www.discogs.com/label/270932-Dallas-Austin-Recording-Projects",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Pseudonyms, uncredited contributions, and the architects who built the Timbaland catalog from the shadows. Static Major lives here.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP004-R3-Q1",
+          "episodeId": "EP004",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Static Major co-wrote Ginuwine's 'Pony' alongside Timbaland. What was Static Major's real name?",
+          "choices": [
+            "Darius Harrison",
+            "Craig Brockman",
+            "Marcus Cooper",
+            "Stephen Garrett"
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Static Major",
+            "song": "Pony",
+            "album": "Ginuwine...the Bachelor",
+            "year": 1996,
+            "topicTags": [
+              "Static Major",
+              "Stephen Garrett",
+              "Ginuwine",
+              "Pony",
+              "songwriter",
+              "Timbaland"
+            ],
+            "fact": "Stephen Garrett — known as Static Major — co-wrote 'Pony' and dozens of other Timbaland-era records before his death in 2008.",
+            "storyHook": "The name on the credit nobody read — behind one of the most recognizable opening bars in 90s R&B.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Static Major – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Static_Major",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R3-Q2",
+          "episodeId": "EP004",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Before his songwriting career, Static Major was a member of which late-90s R&B vocal group?",
+          "choices": [
+            "Playa",
+            "Dru Hill",
+            "Next",
+            "Ideal"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Static Major",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Static Major",
+              "Playa",
+              "R&B group",
+              "songwriter"
+            ],
+            "fact": "Static Major was a founding member of Playa — the Def Jam R&B group whose album 'Cheers 2 U' (1998) laid the groundwork for his transition into songwriting and production.",
+            "storyHook": "He was the frontman before he became the ghost — and almost nobody knew either role.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Static Major – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Static_Major",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R3-B1",
+          "episodeId": "EP004",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Static Major — born Stephen Garrett — was born in what year?",
+          "choices": [
+            "1973",
+            "1975",
+            "1974",
+            "1972"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — YEAR STATIC MAJOR WAS BORN",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Static Major",
+            "song": null,
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "Static Major",
+              "Stephen Garrett",
+              "birth year",
+              "bonus digit"
+            ],
+            "fact": "Stephen Garrett (Static Major) was born March 12, 1974 in Louisville, Kentucky. He died February 25, 2008.",
+            "storyHook": "A life measured in uncredited records — ended at 33.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Static Major – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Static_Major",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP004-R3-RES1",
+          "episodeId": "EP004",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Playa — the R&B group Static Major belonged to — had a 1998 hit with which single?",
+          "choices": [
+            "One in a Million",
+            "Cheers 2 U",
+            "Slow Motion",
+            "Freak Like Me"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Playa",
+            "song": "Cheers 2 U",
+            "album": "Cheers 2 U",
+            "year": 1998,
+            "topicTags": [
+              "Playa",
+              "Static Major",
+              "Cheers 2 U",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cheers 2 U – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Cheers_2_U",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP004-R3-RES2",
+          "episodeId": "EP004",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Ginuwine — whose 'Pony' Static Major co-wrote — performs under which birth name?",
+          "choices": [
+            "Darius Scott",
+            "Marcus Timmons",
+            "Kevin Briggs",
+            "Elgin Baylor Lumpkin"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ginuwine",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Ginuwine",
+              "Elgin Baylor Lumpkin",
+              "birth name",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ginuwine – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ginuwine",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.0",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-20T15:33:25.391619+00:00"
+  }
+}

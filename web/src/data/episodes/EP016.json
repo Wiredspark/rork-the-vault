@@ -1,0 +1,1547 @@
+{
+  "episodeId": "EP016",
+  "title": "The Golden Age of Groups (Factions & Breakups)",
+  "theme": "The 90s were defined by groups — but keeping track of who was in what group, who went solo, and who replaced who is incredibly difficult.",
+  "narrativePurpose": "Test the depth of the group member canon — lineup changes, departure histories, formation stories, and the splinter factions that defined 90s R&B.",
+  "toneProgression": "Core member identification → lineup changes and departure history → pre-fame iterations and formation archaeology",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "1"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-1 — the year group R&B hit its first commercial peak. Boyz II Men's Cooleyhighharmony and Jodeci's Forever My Lady arrived within months of each other, establishing the vocal group as the decade's dominant format."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "Core member identification. The Group Member distractor archetype is at full power here — four names on the screen, all of them were in 90s R&B groups. Only one was in THIS group.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP016-R1-Q1",
+          "episodeId": "EP016",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Destiny's Child's classic stable lineup consisted of Beyoncé Knowles, Kelly Rowland, and which third member?",
+          "choices": [
+            "Farrah Franklin",
+            "LaTavia Roberson",
+            "LeToya Luckett",
+            "Michelle Williams"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": "Survivor",
+            "year": 2001,
+            "topicTags": [
+              "Destiny's Child",
+              "Michelle Williams",
+              "lineup",
+              "classic trio",
+              "Beyoncé",
+              "Kelly Rowland"
+            ],
+            "fact": "Michelle Williams joined Destiny's Child in 2000 alongside Farrah Franklin, filling two vacancies left by LeToya Luckett and LaTavia Roberson. After Franklin's departure five months later, the trio of Beyoncé, Kelly, and Michelle became the group's definitive and most successful lineup.",
+            "storyHook": "All four choices were in Destiny's Child at some point. Only one stayed long enough to make 'Survivor.'",
+            "sourceNotes": "Destiny's Child official discography. Rolling Stone retrospective. Columbia Records press archives.",
+            "clipCue": "",
+            "hostNote": "Use all four DC members as distractors — LeToya, LaTavia, Farrah, and Michelle. Maximum trap potential.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Destiny's Child – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Destiny%27s_Child",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Michelle Williams – The Beyoncé Wiki",
+                "url": "https://beyonce.fandom.com/wiki/Michelle_Williams",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R1-Q2",
+          "episodeId": "EP016",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "En Vogue's original four-member lineup included Cindy Herron, Maxine Jones, and Terry Ellis alongside which fourth vocalist who later departed?",
+          "choices": [
+            "Lauryn Hill",
+            "Rhona Bennett",
+            "Dawn Robinson",
+            "Tina Turner"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "En Vogue",
+            "song": null,
+            "album": "Funky Divas",
+            "year": 1992,
+            "topicTags": [
+              "En Vogue",
+              "Dawn Robinson",
+              "original lineup",
+              "departure",
+              "Cindy Herron",
+              "Maxine Jones",
+              "Terry Ellis"
+            ],
+            "fact": "Dawn Robinson was a founding member of En Vogue from their formation in Oakland in 1989 — she departed in 1997 before the recording of 'EV3,' citing creative and personal conflicts. Her departure changed the group's dynamic permanently.",
+            "storyHook": "The four-part harmony that launched a thousand imitators. Then one of the four left, and nothing sounded quite the same.",
+            "sourceNotes": "En Vogue official biography. EastWest Records press archives. Billboard chart documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "En Vogue – SNL Wiki",
+                "url": "https://snl.fandom.com/wiki/En_Vogue",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R1-Q3",
+          "episodeId": "EP016",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "SWV — the trio behind 'Right Here (Human Nature Remix)' — consisted of Coko and Lelee alongside which third member?",
+          "choices": [
+            "Chilli",
+            "T-Boz",
+            "LeShaun",
+            "Taj"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "SWV",
+            "song": null,
+            "album": "It's About Time",
+            "year": 1992,
+            "topicTags": [
+              "SWV",
+              "Taj",
+              "Coko",
+              "Lelee",
+              "trio",
+              "lineup",
+              "Sisters With Voices"
+            ],
+            "fact": "SWV — Sisters With Voices — consisted of Coko (Cheryl Gamble), Lelee (Leanne Lyons), and Taj (Tamara Johnson). Taj was the group's most reserved presence publicly but contributed significantly to their vocal arrangements.",
+            "storyHook": "Coko had the voice. Lelee had the presence. Taj held it all together.",
+            "sourceNotes": "SWV official biography. RCA Records press materials. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "T-Boz and Chilli are TLC — maximum distractor potential across girl groups.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Who Is In SWV? – Bravo TV",
+                "url": "https://www.bravotv.com/the-daily-dish/rhoa-who-are-the-group-members-in-swv",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R1-Q4",
+          "episodeId": "EP016",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Bell Biv DeVoe was formed from New Edition by Ricky Bell and Michael Bivins alongside which third member?",
+          "choices": [
+            "Johnny Gill",
+            "Ronnie DeVoe",
+            "Ralph Tresvant",
+            "Bobby Brown"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bell Biv DeVoe",
+            "song": null,
+            "album": "Poison",
+            "year": 1990,
+            "topicTags": [
+              "Bell Biv DeVoe",
+              "Ronnie DeVoe",
+              "New Edition",
+              "Ricky Bell",
+              "Michael Bivins",
+              "splinter group"
+            ],
+            "fact": "Bell Biv DeVoe took their name from the first letters of Ricky Bell, Michael Bivins, and Ronnie DeVoe's surnames — the three New Edition members who weren't pursuing solo careers. Bobby Brown, Ralph Tresvant, and Johnny Gill all went solo, leaving the trio to reinvent themselves under the New Jack Swing sound.",
+            "storyHook": "Six members of New Edition. Three went solo. Three stuck together and named themselves after their last names. Only one answer here was actually in Bell Biv DeVoe.",
+            "sourceNotes": "Bell Biv DeVoe official biography. MCA Records press archives. VH1 Behind the Music documentation.",
+            "clipCue": "",
+            "hostNote": "All four choices are actual New Edition members — peak distractor archetype.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bell Biv DeVoe – Last.fm",
+                "url": "https://www.last.fm/music/Bell+Biv+DeVoe/+wiki",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R1-Q5",
+          "episodeId": "EP016",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Xscape — the Atlanta quartet behind 'Just Kickin' It' — featured founding member LaTocha Scott alongside which sibling who also sang in the group?",
+          "choices": [
+            "Kandi Burruss",
+            "Tamika Scott",
+            "Tameka Cottle",
+            "Tiny Harris"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Xscape",
+            "song": "Just Kickin' It",
+            "album": "Hummin' Comin' at 'Cha",
+            "year": 1993,
+            "topicTags": [
+              "Xscape",
+              "Tamika Scott",
+              "LaTocha Scott",
+              "sisters",
+              "Atlanta",
+              "quartet"
+            ],
+            "fact": "Xscape's four members included two pairs — LaTocha Scott and her sister Tamika Scott, alongside Tameka 'Tiny' Cottle and Kandi Burruss. LaTocha was the group's lead vocalist; Tamika, her younger sister, sang harmonies and occasionally stepped into lead roles.",
+            "storyHook": "All four choices are connected to Xscape. Only one is specifically LaTocha Scott's sister.",
+            "sourceNotes": "Xscape official biography. So So Def Records press archives. Billboard chart documentation.",
+            "clipCue": "",
+            "hostNote": "All four choices are real Xscape members or closely associated — strongest distractor trap in Round 1.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "XSCAPE Member LaTocha Scott Reconciles With Sister Tamika – BET",
+                "url": "https://www.bet.com/article/ri4ymk/xscape-member-latocha-scott-reconciles-with-sister-tamika-after-two-year-estrangement",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R1-Q6",
+          "episodeId": "EP016",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which Destiny's Child member — who appeared in the 'Say My Name' music video — departed the group after just five months in 2000?",
+          "choices": [
+            "Farrah Franklin",
+            "Michelle Williams",
+            "LeToya Luckett",
+            "LaTavia Roberson"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": "Say My Name",
+            "album": "The Writing's on the Wall",
+            "year": 2000,
+            "topicTags": [
+              "Destiny's Child",
+              "Farrah Franklin",
+              "Say My Name",
+              "lineup change",
+              "2000"
+            ],
+            "fact": "Farrah Franklin joined Destiny's Child in February 2000 as one of two replacements for LeToya Luckett and LaTavia Roberson — she appeared in the 'Say My Name' video but missed promotional appearances citing illness, and was dismissed by August 2000, leaving the classic trio intact.",
+            "storyHook": "She filmed the video. She missed the tour. Five months in Destiny's Child was all she got.",
+            "sourceNotes": "Columbia Records press documentation. Destiny's Child official history. Billboard reporting on 2000 lineup change.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Farrah Franklin – WBSS Media",
+                "url": "https://wbssmedia.com/artists/detail/3970",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Destiny's Child – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Destiny%27s_Child",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R1-B1",
+          "episodeId": "EP016",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "LSG's 'L' — Gerald Levert — is the son of which legendary O'Jays lead vocalist?",
+          "choices": [
+            "Eric Grant",
+            "Walter Williams",
+            "Eddie Levert",
+            "William Powell"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — GERALD LEVERT'S FATHER'S NAME"
+          },
+          "metadata": {
+            "artist": "LSG",
+            "song": null,
+            "album": "LSG",
+            "year": 1997,
+            "topicTags": [
+              "Gerald Levert",
+              "Eddie Levert",
+              "O'Jays",
+              "LSG",
+              "father-son",
+              "bonus digit"
+            ],
+            "fact": "Eddie Levert is the lead vocalist of The O'Jays and the father of Gerald Levert — making the Leverts one of R&B's most accomplished family dynasties. Gerald's participation in LSG with Keith Sweat and Johnny Gill placed him at the center of 90s New Jack Swing's supergroup era.",
+            "storyHook": "His father sang 'For the Love of Money.' He sang 'My Body.' The Levert name was everywhere in R&B.",
+            "sourceNotes": "O'Jays official biography. Gerald Levert biographical records. Philadelphia International Records documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Eddie Levert – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Eddie_Levert",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP016-R1-RES1",
+          "episodeId": "EP016",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Destiny's Child's original four-member lineup featured which member alongside Beyoncé Knowles, Kelly Rowland, and LeToya Luckett?",
+          "choices": [
+            "Michelle Williams",
+            "Farrah Franklin",
+            "LaTavia Roberson",
+            "Andretta Tillman"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": "Destiny's Child",
+            "year": 1998,
+            "topicTags": [
+              "Destiny's Child",
+              "LaTavia Roberson",
+              "original lineup",
+              "founding",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Destiny's Child official biography. Columbia Records press archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Destiny's Child – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Destiny%27s_Child",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "The Original Destiny's Child – Facebook post",
+                "url": "https://www.facebook.com/TamronHallShow/posts/the-original-destinys-child-the-original-quartet-comprising-knowles-rowland-lata/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R1-RES2",
+          "episodeId": "EP016",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "K-Ci and JoJo — who departed Jodeci to form their successful duo — share which family surname?",
+          "choices": [
+            "Williams",
+            "DeGrate",
+            "Thomas",
+            "Hailey"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "K-Ci & JoJo",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "K-Ci",
+              "JoJo",
+              "Hailey",
+              "Jodeci",
+              "brothers",
+              "surname",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Jodeci official biography. K-Ci & JoJo MCA Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "K-Ci & JoJo – Jango Radio bio",
+                "url": "https://www.jango.com/music/K+Ci+JoJo",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R1-RES3",
+          "episodeId": "EP016",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Xscape's 'Tiny' — known for her distinctive voice and later reality TV fame — has what birth name?",
+          "choices": [
+            "LaTocha Scott",
+            "Kandi Burruss",
+            "Tamika Scott",
+            "Tameka Cottle"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Xscape",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Xscape",
+              "Tameka Cottle",
+              "Tiny",
+              "birth name",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Xscape official biography. So So Def Records press materials. T.I. & Tiny: The Family Hustle documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tameka 'Tiny' Cottle – WBSS Media",
+                "url": "https://wbssmedia.com/artists/detail/1580",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R1-RES4",
+          "episodeId": "EP016",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Jodeci's quartet included K-Ci, JoJo, and DeVante Swing alongside which fourth member — DeVante's younger brother?",
+          "choices": [
+            "Donald DeGrate",
+            "Cedric DeGrate",
+            "Marcus DeGrate",
+            "Dalvin DeGrate"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jodeci",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Jodeci",
+              "Dalvin DeGrate",
+              "DeVante Swing",
+              "brothers",
+              "quartet",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Jodeci official biography. Uptown Records press archives. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jodeci – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jodeci",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Lineup changes, departure dates, album titles from incomplete lineups, and the supergroups nobody asked for but everyone loved.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP016-R2-Q1",
+          "episodeId": "EP016",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "En Vogue's 1997 album — recorded as a trio after Dawn Robinson's departure — was titled what?",
+          "choices": [
+            "EV3",
+            "Funky Divas",
+            "Soul Flower",
+            "Electric Cafe"
+          ],
+          "correctIndex": 0,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "En Vogue",
+            "song": null,
+            "album": "EV3",
+            "year": 1997,
+            "topicTags": [
+              "En Vogue",
+              "EV3",
+              "Dawn Robinson",
+              "departure",
+              "trio",
+              "album"
+            ],
+            "fact": "EV3 — shorthand for En Vogue Three — was released on EastWest Records in 1997 and debuted at #7 on the Billboard 200. Despite the personnel change, the album went platinum on the strength of 'Don't Let Go (Love)' and demonstrated the group's commercial resilience without Robinson.",
+            "storyHook": "They named the album after how many of them were left. That is a level of brutal honesty that most groups don't attempt.",
+            "sourceNotes": "EV3 liner notes (EastWest, 1997). Billboard chart archives. Discogs release page.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "EV3 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/EV3_(album)",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "En Vogue – SNL Wiki",
+                "url": "https://snl.fandom.com/wiki/En_Vogue",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R2-Q2",
+          "episodeId": "EP016",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The LSG supergroup's debut 1997 lead single — which became a staple on late-night R&B radio — was titled what?",
+          "choices": [
+            "My Life",
+            "My Prerogative",
+            "My Way",
+            "My Body"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "LSG",
+            "song": "My Body",
+            "album": "LSG",
+            "year": 1997,
+            "topicTags": [
+              "LSG",
+              "My Body",
+              "Gerald Levert",
+              "Keith Sweat",
+              "Johnny Gill",
+              "single"
+            ],
+            "fact": "'My Body' was LSG's debut lead single from their 1997 self-titled album — it spent seven weeks at #1 on the Billboard R&B chart and peaked at #4 on the Hot 100, establishing the supergroup as a genuine commercial force rather than a novelty.",
+            "storyHook": "Three solo careers, one song, one chart-topper. The supergroup formula worked exactly as advertised.",
+            "sourceNotes": "Billboard Hot 100 and R&B chart archives. LSG official discography. EastWest Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "LSG (Levert.Sweat.Gill) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/LSG_(band)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R2-Q3",
+          "episodeId": "EP016",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which Boyz II Men member — the group's distinctive bass vocalist who sang 'Thank You' — departed in 2003 after being diagnosed with multiple sclerosis?",
+          "choices": [
+            "Nate Morris",
+            "Shawn Stockman",
+            "Michael McCary",
+            "Wanya Morris"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": "Thank You",
+            "album": null,
+            "year": 2003,
+            "topicTags": [
+              "Boyz II Men",
+              "Michael McCary",
+              "multiple sclerosis",
+              "departure",
+              "bass vocalist"
+            ],
+            "fact": "Michael McCary — known for his remarkable bass range that anchored Boyz II Men's four-part harmony — left the group in 2003 after his multiple sclerosis diagnosis made touring and performing increasingly difficult. His departure reduced the group to the trio that continues performing today.",
+            "storyHook": "The lowest voice in the room. The one that made the harmony complete. Gone in 2003, and the sound changed forever.",
+            "sourceNotes": "Boyz II Men official statements on McCary's departure. Billboard reporting (2003). Michael McCary biographical records.",
+            "clipCue": "",
+            "hostNote": "All four choices are the actual Boyz II Men members — maximum distractor potential.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Boyz II Men – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Boyz_II_Men",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R2-Q4",
+          "episodeId": "EP016",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Xscape's Tameka 'Tiny' Cottle — whose voice was among the most distinctive in 90s R&B — went on to marry which Atlanta rapper?",
+          "choices": [
+            "Outkast",
+            "Ludacris",
+            "Goodie Mob",
+            "T.I."
+          ],
+          "correctIndex": 3,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Xscape",
+            "song": null,
+            "album": null,
+            "year": 2010,
+            "topicTags": [
+              "Tameka Cottle",
+              "Tiny",
+              "T.I.",
+              "Atlanta",
+              "marriage",
+              "Xscape"
+            ],
+            "fact": "Tameka 'Tiny' Cottle married Clifford 'T.I.' Harris in 2010 — their relationship was documented on the VH1 reality series 'T.I. & Tiny: The Family Hustle,' keeping Tiny in the public eye long after Xscape's initial commercial run ended.",
+            "storyHook": "She sang soprano with Xscape. She became half of Atlanta's most televised couple. The voice never changed.",
+            "sourceNotes": "T.I. & Tiny: The Family Hustle official documentation. VH1 press materials. Atlanta Journal-Constitution reporting.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tameka 'Tiny' Cottle – WBSS Media",
+                "url": "https://wbssmedia.com/artists/detail/1580",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R2-Q5",
+          "episodeId": "EP016",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "SWV's lead vocalist — who performed under the stage name 'Coko' — has what birth name?",
+          "choices": [
+            "Cheryl Gamble",
+            "Cheryl Lynn",
+            "Cheryl James",
+            "Cheryl Pepsii Riley"
+          ],
+          "correctIndex": 0,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "SWV",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "SWV",
+              "Coko",
+              "Cheryl Gamble",
+              "birth name",
+              "lead vocalist"
+            ],
+            "fact": "Coko's birth name is Cheryl Gamble — she adopted the stage name from a childhood nickname. Her gospel-trained soprano voice was the distinguishing instrument of SWV's sound, setting her apart from the era's more polished, production-driven vocalists.",
+            "storyHook": "All four choices are real Cheryls in R&B. Only one of them was Coko.",
+            "sourceNotes": "SWV official biography. RCA Records press materials. Coko solo career documentation.",
+            "clipCue": "",
+            "hostNote": "The all-Cheryl distractor set is intentional — maximum confusion for anyone who knows their 90s R&B Cheryls.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "SWV – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/SWV",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R2-B1",
+          "episodeId": "EP016",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Dru Hill — the Baltimore quartet known for 'In My Bed' and 'How Deep Is Your Love' — took their group name from which Baltimore landmark?",
+          "choices": [
+            "Dru Park",
+            "Druid Heights",
+            "Druid Lake",
+            "Druid Hill"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE BALTIMORE LANDMARK BEHIND DRU HILL"
+          },
+          "metadata": {
+            "artist": "Dru Hill",
+            "song": null,
+            "album": null,
+            "year": 1996,
+            "topicTags": [
+              "Dru Hill",
+              "Druid Hill",
+              "Baltimore",
+              "name origin",
+              "landmark",
+              "bonus digit"
+            ],
+            "fact": "Dru Hill took their name from Druid Hill — the Baltimore neighborhood and park — as a nod to their city of origin. The park is home to the Maryland Zoo and is one of the oldest landscaped public parks in the United States.",
+            "storyHook": "They shortened it by two letters and made it a group name. The park didn't mind.",
+            "sourceNotes": "Dru Hill official biography. Island Records press materials. Baltimore City geographic records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dru Hill – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dru_Hill",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP016-R2-RES1",
+          "episodeId": "EP016",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "After departing En Vogue in 1997, Dawn Robinson co-founded which early 2000s R&B supergroup alongside Tony! Toni! Toné!'s Raphael Saadiq?",
+          "choices": [
+            "Jade",
+            "SWV",
+            "Lucy Pearl",
+            "702"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lucy Pearl",
+            "song": null,
+            "album": "Lucy Pearl",
+            "year": 2000,
+            "topicTags": [
+              "Lucy Pearl",
+              "Dawn Robinson",
+              "Raphael Saadiq",
+              "supergroup",
+              "En Vogue",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Lucy Pearl official biography. Raphael Saadiq biographical records. Beyond Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dawn Robinson – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dawn_Robinson",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Lucy Pearl – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lucy_Pearl",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R2-RES2",
+          "episodeId": "EP016",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "TGT — the R&B supergroup consisting of Tank, Ginuwine, and Tyrese — released which 2013 debut album?",
+          "choices": [
+            "TGT",
+            "New School",
+            "The Takeover",
+            "Three Kings"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "TGT",
+            "song": null,
+            "album": "Three Kings",
+            "year": 2013,
+            "topicTags": [
+              "TGT",
+              "Three Kings",
+              "Tank",
+              "Ginuwine",
+              "Tyrese",
+              "supergroup",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Three Kings liner notes (Atlantic Records, 2013). Billboard chart archives. Atlantic Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Three Kings (TGT album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Three_Kings_(TGT_album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R2-RES3",
+          "episodeId": "EP016",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The supergroup LSG took its name from the initials of its three members — Gerald Levert, Johnny Gill, and which third artist?",
+          "choices": [
+            "R. Kelly",
+            "Brian McKnight",
+            "Keith Sweat",
+            "Babyface"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "LSG",
+            "song": null,
+            "album": "Levert.Sweat.Gill",
+            "year": 1997,
+            "topicTags": [
+              "LSG",
+              "Keith Sweat",
+              "Gerald Levert",
+              "Johnny Gill",
+              "supergroup",
+              "1997"
+            ],
+            "fact": "LSG stood for Levert, Sweat, Gill — Gerald Levert, Keith Sweat, and Johnny Gill. The three veteran R&B artists combined their surnames to form the name of their 1997 supergroup collaboration, which produced the hit 'My Body.'",
+            "storyHook": "Three surnames. One acronym. LSG made it obvious who was in the room — if you knew your R&B.",
+            "sourceNotes": "PRIORITY VERIFY: Confirm LSG = Levert (Gerald), Sweat (Keith), Gill (Johnny). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "LSG (Levert.Sweat.Gill) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/LSG_(band)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-19",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Pre-fame group names, formation archaeology, and the managers and fathers who shaped everything from the outside.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP016-R3-Q1",
+          "episodeId": "EP016",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Before Destiny's Child existed, a young Beyoncé Knowles performed in a youth group that competed on Star Search in 1993. What was that group called?",
+          "choices": [
+            "Something Fresh",
+            "Destiny",
+            "Girl's Tyme",
+            "The Dolls"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "Girl's Tyme",
+              "Beyoncé",
+              "Destiny's Child",
+              "Star Search",
+              "pre-fame",
+              "origin"
+            ],
+            "fact": "Girl's Tyme — which included a young Beyoncé Knowles, Kelly Rowland, and LeToya Luckett — competed on Star Search in 1993 and lost to a rock band called Skeleton Crew. The loss was devastating to the group and its young members, but it became the primary motivation for Mathew Knowles to revamp the lineup and redirect the group — a reorganization that eventually produced Destiny's Child.",
+            "storyHook": "They lost to a rock band called Skeleton Crew. Then they regrouped. Then they became the biggest girl group of the decade. Beyoncé even quoted the loss in 'Flawless.' The defeat earned its own monument.",
+            "sourceNotes": "Star Search broadcast archives (1993). Destiny's Child official biography. Beyoncé 'Flawless' sample documentation. Mathew Knowles management records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Destiny's Child – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Destiny%27s_Child",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R3-Q2",
+          "episodeId": "EP016",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Destiny's Child's manager — who also negotiated the group's high-profile lineup changes and is Beyoncé's father — was named what?",
+          "choices": [
+            "Andretta Tillman",
+            "Lonnie Jackson",
+            "Rodney Jerkins",
+            "Mathew Knowles"
+          ],
+          "correctIndex": 3,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Mathew Knowles",
+              "Destiny's Child",
+              "manager",
+              "Beyoncé",
+              "lineup changes",
+              "father"
+            ],
+            "fact": "Mathew Knowles managed Destiny's Child from their Girl's Tyme days through their commercial peak — he oversaw the 2000 lineup change that dismissed LeToya Luckett and LaTavia Roberson, a decision that generated considerable controversy and litigation but ultimately preserved the group's commercial trajectory.",
+            "storyHook": "He managed the group, negotiated the departures, and happened to be the lead singer's father. The conflict of interest was the point.",
+            "sourceNotes": "Mathew Knowles management records. Rolling Stone reporting on 2000 Destiny's Child lineup change. Columbia Records documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mathew Knowles – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mathew_Knowles",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R3-B1",
+          "episodeId": "EP016",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Jodeci's K-Ci and JoJo Hailey — who later formed their own duo — are brothers originally from which small North Carolina city?",
+          "choices": [
+            "Greensboro",
+            "Raleigh",
+            "Monroe",
+            "Charlotte"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — THE NORTH CAROLINA CITY K-CI AND JOJO CALLED HOME"
+          },
+          "metadata": {
+            "artist": "K-Ci & JoJo",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "K-Ci",
+              "JoJo",
+              "Hailey",
+              "Monroe",
+              "North Carolina",
+              "origin",
+              "bonus digit"
+            ],
+            "fact": "Cedric 'K-Ci' Hailey and Joel 'JoJo' Hailey were born and raised in Monroe, North Carolina — a small city southeast of Charlotte — before relocating and eventually forming Jodeci with the DeGrate brothers. Their gospel upbringing in Monroe's church community formed the vocal foundation they brought to both Jodeci and their duo career.",
+            "storyHook": "Monroe, North Carolina produced two of the greatest voices of the 90s R&B era. The city is still waiting for its credit.",
+            "sourceNotes": "K-Ci & JoJo biographical records. Jodeci formation documentation. Monroe NC city records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "K-Ci & JoJo – Jango Radio bio",
+                "url": "https://www.jango.com/music/K+Ci+JoJo",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP016-R3-RES1",
+          "episodeId": "EP016",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "K-Ci & JoJo's debut album — which contained their chart-topping ballad 'All My Life' — was titled what?",
+          "choices": [
+            "X",
+            "It's Real",
+            "Love Always",
+            "All My Life"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "K-Ci & JoJo",
+            "song": "All My Life",
+            "album": "Love Always",
+            "year": 1997,
+            "topicTags": [
+              "K-Ci & JoJo",
+              "Love Always",
+              "All My Life",
+              "debut album",
+              "MCA Records",
+              "swap reserve"
+            ],
+            "fact": "Love Always was released on MCA Records in June 1997 as K-Ci & JoJo's debut duo album. 'All My Life' was the album's third single, released in early 1998 — it topped the Billboard Hot 100 for three weeks and became the defining record of their career.",
+            "storyHook": "",
+            "sourceNotes": "Love Always liner notes (MCA Records, 1997). Billboard Hot 100 chart archives. MCA Records release documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Love Always – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Love_Always_(K-Ci_%26_JoJo_album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP016-R3-RES2",
+          "episodeId": "EP016",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Dru Hill's Sisqo — who later had a massive solo hit with 'Thong Song' — has what birth name?",
+          "choices": [
+            "Mark Andrews",
+            "Craig Thomas",
+            "Timothy Riley",
+            "Devon Richards"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Dru Hill",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Sisqo",
+              "Mark Andrews",
+              "Dru Hill",
+              "birth name",
+              "Thong Song",
+              "swap reserve"
+            ],
+            "fact": "Sisqo's legal birth name is Mark Althavan Andrews — he adopted the stage name Sisqo from a childhood nickname. His 2000 solo smash 'Thong Song' reached #3 on the Billboard Hot 100 and became one of the defining pop-R&B crossover moments of the era.",
+            "storyHook": "",
+            "sourceNotes": "Sisqo biographical records. Dru Hill official biography. Island/Def Soul Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sisqó – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sisq%C3%B3",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-19T14:07:02.059361+00:00",
+    "lockedAt": "2026-05-08",
+    "lockedBy": "QA verification log"
+  }
+}

@@ -1,0 +1,1527 @@
+{
+  "episodeId": "EP005",
+  "title": "Regional Dynasties",
+  "theme": "The labels, studios, and city scenes that built 90s R&B — and how geography shaped the sound",
+  "narrativePurpose": "Test whether players know not just the music but where it came from — the zip codes, collectives, and regional power structures behind the records",
+  "toneProgression": "Famous regional affiliations → label genealogy and collective archaeology → studio history and founding origins",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "3"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-3 — the year the regional map cracked open. Jermaine Dupri founded So So Def in Atlanta, Death Row ruled the West Coast, and Bad Boy was being assembled in New York. Geography wrote the sound."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "Famous regional affiliations. The cities and labels that defined how 90s R&B sounded — and where the artists came from.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP005-R1-Q1",
+          "episodeId": "EP005",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Andre Harrell founded which New York-based label that was home to Mary J. Blige, Jodeci, and Heavy D?",
+          "choices": [
+            "Def Jam",
+            "Motown",
+            "Atlantic",
+            "Uptown Records"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1986,
+            "topicTags": [
+              "Uptown Records",
+              "Andre Harrell",
+              "New York",
+              "label",
+              "Mary J. Blige",
+              "Jodeci"
+            ],
+            "fact": "Uptown Records was founded by Andre Harrell in 1986 and became the defining label of New York hip-hop soul through the early 1990s.",
+            "storyHook": "Before Bad Boy, before Def Jam's R&B pivot — there was Uptown, and it changed what New York R&B sounded like.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Uptown Records – BlackPast",
+                "url": "https://blackpast.org/african-american-history/uptown-records-1986-1999/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Uptown Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Uptown_Records",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R1-Q2",
+          "episodeId": "EP005",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Jermaine Dupri founded which Atlanta-based label that launched Kris Kross, Xscape, and Da Brat?",
+          "choices": [
+            "So So Def",
+            "LaFace Records",
+            "Organized Noize Productions",
+            "Rowdy Records"
+          ],
+          "correctIndex": 0,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "So So Def",
+              "Jermaine Dupri",
+              "Atlanta",
+              "label",
+              "Kris Kross",
+              "Xscape",
+              "Da Brat"
+            ],
+            "fact": "So So Def Recordings was founded in 1993 and distributed through Columbia, becoming one of Atlanta's most commercially dominant independent labels of the decade.",
+            "storyHook": "Jermaine Dupri built an Atlanta empire before anyone called it that.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "So So Def Recordings founded by Jermaine Dupri – Instagram",
+                "url": "https://www.instagram.com/reel/DYQNe5yogLD/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R1-Q3",
+          "episodeId": "EP005",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Teddy Riley relocated from Harlem to which Virginia city to found Blackstreet and establish his recording studio?",
+          "choices": [
+            "Norfolk",
+            "Virginia Beach",
+            "Richmond",
+            "Roanoke"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Teddy Riley",
+            "song": null,
+            "album": null,
+            "year": 1990,
+            "topicTags": [
+              "Teddy Riley",
+              "Virginia Beach",
+              "Blackstreet",
+              "New Jack Swing",
+              "studio"
+            ],
+            "fact": "Teddy Riley's move to Virginia Beach in the early 1990s created a gravitational pull — Timbaland, Missy Elliott, and DeVante Swing all built careers in the same region within a few years.",
+            "storyHook": "One move from Harlem to Virginia Beach — and it reshaped the entire 90s R&B map.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Teddy Riley's Future Records Studio in Virginia Beach – Facebook",
+                "url": "https://www.facebook.com/groups/413161822131909/posts/9292162347565101/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Teddy Riley – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Teddy_Riley",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R1-Q4",
+          "episodeId": "EP005",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Jodeci formed in which Southern state before signing to Uptown Records in New York?",
+          "choices": [
+            "South Carolina",
+            "Georgia",
+            "North Carolina",
+            "Virginia"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jodeci",
+            "song": null,
+            "album": null,
+            "year": 1989,
+            "topicTags": [
+              "Jodeci",
+              "North Carolina",
+              "Uptown Records",
+              "origin",
+              "regional"
+            ],
+            "fact": "The DeGrate and Hailey families both hailed from North Carolina — Jodeci were a Southern group that the New York Uptown sound transformed into an urban phenomenon.",
+            "storyHook": "North Carolina soul handed to a New York label — and the collision produced something neither city had heard before.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jodeci – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jodeci",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R1-Q5",
+          "episodeId": "EP005",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The Neptunes production duo consists of Pharrell Williams and which Virginia Beach co-producer?",
+          "choices": [
+            "Chad Hugo",
+            "Mike City",
+            "Scott Storch",
+            "Dre"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Neptunes",
+            "song": null,
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "The Neptunes",
+              "Chad Hugo",
+              "Pharrell Williams",
+              "Virginia Beach",
+              "producer"
+            ],
+            "fact": "Chad Hugo and Pharrell Williams met as teenagers in Virginia Beach and formed The Neptunes — one of the most commercially dominant production duos of the late 90s and 2000s.",
+            "storyHook": "The other half of the Neptunes — the name everyone forgets behind the sound everyone knows.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Neptunes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Neptunes",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R1-Q6",
+          "episodeId": "EP005",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Uptown Records flagship rapper Heavy D was born in which Caribbean country?",
+          "choices": [
+            "Trinidad",
+            "Guyana",
+            "Jamaica",
+            "Barbados"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Heavy D",
+            "song": null,
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Heavy D",
+              "Jamaica",
+              "Uptown Records",
+              "Caribbean",
+              "origin"
+            ],
+            "fact": "Heavy D was born Dwight Arrington Myers in Mandeville, Jamaica, and immigrated to Mount Vernon, New York — his Jamaican roots informed the rhythmic swagger that defined his Uptown sound.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Heavy D – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Heavy_D",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R1-B1",
+          "episodeId": "EP005",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Jermaine Dupri founded So So Def Recordings in what year?",
+          "choices": [
+            "1992",
+            "1991",
+            "1993",
+            "1994"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — YEAR SO SO DEF WAS FOUNDED",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "So So Def",
+              "Jermaine Dupri",
+              "Atlanta",
+              "label",
+              "founding year",
+              "bonus digit"
+            ],
+            "fact": "So So Def was founded in 1993 — the same year Kris Kross's debut went triple platinum, giving Dupri instant leverage to build the label on his own terms.",
+            "storyHook": "He started the label before most people knew his name.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "So So Def Recordings founded 1993 – Instagram",
+                "url": "https://www.instagram.com/reel/DYQNe5yogLD/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP005-R1-RES1",
+          "episodeId": "EP005",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which music executive founded Uptown Records and later mentored Sean 'Puff Daddy' Combs?",
+          "choices": [
+            "Clive Davis",
+            "Andre Harrell",
+            "Jimmy Iovine",
+            "Russell Simmons"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Andre Harrell",
+              "Uptown Records",
+              "Puff Daddy",
+              "executive",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Andre Harrell – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Andre_Harrell",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Andre Harrell: Remembering The Pioneer Of Hip-Hop Soul – uDiscoverMusic",
+                "url": "https://www.udiscovermusic.com/stories/andre-harrell-rip/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R1-RES2",
+          "episodeId": "EP005",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Jodeci's four members originally formed in which North Carolina city?",
+          "choices": [
+            "Durham",
+            "Raleigh",
+            "Greensboro",
+            "Charlotte"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jodeci",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Jodeci",
+              "Charlotte",
+              "North Carolina",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jodeci – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jodeci",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R1-RES3",
+          "episodeId": "EP005",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "André 3000 and Big Boi of OutKast first met as students at which Atlanta high school?",
+          "choices": [
+            "Douglass High School",
+            "Tri-Cities High School",
+            "Benjamin E. Mays High School",
+            "Booker T. Washington High School"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "OutKast",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "OutKast",
+              "André 3000",
+              "Big Boi",
+              "Tri-Cities High School",
+              "Atlanta",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Outkast – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Outkast",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R1-RES4",
+          "episodeId": "EP005",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Uptown Records was distributed through which major label in the early 1990s?",
+          "choices": [
+            "Atlantic Records",
+            "Columbia Records",
+            "Warner Bros. Records",
+            "MCA Records"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Uptown Records",
+              "MCA Records",
+              "distribution",
+              "label",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Uptown Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Uptown_Records",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Label genealogy, collective origin stories, and the behind-the-scenes regional infrastructure that built the 90s sound.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP005-R2-Q1",
+          "episodeId": "EP005",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jodeci's primary songwriter and producer DeVante Swing performed under which birth name?",
+          "choices": [
+            "Darius Scott",
+            "Dalvin DeGrate",
+            "Marcus Cooper",
+            "Donald DeGrate"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "DeVante Swing",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "DeVante Swing",
+              "Donald DeGrate",
+              "Jodeci",
+              "songwriter",
+              "birth name"
+            ],
+            "fact": "Donald DeGrate — DeVante Swing — wrote and produced virtually all of Jodeci's catalog while simultaneously building a Virginia collective that would launch Timbaland and Missy Elliott.",
+            "storyHook": "The most important architect in 90s R&B that nobody talks about by his real name.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Happy Birthday DeVante Swing – Facebook",
+                "url": "https://www.facebook.com/honoringlegends/posts/happy-birthday-devante-swing-donald-earle-degrate-jr-known-in-the-1990s-as-the-f/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R2-Q2",
+          "episodeId": "EP005",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Before founding Uptown Records, Andre Harrell launched his career as one half of which hip-hop duo?",
+          "choices": [
+            "Eric B. & Rakim",
+            "EPMD",
+            "Main Source",
+            "Dr. Jekyll and Mr. Hyde"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Andre Harrell",
+            "song": null,
+            "album": null,
+            "year": 1983,
+            "topicTags": [
+              "Andre Harrell",
+              "Dr. Jekyll and Mr. Hyde",
+              "hip-hop",
+              "Uptown Records",
+              "origin"
+            ],
+            "fact": "As half of Dr. Jekyll and Mr. Hyde, Andre Harrell recorded for Profile Records in the early 1980s before transitioning into A&R and eventually founding Uptown.",
+            "storyHook": "The man who built the New York R&B establishment started as a rapper — and almost nobody knows it.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dr. Jeckyll & Mr. Hyde (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dr._Jeckyll_&_Mr._Hyde_(group)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R2-Q3",
+          "episodeId": "EP005",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jermaine Dupri famously discovered Kris Kross performing in which Atlanta shopping mall?",
+          "choices": [
+            "Greenbriar Mall",
+            "Cumberland Mall",
+            "Perimeter Mall",
+            "Lenox Square"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Kris Kross",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "Jermaine Dupri",
+              "Kris Kross",
+              "Greenbriar Mall",
+              "Atlanta",
+              "discovery"
+            ],
+            "fact": "Jermaine Dupri spotted Chris Kelly and Chris Smith performing at Greenbriar Mall in southwest Atlanta in 1991 — within a year they had a triple-platinum debut.",
+            "storyHook": "A mall in southwest Atlanta. A 19-year-old producer. Two kids in backwards clothes. One of the most improbable origin stories in 90s music.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jermaine Dupri discovered Kris Kross at Greenbriar Mall – AJC",
+                "url": "https://www.ajc.com/entertainment/jermaine-dupri-recalls-how-discovered-kris-kross-greenbriar-mall/8MW5Ut1RhJXHCAsoFVwceI/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R2-Q4",
+          "episodeId": "EP005",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Da Brat — signed to So So Def — became the first female solo rapper with a platinum-selling debut. What was that album called?",
+          "choices": [
+            "Limelite Luv & Niteklubz",
+            "Anuthatantrum",
+            "Funkdafied",
+            "Ghetto Love"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Da Brat",
+            "song": null,
+            "album": "Funkdafied",
+            "year": 1994,
+            "topicTags": [
+              "Da Brat",
+              "Funkdafied",
+              "So So Def",
+              "Atlanta",
+              "first",
+              "platinum"
+            ],
+            "fact": "Funkdafied (1994) went platinum, making Da Brat the first female solo rapper to achieve that milestone — on Jermaine Dupri's label, distributed out of Atlanta.",
+            "storyHook": "History made in Atlanta — and most people credit the coasts.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Da Brat – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Da_Brat",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R2-Q5",
+          "episodeId": "EP005",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "DeVante Swing assembled Timbaland, Missy Elliott, and Static Major into which Virginia-based collective in the early 1990s?",
+          "choices": [
+            "Swing Mob",
+            "Ill Na Na",
+            "The Dungeon Family",
+            "The Soulquarians"
+          ],
+          "correctIndex": 0,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "DeVante Swing",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "Swing Mob",
+              "DeVante Swing",
+              "Timbaland",
+              "Missy Elliott",
+              "Static Major",
+              "Virginia"
+            ],
+            "fact": "Swing Mob — assembled by DeVante Swing — was one of the most talent-dense collectives in 90s R&B, incubating artists who would each go on to define the next era of the genre.",
+            "storyHook": "Timbaland, Missy, Static Major — all in the same collective, in Virginia, before anyone knew who any of them were.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Swing Mob – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Swing_Mob",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R2-B1",
+          "episodeId": "EP005",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jermaine Dupri was how old when he produced Kris Kross's triple-platinum debut 'Totally Krossed Out'?",
+          "choices": [
+            "17",
+            "19",
+            "18",
+            "20"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — HOW OLD JD WAS WHEN HE MADE KRIS KROSS",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Jermaine Dupri",
+            "song": null,
+            "album": "Totally Krossed Out",
+            "year": 1992,
+            "topicTags": [
+              "Jermaine Dupri",
+              "Kris Kross",
+              "So So Def",
+              "Atlanta",
+              "age",
+              "bonus digit"
+            ],
+            "fact": "Jermaine Dupri was 19 when Totally Krossed Out was released in April 1992 — he turned 20 that September. At 19 he had already produced a record that would spend eight weeks at #1.",
+            "storyHook": "Nineteen years old. Triple platinum. Atlanta was just getting started.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jermaine Dupri discovered Kris Kross – AJC",
+                "url": "https://www.ajc.com/entertainment/jermaine-dupri-recalls-how-discovered-kris-kross-greenbriar-mall/8MW5Ut1RhJXHCAsoFVwceI/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP005-R2-RES1",
+          "episodeId": "EP005",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Pharrell Williams and Chad Hugo first connected through which Virginia arts program during high school?",
+          "choices": [
+            "The Governor's School for the Arts",
+            "Virginia Commonwealth University",
+            "Hampton University",
+            "Norfolk State University"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Neptunes",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Pharrell Williams",
+              "Chad Hugo",
+              "The Neptunes",
+              "Virginia",
+              "Governor's School",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Neptunes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Neptunes",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R2-RES2",
+          "episodeId": "EP005",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Before founding Uptown Records, Andre Harrell worked as an A&R executive at which rap label founded by Russell Simmons?",
+          "choices": [
+            "Profile Records",
+            "Def Jam",
+            "Tommy Boy",
+            "Cold Chillin'"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Andre Harrell",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Andre Harrell",
+              "Def Jam",
+              "Russell Simmons",
+              "label",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Andre Harrell – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Andre_Harrell",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R2-RES3",
+          "episodeId": "EP005",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Uptown Records sound — blending hip-hop production with R&B vocals — was known by which genre term Andre Harrell helped popularize?",
+          "choices": [
+            "New Jack Swing",
+            "Street Soul",
+            "Quiet Storm",
+            "Hip-Hop Soul"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Hip-Hop Soul",
+              "Uptown Records",
+              "Andre Harrell",
+              "genre",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Andre Harrell: Pioneer Of Hip-Hop Soul – uDiscoverMusic",
+                "url": "https://www.udiscovermusic.com/stories/andre-harrell-rip/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Studio addresses. Collective alternate names. The founding-level geography that only obsessives know.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP005-R3-Q1",
+          "episodeId": "EP005",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "DeVante Swing's Virginia collective — which incubated Timbaland and Missy Elliott — was also known by which alternate name?",
+          "choices": [
+            "The Compound",
+            "The Dungeon",
+            "The Lab",
+            "Da Bassment"
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "DeVante Swing",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "Da Bassment",
+              "Swing Mob",
+              "DeVante Swing",
+              "Timbaland",
+              "Missy Elliott",
+              "Virginia"
+            ],
+            "fact": "Da Bassment — also called Swing Mob — was a live-in creative compound in Virginia where DeVante Swing housed and developed artists including Timbaland, Missy Elliott, and Static Major throughout the early 1990s.",
+            "storyHook": "A basement in Virginia that produced more 90s R&B hits than most major labels.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Swing Mob – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Swing_Mob",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R3-Q2",
+          "episodeId": "EP005",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Organized Noize recorded their landmark sessions with OutKast and TLC at which Atlanta studio?",
+          "choices": [
+            "Bosstown Studios",
+            "Tree Sound Studios",
+            "Stankonia Studios",
+            "Master Sound Studios"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Organized Noize",
+            "song": null,
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "Organized Noize",
+              "Bosstown Studios",
+              "OutKast",
+              "TLC",
+              "Atlanta",
+              "studio"
+            ],
+            "fact": "Bosstown Studios in Atlanta was the recording home of Organized Noize's most important work — including early OutKast sessions and TLC's CrazySexyCool production.",
+            "storyHook": "The room where Atlanta's sound was built — and almost nobody outside Atlanta knows its name.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Organized Noize – uDiscoverMusic profile",
+                "url": "https://www.udiscovermusic.com/stories/organized-noize-profile/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R3-B1",
+          "episodeId": "EP005",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Pharrell Williams — co-founder of The Neptunes — was born in what year?",
+          "choices": [
+            "1971",
+            "1974",
+            "1973",
+            "1972"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — YEAR PHARRELL WAS BORN",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Pharrell Williams",
+            "song": null,
+            "album": null,
+            "year": 1973,
+            "topicTags": [
+              "Pharrell Williams",
+              "The Neptunes",
+              "Virginia Beach",
+              "birth year",
+              "bonus digit"
+            ],
+            "fact": "Pharrell Williams was born April 5, 1973 in Virginia Beach — the same city that produced Teddy Riley, Timbaland, and Missy Elliott within the same decade.",
+            "storyHook": "One zip code. Four architects of 90s sound. Virginia Beach was the most important city in R&B that nobody gave credit to.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Pharrell Williams – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Pharrell_Williams",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP005-R3-RES1",
+          "episodeId": "EP005",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Teddy Riley grew up in which New York neighborhood before relocating to Virginia Beach?",
+          "choices": [
+            "Harlem",
+            "The Bronx",
+            "Brooklyn",
+            "Queens"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Teddy Riley",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Teddy Riley",
+              "Harlem",
+              "Virginia Beach",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Teddy Riley – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Teddy_Riley",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP005-R3-RES2",
+          "episodeId": "EP005",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Jermaine Dupri's So So Def label was distributed through which major label throughout the 1990s?",
+          "choices": [
+            "MCA Records",
+            "Jive",
+            "Columbia",
+            "Arista"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "So So Def",
+              "Columbia",
+              "Jermaine Dupri",
+              "distribution",
+              "label",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "So So Def Recordings founded by Jermaine Dupri – Instagram",
+                "url": "https://www.instagram.com/reel/DYQNe5yogLD/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "So So Def Recordings – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/So_So_Def_Recordings",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.0",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-20T04:03:05.842922+00:00"
+  }
+}

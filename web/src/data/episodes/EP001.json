@@ -1,0 +1,1487 @@
+{
+  "episodeId": "EP001",
+  "title": "Debuts and Number Ones",
+  "theme": "Breakout moments, chart dominance, and landmark arrival records from 90s R&B",
+  "narrativePurpose": "Introduce the player to the Vault with familiar, high-recognition R&B anchors before tightening into deeper fan knowledge",
+  "toneProgression": "Mainstream confidence → deeper fan credibility → collector-level recall",
+  "version": "1.2",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "2"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-2 — the year Boyz II Men's End of the Road set the record for most consecutive weeks at #1 on the Hot 100, then Whitney Houston's I Will Always Love You broke it. R&B seized the top of the chart in 1992 and didn't let go."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The songs everyone knows. Billboard chart toppers, radio staples, mainstream R&B. Warm up fast.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP001-R1-Q1",
+          "episodeId": "EP001",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which group sang 'Weak'?",
+          "choices": [
+            "Jade",
+            "SWV",
+            "En Vogue",
+            "Xscape"
+          ],
+          "correctIndex": 1,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "SWV",
+            "song": "Weak",
+            "album": "It's About Time",
+            "year": 1993,
+            "topicTags": [
+              "SWV",
+              "girl group",
+              "radio hit"
+            ],
+            "fact": "SWV stood for Sisters With Voices. 'Weak' reached #1 on the Billboard Hot 100 in 1993.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Weak (SWV song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Weak_(SWV_song)",
+                "accessed": "2026-05-20"
+              },
+              {
+                "title": "SWV – Weak (Official HD Video) – YouTube",
+                "url": "https://www.youtube.com/watch?v=976b8TPPFJU",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R1-Q2",
+          "episodeId": "EP001",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Boyz II Men's 'End of the Road' spent a record-breaking how many weeks at #1 on the Billboard Hot 100?",
+          "choices": [
+            "13 weeks",
+            "16 weeks",
+            "20 weeks",
+            "10 weeks"
+          ],
+          "correctIndex": 0,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": "End of the Road",
+            "album": "Cooleyhighharmony",
+            "year": 1992,
+            "topicTags": [
+              "Boyz II Men",
+              "billboard",
+              "number one",
+              "record"
+            ],
+            "fact": "'End of the Road' spent 13 weeks at #1 in 1992.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Longest-Leading Billboard Hot 100 No. 1s – Billboard",
+                "url": "https://www.billboard.com/lists/hot-100-number-1-songs-on-top-longest/",
+                "accessed": "2026-05-20"
+              },
+              {
+                "title": "Boyz II Men – End of the Road 13 weeks at #1 – Facebook",
+                "url": "https://www.facebook.com/BoyzIIMen/posts/30-years-ago-today-our-song-end-of-the-road-peaked-at-1-for-13-consecutive-weeks/633211",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "chart",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R1-Q3",
+          "episodeId": "EP001",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which female R&B artist released the hit 'I Will Always Love You' as a cover in 1992?",
+          "choices": [
+            "Mariah Carey",
+            "Celine Dion",
+            "Whitney Houston",
+            "Toni Braxton"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "I Will Always Love You",
+            "album": "The Bodyguard Soundtrack",
+            "year": 1992,
+            "topicTags": [
+              "Whitney Houston",
+              "cover",
+              "soundtrack",
+              "number one"
+            ],
+            "fact": "Originally written and recorded by Dolly Parton in 1973. Whitney's version spent 14 weeks at #1.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Whitney Houston – I Will Always Love You – YouTube",
+                "url": "https://www.youtube.com/watch?v=3JWTaaS7LdU",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R1-Q4",
+          "episodeId": "EP001",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "R. Kelly's 'I Believe I Can Fly' was featured on the soundtrack of which 1996 film?",
+          "choices": [
+            "Space Jam",
+            "Boomerang",
+            "Set It Off",
+            "Waiting to Exhale"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "R. Kelly",
+            "song": "I Believe I Can Fly",
+            "album": "Space Jam Soundtrack",
+            "year": 1996,
+            "topicTags": [
+              "R. Kelly",
+              "soundtrack",
+              "Space Jam"
+            ],
+            "fact": "'I Believe I Can Fly' won three Grammy Awards in 1998.",
+            "storyHook": "",
+            "sourceNotes": "IMDB Soundtracks database for Space Jam (1996). Official CD liner notes for Space Jam Soundtrack (Warner Sunset/Atlantic). Billboard chart history confirms single affiliation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "R. Kelly – I Believe I Can Fly (Space Jam Soundtrack) – YouTube",
+                "url": "https://www.youtube.com/watch?v=yukp49fI8Uk",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R1-Q5",
+          "episodeId": "EP001",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "TLC's 'Waterfalls' spent how many weeks at #1 on the Billboard Hot 100 in 1995?",
+          "choices": [
+            "7 weeks",
+            "9 weeks",
+            "6 weeks",
+            "4 weeks"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "Waterfalls",
+            "album": "CrazySexyCool",
+            "year": 1995,
+            "topicTags": [
+              "TLC",
+              "CrazySexyCool",
+              "billboard",
+              "number one"
+            ],
+            "fact": "'Waterfalls' was TLC's biggest chart hit, spending 7 weeks at #1.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TLC Waterfalls 7 weeks at #1 – I Love The 90s Facebook",
+                "url": "https://www.facebook.com/ILoveThe90sFanpage/posts/30-years-ago-today-tlcs-song-waterfalls-went-to-number-one-on-the-billboard-ho",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "chart",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R1-Q6",
+          "episodeId": "EP001",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brandy and Monica's chart-topping duet 'The Boy Is Mine' won which Grammy Award at the 41st ceremony in 1999?",
+          "choices": [
+            "Best R&B Song",
+            "Best R&B Vocal Performance by a Duo or Group",
+            "Record of the Year",
+            "Best R&B Album"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy & Monica",
+            "song": "The Boy Is Mine",
+            "album": "Never Say Never",
+            "year": 1998,
+            "topicTags": [
+              "Brandy",
+              "Monica",
+              "The Boy Is Mine",
+              "Grammy",
+              "Best R&B Vocal Performance by a Duo or Group",
+              "1999",
+              "41st Grammy Awards"
+            ],
+            "fact": "'The Boy Is Mine' won Best R&B Vocal Performance by a Duo or Group at the 41st Grammy Awards in 1999. The song spent 13 weeks at #1 on the Hot 100 — tying the then-record held by Boyz II Men's 'End of the Road.'",
+            "storyHook": "",
+            "sourceNotes": "Verified: 'The Boy Is Mine' won Best R&B Vocal Performance by a Duo or Group at 41st Grammys. Source: Wikipedia https://en.wikipedia.org/wiki/The_Boy_Is_Mine_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Boy Is Mine (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Boy_Is_Mine_(song)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "chart",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R1-B1",
+          "episodeId": "EP001",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "TLC released 'CrazySexyCool' in what year?",
+          "choices": [
+            "1995",
+            "1992",
+            "1994",
+            "1993"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — YEAR CRAZYSEXYCOOL DROPPED",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": "TLC",
+            "song": null,
+            "album": "CrazySexyCool",
+            "year": 1994,
+            "topicTags": [
+              "TLC",
+              "CrazySexyCool",
+              "album",
+              "release year",
+              "bonus digit"
+            ],
+            "fact": "CrazySexyCool was released in November 1994.",
+            "storyHook": "This marks TLC's transition from energetic newcomers into era-defining superstars.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "CrazySexyCool – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/CrazySexyCool",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP001-R1-RES1",
+          "episodeId": "EP001",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Who sang the 1994 hit 'Always Be My Baby'?",
+          "choices": [
+            "Celine Dion",
+            "Toni Braxton",
+            "Whitney Houston",
+            "Mariah Carey"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": "Always Be My Baby",
+            "album": "Daydream",
+            "year": 1995,
+            "topicTags": [
+              "Mariah Carey",
+              "radio hit",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Single released October 1994, peaked at #1 in early 1995.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mariah Carey – Always Be My Baby – YouTube",
+                "url": "https://www.youtube.com/watch?v=LfRNRymrv9k",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R1-RES2",
+          "episodeId": "EP001",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which R&B group released 'Waterfalls' in 1995?",
+          "choices": [
+            "En Vogue",
+            "SWV",
+            "Xscape",
+            "TLC"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "Waterfalls",
+            "album": "CrazySexyCool",
+            "year": 1995,
+            "topicTags": [
+              "TLC",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Waterfalls (TLC song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Waterfalls_(TLC_song)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R1-RES3",
+          "episodeId": "EP001",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Salt-N-Pepa's 'Shoop' appeared on which 1993 album?",
+          "choices": [
+            "A Salt with a Deadly Pepa",
+            "Brand New",
+            "Hot Cool & Vicious",
+            "Very Necessary"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Salt-N-Pepa",
+            "song": "Shoop",
+            "album": "Very Necessary",
+            "year": 1993,
+            "topicTags": [
+              "Salt-N-Pepa",
+              "hip hop soul",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Very Necessary – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Very_Necessary",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R1-RES4",
+          "episodeId": "EP001",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which artist had a 1993 hit with 'That's the Way Love Goes'?",
+          "choices": [
+            "Toni Braxton",
+            "Whitney Houston",
+            "Mariah Carey",
+            "Janet Jackson"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": "That's the Way Love Goes",
+            "album": "janet.",
+            "year": 1993,
+            "topicTags": [
+              "Janet Jackson",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Janet Jackson – That's The Way Love Goes – YouTube",
+                "url": "https://www.youtube.com/watch?v=2b_KfAGiglc",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Album tracks. B-sides. Producer credits. Casual listeners drop off here — fans survive.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP001-R2-Q1",
+          "episodeId": "EP001",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Who produced Ginuwine's debut hit 'Pony' (1996)?",
+          "choices": [
+            "Babyface",
+            "Timbaland",
+            "Teddy Riley",
+            "Jermaine Dupri"
+          ],
+          "correctIndex": 1,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ginuwine",
+            "song": "Pony",
+            "album": "Ginuwine...the Bachelor",
+            "year": 1996,
+            "topicTags": [
+              "Ginuwine",
+              "Timbaland",
+              "producer",
+              "debut"
+            ],
+            "fact": "Timbaland and Ginuwine had been childhood friends. 'Pony' launched both of their careers.",
+            "storyHook": "",
+            "sourceNotes": "Discogs r227530 vinyl credits list 'Producer – Timbaland'. ASCAP database confirms Timothy Mosley as writer/producer. AllMusic credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Pony (Ginuwine song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Pony_(Ginuwine_song)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R2-Q2",
+          "episodeId": "EP001",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Babyface co-wrote and produced 'Exhale (Shoop Shoop)' for which 1995 film soundtrack?",
+          "choices": [
+            "Booty Call",
+            "Set It Off",
+            "Love Jones",
+            "Waiting to Exhale"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "Exhale (Shoop Shoop)",
+            "album": "Waiting to Exhale Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "Babyface",
+              "producer",
+              "soundtrack",
+              "Whitney Houston"
+            ],
+            "fact": "Babyface produced the entire Waiting to Exhale soundtrack.",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Waiting to Exhale: Original Soundtrack Album (Arista). IMDB Soundtrack database. ASCAP database for Kenneth Edmonds.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Whitney Houston – Exhale (Shoop Shoop) – YouTube",
+                "url": "https://www.youtube.com/watch?v=wrTuV4Szxzo",
+                "accessed": "2026-05-20"
+              },
+              {
+                "title": "Waiting to Exhale soundtrack – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Waiting_to_Exhale_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R2-Q3",
+          "episodeId": "EP001",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Maxwell's debut album 'Maxwell's Urban Hang Suite' was released in what year?",
+          "choices": [
+            "1994",
+            "1995",
+            "1997",
+            "1996"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Maxwell",
+            "song": null,
+            "album": "Maxwell's Urban Hang Suite",
+            "year": 1996,
+            "topicTags": [
+              "Maxwell",
+              "debut album",
+              "neo soul"
+            ],
+            "fact": "Maxwell's Urban Hang Suite is widely credited as one of the defining neo-soul albums of the 1990s.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Maxwell's Urban Hang Suite – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Maxwell%27s_Urban_Hang_Suite",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R2-Q4",
+          "episodeId": "EP001",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Keith Sweat helped pioneer the New Jack Swing era. Which label released his debut 'Make It Last Forever'?",
+          "choices": [
+            "Virgin",
+            "Elektra",
+            "Motown",
+            "Interscope"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Keith Sweat",
+            "song": null,
+            "album": "Make It Last Forever",
+            "year": 1987,
+            "topicTags": [
+              "Keith Sweat",
+              "New Jack Swing",
+              "label",
+              "Elektra",
+              "debut"
+            ],
+            "fact": "Keith Sweat's debut on Elektra in 1987 is considered one of the earliest New Jack Swing albums.",
+            "storyHook": "",
+            "sourceNotes": "Keith Sweat's debut was 1987 — pre-90s, but New Jack Swing roots make this contextually valid.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Make It Last Forever (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Make_It_Last_Forever_(album)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R2-Q5",
+          "episodeId": "EP001",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jodeci's 'Forever My Lady' appeared on which debut album released in 1991?",
+          "choices": [
+            "Diary of a Mad Band",
+            "Forever My Lady",
+            "The Show the After Party the Hotel",
+            "Come & Get It"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jodeci",
+            "song": "Forever My Lady",
+            "album": "Forever My Lady",
+            "year": 1991,
+            "topicTags": [
+              "Jodeci",
+              "debut album",
+              "new jack swing"
+            ],
+            "fact": "Jodeci's debut album Forever My Lady went triple platinum.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Forever My Lady – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Forever_My_Lady",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R2-B1",
+          "episodeId": "EP001",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Timbaland co-wrote and produced which 1998 Aaliyah single for the Dr. Dolittle soundtrack — a track that became one of the decade's most distinctive productions?",
+          "choices": [
+            "Are You That Somebody?",
+            "Back & Forth",
+            "If Your Girl Only Knew",
+            "Try Again"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — WHO MADE AALIYAH'S COMEBACK SINGLE",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": "Are You That Somebody",
+            "album": "Dr. Doolittle Soundtrack",
+            "year": 1998,
+            "topicTags": [
+              "Timbaland",
+              "Aaliyah",
+              "Are You That Somebody",
+              "Dr. Dolittle",
+              "1998",
+              "soundtrack",
+              "producer"
+            ],
+            "fact": "'Are You That Somebody?' was co-written by Static Major and Timbaland and produced by Timbaland for the Dr. Dolittle (1998) soundtrack. Its stuttering, cricket-laced production made it one of the most sonically adventurous R&B singles of the decade.",
+            "storyHook": "This is where Aaliyah and Timbaland redefined what R&B could sound like.",
+            "sourceNotes": "Verified: 'Are You That Somebody?' produced by Timbaland for Dr. Dolittle soundtrack. Source: Wikipedia https://en.wikipedia.org/wiki/Are_You_That_Somebody%3F",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Are You That Somebody? – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Are_You_That_Somebody%3F",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP001-R2-RES1",
+          "episodeId": "EP001",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Missy Elliott's debut album 'Supa Dupa Fly' was released in what year?",
+          "choices": [
+            "1995",
+            "1997",
+            "1996",
+            "1998"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Missy Elliott",
+            "song": null,
+            "album": "Supa Dupa Fly",
+            "year": 1997,
+            "topicTags": [
+              "Missy Elliott",
+              "debut album",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Supa Dupa Fly – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Supa_Dupa_Fly",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R2-RES2",
+          "episodeId": "EP001",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which producer is credited on Mary J. Blige's 'Real Love' from What's the 411?",
+          "choices": [
+            "Sean Combs",
+            "Teddy Riley",
+            "Babyface",
+            "Dave Hall"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": "Real Love",
+            "album": "What's the 411?",
+            "year": 1992,
+            "topicTags": [
+              "Mary J. Blige",
+              "Dave Hall",
+              "producer",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Discogs entry for What's The 411? lists Producer – Dave Hall. Uptown/MCA Records liner notes. ASCAP lists Hall as co-writer.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Real Love (Mary J. Blige song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Real_Love_(Mary_J._Blige_song)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R2-RES3",
+          "episodeId": "EP001",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Toni Braxton's self-titled debut album was released on which label?",
+          "choices": [
+            "Jive",
+            "Epic",
+            "LaFace Records",
+            "Motown"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Toni Braxton",
+            "song": null,
+            "album": "Toni Braxton",
+            "year": 1993,
+            "topicTags": [
+              "Toni Braxton",
+              "LaFace Records",
+              "label",
+              "debut",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Toni Braxton (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Toni_Braxton_(album)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Obscure cuts. Rare collabs. Overlooked artists. Only true R&B heads make it out of here.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP001-R3-Q1",
+          "episodeId": "EP001",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "D'Angelo's 'Brown Sugar' debut album was released on which record label in 1995?",
+          "choices": [
+            "Virgin Records",
+            "Arista",
+            "Motown",
+            "EMI"
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": null,
+            "album": "Brown Sugar",
+            "year": 1995,
+            "topicTags": [
+              "D'Angelo",
+              "Brown Sugar",
+              "Virgin Records",
+              "neo soul",
+              "debut"
+            ],
+            "fact": "Brown Sugar was released on EMI Records on July 3, 1995.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Brown Sugar (D'Angelo album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brown_Sugar_(D%27Angelo_album)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R3-Q2",
+          "episodeId": "EP001",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Before solo stardom, which member of 702 was originally from Las Vegas and lead vocalist on 'Steelo'?",
+          "choices": [
+            "LeMisha Grinstead",
+            "Irish Grinstead",
+            "Kameelah Williams",
+            "Orish Grinstead"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "702",
+            "song": "Steelo",
+            "album": "No Doubt",
+            "year": 1996,
+            "topicTags": [
+              "702",
+              "Kameelah Williams",
+              "girl group",
+              "Las Vegas"
+            ],
+            "fact": "702 were originally from Las Vegas and were discovered after winning a talent contest.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "702 (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/702_(group)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R3-B1",
+          "episodeId": "EP001",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Sade's 'No Ordinary Love' appeared on what 1992 album that marked her comeback after a four-year absence?",
+          "choices": [
+            "Promise",
+            "Diamond Life",
+            "Stronger Than Pride",
+            "Love Deluxe"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — SADE'S COMEBACK ALBUM",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Sade",
+            "song": "No Ordinary Love",
+            "album": "Love Deluxe",
+            "year": 1992,
+            "topicTags": [
+              "Sade",
+              "Love Deluxe",
+              "comeback",
+              "bonus digit"
+            ],
+            "fact": "Love Deluxe was Sade's fourth studio album. 'No Ordinary Love' was nominated for a Grammy.",
+            "storyHook": "Sade's four-year silence made this return one of the most anticipated moments in 90s R&B.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No Ordinary Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_Ordinary_Love",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP001-R3-RES1",
+          "episodeId": "EP001",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Erykah Badu's debut single 'On & On' appeared on which 1997 album?",
+          "choices": [
+            "Mama's Gun",
+            "Worldwide Underground",
+            "New Amerykah",
+            "Baduizm"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Erykah Badu",
+            "song": "On & On",
+            "album": "Baduizm",
+            "year": 1997,
+            "topicTags": [
+              "Erykah Badu",
+              "Baduizm",
+              "neo soul",
+              "debut",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "On & On (Erykah Badu song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/On_%26_On_(Erykah_Badu_song)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP001-R3-RES2",
+          "episodeId": "EP001",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Which city's music scene did Organized Noize help define with their production work for OutKast and TLC?",
+          "choices": [
+            "Houston",
+            "Los Angeles",
+            "Atlanta",
+            "New York"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Organized Noize",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Organized Noize",
+              "Atlanta",
+              "producer",
+              "OutKast",
+              "TLC",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Multiple historical biographies on Organized Noize center on their founding of the Dungeon Family in Atlanta. Billboard history references their Atlanta origin. Documentaries cite Atlanta.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Organized Noize – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Organized_Noize",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-25",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.2",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-20T23:10:53.253361+00:00"
+  }
+}

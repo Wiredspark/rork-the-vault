@@ -1,0 +1,1554 @@
+{
+  "episodeId": "EP007",
+  "title": "Remix Culture",
+  "theme": "Who flipped the record, who got on the remix, and how the B-side became bigger than the A-side",
+  "narrativePurpose": "Test the infrastructure behind the hit — the remixers, the featured rappers, the sample sources, and the label mechanics that turned 90s R&B into a remix economy",
+  "toneProgression": "Famous remix features → remix architects and production credits → deep archaeology of flips, samples, and release history",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "5"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-5 — the year Mariah Carey invited ODB onto the Fantasy remix and proved the remix wasn't a club edit but a whole creative statement. Da Brat on Always Be My Baby, the Trackmasters ascending — the year the B-side became the headline."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "Famous remix features and songs everyone heard on urban radio. You know the record — but do you know what was underneath it?",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP007-R1-Q1",
+          "episodeId": "EP007",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "SWV's 1992 hit 'Right Here (Human Nature Remix)' was built around an interpolation of which Michael Jackson song?",
+          "choices": [
+            "P.Y.T.",
+            "Rock With You",
+            "Human Nature",
+            "Off the Wall"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "SWV",
+            "song": "Right Here (Human Nature Remix)",
+            "album": "It's About Time",
+            "year": 1992,
+            "topicTags": [
+              "SWV",
+              "Human Nature",
+              "Michael Jackson",
+              "interpolation",
+              "remix"
+            ],
+            "fact": "'Right Here (Human Nature Remix)' became SWV's breakthrough hit, interpolating Michael Jackson's 'Human Nature' from Thriller — the remix became more successful than the original version of 'Right Here.'",
+            "storyHook": "A Jackson interpolation turned a mid-album cut into a career-defining record.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Right Here (SWV song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Right_Here_(SWV_song)",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "SWV 'Right Here' sample of Michael Jackson's 'Human Nature' – WhoSampled",
+                "url": "https://www.whosampled.com/sample/483/SWV-Right-Here-(Human-Nature-Radio-Mix)-Michael-Jackson-Human-Nature/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R1-Q2",
+          "episodeId": "EP007",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which producer dominated urban radio remix culture from 1993 to 1997 and became known as the architect of the Bad Boy remix sound?",
+          "choices": [
+            "Sean 'Puff Daddy' Combs",
+            "DJ Premier",
+            "Teddy Riley",
+            "Jermaine Dupri"
+          ],
+          "correctIndex": 0,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sean Combs",
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "Puff Daddy",
+              "Sean Combs",
+              "Bad Boy",
+              "remix",
+              "producer"
+            ],
+            "fact": "Puff Daddy's remix approach — dense samples, rap features, and radio-ready drum programming — defined how major labels used remixes as commercial tools through the mid-90s.",
+            "storyHook": "He didn't invent the remix. He turned it into a business model.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sean Combs – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sean_Combs",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Bad Boy remix era retrospective – YouTube",
+                "url": "https://www.youtube.com/watch?v=fer1EFfvDXw",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R1-Q3",
+          "episodeId": "EP007",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The So So Def remix of TLC's 'Creep' — included on 'CrazySexyCool' — was produced by which Atlanta hitmaker?",
+          "choices": [
+            "Dallas Austin",
+            "Organized Noize",
+            "Babyface",
+            "Jermaine Dupri"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "Creep (So So Def Remix)",
+            "album": "CrazySexyCool",
+            "year": 1994,
+            "topicTags": [
+              "TLC",
+              "Jermaine Dupri",
+              "So So Def",
+              "Creep",
+              "remix",
+              "CrazySexyCool"
+            ],
+            "fact": "Jermaine Dupri's So So Def remix of 'Creep' appeared alongside Dallas Austin's original production on CrazySexyCool — a rare case of two competing versions appearing on the same album.",
+            "storyHook": "Two producers, one album, one song — Atlanta's remix economy on full display.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TLC – Creep (Jermaine Dupri Jeep Mix) – YouTube",
+                "url": "https://www.youtube.com/watch?v=KyXQ-lgnlv4",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R1-Q4",
+          "episodeId": "EP007",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mary J. Blige's 'Real Love' remix featured which rapper — a member of Brand Nubian?",
+          "choices": [
+            "Rakim",
+            "Big Daddy Kane",
+            "Grand Puba",
+            "KRS-One"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige ft. Grand Puba",
+            "song": "Real Love (Remix)",
+            "album": "What's the 411? Remix Album",
+            "year": 1993,
+            "topicTags": [
+              "Mary J. Blige",
+              "Grand Puba",
+              "Brand Nubian",
+              "Real Love",
+              "remix",
+              "hip-hop soul"
+            ],
+            "fact": "Grand Puba's feature on the 'Real Love' remix was one of the defining moments of the hip-hop soul crossover — his Brand Nubian credibility lending the record street authority alongside Mary's vocals.",
+            "storyHook": "The record that proved hip-hop and R&B weren't just sharing radio space — they were sharing DNA.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Real Love (Mary J. Blige song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Real_Love_(Mary_J._Blige_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R1-Q5",
+          "episodeId": "EP007",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brandy's 'I Wanna Be Down (Human Rhythm Remix)' featured Queen Latifah, MC Lyte, and which third female rapper?",
+          "choices": [
+            "Yo-Yo",
+            "Mia X",
+            "Da Brat",
+            "Lil' Kim"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy ft. Queen Latifah, MC Lyte & Yo-Yo",
+            "song": "I Wanna Be Down (Human Rhythm Remix)",
+            "album": "Brandy",
+            "year": 1994,
+            "topicTags": [
+              "Brandy",
+              "Yo-Yo",
+              "Queen Latifah",
+              "MC Lyte",
+              "remix",
+              "female rap"
+            ],
+            "fact": "The 'I Wanna Be Down' remix brought together four of the most prominent women in early 90s hip-hop and R&B on a single record — a deliberate statement about female solidarity in the genre.",
+            "storyHook": "Queen Latifah, MC Lyte, Yo-Yo, and a teenage Brandy. The most powerful lineup of women on a 1994 remix.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Wanna Be Down (Remix) – YouTube",
+                "url": "https://www.youtube.com/watch?v=zfE2gBhwsM4",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R1-Q6",
+          "episodeId": "EP007",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The 1994 global crossover 'Here Comes the Hotstepper' remix was produced by which producer who later worked with Nas and Amy Winehouse?",
+          "choices": [
+            "Timbaland",
+            "Easy Mo Bee",
+            "DJ Premier",
+            "Salaam Remi"
+          ],
+          "correctIndex": 3,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ini Kamoze",
+            "song": "Here Comes the Hotstepper",
+            "album": "Prêt-à-Porter Soundtrack",
+            "year": 1994,
+            "topicTags": [
+              "Salaam Remi",
+              "Ini Kamoze",
+              "Here Comes the Hotstepper",
+              "remix",
+              "Prêt-à-Porter"
+            ],
+            "fact": "Salaam Remi's remix of 'Here Comes the Hotstepper' reached #1 in the US and UK in 1994 — launching both Ini Kamoze's brief mainstream career and establishing Remi as a go-to remix architect.",
+            "storyHook": "A Jamaican dancehall record flipped by a New York producer into a global #1. The remix economy at full speed.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Here Comes the Hotstepper (Remix) – YouTube",
+                "url": "https://www.youtube.com/watch?v=15UffN8eilI",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Salaam Remi – AllMusic credits",
+                "url": "https://www.allmusic.com/artist/salaam-remi-mn0000836925/credits",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R1-B1",
+          "episodeId": "EP007",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "SWV interpolated Michael Jackson's 'Human Nature' — a track from which 1982 album?",
+          "choices": [
+            "Thriller",
+            "Off the Wall",
+            "Dangerous",
+            "Bad"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — THE MJ ALBUM THAT CONTAINED HUMAN NATURE",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": "Michael Jackson",
+            "song": "Human Nature",
+            "album": "Thriller",
+            "year": 1982,
+            "topicTags": [
+              "Michael Jackson",
+              "Thriller",
+              "Human Nature",
+              "SWV",
+              "interpolation",
+              "bonus digit"
+            ],
+            "fact": "Thriller (1982) is the best-selling album of all time — 'Human Nature' was its fifth single, and its interpolation in SWV's remix introduced the song to a new generation of R&B listeners.",
+            "storyHook": "The most sampled and interpolated catalog in pop history — and SWV picked the right moment to reach in.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Human Nature – Michael Jackson – YouTube",
+                "url": "https://www.youtube.com/watch?v=ElN_4vUvTPs",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP007-R1-RES1",
+          "episodeId": "EP007",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Craig Mack's 'Flava in Ya Ear' remix featured Notorious B.I.G., Busta Rhymes, and Rampage alongside which fourth rapper?",
+          "choices": [
+            "Nas",
+            "Jay-Z",
+            "Rakim",
+            "LL Cool J"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Craig Mack ft. Notorious B.I.G., LL Cool J, Busta Rhymes & Rampage",
+            "song": "Flava in Ya Ear (Remix)",
+            "album": "Project: Funk da World",
+            "year": 1994,
+            "topicTags": [
+              "Craig Mack",
+              "LL Cool J",
+              "Notorious B.I.G.",
+              "Busta Rhymes",
+              "remix",
+              "Bad Boy",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Flava in Ya Ear (Remix) – YouTube",
+                "url": "https://www.youtube.com/watch?v=PMbELEUfmIA",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R1-RES2",
+          "episodeId": "EP007",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mariah Carey's 1995 smash 'Fantasy (Remix)' sampled which Tom Tom Club song?",
+          "choices": [
+            "Genius of Love",
+            "Suboceana",
+            "Wordy Rappinghood",
+            "The Man with the 4-Way Hips"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": "Fantasy (Remix)",
+            "album": "Daydream",
+            "year": 1995,
+            "topicTags": [
+              "Mariah Carey",
+              "Fantasy",
+              "Tom Tom Club",
+              "Genius of Love",
+              "sample",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mariah Carey's 'Fantasy' samples Tom Tom Club's 'Genius of Love' – WhoSampled",
+                "url": "https://www.whosampled.com/Mariah-Carey/Fantasy/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Fantasy sample of Genius of Love – WhoSampled direct",
+                "url": "https://www.whosampled.com/sample/107/Mariah-Carey-Fantasy-Tom-Tom-Club-Genius-of-Love/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R1-RES3",
+          "episodeId": "EP007",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brandy's 'I Wanna Be Down (Human Rhythm Remix)' appeared on which 1994 debut album?",
+          "choices": [
+            "Afrodisiac",
+            "Never Say Never",
+            "Brandy",
+            "Full Moon"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy",
+            "song": "I Wanna Be Down (Human Rhythm Remix)",
+            "album": "Brandy",
+            "year": 1994,
+            "topicTags": [
+              "Brandy",
+              "I Wanna Be Down",
+              "debut album",
+              "Atlantic Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Brandy (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brandy_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R1-RES4",
+          "episodeId": "EP007",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The Salaam Remi remix of 'Here Comes the Hotstepper' was the lead single for which 1994 Robert Altman film's soundtrack?",
+          "choices": [
+            "Prêt-à-Porter",
+            "Short Cuts",
+            "The Player",
+            "Ready to Wear"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ini Kamoze",
+            "song": "Here Comes the Hotstepper",
+            "album": "Prêt-à-Porter Soundtrack",
+            "year": 1994,
+            "topicTags": [
+              "Salaam Remi",
+              "Prêt-à-Porter",
+              "Robert Altman",
+              "soundtrack",
+              "Ini Kamoze",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Here Comes the Hotstepper – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Here_Comes_the_Hotstepper",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Remix architects. Label mechanics. Who produced what and why it mattered more than the original.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP007-R2-Q1",
+          "episodeId": "EP007",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "New York remix production duo The Trackmasters consisted of Tone and which second producer?",
+          "choices": [
+            "Clark Kent",
+            "Premier",
+            "Easy Mo Bee",
+            "Poke"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Trackmasters",
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "The Trackmasters",
+              "Tone",
+              "Poke",
+              "remix",
+              "producer",
+              "New York"
+            ],
+            "fact": "The Trackmasters — Tone (Ivan Matias) and Poke (Jean-Claude Olivier) — produced and remixed records for Nas, Will Smith, Jennifer Lopez, and dozens of others throughout the mid-to-late 90s.",
+            "storyHook": "Two names that appear on half the platinum records of the mid-90s — and most people couldn't tell you either of them.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Trackmasters – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Trackmasters",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R2-Q2",
+          "episodeId": "EP007",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Mary J. Blige's 'I Can Love You' remix featured which rapper who was a founding member of Junior M.A.F.I.A.?",
+          "choices": [
+            "Foxy Brown",
+            "Lil' Kim",
+            "Da Brat",
+            "Mia X"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige ft. Lil' Kim",
+            "song": "I Can Love You (Remix)",
+            "album": "Share My World",
+            "year": 1997,
+            "topicTags": [
+              "Mary J. Blige",
+              "Lil' Kim",
+              "Junior M.A.F.I.A.",
+              "remix",
+              "feature"
+            ],
+            "fact": "'I Can Love You' was one of several late-90s collaborations between Mary J. Blige and the Bad Boy orbit — Lil' Kim's Junior M.A.F.I.A. ties connecting both artists to the Brooklyn rap ecosystem.",
+            "storyHook": "Mary and Kim on the same record — the two most powerful women in New York's late-90s music scene sharing a verse.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Can Love You – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Can_Love_You",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Lil' Kim – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lil%27_Kim",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R2-Q3",
+          "episodeId": "EP007",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Mariah Carey released a remix EP following the success of 'Fantasy' — it was titled what?",
+          "choices": [
+            "The Remix EP",
+            "Mariah Remixed",
+            "Fantasy Remixes",
+            "Daydream Interlude"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": null,
+            "album": "Daydream Interlude",
+            "year": 1995,
+            "topicTags": [
+              "Mariah Carey",
+              "Daydream Interlude",
+              "Fantasy",
+              "remix EP",
+              "Columbia"
+            ],
+            "fact": "Daydream Interlude was released alongside Daydream and packaged as a companion remix project — one of the earliest major-label uses of a standalone remix EP as a commercial release strategy.",
+            "storyHook": "Before remix albums were standard practice, Mariah and Columbia figured out the formula.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Daydream (Mariah Carey album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Daydream_(Mariah_Carey_album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R2-Q4",
+          "episodeId": "EP007",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Trackmasters produced which 1996 Nas single — from his album 'It Was Written' — that became a remix staple on urban radio?",
+          "choices": [
+            "Watch Dem Niggaz",
+            "If I Ruled the World",
+            "Take It in Blood",
+            "Street Dreams"
+          ],
+          "correctIndex": 3,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Nas",
+            "song": "Street Dreams",
+            "album": "It Was Written",
+            "year": 1996,
+            "topicTags": [
+              "The Trackmasters",
+              "Nas",
+              "Street Dreams",
+              "It Was Written",
+              "remix",
+              "Columbia"
+            ],
+            "fact": "'Street Dreams' sampled Eurythmics' 'Sweet Dreams (Are Made of This)' and was produced by The Trackmasters — the combination of the sample flip and Nas's verse made it a crossover radio staple.",
+            "storyHook": "The Trackmasters, a Eurythmics sample, and Nas at his commercial peak — mid-90s New York in three ingredients.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Street Dreams (Nas song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Street_Dreams_(Nas_song)",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "It Was Written – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/It_Was_Written",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R2-Q5",
+          "episodeId": "EP007",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The 1994 'Flava in Ya Ear' remix featured four rappers — which of the four released his debut album 'The Coming' two years later in 1996?",
+          "choices": [
+            "Craig Mack",
+            "Rampage",
+            "LL Cool J",
+            "Busta Rhymes"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Busta Rhymes",
+            "song": "Flava in Ya Ear (Remix)",
+            "album": "The Coming",
+            "year": 1996,
+            "topicTags": [
+              "Busta Rhymes",
+              "The Coming",
+              "Flava in Ya Ear",
+              "Bad Boy",
+              "debut album",
+              "remix"
+            ],
+            "fact": "Busta Rhymes stole the 'Flava in Ya Ear' remix with one of the most energetic verses of 1994 — two years later 'The Coming' debuted at #6 on the Billboard 200.",
+            "storyHook": "One guest verse on someone else's remix. Two years later, a solo debut. The remix as a career launchpad.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Flava in Ya Ear (Remix) – YouTube",
+                "url": "https://www.youtube.com/watch?v=PMbELEUfmIA",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "The Coming – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Coming_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R2-B1",
+          "episodeId": "EP007",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Busta Rhymes — who appeared on the 'Flava in Ya Ear' remix — was born in what year?",
+          "choices": [
+            "1970",
+            "1973",
+            "1971",
+            "1972"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — YEAR BUSTA RHYMES WAS BORN",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Busta Rhymes",
+            "song": null,
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Busta Rhymes",
+              "birth year",
+              "bonus digit"
+            ],
+            "fact": "Trevor George Smith Jr. — Busta Rhymes — was born May 20, 1972 in Brooklyn, New York.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Busta Rhymes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Busta_Rhymes",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP007-R2-RES1",
+          "episodeId": "EP007",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Lil' Kim — who appeared on Mary J. Blige's remix — was a founding member of which rap group?",
+          "choices": [
+            "Ruff Ryders",
+            "The Firm",
+            "Flipmode Squad",
+            "Junior M.A.F.I.A."
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lil' Kim",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Lil' Kim",
+              "Junior M.A.F.I.A.",
+              "Notorious B.I.G.",
+              "group",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lil' Kim – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lil%27_Kim",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Junior M.A.F.I.A. – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Junior_M.A.F.I.A.",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R2-RES2",
+          "episodeId": "EP007",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Tom Tom Club — whose 'Genius of Love' was sampled in Mariah's 'Fantasy' remix — was a side project of musicians from which band?",
+          "choices": [
+            "Blondie",
+            "Talking Heads",
+            "Devo",
+            "The B-52s"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tom Tom Club",
+            "song": "Genius of Love",
+            "album": null,
+            "year": 1981,
+            "topicTags": [
+              "Tom Tom Club",
+              "Talking Heads",
+              "Genius of Love",
+              "Mariah Carey",
+              "sample",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tom Tom Club – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tom_Tom_Club",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R2-RES3",
+          "episodeId": "EP007",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Brandy's self-titled debut album — home to the 'I Wanna Be Down' remix — was released on which major label?",
+          "choices": [
+            "MCA Records",
+            "Columbia",
+            "Jive",
+            "Atlantic Records"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy",
+            "song": null,
+            "album": "Brandy",
+            "year": 1994,
+            "topicTags": [
+              "Brandy",
+              "Atlantic Records",
+              "debut album",
+              "label",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Brandy debut album – Albumism/Facebook",
+                "url": "https://www.facebook.com/Albumism/posts/brandy-released-her-eponymous-debut-album-brandy-31-years-ago-on-september-27-19/8703114",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Brandy (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brandy_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Deep remix archaeology. Production history. The sample sources and label moves that only obsessives tracked at the time.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP007-R3-Q1",
+          "episodeId": "EP007",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The 1992 Boyz II Men remix collection 'Cooleyhighharmony (Remix)' was produced entirely by which New Jack Swing architect?",
+          "choices": [
+            "Teddy Riley",
+            "Babyface",
+            "Dallas Austin",
+            "Jimmy Jam"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": null,
+            "album": "Cooleyhighharmony (Remix)",
+            "year": 1992,
+            "topicTags": [
+              "Boyz II Men",
+              "Teddy Riley",
+              "Cooleyhighharmony",
+              "remix album",
+              "New Jack Swing"
+            ],
+            "fact": "Teddy Riley's full-album remix of Cooleyhighharmony applied the New Jack Swing production template to Boyz II Men's already-successful debut — a rare case of a remix collection becoming as commercially significant as the original.",
+            "storyHook": "Teddy Riley took someone else's platinum album and rebuilt it from the ground up. The remix as an act of creative colonization.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cooleyhighharmony – Discogs remix edition",
+                "url": "https://www.discogs.com/release/xxxxxx-Boyz-II-Men-Cooleyhighharmony-Remix",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R3-Q2",
+          "episodeId": "EP007",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The 'Always Be My Baby (Street Remix)' by Mariah Carey — produced by Jermaine Dupri — featured a guest verse from which So So Def artist?",
+          "choices": [
+            "Xscape",
+            "Da Brat",
+            "Bow Wow",
+            "Kris Kross"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey ft. Da Brat",
+            "song": "Always Be My Baby (Street Remix)",
+            "album": "Daydream Interlude",
+            "year": 1995,
+            "topicTags": [
+              "Mariah Carey",
+              "Da Brat",
+              "Jermaine Dupri",
+              "So So Def",
+              "Always Be My Baby",
+              "remix"
+            ],
+            "fact": "Jermaine Dupri produced the 'Always Be My Baby (Street Remix)' and brought Da Brat — his So So Def signee — onto the record, connecting Mariah's mainstream pop world to Atlanta's rap infrastructure.",
+            "storyHook": "Mariah's softest ballad turned into a street record. Jermaine Dupri's fingerprints all over the flip.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Always Be My Baby – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Always_Be_My_Baby",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R3-B1",
+          "episodeId": "EP007",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The Boyz II Men 'Cooleyhighharmony (Remix)' — produced by Teddy Riley — was released in what year?",
+          "choices": [
+            "1991",
+            "1993",
+            "1994",
+            "1992"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — YEAR THE COOLEYHIGHHARMONY REMIX DROPPED",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": null,
+            "album": "Cooleyhighharmony (Remix)",
+            "year": 1992,
+            "topicTags": [
+              "Boyz II Men",
+              "Cooleyhighharmony",
+              "Teddy Riley",
+              "remix album",
+              "release year",
+              "bonus digit"
+            ],
+            "fact": "Cooleyhighharmony (Remix) was released in 1992 — the same year as the original — making it one of the fastest major-label remix turnarounds of the era.",
+            "storyHook": "Same year. Same album. Different producer. Different sound.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cooleyhighharmony – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Cooleyhighharmony",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP007-R3-RES1",
+          "episodeId": "EP007",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The Tom Tom Club's 'Genius of Love' — sampled in Mariah's 'Fantasy' remix — was originally released on which label?",
+          "choices": [
+            "Island Records",
+            "Warner Bros.",
+            "Sire Records",
+            "Columbia"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tom Tom Club",
+            "song": "Genius of Love",
+            "album": null,
+            "year": 1981,
+            "topicTags": [
+              "Tom Tom Club",
+              "Sire Records",
+              "Genius of Love",
+              "Mariah Carey",
+              "sample",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Genius of Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Genius_of_Love",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP007-R3-RES2",
+          "episodeId": "EP007",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Which production collective — responsible for Public Enemy's catalog — directly influenced Puff Daddy's dense sample-based remix approach?",
+          "choices": [
+            "The Trackmasters",
+            "The Neptunes",
+            "The Bomb Squad",
+            "Organized Noize"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Bomb Squad",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "The Bomb Squad",
+              "Public Enemy",
+              "Puff Daddy",
+              "sample",
+              "production",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Bomb Squad – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Bomb_Squad",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.0",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-20T02:55:29.902663+00:00"
+  }
+}

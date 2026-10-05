@@ -1,0 +1,1553 @@
+{
+  "episodeId": "EP018",
+  "title": "Sample DNA",
+  "theme": "Every 90s record was in conversation with the past. These are the phone calls.",
+  "narrativePurpose": "Test the depth of the sample chain - the classic records that 90s R&B and hip-hop soul were built on, and the producers who knew where to dig.",
+  "toneProgression": "Identify the sample source → the original artists, their labels, and their lineage → the producers, the geography, and the origin stories behind the originals",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "7"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-7 - the peak year of sampling ambition. I'll Be Missing You reached The Police, Janet's Got 'Til It's Gone reached Joni Mitchell, Missy's The Rain reached Ann Peebles. Three genre-crossing samples in a single calendar year."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "Identify the sample source. One end of the chain is the 90s hit everyone knows. The other end is the classic it was built on.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP018-R1-Q1",
+          "episodeId": "EP018",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Missy Elliott's 1997 debut 'The Rain (Supa Dupa Fly)' opened with a direct lift from which Ann Peebles classic?",
+          "choices": [
+            "Breaking Up Somebody's Home",
+            "Beware",
+            "I Can't Stand the Rain",
+            "I'm Gonna Tear Your Playhouse Down"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Missy Elliott",
+            "song": "The Rain (Supa Dupa Fly)",
+            "album": "Supa Dupa Fly",
+            "year": 1997,
+            "topicTags": [
+              "Missy Elliott",
+              "The Rain",
+              "Ann Peebles",
+              "I Can't Stand the Rain",
+              "sample",
+              "Hi Records"
+            ],
+            "fact": "Missy Elliott's debut single opens with a direct vocal lift from Ann Peebles' 1973 Memphis soul track 'I Can't Stand the Rain' - the same title Missy used for her own hook. Timbaland built the beat around it, connecting a 1973 Hi Records recording to a 1997 Elektra debut in a single loop.",
+            "storyHook": "Missy didn't just sample it - she titled her song after it. The conversation between 1973 Memphis and 1997 Baltimore ran both directions.",
+            "sourceNotes": "Supa Dupa Fly liner notes and ASCAP sample credits (Elektra, 1997). AllMusic editorial on Ann Peebles. Hi Records catalog documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Rain (Supa Dupa Fly) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Rain_(Supa_Dupa_Fly)",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "Missy Elliott's 'The Rain' sample of Ann Peebles - WhoSampled",
+                "url": "https://www.whosampled.com/sample/508/Missy-Elliott-The-Rain-(Supa-Dupa-Fly)-Ann-Peebles-I-Can%27t-Stand-the-Rain/",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "Missy Elliott samples Ann Peebles - Instagram",
+                "url": "https://www.instagram.com/reel/C33aTN7MR-Q/",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R1-Q2",
+          "episodeId": "EP018",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Notorious B.I.G.'s posthumous 1997 hit 'Mo Money Mo Problems' was built on the hook of which Diana Ross disco anthem?",
+          "choices": [
+            "The Boss",
+            "Upside Down",
+            "Ain't No Mountain High Enough",
+            "I'm Coming Out"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Notorious B.I.G.",
+            "song": "Mo Money Mo Problems",
+            "album": "Life After Death",
+            "year": 1997,
+            "topicTags": [
+              "Notorious B.I.G.",
+              "Mo Money Mo Problems",
+              "Diana Ross",
+              "I'm Coming Out",
+              "sample",
+              "1997"
+            ],
+            "fact": "'Mo Money Mo Problems' - the posthumous #1 hit from Life After Death - was built on a direct sample from Diana Ross's 1980 Nile Rodgers-produced disco anthem 'I'm Coming Out.' The sample clearance required Diana Ross's approval, and the song spent weeks at #1 on the Billboard Hot 100 in 1997.",
+            "storyHook": "The remix beat the original. The sample became the identity. 'Right Here' is remembered as a Michael Jackson conversation, not a standalone record.",
+            "sourceNotes": "Life After Death ASCAP sample credits (Bad Boy/Arista, 1997). Billboard Hot 100 chart archives. Diana Ross discography.",
+            "clipCue": "",
+            "hostNote": "",
+            "flags": [],
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mo Money Mo Problems - YouTube description",
+                "url": "https://www.youtube.com/watch?v=gUhRKVIjJtw",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R1-Q3",
+          "episodeId": "EP018",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Puff Daddy & Faith Evans' 1997 elegy 'I'll Be Missing You' was built on the chord progression of which Police classic?",
+          "choices": [
+            "Roxanne",
+            "Message in a Bottle",
+            "Don't Stand So Close to Me",
+            "Every Breath You Take"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Puff Daddy & Faith Evans",
+            "song": "I'll Be Missing You",
+            "album": "No Way Out",
+            "year": 1997,
+            "topicTags": [
+              "Puff Daddy",
+              "Faith Evans",
+              "I'll Be Missing You",
+              "The Police",
+              "Every Breath You Take",
+              "sample",
+              "Biggie tribute"
+            ],
+            "fact": "'I'll Be Missing You' interpolated 'Every Breath You Take' so directly that Sting received full songwriting credit - and reportedly used the resulting royalties to fund his children's education. The clearance was properly arranged, making it one of the most commercially successful sample clearances in pop history.",
+            "storyHook": "Sting wrote a song about surveillance. Puff Daddy turned it into a eulogy. The royalties funded Sting's children's education. All parties were satisfied.",
+            "sourceNotes": "'I'll Be Missing You' ASCAP songwriting credits (Bad Boy/Arista, 1997). Sting interview documentation. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I'll Be Missing You - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I%27ll_Be_Missing_You",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R1-Q4",
+          "episodeId": "EP018",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Janet Jackson's 1997 hit 'Got 'Til It's Gone' prominently sampled which Joni Mitchell track?",
+          "choices": [
+            "A Case of You",
+            "River",
+            "Both Sides Now",
+            "Big Yellow Taxi"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": "Got 'Til It's Gone",
+            "album": "The Velvet Rope",
+            "year": 1997,
+            "topicTags": [
+              "Janet Jackson",
+              "Got 'Til It's Gone",
+              "Joni Mitchell",
+              "Big Yellow Taxi",
+              "sample",
+              "The Velvet Rope"
+            ],
+            "fact": "'Got 'Til It's Gone' wove Joni Mitchell's acoustic guitar and vocal from 'Big Yellow Taxi' directly into its production - with Mitchell's voice audible throughout the track. The song also featured Q-Tip and used the sample as both structural and thematic material, with the lyric 'don't it always seem to go' appearing in the Janet version.",
+            "storyHook": "Joni Mitchell's voice is literally on the track - singing her own lyrics inside a 1997 Janet Jackson R&B single. The sample wasn't just musical. It was conversational.",
+            "sourceNotes": "The Velvet Rope liner notes (Virgin, 1997). 'Got 'Til It's Gone' ASCAP sample credits. Joni Mitchell discography documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Got 'Till It's Gone [Big Yellow Taxi] - JoniMitchell.com",
+                "url": "https://jonimitchell.com/library/video.cfm?id=164",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R1-Q5",
+          "episodeId": "EP018",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Aaliyah brought which Isley Brothers track to a generation who had never heard the original - covering it on her 1994 debut album?",
+          "choices": [
+            "Between the Sheets",
+            "For the Love of You",
+            "At Your Best (You Are Love)",
+            "Choosey Lover"
+          ],
+          "correctIndex": 2,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": "At Your Best (You Are Love)",
+            "album": "Age Ain't Nothing But a Number",
+            "year": 1994,
+            "topicTags": [
+              "Aaliyah",
+              "At Your Best (You Are Love)",
+              "Isley Brothers",
+              "cover",
+              "debut",
+              "1994"
+            ],
+            "fact": "Aaliyah's cover of the Isley Brothers' 'At Your Best (You Are Love)' reached #6 on the Billboard Hot 100 in 1994 - introducing the lush, string-heavy Isley Brothers composition to an entirely new audience who encountered Aaliyah's version first and the original second.",
+            "storyHook": "She covered it and made a generation think it was hers. The Isley Brothers wrote it. Aaliyah owned it.",
+            "sourceNotes": "Age Ain't Nothing But a Number liner notes (Jive/Blackground, 1994). Isley Brothers discography. Billboard Hot 100 chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "(At Your Best) You Are Love - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/(At_Your_Best)_You_Are_Love",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R1-Q6",
+          "episodeId": "EP018",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mary J. Blige's 'My Life' - the emotionally raw title track of her 1994 album - looped which Roy Ayers classic as its musical foundation?",
+          "choices": [
+            "Running Away",
+            "Searching",
+            "I'm Going Down",
+            "Everybody Loves the Sunshine"
+          ],
+          "correctIndex": 3,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": "My Life",
+            "album": "My Life",
+            "year": 1994,
+            "topicTags": [
+              "Mary J. Blige",
+              "My Life",
+              "Roy Ayers",
+              "Everybody Loves the Sunshine",
+              "sample",
+              "1994"
+            ],
+            "fact": "Mary J. Blige's 'My Life' title track loops Roy Ayers' 1976 'Everybody Loves the Sunshine' - a jazz-funk classic that producer Chucky Thompson and Puff Daddy used as the harmonic and emotional anchor for one of the decade's most raw vocal performances. The album also contained a separate cover of Rose Royce's 'I'm Going Down,' which is a distinct track.",
+            "storyHook": "Two generations of Black women working through pain over the same chord progression. The loop connected them across two decades.",
+            "sourceNotes": "My Life ASCAP sample credits (MCA/Uptown, 1994). Roy Ayers discography. Billboard R&B chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mary J. Blige's 'My Life' sample of Roy Ayers - WhoSampled",
+                "url": "https://www.whosampled.com/sample/86/Mary-J.-Blige-My-Life-Roy-Ayers-Ubiquity-Everybody-Loves-the-Sunshine/",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R1-B1",
+          "episodeId": "EP018",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'Every Breath You Take' - the Police song at the heart of 'I'll Be Missing You' - was released in what year?",
+          "choices": [
+            "1979",
+            "1985",
+            "1983",
+            "1981"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 - YEAR EVERY BREATH YOU TAKE WAS RELEASED"
+          },
+          "metadata": {
+            "artist": "The Police",
+            "song": "Every Breath You Take",
+            "album": "Synchronicity",
+            "year": 1983,
+            "topicTags": [
+              "The Police",
+              "Every Breath You Take",
+              "1983",
+              "Synchronicity",
+              "Sting",
+              "bonus digit"
+            ],
+            "fact": "'Every Breath You Take' was released in 1983 on the Police's final studio album 'Synchronicity' - it reached #1 on both the US and UK charts and won the Grammy for Song of the Year in 1984. Sting has said it is a dark, obsessive song, not the romantic ballad most listeners assume it to be.",
+            "storyHook": "Sting wrote it as a song about surveillance and obsession. Fourteen years later it became the most prominent sample in a grief tribute. The song survived both readings.",
+            "sourceNotes": "Synchronicity liner notes (A&M Records, 1983). Grammy Award records (26th ceremony, 1984). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Every Breath You Take - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Every_Breath_You_Take",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP018-R1-RES1",
+          "episodeId": "EP018",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Puff Daddy & Faith Evans' 'I'll Be Missing You' spent how many weeks at #1 on the Billboard Hot 100 in 1997?",
+          "choices": [
+            "4",
+            "7",
+            "14",
+            "11"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Puff Daddy",
+            "song": "I'll Be Missing You",
+            "album": "No Way Out",
+            "year": 1997,
+            "topicTags": [
+              "Puff Daddy",
+              "Faith Evans",
+              "I'll Be Missing You",
+              "Hot 100",
+              "#1",
+              "chart",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Billboard Hot 100 chart archives (1997). Bad Boy/Arista Records documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Only 48 songs have stayed at No. 1 for 10 weeks or more - Yahoo",
+                "url": "https://www.yahoo.com/entertainment/music/articles/only-45-songs-stayed-no-191854293.html",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R1-RES2",
+          "episodeId": "EP018",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mary J. Blige's 1992 hit 'Real Love' was built on a drum break from which Honey Drippers track - one of the most sampled recordings in hip-hop history?",
+          "choices": [
+            "Impeach the President (Pt. 2)",
+            "Impeach the President",
+            "Reconsider Me",
+            "Woman of My Dreams"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": "Real Love",
+            "album": "What's the 411?",
+            "year": 1992,
+            "topicTags": [
+              "Mary J. Blige",
+              "Real Love",
+              "Impeach the President",
+              "The Honey Drippers",
+              "sample",
+              "drum break",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "What's the 411? ASCAP sample credits (MCA/Uptown, 1992). The Honey Drippers discography. Sample documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mary J. Blige's 'Real Love' Is The Subject of an Infringement Lawsuit - Musicologize",
+                "url": "https://www.musicologize.com/14879-2/",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R1-RES3",
+          "episodeId": "EP018",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Janet Jackson's 'Got 'Til It's Gone' featured a guest verse from which A Tribe Called Quest member?",
+          "choices": [
+            "Phife Dawg",
+            "Ali Shaheed Muhammad",
+            "Jarobi White",
+            "Q-Tip"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": "Got 'Til It's Gone",
+            "album": "The Velvet Rope",
+            "year": 1997,
+            "topicTags": [
+              "Q-Tip",
+              "A Tribe Called Quest",
+              "Janet Jackson",
+              "Got 'Til It's Gone",
+              "feature",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "The Velvet Rope liner notes (Virgin, 1997). A Tribe Called Quest discography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Janet Jackson ft. Q-Tip - Got 'Til It's Gone - r/90sHipHop",
+                "url": "https://www.reddit.com/r/90sHipHop/comments/1iqee7z/janet_jackson_ft_qtip_got_til_its_gone/",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R1-RES4",
+          "episodeId": "EP018",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Missy Elliott's debut album 'Supa Dupa Fly' - which contained 'The Rain' - was released on which label?",
+          "choices": [
+            "Elektra Records",
+            "MCA Records",
+            "Arista Records",
+            "Def Jam"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Missy Elliott",
+            "song": null,
+            "album": "Supa Dupa Fly",
+            "year": 1997,
+            "topicTags": [
+              "Missy Elliott",
+              "Supa Dupa Fly",
+              "Elektra Records",
+              "label",
+              "debut",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Supa Dupa Fly liner notes (Elektra/EastWest, 1997). Discogs release page.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Supa Dupa Fly - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Supa_Dupa_Fly",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The original artists, their labels, and their lineage. Who recorded the source material, where, and for whom.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP018-R2-Q1",
+          "episodeId": "EP018",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Ann Peebles recorded 'I Can't Stand the Rain' for which Memphis soul label - also the creative home of Al Green and Willie Mitchell?",
+          "choices": [
+            "Volt Records",
+            "Goldwax Records",
+            "Stax Records",
+            "Hi Records"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ann Peebles",
+            "song": "I Can't Stand the Rain",
+            "album": "I Can't Stand the Rain",
+            "year": 1973,
+            "topicTags": [
+              "Ann Peebles",
+              "Hi Records",
+              "Memphis",
+              "Willie Mitchell",
+              "soul",
+              "1973"
+            ],
+            "fact": "Hi Records was the Memphis soul imprint run by producer Willie Mitchell - home to Al Green's entire classic run, Ann Peebles, Otis Clay, and Syl Johnson. The label's warm, reverb-heavy production style was defined by Mitchell's arrangements and the rhythm section at Royal Studios, creating a sound distinct from the harder Stax approach across town.",
+            "storyHook": "Royal Studios, Memphis. Willie Mitchell producing. Al Green in the next room. Ann Peebles recording what would become one of the most-sampled vocal lines in hip-hop history. Nobody knew that in 1973.",
+            "sourceNotes": "Ann Peebles discography documentation. Hi Records label history. Willie Mitchell biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Can't Stand the Rain - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Can%27t_Stand_the_Rain_(song)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R2-Q2",
+          "episodeId": "EP018",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "'Every Breath You Take' won the Grammy for Song of the Year at which awards ceremony?",
+          "choices": [
+            "1984",
+            "1986",
+            "1983",
+            "1985"
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Police",
+            "song": "Every Breath You Take",
+            "album": "Synchronicity",
+            "year": 1984,
+            "topicTags": [
+              "Every Breath You Take",
+              "The Police",
+              "Grammy",
+              "Song of the Year",
+              "1984",
+              "26th Grammy Awards"
+            ],
+            "fact": "'Every Breath You Take' won Song of the Year at the 26th Grammy Awards in 1984 - honoring music from the 1983 eligibility year. Sting also won Best Pop Performance by a Duo or Group with Vocal at the same ceremony. The song remains one of the most commercially enduring Grammy Song of the Year winners.",
+            "storyHook": "It won Song of the Year the year after it was released. Fourteen years later it funded Sting's family. The Grammy was the beginning of the song's commercial life, not the peak.",
+            "sourceNotes": "26th Grammy Award records (1984). Grammy.com official database. Recording Academy archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Every Breath You Take - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Every_Breath_You_Take",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R2-Q3",
+          "episodeId": "EP018",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Rose Royce - whose soulful 1976 ballad Mary J. Blige later covered on the My Life album - first broke through via the soundtrack of which comedy film?",
+          "choices": [
+            "Mahogany",
+            "Car Wash",
+            "Cooley High",
+            "Sparkle"
+          ],
+          "correctIndex": 1,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rose Royce",
+            "song": "I'm Going Down",
+            "album": "In Full Bloom",
+            "year": 1977,
+            "topicTags": [
+              "Rose Royce",
+              "Car Wash",
+              "1976",
+              "Norman Whitfield",
+              "soundtrack",
+              "MCA Records"
+            ],
+            "fact": "Rose Royce appeared on the 1976 Car Wash original motion picture soundtrack - which effectively served as their debut album and launched the group's career. 'I'm Going Down' was among the tracks on that soundtrack. Their 1977 follow-up album 'In Full Bloom' contained 'Wishing on a Star,' their second major hit.",
+            "storyHook": "Norman Whitfield built the band for a movie. The movie made them. Then 'I'm Going Down' made them again. Then Mary J. Blige made them one more time.",
+            "sourceNotes": "Car Wash official soundtrack (MCA, 1976). Rose Royce official biography. In Full Bloom liner notes (Whitfield Records, 1977).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rose Royce - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rose_Royce",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "Car Wash (soundtrack) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Car_Wash_(soundtrack)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R2-Q4",
+          "episodeId": "EP018",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Lauryn Hill's 'Ex-Factor' was built on a sample from which Wu-Tang Clan track - itself a meditation on nostalgia from their 1993 debut?",
+          "choices": [
+            "Can It Be All So Simple",
+            "Wu-Tang Clan Ain't Nuthing ta F' Wit",
+            "C.R.E.A.M.",
+            "Protect Ya Neck"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lauryn Hill",
+            "song": "Ex-Factor",
+            "album": "The Miseducation of Lauryn Hill",
+            "year": 1998,
+            "topicTags": [
+              "Lauryn Hill",
+              "Ex-Factor",
+              "Wu-Tang Clan",
+              "Can It Be All So Simple",
+              "sample",
+              "Miseducation"
+            ],
+            "fact": "'Ex-Factor' interpolated the melodic sample loop at the center of Wu-Tang's 'Can It Be All So Simple' - a Raekwon and Ghostface Killah track from Enter the Wu-Tang (36 Chambers) that itself sampled a classic soul recording. Lauryn's interpolation added another layer to the chain, connecting 1998 neo-soul to 1993 Staten Island hip-hop.",
+            "storyHook": "A sample of a sample. Wu-Tang sampled soul. Lauryn Hill sampled Wu-Tang. The chain stretched across three decades before it reached the Miseducation.",
+            "sourceNotes": "The Miseducation of Lauryn Hill ASCAP sample credits (Ruffhouse/Columbia, 1998). Enter the Wu-Tang (36 Chambers) documentation. Sample chain verification.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ex-Factor - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ex-Factor",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "Can It Be All So Simple - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Can_It_Be_All_So_Simple",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R2-Q5",
+          "episodeId": "EP018",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Big Yellow Taxi' - the Joni Mitchell track sampled by Janet Jackson's 'Got 'Til It's Gone' - first appeared on which 1970 Mitchell album?",
+          "choices": [
+            "Clouds",
+            "Court and Spark",
+            "Ladies of the Canyon",
+            "Blue"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Joni Mitchell",
+            "song": "Big Yellow Taxi",
+            "album": "Ladies of the Canyon",
+            "year": 1970,
+            "topicTags": [
+              "Joni Mitchell",
+              "Big Yellow Taxi",
+              "Ladies of the Canyon",
+              "1970",
+              "Reprise Records"
+            ],
+            "fact": "'Big Yellow Taxi' was released on Joni Mitchell's third studio album 'Ladies of the Canyon' in 1970 on Reprise Records - the same album that contained 'The Circle Game' and 'Woodstock.' Its environmental protest lyrics ('They paved paradise, put up a parking lot') proved durable enough to be sampled by Janet Jackson twenty-seven years later.",
+            "storyHook": "Joni Mitchell wrote it in 1970. Janet Jackson sampled it in 1997. Twenty-seven years between recordings, and the lyric still landed.",
+            "sourceNotes": "Ladies of the Canyon liner notes (Reprise Records, 1970). Joni Mitchell official discography. Reprise Records catalog documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Big Yellow Taxi - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Big_Yellow_Taxi",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R2-B1",
+          "episodeId": "EP018",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "'Can It Be All So Simple' - the Wu-Tang track at the heart of Lauryn Hill's 'Ex-Factor' - was produced by which Wu-Tang member?",
+          "choices": [
+            "Method Man",
+            "Ghostface Killah",
+            "RZA",
+            "GZA"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 - THE PRODUCER OF CAN IT BE ALL SO SIMPLE"
+          },
+          "metadata": {
+            "artist": "Wu-Tang Clan",
+            "song": "Can It Be All So Simple",
+            "album": "Enter the Wu-Tang (36 Chambers)",
+            "year": 1993,
+            "topicTags": [
+              "RZA",
+              "Wu-Tang Clan",
+              "Can It Be All So Simple",
+              "producer",
+              "36 Chambers",
+              "bonus digit"
+            ],
+            "fact": "RZA produced the entirety of Enter the Wu-Tang (36 Chambers) - including 'Can It Be All So Simple,' the Raekwon and Ghostface duet that sampled Gladys Knight. His production philosophy of looping obscure soul and jazz records over drum machine beats defined the Wu-Tang aesthetic and inadvertently created the sample chain that Lauryn Hill would later enter.",
+            "storyHook": "RZA produced it. Raekwon and Ghostface performed it. Gladys Knight's voice was in it. Lauryn Hill sampled it. This is what a sample chain looks like.",
+            "sourceNotes": "Enter the Wu-Tang (36 Chambers) liner notes (Loud/RCA, 1993). RZA production credits. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Can It Be All So Simple - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Can_It_Be_All_So_Simple",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP018-R2-RES1",
+          "episodeId": "EP018",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Joni Mitchell - whose 'Big Yellow Taxi' was sampled by Janet Jackson - is from which country?",
+          "choices": [
+            "United States",
+            "United Kingdom",
+            "Canada",
+            "Australia"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Joni Mitchell",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Joni Mitchell",
+              "Canada",
+              "Saskatchewan",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Joni Mitchell official biography. Reprise Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Joni Mitchell - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Joni_Mitchell",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R2-RES2",
+          "episodeId": "EP018",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Lauryn Hill's 'Ex-Factor' - built on the Wu-Tang sample - appeared on which 1998 album?",
+          "choices": [
+            "The Miseducation of Lauryn Hill",
+            "Everything Is Everything",
+            "The Score",
+            "Killin' Me Softly"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lauryn Hill",
+            "song": "Ex-Factor",
+            "album": "The Miseducation of Lauryn Hill",
+            "year": 1998,
+            "topicTags": [
+              "Lauryn Hill",
+              "The Miseducation of Lauryn Hill",
+              "Ex-Factor",
+              "1998",
+              "Ruffhouse",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "The Miseducation of Lauryn Hill liner notes (Ruffhouse/Columbia, 1998). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ex-Factor - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ex-Factor",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "The Miseducation of Lauryn Hill - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Miseducation_of_Lauryn_Hill",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R2-RES3",
+          "episodeId": "EP018",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Ann Peebles co-wrote 'I Can't Stand the Rain' with her husband and frequent collaborator. What is his name?",
+          "choices": [
+            "Mabon Hodges",
+            "Al Green",
+            "Isaac Hayes",
+            "Don Bryant"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ann Peebles",
+            "song": "I Can't Stand the Rain",
+            "album": "I Can't Stand the Rain",
+            "year": 1973,
+            "topicTags": [
+              "Ann Peebles",
+              "I Can't Stand the Rain",
+              "Don Bryant",
+              "songwriter",
+              "co-writer",
+              "Hi Records",
+              "1973"
+            ],
+            "fact": "Ann Peebles co-wrote 'I Can't Stand the Rain' with her husband Don Bryant - himself a respected soul songwriter and Hi Records artist. Bryant and Peebles also co-wrote with Bernard Miller. The song's authorship is a piece of Memphis soul trivia that rarely surfaces.",
+            "storyHook": "She sang it. Her husband helped write it. 'I Can't Stand the Rain' was a family affair from the start.",
+            "sourceNotes": "PRIORITY VERIFY: Confirm Don Bryant co-wrote 'I Can't Stand the Rain' with Ann Peebles. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Can't Stand the Rain - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Can%27t_Stand_the_Rain_(song)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-18",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The producers, the geography, and the origin stories behind the originals. The archaeology underneath the samples.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP018-R3-Q1",
+          "episodeId": "EP018",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Rose Royce - the band assembled for the 'Car Wash' soundtrack whose 'I'm Going Down' Mary J. Blige sampled - were produced by which legendary Motown-era figure known for his work with the Temptations and Marvin Gaye?",
+          "choices": [
+            "Thom Bell",
+            "Quincy Jones",
+            "Berry Gordy",
+            "Norman Whitfield"
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rose Royce",
+            "song": "I'm Going Down",
+            "album": "In Full Bloom",
+            "year": 1977,
+            "topicTags": [
+              "Norman Whitfield",
+              "Rose Royce",
+              "Motown",
+              "Temptations",
+              "producer",
+              "Car Wash"
+            ],
+            "fact": "Norman Whitfield was the Motown producer and songwriter behind the Temptations' psychedelic soul era - 'Papa Was a Rollin' Stone,' 'Cloud Nine,' 'Ball of Confusion' - before leaving to found his own Whitfield Records imprint. He assembled Rose Royce to perform the Car Wash soundtrack and continued producing the group through their commercial peak.",
+            "storyHook": "The man who made the Temptations psychedelic, built a band for a car wash movie, and created the groove that Mary J. Blige would put under one of the decade's rawest vocal performances. That is one production career.",
+            "sourceNotes": "Norman Whitfield biographical records. Whitfield Records label history. Rose Royce official biography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rose Royce - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rose_Royce",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R3-Q2",
+          "episodeId": "EP018",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Joni Mitchell wrote 'Big Yellow Taxi' after looking out her hotel window and seeing a parking lot - she was arriving in which US state for the first time?",
+          "choices": [
+            "Arizona",
+            "Hawaii",
+            "Florida",
+            "California"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Joni Mitchell",
+            "song": "Big Yellow Taxi",
+            "album": "Ladies of the Canyon",
+            "year": 1970,
+            "topicTags": [
+              "Joni Mitchell",
+              "Big Yellow Taxi",
+              "Hawaii",
+              "inspiration",
+              "parking lot",
+              "origin story"
+            ],
+            "fact": "Joni Mitchell wrote 'Big Yellow Taxi' after arriving in Hawaii for the first time - she looked out of her hotel window, saw the lush mountains of the island, then looked down and saw a parking lot. The contrast between paradise and pavement produced the song's most enduring lyric: 'They paved paradise, put up a parking lot.'",
+            "storyHook": "She flew to Hawaii. She looked at the mountains. She looked at the parking lot. She went back to her room and wrote one of the most durable environmental protest lyrics in pop music history.",
+            "sourceNotes": "Joni Mitchell biographical interviews on Big Yellow Taxi origin. Ladies of the Canyon liner notes (Reprise, 1970). Mitchell documentary sources.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Big Yellow Taxi - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Big_Yellow_Taxi",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R3-B1",
+          "episodeId": "EP018",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Ann Peebles recorded 'I Can't Stand the Rain' for Hi Records in which Tennessee city - home of the label, Royal Studios, and the entire Memphis soul ecosystem?",
+          "choices": [
+            "Knoxville",
+            "Chattanooga",
+            "Nashville",
+            "Memphis"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 - THE CITY WHERE ANN PEEBLES RECORDED I CAN'T STAND THE RAIN"
+          },
+          "metadata": {
+            "artist": "Ann Peebles",
+            "song": "I Can't Stand the Rain",
+            "album": "I Can't Stand the Rain",
+            "year": 1973,
+            "topicTags": [
+              "Ann Peebles",
+              "Memphis",
+              "Hi Records",
+              "Royal Studios",
+              "Tennessee",
+              "bonus digit"
+            ],
+            "fact": "Ann Peebles recorded 'I Can't Stand the Rain' at Royal Studios in Memphis - the same room where Al Green, Otis Clay, and Willie Mitchell's entire Hi Records roster worked. Memphis in the early 1970s was home to two distinct soul sounds: the harder Stax approach on one side of town, and Hi Records' warm, reverb-heavy Memphis soul on the other.",
+            "storyHook": "Royal Studios, Memphis, Tennessee. One of the most sampled rooms in hip-hop history, and most people who know the samples have never heard of the address.",
+            "sourceNotes": "Hi Records official history. Royal Studios documentation. Ann Peebles biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Can't Stand the Rain - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Can%27t_Stand_the_Rain_(song)",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "Royal Studios - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Royal_Studios",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "city",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP018-R3-RES1",
+          "episodeId": "EP018",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Ann Peebles recorded 'I Can't Stand the Rain' under the guidance of which Hi Records producer - also responsible for Al Green's entire classic catalog?",
+          "choices": [
+            "Willie Mitchell",
+            "Al Bell",
+            "Norman Whitfield",
+            "Isaac Hayes"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ann Peebles",
+            "song": "I Can't Stand the Rain",
+            "album": "Supa Dupa Fly",
+            "year": 1997,
+            "topicTags": [
+              "Willie Mitchell",
+              "Ann Peebles",
+              "Hi Records",
+              "producer",
+              "Al Green",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Hi Records production documentation. Willie Mitchell biographical records. Ann Peebles discography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ann Peebles - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ann_Peebles",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP018-R3-RES2",
+          "episodeId": "EP018",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Joni Mitchell - whose 'Big Yellow Taxi' Janet Jackson sampled - was born in which Canadian province?",
+          "choices": [
+            "Alberta",
+            "Ontario",
+            "British Columbia",
+            "Saskatchewan"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Joni Mitchell",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Joni Mitchell",
+              "Saskatchewan",
+              "Canada",
+              "birthplace",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "Joni Mitchell was born Roberta Joan Anderson on November 7, 1943, in Fort Macleod, Alberta - though she grew up in Saskatoon, Saskatchewan, which is often cited as her hometown. The distinction between birthplace (Alberta) and childhood home (Saskatchewan) is a common point of confusion in her biographical record.",
+            "storyHook": "",
+            "sourceNotes": "Joni Mitchell official biography. Fort Macleod, Alberta birth records. Reprise Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Joni Mitchell - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Joni_Mitchell",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "EP018",
+    "builtAt": "2026-05-09T19:31:23.638617+00:00"
+  }
+}

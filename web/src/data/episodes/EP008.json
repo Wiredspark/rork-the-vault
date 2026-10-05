@@ -1,0 +1,1553 @@
+{
+  "episodeId": "EP008",
+  "title": "The Award Show Era",
+  "theme": "Grammy wins, Soul Train Awards, and the recognition that defined 90s R&B",
+  "narrativePurpose": "Test whether players know not just the music but the moment it was validated — who won, what category, what year, and who should have won instead",
+  "toneProgression": "Famous wins everyone knows → category knowledge and undercard winners → inaugural categories and award show founding history",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "9"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-9 — the 41st Grammy ceremony, where Lauryn Hill swept five awards in a single night — the largest haul in Grammy history at the time. The night R&B and the Grammys finally occupied the same sentence."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The wins everyone remembers. The speeches people still talk about. The moments that defined what R&B meant to the mainstream.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP008-R1-Q1",
+          "episodeId": "EP008",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Lauryn Hill won how many Grammy Awards at the 1999 ceremony for 'The Miseducation of Lauryn Hill'?",
+          "choices": [
+            "6",
+            "4",
+            "5",
+            "3"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lauryn Hill",
+            "song": null,
+            "album": "The Miseducation of Lauryn Hill",
+            "year": 1999,
+            "topicTags": [
+              "Lauryn Hill",
+              "Grammy",
+              "Miseducation",
+              "1999",
+              "five Grammys"
+            ],
+            "fact": "Lauryn Hill's five Grammys at the 1999 ceremony set a record for the most won by a female artist in a single night — a record that stood for years.",
+            "storyHook": "Five statues. One night. The most dominant Grammy performance by a female artist in the history of the ceremony.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "41st Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/41st_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "5 Grammys to Lauryn Hill; 3 to Madonna – New York Times",
+                "url": "https://www.nytimes.com/1999/02/25/us/5-grammys-to-lauryn-hill-3-to-madonna.html",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Lauryn Hill Wins Album Of The Year – Recording Academy",
+                "url": "https://www.youtube.com/watch?v=vD5J6WGvMHU",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "chart",
+            "sourcesCount": 3,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R1-Q2",
+          "episodeId": "EP008",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "TLC won Grammy Best R&B Album for 'CrazySexyCool' at which numbered Grammy ceremony?",
+          "choices": [
+            "38th",
+            "37th",
+            "39th",
+            "36th"
+          ],
+          "correctIndex": 0,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": null,
+            "album": "CrazySexyCool",
+            "year": 1996,
+            "topicTags": [
+              "TLC",
+              "CrazySexyCool",
+              "Grammy",
+              "Best R&B Album",
+              "38th Grammy Awards"
+            ],
+            "fact": "TLC won Best R&B Album at the 38th Grammy Awards in 1996 for CrazySexyCool — one of four Grammy nominations the album received.",
+            "storyHook": "The album that defined 1994 got its official recognition two years later. The Grammys were late, as usual.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "38th Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/38th_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "TLC won 2 GRAMMYs for CrazySexyCool – Instagram",
+                "url": "https://www.instagram.com/p/DVShu9Qlo3v/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R1-Q3",
+          "episodeId": "EP008",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Whitney Houston's 'I Will Always Love You' won which Grammy category at the 1994 ceremony?",
+          "choices": [
+            "Best R&B Vocal Performance",
+            "Best Pop Vocal Performance",
+            "Song of the Year",
+            "Record of the Year"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "I Will Always Love You",
+            "album": "The Bodyguard Soundtrack",
+            "year": 1994,
+            "topicTags": [
+              "Whitney Houston",
+              "I Will Always Love You",
+              "Grammy",
+              "Record of the Year",
+              "1994"
+            ],
+            "fact": "'I Will Always Love You' won Record of the Year at the 36th Grammy Awards in 1994 — the category recognizes the performance and production of a specific recording, not the composition.",
+            "storyHook": "The biggest song in the world at the time walking away with the biggest Grammy category. No surprises that night.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "36th Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/36th_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R1-Q4",
+          "episodeId": "EP008",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which Boyz II Men single earned the Grammy for Best R&B Performance by a Duo or Group at the 1995 ceremony?",
+          "choices": [
+            "I'll Make Love to You",
+            "On Bended Knee",
+            "Water Runs Dry",
+            "End of the Road"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": "I'll Make Love to You",
+            "album": "II",
+            "year": 1995,
+            "topicTags": [
+              "Boyz II Men",
+              "I'll Make Love to You",
+              "Grammy",
+              "Best R&B Duo or Group",
+              "1995"
+            ],
+            "fact": "'I'll Make Love to You' won Best R&B Performance by a Duo or Group at the 37th Grammy Awards in 1995 — Boyz II Men won the same category the year before for 'End of the Road.'",
+            "storyHook": "Back-to-back wins in the same category. Nobody in the 90s owned the Grammy stage the way Boyz II Men did.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "37th Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/37th_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "I'll Make Love to You – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I%27ll_Make_Love_to_You",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R1-Q5",
+          "episodeId": "EP008",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brandy and Monica won Grammy Best R&B Performance by a Duo or Group at the 1999 ceremony for which single?",
+          "choices": [
+            "Almost Doesn't Count",
+            "The Boy Is Mine",
+            "Angel of Mine",
+            "Have You Ever"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy & Monica",
+            "song": "The Boy Is Mine",
+            "album": "Never Say Never",
+            "year": 1999,
+            "topicTags": [
+              "Brandy",
+              "Monica",
+              "The Boy Is Mine",
+              "Grammy",
+              "Best R&B Duo or Group",
+              "1999"
+            ],
+            "fact": "'The Boy Is Mine' won Best R&B Performance by a Duo or Group at the 41st Grammy Awards in 1999 — the same ceremony dominated by Lauryn Hill.",
+            "storyHook": "The biggest rivalry in late-90s R&B walked away with a Grammy together. Life is full of surprises.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Boy Is Mine – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Boy_Is_Mine_(Brandy_and_Monica_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R1-Q6",
+          "episodeId": "EP008",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Soul Train — which inspired the Soul Train Music Awards — was created and hosted by which television pioneer?",
+          "choices": [
+            "Don Cornelius",
+            "Arsenio Hall",
+            "Ed Sullivan",
+            "Dick Clark"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Don Cornelius",
+              "Soul Train",
+              "television",
+              "Soul Train Music Awards"
+            ],
+            "fact": "Don Cornelius created Soul Train in 1970 as a local Chicago broadcast before syndicating it nationally in 1971 — the show ran for 35 years and became the primary television platform for Black music.",
+            "storyHook": "No Soul Train, no Soul Train Awards, no Grammy category for R&B. Don Cornelius built the infrastructure that made all of it possible.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Don Cornelius – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Don_Cornelius",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R1-B1",
+          "episodeId": "EP008",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The Grammy ceremony where Lauryn Hill won five awards was held in which year?",
+          "choices": [
+            "1997",
+            "1999",
+            "1998",
+            "2000"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — YEAR OF LAURYN HILL'S FIVE-GRAMMY SWEEP",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": "Lauryn Hill",
+            "song": null,
+            "album": "The Miseducation of Lauryn Hill",
+            "year": 1999,
+            "topicTags": [
+              "Lauryn Hill",
+              "Grammy",
+              "1999",
+              "Miseducation",
+              "bonus digit"
+            ],
+            "fact": "The 41st Grammy Awards were held February 24, 1999 — Lauryn Hill's five-award sweep that night remains one of the most dominant individual performances in Grammy history.",
+            "storyHook": "The year everything shifted. The Grammys finally caught up with what the streets already knew.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "41st Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/41st_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "5 Grammys to Lauryn Hill – New York Times",
+                "url": "https://www.nytimes.com/1999/02/25/us/5-grammys-to-lauryn-hill-3-to-madonna.html",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Lauryn Hill five Grammys 1999 – Facebook clip",
+                "url": "https://www.facebook.com/SamSylk/videos/at-the-1999-grammy-awards-lauryn-hill-made-history-by-winning-five-awards-for-th/2583940",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "year",
+            "sourcesCount": 3,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP008-R1-RES1",
+          "episodeId": "EP008",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which group won the Soul Train Music Award for Best R&B/Soul Group in 1993 for their debut 'Forever My Lady'?",
+          "choices": [
+            "Jodeci",
+            "En Vogue",
+            "Boyz II Men",
+            "TLC"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jodeci",
+            "song": null,
+            "album": "Forever My Lady",
+            "year": 1993,
+            "topicTags": [
+              "Jodeci",
+              "Soul Train Music Awards",
+              "Best R&B Soul Group",
+              "1993",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "1993 Soul Train Music Awards winners list – rockonthenet",
+                "url": "https://www.rockonthenet.com/archive/1993/soultrain.htm",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R1-RES2",
+          "episodeId": "EP008",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mariah Carey won Grammy Best New Artist at which year's ceremony?",
+          "choices": [
+            "1990",
+            "1991",
+            "1992",
+            "1993"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "Mariah Carey",
+              "Grammy",
+              "Best New Artist",
+              "1991",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "33rd Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/33rd_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Mariah Carey Best New Artist Grammy 1991 – GRAMMY Rewind",
+                "url": "https://www.youtube.com/watch?v=5tz8vpWcE1M",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R1-RES3",
+          "episodeId": "EP008",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Boyz II Men won Grammy Best R&B Performance by a Duo or Group in 1993 for which song?",
+          "choices": [
+            "Motownphilly",
+            "On Bended Knee",
+            "End of the Road",
+            "I'll Make Love to You"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": "End of the Road",
+            "album": "Cooleyhighharmony",
+            "year": 1993,
+            "topicTags": [
+              "Boyz II Men",
+              "End of the Road",
+              "Grammy",
+              "Best R&B Duo or Group",
+              "1993",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "35th Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/35th_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Boyz II Men Grammy End of the Road 1993 – Recording Academy",
+                "url": "https://www.youtube.com/watch?v=5tz8vpWcE1M",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R1-RES4",
+          "episodeId": "EP008",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The Soul Train Lady of Soul Award — honoring top female R&B performers — was inaugurated in which year?",
+          "choices": [
+            "1997",
+            "1991",
+            "1993",
+            "1995"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "Soul Train",
+              "Lady of Soul Award",
+              "1995",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "1st Annual Soul Train Lady of Soul Awards – IMDb",
+                "url": "https://www.imdb.com/title/tt8857862/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Category knowledge. Undercard winners. The Grammy and Soul Train Award history that casual fans never tracked.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP008-R2-Q1",
+          "episodeId": "EP008",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Erykah Badu won Grammy Best Female R&B Vocal Performance at the 1998 ceremony for which debut single?",
+          "choices": [
+            "On & On",
+            "Next Lifetime",
+            "Appletree",
+            "Other Side of the Game"
+          ],
+          "correctIndex": 0,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Erykah Badu",
+            "song": "On & On",
+            "album": "Baduizm",
+            "year": 1998,
+            "topicTags": [
+              "Erykah Badu",
+              "On & On",
+              "Grammy",
+              "Best Female R&B Vocal Performance",
+              "1998"
+            ],
+            "fact": "Erykah Badu won Best Female R&B Vocal Performance at the 40th Grammy Awards in 1998 for 'On & On' — her debut single and the record that introduced neo-soul to a mainstream Grammy audience.",
+            "storyHook": "The Grammy that told the industry neo-soul had arrived — and Erykah Badu was its face.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "40th Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/40th_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R2-Q2",
+          "episodeId": "EP008",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "At the 1999 Grammys where Lauryn Hill swept, Best Rap Solo Performance went to which artist for 'My Name Is'?",
+          "choices": [
+            "Eminem",
+            "Nas",
+            "Jay-Z",
+            "DMX"
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Eminem",
+            "song": "My Name Is",
+            "album": "The Slim Shady LP",
+            "year": 1999,
+            "topicTags": [
+              "Eminem",
+              "My Name Is",
+              "Grammy",
+              "Best Rap Solo Performance",
+              "1999"
+            ],
+            "fact": "'My Name Is' won Best Rap Solo Performance at the 41st Grammy Awards in 1999 — Eminem's first Grammy win, announced the same night Lauryn Hill took five.",
+            "storyHook": "While Lauryn Hill was rewriting Grammy history, a new face won rap's biggest individual award across the hall.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "41st Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/41st_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R2-Q3",
+          "episodeId": "EP008",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which R&B group won the American Music Award for Favorite Soul/R&B Band/Duo/Group for three consecutive years from 1993 to 1995?",
+          "choices": [
+            "TLC",
+            "Boyz II Men",
+            "En Vogue",
+            "Jodeci"
+          ],
+          "correctIndex": 1,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "Boyz II Men",
+              "American Music Awards",
+              "Favorite Soul R&B Band",
+              "consecutive",
+              "1993",
+              "1994",
+              "1995"
+            ],
+            "fact": "Boyz II Men won the AMA for Favorite Soul/R&B Band/Duo/Group three consecutive years from 1993 to 1995 — their commercial dominance of the early 90s reflected in the fan-voted format of the AMAs.",
+            "storyHook": "Three years running. The most consistently rewarded group in early 90s R&B, and it wasn't close.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "American Music Awards of 1993 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/American_Music_Awards_of_1993",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "American Music Awards of 1994 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/American_Music_Awards_of_1994",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "American Music Awards of 1995 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/American_Music_Awards_of_1995",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "chart",
+            "sourcesCount": 3,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R2-Q4",
+          "episodeId": "EP008",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Toni Braxton won Grammy Best R&B Album at the 1997 ceremony for which album?",
+          "choices": [
+            "The Heat",
+            "Toni Braxton",
+            "Secrets",
+            "Libra"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Toni Braxton",
+            "song": null,
+            "album": "Secrets",
+            "year": 1997,
+            "topicTags": [
+              "Toni Braxton",
+              "Secrets",
+              "Grammy",
+              "Best R&B Album",
+              "1997"
+            ],
+            "fact": "Secrets won Grammy Best R&B Album at the 39th Grammy Awards in 1997 — Toni Braxton had previously won the same category for her self-titled debut at the 37th ceremony in 1995.",
+            "storyHook": "Two Best R&B Album Grammys in three years. Toni Braxton owned the mid-90s R&B Grammy landscape.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "39th Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/39th_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R2-Q5",
+          "episodeId": "EP008",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Grammy for Best Rap Solo Performance in 1996 went to which rapper for 'Gangsta's Paradise'?",
+          "choices": [
+            "Ice Cube",
+            "Tupac Shakur",
+            "Snoop Dogg",
+            "Coolio"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Coolio",
+            "song": "Gangsta's Paradise",
+            "album": "Dangerous Minds Soundtrack",
+            "year": 1996,
+            "topicTags": [
+              "Coolio",
+              "Gangsta's Paradise",
+              "Grammy",
+              "Best Rap Solo Performance",
+              "1996"
+            ],
+            "fact": "Coolio's 'Gangsta's Paradise' — from the Dangerous Minds soundtrack — won Best Rap Solo Performance at the 38th Grammy Awards in 1996, beating Tupac Shakur's 'Dear Mama' in the same category.",
+            "storyHook": "The Grammy that the internet still argues about — Coolio over Tupac. One of the most contested wins of the decade.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "38th Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/38th_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R2-B1",
+          "episodeId": "EP008",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Soul Train Music Awards first aired on television in which year?",
+          "choices": [
+            "1987",
+            "1988",
+            "1985",
+            "1986"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — YEAR THE SOUL TRAIN AWARDS FIRST AIRED",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1987,
+            "topicTags": [
+              "Soul Train Music Awards",
+              "Don Cornelius",
+              "1987",
+              "television",
+              "bonus digit"
+            ],
+            "fact": "The Soul Train Music Awards first aired in 1987 — established as a counterpart to the Grammys, specifically designed to recognize Black music on its own terms.",
+            "storyHook": "Don Cornelius built the show because the Grammys weren't doing the job. He was right.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Train Music Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soul_Train_Music_Awards",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP008-R2-RES1",
+          "episodeId": "EP008",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Mary J. Blige won Grammy Best R&B Album at the 38th ceremony in 1996 for which 1994 album?",
+          "choices": [
+            "Share My World",
+            "Mary",
+            "What's the 411?",
+            "My Life"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": null,
+            "album": "My Life",
+            "year": 1996,
+            "topicTags": [
+              "Mary J. Blige",
+              "My Life",
+              "Grammy",
+              "Best R&B Album",
+              "1996",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "38th Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/38th_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R2-RES2",
+          "episodeId": "EP008",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Grammy for Best R&B Song in 1997 went to which Babyface-written track from the 'Waiting to Exhale' soundtrack?",
+          "choices": [
+            "My Funny Valentine",
+            "Count on Me",
+            "Exhale (Shoop Shoop)",
+            "Not Gon' Cry"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "Exhale (Shoop Shoop)",
+            "album": "Waiting to Exhale Soundtrack",
+            "year": 1997,
+            "topicTags": [
+              "Babyface",
+              "Exhale Shoop Shoop",
+              "Grammy",
+              "Best R&B Song",
+              "1997",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "39th Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/39th_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R2-RES3",
+          "episodeId": "EP008",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which Grammy category did Toni Braxton win at the 1995 ceremony for 'Breathe Again'?",
+          "choices": [
+            "Best New Artist",
+            "Best Female R&B Vocal Performance",
+            "Best R&B Song",
+            "Best R&B Album"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Toni Braxton",
+            "song": "Breathe Again",
+            "album": "Toni Braxton",
+            "year": 1995,
+            "topicTags": [
+              "Toni Braxton",
+              "Breathe Again",
+              "Grammy",
+              "Best Female R&B Vocal Performance",
+              "1995",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "37th Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/37th_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Inaugural categories. Buried wins. The founding history of the ceremonies that shaped how 90s R&B was judged.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP008-R3-Q1",
+          "episodeId": "EP008",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Mary J. Blige won Grammy Best Contemporary R&B Album at the 2000 ceremony — the first year the category existed. Which album earned her that inaugural award?",
+          "choices": [
+            "Mary",
+            "My Life",
+            "Share My World",
+            "No More Drama"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": null,
+            "album": "Mary",
+            "year": 2000,
+            "topicTags": [
+              "Mary J. Blige",
+              "Mary",
+              "Grammy",
+              "Best Contemporary R&B Album",
+              "inaugural",
+              "2000"
+            ],
+            "fact": "Mary J. Blige's self-titled 1999 album 'Mary' won the inaugural Grammy for Best Contemporary R&B Album at the 42nd ceremony in 2000 — the first time the Recording Academy separated contemporary and traditional R&B.",
+            "storyHook": "The first winner of a brand new Grammy category. Mary J. Blige made history twice with the same record.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "42nd Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/42nd_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R3-Q2",
+          "episodeId": "EP008",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Soul Train began as a local Chicago broadcast in 1970 before going national in syndication in which year?",
+          "choices": [
+            "1973",
+            "1971",
+            "1972",
+            "1974"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Soul Train",
+              "Don Cornelius",
+              "1971",
+              "national syndication",
+              "television history"
+            ],
+            "fact": "Soul Train went to national syndication on October 2, 1971 — its first nationally broadcast episode aired in seven cities simultaneously, making it the first nationally syndicated Black-oriented music television show.",
+            "storyHook": "One local show. Seven cities. The beginning of 35 years of Black music on television.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Train – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soul_Train",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R3-B1",
+          "episodeId": "EP008",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The Grammy Awards were first presented in which year?",
+          "choices": [
+            "1957",
+            "1960",
+            "1958",
+            "1959"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — YEAR THE GRAMMYS WERE FIRST PRESENTED",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "Grammy Awards",
+              "founding year",
+              "1959",
+              "Recording Academy",
+              "bonus digit"
+            ],
+            "fact": "The first Grammy Awards ceremony was held May 4, 1959 at the Beverly Hilton Hotel in Beverly Hills — 28 awards were given that night, honoring recordings from 1958.",
+            "storyHook": "The ceremony that would eventually hand Lauryn Hill five awards in one night started with 28 total in a hotel ballroom in Beverly Hills.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Grammy Award – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Grammy_Award",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP008-R3-RES1",
+          "episodeId": "EP008",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Luther Vandross won Grammy Best R&B Vocal Performance — Male at the 1991 ceremony for which album?",
+          "choices": [
+            "Never Too Much",
+            "Power of Love",
+            "Here and Now",
+            "Give Me the Reason"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Luther Vandross",
+            "song": null,
+            "album": "Power of Love",
+            "year": 1991,
+            "topicTags": [
+              "Luther Vandross",
+              "Power of Love",
+              "Grammy",
+              "Best R&B Vocal Performance Male",
+              "1991",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "33rd Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/33rd_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP008-R3-RES2",
+          "episodeId": "EP008",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Patti LaBelle won Grammy Best Traditional R&B Vocal Performance at the 1992 ceremony for which album?",
+          "choices": [
+            "Burnin'",
+            "Winner in You",
+            "Be Yourself",
+            "Gems"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Patti LaBelle",
+            "song": null,
+            "album": "Burnin'",
+            "year": 1992,
+            "topicTags": [
+              "Patti LaBelle",
+              "Burnin'",
+              "Grammy",
+              "Best Traditional R&B Vocal Performance",
+              "1992",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "34th Annual Grammy Awards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/34th_Annual_Grammy_Awards",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.0",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-20T02:11:36.889478+00:00"
+  }
+}

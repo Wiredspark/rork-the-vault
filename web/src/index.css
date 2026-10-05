@@ -1,0 +1,203 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* The Vault design system — clean minimalist neon: graphite ink, cyan current, ice type. */
+
+@layer base {
+  :root {
+    /* Round identity accent; scoped per round via roundStyle(). Falls back to the vault cyan. */
+    --round-rgb: 62 231 255;
+
+    --background: 210 37% 4%;
+    --foreground: 194 50% 95%;
+
+    --card: 215 29% 9%;
+    --card-foreground: 194 50% 95%;
+
+    --popover: 215 29% 9%;
+    --popover-foreground: 194 50% 95%;
+
+    --primary: 187 100% 62%;
+    --primary-foreground: 191 84% 9%;
+
+    --secondary: 210 28% 11%;
+    --secondary-foreground: 194 50% 95%;
+
+    --muted: 210 28% 11%;
+    --muted-foreground: 206 12% 55%;
+
+    --accent: 210 28% 11%;
+    --accent-foreground: 194 50% 95%;
+
+    --destructive: 357 100% 68%;
+    --destructive-foreground: 194 50% 95%;
+
+    --border: 210 26% 16%;
+    --input: 210 26% 18%;
+    --ring: 187 100% 62%;
+
+    --radius: 0.625rem;
+
+    --sidebar-background: 210 37% 4%;
+    --sidebar-foreground: 194 50% 95%;
+    --sidebar-primary: 187 100% 62%;
+    --sidebar-primary-foreground: 191 84% 9%;
+    --sidebar-accent: 210 28% 11%;
+    --sidebar-accent-foreground: 194 50% 95%;
+    --sidebar-border: 210 26% 14%;
+    --sidebar-ring: 187 100% 62%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    color-scheme: dark;
+  }
+
+  body {
+    @apply bg-vault-ink font-sans text-vault-ice antialiased;
+    background-image:
+      radial-gradient(1100px 520px at 82% -10%, rgba(207, 171, 92, 0.05), transparent 60%),
+      radial-gradient(900px 520px at -10% 110%, rgba(207, 171, 92, 0.025), transparent 60%);
+    background-attachment: fixed;
+  }
+
+  :focus-visible {
+    outline: 2px solid #cfab5c;
+    outline-offset: 2px;
+  }
+
+  ::selection {
+    background: rgba(207, 171, 92, 0.28);
+    color: #f1eee3;
+  }
+}
+
+@layer components {
+  /* Spectacle type: Unbounded. Communication: Manrope (font-sans). Data: DM Mono (font-mono). */
+  .vault-display {
+    @apply font-display;
+    letter-spacing: -0.01em;
+  }
+
+  .vault-kicker {
+    @apply font-mono text-[11px] font-medium uppercase tracking-[0.3em] text-vault-neon;
+  }
+
+  .hud-label {
+    @apply font-mono text-[10px] font-medium uppercase tracking-[0.25em] text-vault-muted;
+  }
+
+  .neon-card {
+    @apply relative rounded-[10px] border border-vault-line;
+    background: linear-gradient(180deg, #141D19 0%, #0F1613 100%);
+    box-shadow:
+      inset 0 1px 0 rgba(241, 238, 227, 0.03),
+      0 12px 32px -18px rgba(0, 0, 0, 0.8);
+  }
+
+  /* Question card: muted round tint on the leading edge only — orientation, not decoration. */
+  .neon-card.round-tint {
+    background:
+      linear-gradient(90deg, rgb(var(--round-rgb) / 0.15) 0%, rgb(var(--round-rgb) / 0.04) 24%, transparent 50%),
+      linear-gradient(180deg, #141D19 0%, #0F1613 100%);
+    border-left: 3px solid rgb(var(--round-rgb) / 0.2);
+  }
+
+  .round-glow-text {
+    color: rgb(var(--round-rgb));
+    text-shadow:
+      0 0 36px rgb(var(--round-rgb) / 0.45),
+      0 0 2px rgb(var(--round-rgb) / 0.5);
+  }
+
+  .neon-frame {
+    @apply relative rounded-[10px] border border-vault-neon/60;
+    box-shadow:
+      inset 0 0 24px rgba(207, 171, 92, 0.04),
+      0 0 0 1px rgba(207, 171, 92, 0.08),
+      0 24px 60px -30px rgba(207, 171, 92, 0.22);
+  }
+
+  .eyebrow {
+    @apply font-mono text-[11px] font-medium uppercase tracking-[0.3em] text-vault-neon;
+  }
+
+  .eyebrow-muted {
+    @apply font-mono text-[11px] font-medium uppercase tracking-[0.22em] text-vault-muted;
+  }
+
+  .neon-button {
+    @apply inline-flex items-center justify-center gap-2 rounded-md px-6 font-semibold text-[#241B06] transition-all duration-200 disabled:cursor-not-allowed disabled:opacity-40;
+    background: linear-gradient(180deg, #EAD9A8 0%, #CFAB5C 55%, #A8843C 100%);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.4),
+      0 10px 24px -12px rgba(207, 171, 92, 0.55);
+  }
+  .neon-button:not(:disabled):hover {
+    filter: brightness(1.08);
+    transform: translateY(-1px);
+  }
+  .neon-button:not(:disabled):active {
+    transform: translateY(1px) scale(0.99);
+    filter: brightness(0.95);
+  }
+
+  .ghost-neon-button {
+    @apply inline-flex items-center justify-center gap-2 rounded-md border border-vault-neon/50 px-4 font-medium text-vault-neonhi transition-colors hover:border-vault-neon hover:bg-vault-neon/10 active:bg-vault-neon/15 disabled:cursor-not-allowed disabled:opacity-40;
+  }
+
+  .text-link {
+    @apply inline-flex items-center gap-1.5 text-sm font-medium text-vault-neon transition-colors hover:text-vault-neonhi;
+  }
+
+  .neon-tile {
+    @apply relative rounded-[10px] border border-vault-neon/30;
+    background:
+      linear-gradient(180deg, rgba(255, 255, 255, 0.04), rgba(0, 0, 0, 0.28)),
+      linear-gradient(135deg, #1C241C 0%, #121A15 100%);
+    box-shadow:
+      inset 0 1px 0 rgba(234, 217, 168, 0.22),
+      inset 0 -2px 0 rgba(0, 0, 0, 0.6),
+      0 18px 40px -20px rgba(0, 0, 0, 0.9);
+  }
+
+  .key-tile {
+    @apply flex select-none items-center justify-center rounded-md border border-white/[0.07] font-display text-3xl text-vault-ice transition-all duration-150 disabled:cursor-not-allowed disabled:opacity-30;
+    background: linear-gradient(180deg, #161E19 0%, #10160F 100%);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.05),
+      0 2px 0 rgba(0, 0, 0, 0.5);
+  }
+  .key-tile:not(:disabled):hover {
+    @apply border-vault-neon/50 text-vault-neonhi;
+  }
+  .key-tile:not(:disabled):active {
+    transform: translateY(2px);
+    box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.6);
+  }
+
+  .hairline {
+    @apply h-px w-full;
+    background: linear-gradient(90deg, transparent, rgba(207, 171, 92, 0.35), transparent);
+  }
+
+  .tabular {
+    font-variant-numeric: tabular-nums lining-nums;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

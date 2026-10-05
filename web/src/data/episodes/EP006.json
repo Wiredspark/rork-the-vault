@@ -1,0 +1,1550 @@
+{
+  "episodeId": "EP006",
+  "title": "One-Hit Wonders & Forgotten Debuts",
+  "theme": "The 90s R&B artists who had one brilliant moment — and what happened next",
+  "narrativePurpose": "Invert the EP001 format — test players not on landmark arrivals but on the artists who arrived, flashed, and faded. Rewards obsessives over casual listeners by Round 2.",
+  "toneProgression": "Identify the artist from the hit → what was behind it and what came after → formation stories and forgotten infrastructure",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "3"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-3 — the year the genre minted its most footnotes. Silk's Freak Me hit #1, H-Town's Knockin' Da Boots followed, and a dozen acts peaked and vanished within eighteen months. The most concentrated one-hit-wonder harvest in 90s R&B."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "You know the song. But do you know who made it? Identify the artist from their one big moment.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP006-R1-Q1",
+          "episodeId": "EP006",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'I Like the Way (The Kissing Game)' was the 1991 breakout smash for which R&B group?",
+          "choices": [
+            "Shai",
+            "Portrait",
+            "Silk",
+            "Hi-Five"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Hi-Five",
+            "song": "I Like the Way (The Kissing Game)",
+            "album": "Hi-Five",
+            "year": 1991,
+            "topicTags": [
+              "Hi-Five",
+              "I Like the Way",
+              "Kissing Game",
+              "Waco",
+              "Jive Records"
+            ],
+            "fact": "'I Like the Way (The Kissing Game)' reached #1 on the Billboard Hot 100 in 1991, making Hi-Five one of the most unlikely chart-toppers of the new jack swing era.",
+            "storyHook": "Five teenagers from Waco, Texas — the last place anyone expected a #1 R&B record to come from.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Like the Way (The Kissing Game) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Like_the_Way_(The_Kissing_Game)",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Hi-Five - I Like the Way (The Kissing Game) – YouTube",
+                "url": "https://www.youtube.com/watch?v=vF3MB0U6DO8",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R1-Q2",
+          "episodeId": "EP006",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'Freak Me' was the 1993 chart-topping debut single for which R&B group?",
+          "choices": [
+            "H-Town",
+            "Silk",
+            "Jodeci",
+            "Mint Condition"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Silk",
+            "song": "Freak Me",
+            "album": "Lose Control",
+            "year": 1993,
+            "topicTags": [
+              "Silk",
+              "Freak Me",
+              "Michael Bivins",
+              "Elektra",
+              "New Edition"
+            ],
+            "fact": "'Freak Me' spent four weeks at #1 on the Billboard Hot 100 in 1993 — Silk's commercial peak and the record that defined their career.",
+            "storyHook": "Discovered and developed by Michael Bivins — the New Edition alumni machine at full speed.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Freak Me – Silk – YouTube",
+                "url": "https://www.youtube.com/watch?v=Ry6XUsow4Vg",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Silk – AllMusic biography",
+                "url": "https://www.allmusic.com/artist/silk-mn0000033001/biography",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R1-Q3",
+          "episodeId": "EP006",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which duo had their only major US hit with 'Tell Me' in 1995, featuring vocalist Amel Larrieux?",
+          "choices": [
+            "Changing Faces",
+            "Jade",
+            "Groove Theory",
+            "Zhané"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Groove Theory",
+            "song": "Tell Me",
+            "album": "Groove Theory",
+            "year": 1995,
+            "topicTags": [
+              "Groove Theory",
+              "Amel Larrieux",
+              "Tell Me",
+              "Epic Records",
+              "neo soul"
+            ],
+            "fact": "'Tell Me' reached #7 on the Billboard Hot 100 in 1995. Groove Theory never released a follow-up album, and Amel Larrieux eventually launched a solo career.",
+            "storyHook": "One album. One hit. And then Amel Larrieux disappeared — until she didn't.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tell Me (Groove Theory song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tell_Me_(Groove_Theory_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R1-Q4",
+          "episodeId": "EP006",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'Knockin' Da Boots' was the 1993 debut hit for which Texas-based R&B trio?",
+          "choices": [
+            "Silk",
+            "Portrait",
+            "H-Town",
+            "Hi-Five"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "H-Town",
+            "song": "Knockin' Da Boots",
+            "album": "Fever for da Flavor",
+            "year": 1993,
+            "topicTags": [
+              "H-Town",
+              "Knockin Da Boots",
+              "Houston",
+              "Texas",
+              "Luke Records"
+            ],
+            "fact": "'Knockin' Da Boots' reached #3 on the Billboard Hot 100 in 1993 and established H-Town as one of Houston's first R&B exports.",
+            "storyHook": "Houston's first statement to the national R&B chart — three years before anyone started paying attention to the city.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Fever for da Flavor – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Fever_for_da_Flavor",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "H-Town – Knockin' Da Boots – Facebook",
+                "url": "https://www.facebook.com/groups/105812276906657/posts/2129008917920306/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R1-Q5",
+          "episodeId": "EP006",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'Nobody Knows' was the 1996 breakout and commercial peak for which artist — a solo project named after its singer?",
+          "choices": [
+            "Case",
+            "Maxwell",
+            "The Tony Rich Project",
+            "Next"
+          ],
+          "correctIndex": 2,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Tony Rich Project",
+            "song": "Nobody Knows",
+            "album": "Words",
+            "year": 1996,
+            "topicTags": [
+              "The Tony Rich Project",
+              "Nobody Knows",
+              "LaFace Records",
+              "neo soul"
+            ],
+            "fact": "'Nobody Knows' peaked at #2 on the Billboard Hot 100 in 1996 and won a Grammy for Best R&B Song. Tony Rich never replicated its commercial success.",
+            "storyHook": "A solo act named like a collective. A Grammy winner who became a trivia answer.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Nobody Knows (Tony Rich song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Nobody_Knows_(Tony_Rich_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R1-Q6",
+          "episodeId": "EP006",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which R&B harmony group peaked with 'If I Ever Fall in Love' in 1992 and never replicated that commercial success?",
+          "choices": [
+            "Az Yet",
+            "Shai",
+            "Portrait",
+            "Boyz II Men"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Shai",
+            "song": "If I Ever Fall in Love",
+            "album": "If I Ever Fall in Love",
+            "year": 1992,
+            "topicTags": [
+              "Shai",
+              "If I Ever Fall in Love",
+              "Howard University",
+              "a cappella",
+              "Gasoline Alley"
+            ],
+            "fact": "'If I Ever Fall in Love' reached #2 on the Billboard Hot 100 in 1992 and was recorded almost entirely a cappella — a choice that became its defining characteristic.",
+            "storyHook": "Four Howard University students. No instruments. One of 1992's biggest records.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "If I Ever Fall in Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/If_I_Ever_Fall_in_Love",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "If I Ever Fall In Love (Original Acappella Edit) – Shai – YouTube",
+                "url": "https://www.youtube.com/watch?v=s9glVZKk6-8",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R1-B1",
+          "episodeId": "EP006",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Zhané — the duo behind 1994's 'Hey Mr. DJ' — were given their first recording break by which rap collective?",
+          "choices": [
+            "Flavor Unit",
+            "Wu-Tang Clan",
+            "Bad Boy",
+            "Ruff Ryders"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — WHO GAVE ZHANÉ THEIR BREAK",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": "Zhané",
+            "song": "Hey Mr. DJ",
+            "album": "Pronounced Jah-Nay",
+            "year": 1994,
+            "topicTags": [
+              "Zhané",
+              "Flavor Unit",
+              "Queen Latifah",
+              "Hey Mr. DJ",
+              "bonus digit"
+            ],
+            "fact": "Flavor Unit — Queen Latifah's management collective — discovered Zhané and helped them secure their Motown deal, connecting New Jersey hip-hop infrastructure to R&B.",
+            "storyHook": "Queen Latifah's collective handed two R&B singers their entire career. The music business in one sentence.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Zhané – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Zhan%C3%A9",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Flavor Unit MC's – Roll Wit Tha Flava – YouTube",
+                "url": "https://www.youtube.com/watch?v=h0ZNlT_7rp0",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP006-R1-RES1",
+          "episodeId": "EP006",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Zhané's 1994 debut single 'Hey Mr. DJ' appeared on which debut album?",
+          "choices": [
+            "Renee and Anne",
+            "Hey Zhané",
+            "Saturday Night",
+            "Pronounced Jah-Nay"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Zhané",
+            "song": "Hey Mr. DJ",
+            "album": "Pronounced Jah-Nay",
+            "year": 1994,
+            "topicTags": [
+              "Zhané",
+              "Pronounced Jah-Nay",
+              "Motown",
+              "debut album",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Pronounced Jah-Nay – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Pronounced_Jah-Nay",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Zhané – Hey Mr. D.J. from Pronounced Jah-Nay – Facebook",
+                "url": "https://www.facebook.com/MsLadyC100/posts/zhan%C3%A9-hey-mr-dj-from-the-album-pronounced-jah-nay-1993hey-mr-dj-is-a-song-by-ame/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R1-RES2",
+          "episodeId": "EP006",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Changing Faces — the duo behind 1994's 'Stroke You Up' — scored their debut hit on which label?",
+          "choices": [
+            "LaFace Records",
+            "So So Def",
+            "Uptown Records",
+            "Big Beat Records"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Changing Faces",
+            "song": "Stroke You Up",
+            "album": "Changing Faces",
+            "year": 1994,
+            "topicTags": [
+              "Changing Faces",
+              "Stroke You Up",
+              "Big Beat Records",
+              "label",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Changing Faces – Stroke You Up – Big Beat Records – YouTube",
+                "url": "https://www.youtube.com/watch?v=IeCFAZ4hq_4",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R1-RES3",
+          "episodeId": "EP006",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Hi-Five's lead vocalist on 'I Like the Way (The Kissing Game)' was which singer?",
+          "choices": [
+            "Treston Irby",
+            "Russell Neal",
+            "Tony Thompson",
+            "Marcus Sanders"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Hi-Five",
+            "song": "I Like the Way (The Kissing Game)",
+            "album": "Hi-Five",
+            "year": 1991,
+            "topicTags": [
+              "Hi-Five",
+              "Tony Thompson",
+              "lead vocalist",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tony Thompson (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tony_Thompson_(singer)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R1-RES4",
+          "episodeId": "EP006",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'If I Ever Fall in Love' by Shai was performed primarily in which vocal style — almost entirely without instruments?",
+          "choices": [
+            "Doo-Wop",
+            "Falsetto",
+            "Gospel Harmony",
+            "A Cappella"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Shai",
+            "song": "If I Ever Fall in Love",
+            "album": "If I Ever Fall in Love",
+            "year": 1992,
+            "topicTags": [
+              "Shai",
+              "If I Ever Fall in Love",
+              "a cappella",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "If I Ever Fall in Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/If_I_Ever_Fall_in_Love",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "If I Ever Fall In Love (Original Acappella Edit) – YouTube",
+                "url": "https://www.youtube.com/watch?v=s9glVZKk6-8",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Who was behind the hit. Where they came from. What happened after. The follow-up failures and the infrastructure that built the moment.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP006-R2-Q1",
+          "episodeId": "EP006",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Hi-Five — the group behind 'I Like the Way (The Kissing Game)' — came from which Texas city rarely associated with 90s R&B?",
+          "choices": [
+            "Dallas",
+            "Austin",
+            "Waco",
+            "San Antonio"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Hi-Five",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Hi-Five",
+              "Waco",
+              "Texas",
+              "origin",
+              "regional"
+            ],
+            "fact": "Hi-Five formed in Waco, Texas — not a city associated with R&B infrastructure, label connections, or music industry access — which made their national breakthrough even more unlikely.",
+            "storyHook": "Not Houston. Not Dallas. Waco — which makes this story more improbable the more you think about it.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Hi-Five from Waco Texas – Facebook",
+                "url": "https://www.facebook.com/r507216419410506/posts/hi-five-rb-legendshi-five-is-a-dynamic-american-rb-quintet-from-waco-texas-forme",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R2-Q2",
+          "episodeId": "EP006",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Silk — the group behind 'Freak Me' — were developed and mentored by which New Edition alumnus?",
+          "choices": [
+            "Ralph Tresvant",
+            "Michael Bivins",
+            "Bobby Brown",
+            "Johnny Gill"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Silk",
+            "song": "Freak Me",
+            "album": "Lose Control",
+            "year": 1993,
+            "topicTags": [
+              "Silk",
+              "Michael Bivins",
+              "New Edition",
+              "mentor",
+              "Elektra"
+            ],
+            "fact": "Michael Bivins discovered and developed Silk as part of his pattern of mentoring emerging R&B acts — he had already done the same for Boyz II Men and Another Bad Creation.",
+            "storyHook": "Michael Bivins built a side career out of developing the groups New Edition never became.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Silk – career overview – Facebook",
+                "url": "https://www.facebook.com/honoringlegends/posts/happy-birthday-gary-big-g-glenn-singer-songwriter-and-producer-best-known-as-one/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Michael Bivins – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Michael_Bivins",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R2-Q3",
+          "episodeId": "EP006",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Groove Theory vocalist Amel Larrieux eventually launched a solo career with which 2000 debut album?",
+          "choices": [
+            "Infinite Possibilities",
+            "Bravebird",
+            "Lovely Standards",
+            "Morning"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Amel Larrieux",
+            "song": null,
+            "album": "Infinite Possibilities",
+            "year": 2000,
+            "topicTags": [
+              "Amel Larrieux",
+              "Infinite Possibilities",
+              "Groove Theory",
+              "solo debut",
+              "neo soul"
+            ],
+            "fact": "After Groove Theory went quiet, Amel Larrieux built a respected solo career entirely outside the mainstream — Infinite Possibilities is considered a quiet neo-soul classic.",
+            "storyHook": "She escaped the one-hit wonder label by refusing to chase the hit.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Infinite Possibilities – Albumism anniversary feature",
+                "url": "https://albumism.com/features/amel-larrieux-debut-solo-album-infinite-possibilities-album-anniversary",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R2-Q4",
+          "episodeId": "EP006",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "H-Town — the trio behind 'Knockin' Da Boots' — were from which Texas city?",
+          "choices": [
+            "Dallas",
+            "Houston",
+            "Beaumont",
+            "San Antonio"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "H-Town",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "H-Town",
+              "Houston",
+              "Texas",
+              "origin",
+              "regional"
+            ],
+            "fact": "H-Town — brothers Keven 'Dino' Conner and Solomon 'Shazam' Conner, plus Darryl 'G' Jackson — were from Houston, making them part of the city's first wave of national R&B recognition.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "H-Town – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/H-Town_(band)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R2-Q5",
+          "episodeId": "EP006",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The R&B group Shai took their name from a word meaning 'gift' in which ancient language?",
+          "choices": [
+            "Swahili",
+            "Hebrew",
+            "Arabic",
+            "Amharic"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Shai",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Shai",
+              "Hebrew",
+              "name meaning",
+              "Howard University"
+            ],
+            "fact": "Shai is a Hebrew word meaning 'gift' — the group chose the name while students at Howard University, connecting their identity to their academic and cultural environment.",
+            "storyHook": "A Hebrew word chosen by four students at an HBCU — the kind of detail that gets lost when the music fades.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Shai name meaning – r/hebrew",
+                "url": "https://www.reddit.com/r/hebrew/comments/1h33pg3/would_it_be_disrespectful_to_go_by_the_name_shai/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Hebrew name resources – HebrewPod101",
+                "url": "https://www.hebrewpod101.com",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R2-B1",
+          "episodeId": "EP006",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "H-Town's debut album — which contained 'Knockin' Da Boots' — was titled what?",
+          "choices": [
+            "Knockin' Da Boots",
+            "Ladies Edition",
+            "In Ya Face",
+            "Fever for da Flavor"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — H-TOWN'S DEBUT ALBUM TITLE",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "H-Town",
+            "song": null,
+            "album": "Fever for da Flavor",
+            "year": 1993,
+            "topicTags": [
+              "H-Town",
+              "Fever for da Flavor",
+              "debut album",
+              "Houston",
+              "bonus digit"
+            ],
+            "fact": "Fever for da Flavor was released in 1993 on Luke Records — the Miami-based label that gave Houston's H-Town their national platform.",
+            "storyHook": "A Houston group. A Miami label. A Waco-level upset on the national R&B chart.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Fever for da Flavor – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Fever_for_da_Flavor",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP006-R2-RES1",
+          "episodeId": "EP006",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Michael Bivins — who mentored Silk — was a founding member of which New Edition alumni trio?",
+          "choices": [
+            "Hi-Five",
+            "New Edition",
+            "Another Bad Creation",
+            "Bell Biv DeVoe"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Michael Bivins",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Michael Bivins",
+              "Bell Biv DeVoe",
+              "New Edition",
+              "mentor",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bell Biv DeVoe – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bell_Biv_DeVoe",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R2-RES2",
+          "episodeId": "EP006",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Tony Rich Project's 'Nobody Knows' peaked at which position on the Billboard Hot 100 in 1996?",
+          "choices": [
+            "#4",
+            "#1",
+            "#3",
+            "#2"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Tony Rich Project",
+            "song": "Nobody Knows",
+            "album": "Words",
+            "year": 1996,
+            "topicTags": [
+              "The Tony Rich Project",
+              "Nobody Knows",
+              "Billboard",
+              "chart peak",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Nobody Knows (Tony Rich song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Nobody_Knows_(Tony_Rich_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "chart",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R2-RES3",
+          "episodeId": "EP006",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Zhané were signed to which major label for their debut album 'Pronounced Jah-Nay'?",
+          "choices": [
+            "LaFace Records",
+            "Jive",
+            "Motown",
+            "Uptown Records"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Zhané",
+            "song": null,
+            "album": "Pronounced Jah-Nay",
+            "year": 1994,
+            "topicTags": [
+              "Zhané",
+              "Motown",
+              "Flavor Unit",
+              "label",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Pronounced Jah-Nay – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Pronounced_Jah-Nay",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Hey Mr. D.J. – Shazam",
+                "url": "https://www.shazam.com/song/1443120626/hey-mr-dj",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Formation stories. Forgotten label homes. Debut facts buried under one hit. Only the obsessives survive here.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP006-R3-Q1",
+          "episodeId": "EP006",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Portrait — the four-man harmony group behind 1992's 'Here We Go Again' — were signed to which major label?",
+          "choices": [
+            "Arista",
+            "Capitol Records",
+            "RCA",
+            "Motown"
+          ],
+          "correctIndex": 1,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Portrait",
+            "song": "Here We Go Again",
+            "album": "Portrait",
+            "year": 1992,
+            "topicTags": [
+              "Portrait",
+              "Capitol Records",
+              "Here We Go Again",
+              "harmony group",
+              "Los Angeles"
+            ],
+            "fact": "Portrait's self-titled debut was released on Capitol Records in 1992 — the label pushed 'Here We Go Again' as their breakout single, and it remains the group's only significant chart entry.",
+            "storyHook": "Capitol Records had a smooth R&B quartet from Los Angeles and nowhere to go after the first single.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Here We Go Again! (Portrait song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Here_We_Go_Again!_(song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R3-Q2",
+          "episodeId": "EP006",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Shai formed while all four members were students at which historically Black university in Washington D.C.?",
+          "choices": [
+            "Morehouse College",
+            "Howard University",
+            "Hampton University",
+            "Spelman College"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Shai",
+            "song": null,
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "Shai",
+              "Howard University",
+              "HBCU",
+              "Washington D.C.",
+              "origin"
+            ],
+            "fact": "All four members of Shai — Carl Martin, Marc Nelson, Darnell Van Rensalier, and Geoffrey Williams — met as students at Howard University, one of the most prominent HBCUs in the country.",
+            "storyHook": "Four Howard students made one of 1992's biggest records and then went back to their lives. The record stayed.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Shai – Howard University – Instagram",
+                "url": "https://www.instagram.com/reel/DKIZy-0vXNE/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Shai – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Shai_(band)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R3-B1",
+          "episodeId": "EP006",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Hi-Five's self-titled debut album was released in what year?",
+          "choices": [
+            "1992",
+            "1991",
+            "1990",
+            "1989"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — YEAR HI-FIVE'S DEBUT DROPPED",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Hi-Five",
+            "song": null,
+            "album": "Hi-Five",
+            "year": 1990,
+            "topicTags": [
+              "Hi-Five",
+              "debut album",
+              "Jive Records",
+              "release year",
+              "bonus digit"
+            ],
+            "fact": "Hi-Five's self-titled debut was released in 1990 on Jive Records — 'I Like the Way (The Kissing Game)' didn't become a hit until 1991, making the album's timeline slightly counterintuitive.",
+            "storyHook": "The album dropped in 1990. The world didn't hear it until 1991. One year's difference, one chart-topping record.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Hi-Five self-titled debut – YouTube",
+                "url": "https://www.youtube.com/watch?v=5eASeDQ8ERg",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Hi-Five R&B Legends – Facebook",
+                "url": "https://www.facebook.com/r507216419410506/posts/hi-five-rb-legendshi-five-is-a-dynamic-american-rb-quintet-from-waco-texas-forme",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP006-R3-RES1",
+          "episodeId": "EP006",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Portrait — whose 'Here We Go Again' was a 1992 R&B hit — were from which California city?",
+          "choices": [
+            "Compton",
+            "Los Angeles",
+            "San Francisco",
+            "Oakland"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Portrait",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Portrait",
+              "Los Angeles",
+              "California",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Here We Go Again! (Portrait song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Here_We_Go_Again!_(song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP006-R3-RES2",
+          "episodeId": "EP006",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Shai's 1992 debut album shared its title with their breakthrough single. What was that title?",
+          "choices": [
+            "Right Back at Ya",
+            "Come With Me",
+            "Blackface",
+            "If I Ever Fall in Love"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Shai",
+            "song": "If I Ever Fall in Love",
+            "album": "If I Ever Fall in Love",
+            "year": 1992,
+            "topicTags": [
+              "Shai",
+              "If I Ever Fall in Love",
+              "debut album",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "If I Ever Fall in Love (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/If_I_Ever_Fall_in_Love",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.0",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-20T03:23:41.259522+00:00"
+  }
+}

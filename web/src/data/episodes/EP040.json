@@ -1,0 +1,1533 @@
+{
+  "episodeId": "EP040",
+  "title": "By the Numbers",
+  "theme": "R&B's most iconic numbered titles — from Prince's prophetic 1999 to the 16 consecutive weeks Mariah and Boyz II Men spent at #1. The digits are in the titles. The vault is in the details.",
+  "narrativePurpose": "Test knowledge of R&B's number-titled classics — albums, labels, songwriters, birthplaces, and the biographical facts behind the artists who put digits in their song titles.",
+  "toneProgression": "Identify the record and the number → albums, labels, and chart facts → birth names, birthplaces, and the connections behind the era's most memorable numbered tracks",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "9"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-9 — the most resonant number sequence in this episode's DNA: Prince's 1982 anthem '1999,' Brian McKnight's 1999 breakthrough 'Back at One,' and the number that runs through R&B's most memorable titles. The vault always shows the final digit — 9 — because in this episode, 9 is everywhere."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "COUNT IT UP",
+      "tag": "ROUND 01 OF 03",
+      "description": "The tracks, the artists, and the numbers. Entry level — but the details are in the digits.",
+      "color": "#FFD700",
+      "accentVar": "--gold",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP040-R1-Q1",
+          "episodeId": "EP040",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Count It Up",
+          "era": "1990s",
+          "question": "'One Sweet Day' by Mariah Carey and Boyz II Men spent how many consecutive weeks at #1 on the Billboard Hot 100 — a record at the time?",
+          "choices": [
+            "12 weeks",
+            "16 weeks",
+            "14 weeks",
+            "18 weeks"
+          ],
+          "correctIndex": 1,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey & Boyz II Men",
+            "song": "One Sweet Day",
+            "album": "Daydream",
+            "year": 1994,
+            "topicTags": [
+              "Mariah Carey",
+              "Boyz II Men",
+              "One Sweet Day",
+              "16 weeks",
+              "Hot 100",
+              "#1",
+              "1994",
+              "1995",
+              "Daydream"
+            ],
+            "fact": "'One Sweet Day' spent 16 consecutive weeks at #1 on the Billboard Hot 100 — the longest-running #1 in the chart's history at the time of its release. Released in November 1994, the song appeared on Mariah Carey's Daydream album (1995) and the Boyz II Men compilation.",
+            "storyHook": "Sixteen weeks. Mariah Carey. Boyz II Men. 'One Sweet Day' was at number one for so long that the industry had to rewrite what a number-one record could mean.",
+            "sourceNotes": "PRIORITY VERIFY: 'One Sweet Day' 16 consecutive weeks at #1 on Hot 100 (1994-1995). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Number Ones: Mariah Carey & Boyz II Men's 'One Sweet Day' – Stereogum",
+                "url": "https://stereogum.com/2182519/the-number-ones-mariah-carey-boyz-ii-mens-one-sweet-day/columns/the-number-ones",
+                "accessed": "2026-05-26"
+              },
+              {
+                "title": "30 years ago today, 'One Sweet Day'… – I Love The 90s fanpage",
+                "url": "https://www.facebook.com/ILoveThe90sFanpage/posts/30-years-ago-today-mariah-carey-and-boyz-ii-men-song-one-sweet-day-went-to-num",
+                "accessed": "2026-05-26"
+              },
+              {
+                "title": "Boyz II Men's 'One Sweet Day' Made Billboard History – Yahoo",
+                "url": "https://www.yahoo.com/entertainment/music/articles/boyz-ii-mens-one-sweet-200713635.html",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R1-Q2",
+          "episodeId": "EP040",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Count It Up",
+          "era": "1990s",
+          "question": "Mary J. Blige's 'What's the 411?' was released on which label — a combination of Uptown Records and a major distribution partner?",
+          "choices": [
+            "Uptown/MCA",
+            "Columbia/Sony",
+            "Def Jam",
+            "Bad Boy/Arista"
+          ],
+          "correctIndex": 0,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": "What's the 411?",
+            "album": "What's the 411?",
+            "year": 1992,
+            "topicTags": [
+              "Mary J. Blige",
+              "What's the 411?",
+              "Uptown Records",
+              "MCA Records",
+              "1992",
+              "debut album"
+            ],
+            "fact": "Mary J. Blige's debut album What's the 411? was released in 1992 on Uptown Records, distributed through MCA — making the full label credit Uptown/MCA. The album introduced Blige as the self-proclaimed Queen of Hip-Hop Soul and established a template for emotionally raw, hip-hop-influenced R&B that defined the decade.",
+            "storyHook": "Uptown/MCA. 1992. A debut album that named itself after a slang term for information. Mary J. Blige arrived with 'What's the 411?' and made the genre catch up with her.",
+            "sourceNotes": "PRIORITY VERIFY: Mary J. Blige 'What's the 411?' on Uptown/MCA Records (1992). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "What's the 411? – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/What's_the_411%3F",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R1-Q3",
+          "episodeId": "EP040",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Count It Up",
+          "era": "2000s",
+          "question": "Ciara's '1, 2 Step' was co-written by which songwriter — known for crafting hits across multiple early 2000s R&B acts?",
+          "choices": [
+            "Sean Garrett",
+            "Rodney Jerkins",
+            "Harvey Mason Jr.",
+            "Ne-Yo"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ciara feat. Missy Elliott",
+            "song": "1, 2 Step",
+            "album": "Goodies",
+            "year": 2004,
+            "topicTags": [
+              "Ciara",
+              "Missy Elliott",
+              "1, 2 Step",
+              "Sean Garrett",
+              "2004",
+              "Goodies",
+              "LaFace Records"
+            ],
+            "fact": "'1, 2 Step' was co-written by Sean Garrett — one of early 2000s R&B's most prolific behind-the-scenes songwriters, who also contributed to records by Beyoncé, Usher, and Chris Brown during the same period. The track appeared on Ciara's debut album Goodies and featured Missy Elliott.",
+            "storyHook": "Sean Garrett wrote it. Ciara performed it. Missy Elliott elevated it. '1, 2 Step' was the product of early 2000s R&B's most efficient creative assembly line.",
+            "sourceNotes": "PRIORITY VERIFY: '1, 2 Step' co-written by Sean Garrett, from Ciara's Goodies (2004), LaFace Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sean Garrett hitmaker post – BET",
+                "url": "https://www.facebook.com/BET/posts/sean-garrett-is-a-hit-maker-hes-responsible-for-ushers-yeah-ciaras-goodies-teair/101592854501",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R1-Q4",
+          "episodeId": "EP040",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Count It Up",
+          "era": "1990s",
+          "question": "'Back at One' — the step-counting 1999 love song — was the signature hit of which R&B artist?",
+          "choices": [
+            "Eric Benét",
+            "Kenny Lattimore",
+            "Musiq Soulchild",
+            "Brian McKnight"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brian McKnight",
+            "song": "Back at One",
+            "album": "Back at One",
+            "year": 1999,
+            "topicTags": [
+              "Brian McKnight",
+              "Back at One",
+              "1999",
+              "Motown Records",
+              "R&B",
+              "Buffalo"
+            ],
+            "fact": "'Back at One' was Brian McKnight's commercial breakthrough — reaching #2 on the Hot 100 and #1 on the R&B chart in 1999. The song's structure, literally counting through the steps of love, made its number-based title one of the most thematically integrated in R&B history.",
+            "storyHook": "If ever a song earned its number title, it was 'Back at One.' Brian McKnight literally counted the steps. The audience counted the weeks it stayed on the chart.",
+            "sourceNotes": "PRIORITY VERIFY: Brian McKnight 'Back at One' (1999), #2 Hot 100, #1 R&B, Motown Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Back At One (Official Music Video) – Brian McKnight",
+                "url": "https://www.youtube.com/watch?v=rXPfovXw2tw",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R1-Q5",
+          "episodeId": "EP040",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Count It Up",
+          "era": "1990s",
+          "question": "'5 Steps' — the 1996 debut hit for the R&B group Dru Hill — was fronted by which member who later became a solo star?",
+          "choices": [
+            "Sisqo",
+            "Nokio",
+            "Woody",
+            "Jazz"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Dru Hill",
+            "song": "5 Steps",
+            "album": "Enter the Dru",
+            "year": 1996,
+            "topicTags": [
+              "Dru Hill",
+              "5 Steps",
+              "Sisqo",
+              "1996",
+              "Enter the Dru",
+              "Island Records",
+              "Baltimore"
+            ],
+            "fact": "Dru Hill's '5 Steps' was the group's debut single from Enter the Dru (1996) — and while all four members contributed, it was Sisqó's vocal runs that caught the ear of R&B radio. He later launched a solo career that peaked with 'Thong Song' (2000), making him the group's most commercially recognizable member.",
+            "storyHook": "'5 Steps.' The debut. Sisqó sang the parts people remembered. The solo career followed eventually — and confirmed what '5 Steps' had already suggested.",
+            "sourceNotes": "PRIORITY VERIFY: Dru Hill '5 Steps' from Enter the Dru (1996), Sisqó as lead vocalist. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dru Hill - 5 Steps (Official Music Video)",
+                "url": "https://www.youtube.com/watch?v=7BTlDtxFuBg",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R1-Q6",
+          "episodeId": "EP040",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Count It Up",
+          "era": "1980s",
+          "question": "'Just the Two of Us' — featuring Bill Withers on vocals — appeared on the 1981 album Winelight, recorded by which saxophonist?",
+          "choices": [
+            "Charlie Parker",
+            "John Coltrane",
+            "Grover Washington Jr.",
+            "Kenny G"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Grover Washington Jr.",
+            "song": "Just the Two of Us",
+            "album": "Winelight",
+            "year": 1981,
+            "topicTags": [
+              "Grover Washington Jr.",
+              "Just the Two of Us",
+              "Bill Withers",
+              "Winelight",
+              "1981",
+              "Elektra Records"
+            ],
+            "fact": "'Just the Two of Us' was recorded by Grover Washington Jr. with Bill Withers on vocals — appearing on Washington's Winelight album (1981) on Elektra Records. The track won the Grammy for Best R&B Song at the 24th Grammy Awards, cementing Washington's reputation as jazz-soul's most commercially accessible voice.",
+            "storyHook": "Grover Washington Jr. played the saxophone. Bill Withers sang the words. Together they made 'Just the Two of Us' — and the Grammys agreed it was the best R&B song of 1981.",
+            "sourceNotes": "PRIORITY VERIFY: Grover Washington Jr. 'Just the Two of Us' feat. Bill Withers from Winelight (1981), Elektra Records, Grammy Best R&B Song. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Just the Two of Us – Grover Washington Jr. (Winelight) – YouTube",
+                "url": "https://www.youtube.com/watch?v=gelwwYuYGn0",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R1-B1",
+          "episodeId": "EP040",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Count It Up",
+          "era": "1980s",
+          "question": "Prince's album 1999 contained which other iconic single — one of his most enduring pop-rock crossovers?",
+          "choices": [
+            "When Doves Cry",
+            "Delirious",
+            "Raspberry Beret",
+            "Little Red Corvette"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — THE CODE BEGINS"
+          },
+          "metadata": {
+            "artist": "Prince",
+            "song": "Little Red Corvette",
+            "album": "1999",
+            "year": 1982,
+            "topicTags": [
+              "Prince",
+              "Little Red Corvette",
+              "1999",
+              "1982",
+              "Warner Bros.",
+              "double album"
+            ],
+            "fact": "Prince's 1999 (1982) was a double album containing both the title track and 'Little Red Corvette' — his first major pop crossover hit. The combination of 'Little Red Corvette' and '1999' on the same record made it the album that broke Prince to a mainstream audience that had not yet been paying full attention.",
+            "storyHook": "The album '1999.' The single '1999.' And also 'Little Red Corvette' — on the same double album. Prince wasn't being subtle about who he was.",
+            "sourceNotes": "PRIORITY VERIFY: 'Little Red Corvette' from Prince's 1999 album (1982), Warner Bros., double album format. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Prince – Little Red Corvette from 1999 – Official Video",
+                "url": "https://www.youtube.com/watch?v=v0KpfrJE4zw",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP040-R1-RES1",
+          "episodeId": "EP040",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Count It Up",
+          "era": "2000s",
+          "question": "Destiny's Child's 'Cater 2 U' appeared on which 2004 album — the group's final studio release?",
+          "choices": [
+            "#1's",
+            "Survivor",
+            "Destiny Fulfilled",
+            "8 Days of Christmas"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": "Cater 2 U",
+            "album": "Destiny Fulfilled",
+            "year": 2004,
+            "topicTags": [
+              "Destiny's Child",
+              "Cater 2 U",
+              "Destiny Fulfilled",
+              "2004",
+              "Columbia Records",
+              "final album"
+            ],
+            "fact": "Destiny Fulfilled (2004) was Destiny's Child's final studio album — containing 'Cater 2 U' among its lead singles. The album's release effectively marked the group's farewell to recording as a trio, with Beyoncé, Kelly Rowland, and Michelle Williams all pursuing solo careers thereafter.",
+            "storyHook": "Destiny Fulfilled. The last album. 'Cater 2 U' was one of its singles. The group was already looking at the door — and the album's title said everything.",
+            "sourceNotes": "PRIORITY VERIFY: Destiny's Child 'Cater 2 U' from Destiny Fulfilled (2004), Columbia Records, final studio album. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Destiny's Child – Cater 2 U – YouTube",
+                "url": "https://www.youtube.com/watch?v=juqws1LIH-I",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R1-RES2",
+          "episodeId": "EP040",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Count It Up",
+          "era": "1990s",
+          "question": "Jodeci's 'Love U 4 Life' appeared on which 1995 album — the group's third and final studio release?",
+          "choices": [
+            "The Show, the After Party, the Hotel",
+            "K-Ci & JoJo",
+            "Diary of a Mad Band",
+            "Forever My Lady"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jodeci",
+            "song": "Love U 4 Life",
+            "album": "The Show, the After Party, the Hotel",
+            "year": 1995,
+            "topicTags": [
+              "Jodeci",
+              "Love U 4 Life",
+              "The Show the After Party the Hotel",
+              "1995",
+              "Uptown/MCA Records"
+            ],
+            "fact": "The Show, the After Party, the Hotel (1995) was Jodeci's third and final studio album — containing 'Love U 4 Life' among its singles. The group featuring K-Ci, JoJo, DeVante Swing, and Dalvin DeGrate effectively disbanded after the album's release as members pursued solo and duo projects.",
+            "storyHook": "The Show. The After Party. The Hotel. Jodeci's last album had an itinerary built into the title — and 'Love U 4 Life' was the main event.",
+            "sourceNotes": "PRIORITY VERIFY: Jodeci 'Love U 4 Life' from The Show, the After Party, the Hotel (1995). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Love U 4 Life – Jodeci – YouTube",
+                "url": "https://www.youtube.com/watch?v=UUhX8LEQ4XY",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R1-RES3",
+          "episodeId": "EP040",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Count It Up",
+          "era": "1990s",
+          "question": "SWV's 'You're the One' appeared on which 1996 album — the group's second studio release?",
+          "choices": [
+            "Release Some Tension",
+            "Greatest Hits",
+            "New Beginning",
+            "It's About Time"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "SWV",
+            "song": "You're the One",
+            "album": "New Beginning",
+            "year": 1996,
+            "topicTags": [
+              "SWV",
+              "You're the One",
+              "New Beginning",
+              "1996",
+              "RCA Records"
+            ],
+            "fact": "New Beginning (1996) was SWV's second studio album on RCA Records — preceded by the #1 R&B single 'You're the One.' The album represented the group's attempt to maintain the commercial momentum of their debut It's About Time while evolving their sound toward the mid-90s R&B aesthetic.",
+            "storyHook": "New Beginning. Second album. 'You're the One' went to number one R&B before the album even arrived. SWV made the announcement before the album did.",
+            "sourceNotes": "PRIORITY VERIFY: SWV 'You're the One' from New Beginning (1996), RCA Records, #1 R&B. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "New Beginning (SWV album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/New_Beginning_(SWV_album)",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R1-RES4",
+          "episodeId": "EP040",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Count It Up",
+          "era": "1990s",
+          "question": "Toni Braxton — who recorded 'Seven Whole Days' — was born in which small Maryland city?",
+          "choices": [
+            "Annapolis",
+            "Frederick",
+            "Severn",
+            "Towson"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Toni Braxton",
+            "song": "Seven Whole Days",
+            "album": "Toni Braxton",
+            "year": 1993,
+            "topicTags": [
+              "Toni Braxton",
+              "Seven Whole Days",
+              "Severn",
+              "Maryland",
+              "birthplace",
+              "biography"
+            ],
+            "fact": "Toni Braxton was born in Severn, Maryland — a small community in Anne Arundel County — before her family relocated and her music career eventually brought her to LaFace Records in Atlanta. Her debut album's title track 'Seven Whole Days' was produced by Babyface.",
+            "storyHook": "Severn, Maryland. Not a city that appears in R&B mythology. But that's where Toni Braxton came from — before Atlanta and LaFace Records changed the picture.",
+            "sourceNotes": "PRIORITY VERIFY: Toni Braxton born in Severn, Maryland. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Toni Braxton – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Toni_Braxton",
+                "accessed": "2026-05-26"
+              },
+              {
+                "title": "Happy 58th Birthday to Toni Braxton – IG post",
+                "url": "https://www.instagram.com/p/DPiIEShkS5f/",
+                "accessed": "2026-05-26"
+              },
+              {
+                "title": "Baltimore Sun – Toni Braxton, seven-time Grammy winner from Severn",
+                "url": "https://www.facebook.com/baltimoresun/posts/toni-braxton-the-seven-time-grammy-winner-from-severn-will-no-longer-be-receivin/957",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "THE DEEPER MATH",
+      "tag": "ROUND 02 OF 03",
+      "description": "Albums, labels, songwriters, and the production details behind the numbers.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP040-R2-Q1",
+          "episodeId": "EP040",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "The Deeper Math",
+          "era": "1980s",
+          "question": "'One Hundred Ways' — featuring James Ingram — appeared on which 1981 Quincy Jones album?",
+          "choices": [
+            "Mellow Madness",
+            "Back on the Block",
+            "Sounds... and Stuff Like That!!",
+            "The Dude"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Quincy Jones feat. James Ingram",
+            "song": "One Hundred Ways",
+            "album": "The Dude",
+            "year": 1981,
+            "topicTags": [
+              "Quincy Jones",
+              "James Ingram",
+              "One Hundred Ways",
+              "The Dude",
+              "1981",
+              "A&M Records",
+              "Grammy"
+            ],
+            "fact": "The Dude (1981) was Quincy Jones's landmark A&M Records album — featuring James Ingram on 'One Hundred Ways' and winning multiple Grammys including Album of the Year. The collaboration introduced Ingram to mainstream audiences and launched one of early 80s R&B's most distinctive vocal careers.",
+            "storyHook": "The Dude. 1981. Quincy Jones's album. James Ingram's voice. 'One Hundred Ways' introduced the world to one of R&B's most remarkable talents — even though his name wasn't on the cover.",
+            "sourceNotes": "PRIORITY VERIFY: Quincy Jones feat. James Ingram 'One Hundred Ways' from The Dude (1981), A&M Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "My favorite James Ingram song 'One Hundred Ways' – Facebook",
+                "url": "https://www.facebook.com/femi.ajibode/posts/my-favorite-james-ingram-song-one-hundred-ways-is-a-classic-1981-song-by-quincy-/349",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R2-Q2",
+          "episodeId": "EP040",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "The Deeper Math",
+          "era": "1980s",
+          "question": "'Just the Two of Us' appeared on which Grover Washington Jr. album — widely regarded as his masterwork?",
+          "choices": [
+            "Inside Moves",
+            "Winelight",
+            "Strawberry Moon",
+            "Reed Seed"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Grover Washington Jr.",
+            "song": "Just the Two of Us",
+            "album": "Winelight",
+            "year": 1981,
+            "topicTags": [
+              "Grover Washington Jr.",
+              "Just the Two of Us",
+              "Winelight",
+              "1981",
+              "Elektra Records",
+              "Grammy",
+              "Bill Withers"
+            ],
+            "fact": "Winelight (1981) is widely regarded as Grover Washington Jr.'s finest album — blending jazz, soul, and R&B into a cohesive late-night sound that defined the smooth jazz-soul crossover of the era. 'Just the Two of Us' with Bill Withers was its commercial centerpiece.",
+            "storyHook": "Winelight. The album that defined Grover Washington Jr.'s legacy. 'Just the Two of Us' was its centerpiece — and Bill Withers's voice made it unforgettable.",
+            "sourceNotes": "PRIORITY VERIFY: Grover Washington Jr. Winelight (1981), Elektra Records, regarded as his masterwork. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Just the Two of Us · Grover Washington Jr. – Winelight – YouTube",
+                "url": "https://www.youtube.com/watch?v=gelwwYuYGn0",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R2-Q3",
+          "episodeId": "EP040",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "The Deeper Math",
+          "era": "2000s",
+          "question": "Amerie's '1 Thing' — famous for its driving drum arrangement — was produced by which producer known for his sample-heavy, rhythmically precise style?",
+          "choices": [
+            "Kanye West",
+            "Rich Harrison",
+            "Just Blaze",
+            "Pharrell Williams"
+          ],
+          "correctIndex": 1,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Amerie",
+            "song": "1 Thing",
+            "album": "Touch",
+            "year": 2005,
+            "topicTags": [
+              "Amerie",
+              "1 Thing",
+              "Rich Harrison",
+              "Touch",
+              "2005",
+              "Columbia Records",
+              "producer"
+            ],
+            "fact": "'1 Thing' was produced by Rich Harrison — whose signature approach involved building tracks around a single rhythmic element looped to hypnotic effect. The drum arrangement driving '1 Thing' became one of the most discussed sonic choices of mid-2000s R&B.",
+            "storyHook": "Rich Harrison. One drum break. An entire sonic identity built around it. '1 Thing' worked because Rich Harrison trusted the groove to carry the record.",
+            "sourceNotes": "PRIORITY VERIFY: Amerie '1 Thing' produced by Rich Harrison, from Touch (2005), Columbia Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "1 Thing – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/1_Thing",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "production",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R2-Q4",
+          "episodeId": "EP040",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "The Deeper Math",
+          "era": "2000s",
+          "question": "Wyclef Jean — who featured Mary J. Blige on '911' — was a founding member of which acclaimed hip-hop group?",
+          "choices": [
+            "A Tribe Called Quest",
+            "De La Soul",
+            "The Roots",
+            "The Fugees"
+          ],
+          "correctIndex": 3,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Wyclef Jean feat. Mary J. Blige",
+            "song": "911",
+            "album": "The Eclectic: 2 Sides II a Book",
+            "year": 2000,
+            "topicTags": [
+              "Wyclef Jean",
+              "Mary J. Blige",
+              "911",
+              "The Fugees",
+              "2000",
+              "Columbia Records"
+            ],
+            "fact": "Wyclef Jean was a founding member of The Fugees — alongside Lauryn Hill and Pras Michel — before his solo career produced '911' featuring Mary J. Blige in 2000. The track appeared on his album The Eclectic: 2 Sides II a Book and became one of the era's most successful R&B-hip-hop crossovers.",
+            "storyHook": "The Fugees made him famous. Then Wyclef Jean called 911 — with Mary J. Blige on the line. The solo career made a strong case for itself.",
+            "sourceNotes": "PRIORITY VERIFY: Wyclef Jean '911' feat. Mary J. Blige from The Eclectic: 2 Sides II a Book (2000), Wyclef Jean founding member of The Fugees. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wyclef Jean reflects on his relationship with the Fugees – Angie Martinez post",
+                "url": "https://www.facebook.com/officialangiemartinez/posts/%EF%B8%8F-wyclef-jean-reflects-on-his-relationship-with-the-fugees/13012203",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R2-Q5",
+          "episodeId": "EP040",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "The Deeper Math",
+          "era": "1980s",
+          "question": "James Ingram's vocal performance on 'One Hundred Ways' earned him which Grammy Award?",
+          "choices": [
+            "Best R&B Song",
+            "Best R&B Vocal Performance, Male",
+            "Best New Artist",
+            "Best R&B Album"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "James Ingram",
+            "song": "One Hundred Ways",
+            "album": "The Dude",
+            "year": 1981,
+            "topicTags": [
+              "James Ingram",
+              "One Hundred Ways",
+              "Grammy",
+              "Best R&B Vocal Performance Male",
+              "Quincy Jones",
+              "The Dude"
+            ],
+            "fact": "'One Hundred Ways' earned James Ingram the Grammy for Best R&B Vocal Performance, Male at the 24th Grammy Awards — notable because Ingram was not the album's lead artist. His Grammy win on a Quincy Jones record established him as one of R&B's most sought-after vocal talents.",
+            "storyHook": "He wasn't the lead artist. It wasn't his album. But James Ingram won the Grammy for Best R&B Vocal Performance, Male anyway — and the industry took notice.",
+            "sourceNotes": "PRIORITY VERIFY: James Ingram won Best R&B Vocal Performance, Male for 'One Hundred Ways' at 24th Grammy Awards. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "One Hundred Ways – James Ingram award note",
+                "url": "https://www.facebook.com/femi.ajibode/posts/my-favorite-james-ingram-song-one-hundred-ways-is-a-classic-1981-song-by-quincy-/349",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "award",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R2-B1",
+          "episodeId": "EP040",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "The Deeper Math",
+          "era": "1990s",
+          "question": "Aaliyah — whose '4 Page Letter' is one of this episode's defining tracks — was born under which full name?",
+          "choices": [
+            "Aaliyah Renee Haughton",
+            "Aaliyah Nicole Haughton",
+            "Aaliyah Dana Haughton",
+            "Aaliyah Marie Jackson"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE NUMBER DEEPENS"
+          },
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": "4 Page Letter",
+            "album": "One in a Million",
+            "year": 1996,
+            "topicTags": [
+              "Aaliyah",
+              "Aaliyah Dana Haughton",
+              "birth name",
+              "biography",
+              "Brooklyn",
+              "Detroit",
+              "4 Page Letter"
+            ],
+            "fact": "Aaliyah was born Aaliyah Dana Haughton on January 16, 1979, in Brooklyn, New York, and raised in Detroit, Michigan. She performed under her first name only — a choice that gave her career its singular, instantly recognizable identity from her debut through One in a Million.",
+            "storyHook": "One in a Million. 1996. Timbaland and Missy Elliott behind the boards. '4 Page Letter' was the moment Aaliyah announced the future — and the future arrived exactly as advertised.",
+            "sourceNotes": "PRIORITY VERIFY: Aaliyah born Aaliyah Dana Haughton, Brooklyn, New York, raised in Detroit. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "4 Page Letter – Aaliyah – One In A Million – YouTube",
+                "url": "https://www.youtube.com/watch?v=xNlguQ5wTac",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP040-R2-RES1",
+          "episodeId": "EP040",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "The Deeper Math",
+          "era": "1990s",
+          "question": "'Back at One' — Brian McKnight's 1999 breakthrough — was released on which label?",
+          "choices": [
+            "Columbia Records",
+            "Motown Records",
+            "Island Records",
+            "Warner Bros."
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brian McKnight",
+            "song": "Back at One",
+            "album": "Back at One",
+            "year": 1999,
+            "topicTags": [
+              "Brian McKnight",
+              "Back at One",
+              "Motown Records",
+              "1999",
+              "label"
+            ],
+            "fact": "'Back at One' was released on Motown Records in 1999 — placing Brian McKnight in the same institutional home as Stevie Wonder, Marvin Gaye, and Diana Ross, even if the musical territory was distinctly contemporary adult R&B rather than classic soul.",
+            "storyHook": "Motown Records. 1999. The same label that housed Marvin Gaye and Stevie Wonder. Brian McKnight counted to one on a Motown record — and the tradition held.",
+            "sourceNotes": "PRIORITY VERIFY: Brian McKnight 'Back at One' on Motown Records (1999). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Back at One – Brian McKnight – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Back_at_One_(album)",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R2-RES2",
+          "episodeId": "EP040",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "The Deeper Math",
+          "era": "1990s",
+          "question": "'One Sweet Day' was written partly in memory of which music producer — Mariah Carey's friend and co-founder of C+C Music Factory — who died in 1995?",
+          "choices": [
+            "Robert Clivillés",
+            "Jellybean Benitez",
+            "Bobby Caldwell",
+            "David Cole"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey & Boyz II Men",
+            "song": "One Sweet Day",
+            "album": "Daydream",
+            "year": 1994,
+            "topicTags": [
+              "Mariah Carey",
+              "Boyz II Men",
+              "One Sweet Day",
+              "David Cole",
+              "C+C Music Factory",
+              "1994"
+            ],
+            "fact": "Mariah Carey wrote 'One Sweet Day' partly in memory of David Cole — co-founder of C+C Music Factory and a close friend who died of AIDS-related complications in January 1995. Boyz II Men wrote their contribution in memory of their former road manager. The song's dual grief gave it an emotional resonance that connected with listeners across demographics.",
+            "storyHook": "Two sets of grief. One song. Mariah wrote for David Cole. Boyz II Men wrote for their road manager. 'One Sweet Day' carried both losses and made them feel universal.",
+            "sourceNotes": "PRIORITY VERIFY: 'One Sweet Day' written partly in memory of David Cole of C+C Music Factory. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Who remembers David Cole – C+C Music Factory post",
+                "url": "https://www.facebook.com/groups/529262160790660/posts/2483569288693261/",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R2-RES3",
+          "episodeId": "EP040",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "The Deeper Math",
+          "era": "1990s",
+          "question": "'5 Steps' — Dru Hill's 1996 debut single — was released on which label?",
+          "choices": [
+            "Atlantic Records",
+            "Jive Records",
+            "Island Records",
+            "LaFace Records"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Dru Hill",
+            "song": "5 Steps",
+            "album": "Enter the Dru",
+            "year": 1996,
+            "topicTags": [
+              "Dru Hill",
+              "5 Steps",
+              "Island Records",
+              "1996",
+              "debut single",
+              "Baltimore",
+              "label"
+            ],
+            "fact": "Dru Hill's debut single '5 Steps' was released on Island Records in 1996. The group — all four members raised in Baltimore's Druid Hill Park neighbourhood — took the shortened name 'Dru Hill' and signed to Island, where they recorded their self-titled debut album.",
+            "storyHook": "Enter the Dru. Named for Druid Hill Park in Baltimore. '5 Steps' was the way in — and the debut made the case immediately.",
+            "sourceNotes": "PRIORITY VERIFY: Dru Hill '5 Steps' from Enter the Dru (1996), Island Records, debut album. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dru Hill (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dru_Hill_(album)",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN FIGURES",
+      "tag": "ROUND 03 OF 03",
+      "description": "Birth names, family connections, and the biographical facts behind the numbers.",
+      "color": "#FF6B6B",
+      "accentVar": "--coral",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP040-R3-Q1",
+          "episodeId": "EP040",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Figures",
+          "era": "1990s",
+          "question": "Brian McKnight — who recorded 'Back at One' — has a brother who is also a well-known recording artist. What is his brother's name?",
+          "choices": [
+            "Claude McKnight",
+            "Marcus McKnight",
+            "Derek McKnight",
+            "Wayne McKnight"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brian McKnight",
+            "song": "Back at One",
+            "album": "Back at One",
+            "year": 1999,
+            "topicTags": [
+              "Brian McKnight",
+              "Claude McKnight",
+              "Take 6",
+              "Buffalo",
+              "biography",
+              "family"
+            ],
+            "fact": "Brian McKnight's brother Claude McKnight is the founder and lead singer of Take 6 — the Grammy Award-winning a cappella gospel group. Both brothers were raised in Buffalo, New York, in a deeply musical family, making the McKnight household one of R&B and gospel's more remarkable family connections.",
+            "storyHook": "Brian McKnight counted the steps of love. His brother Claude founded Take 6 and sang gospel. Buffalo, New York raised both of them — and both went on to win Grammys.",
+            "sourceNotes": "PRIORITY VERIFY: Brian McKnight's brother Claude McKnight is founder/lead of Take 6. Both from Buffalo, New York. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Why Brian McKnight Wasn't in Take 6 – interview with Claude McKnight",
+                "url": "https://www.youtube.com/watch?v=M03TD5c63nw",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R3-Q2",
+          "episodeId": "EP040",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Figures",
+          "era": "1990s",
+          "question": "Sisqó — Dru Hill's lead voice on '5 Steps' — was born under which full legal name?",
+          "choices": [
+            "Mark Althavan Andrews",
+            "Milton Elvin Smalls",
+            "Marcus David Hill",
+            "Stephen James Rogers"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sisqó",
+            "song": "5 Steps",
+            "album": "Enter the Dru",
+            "year": 1996,
+            "topicTags": [
+              "Sisqo",
+              "Mark Althavan Andrews",
+              "birth name",
+              "biography",
+              "Dru Hill",
+              "Baltimore"
+            ],
+            "fact": "Sisqó was born Mark Althavan Andrews on November 9, 1978, in Baltimore, Maryland. He adopted the stage name Sisqó — inspired by the character Cisco Kid — and became Dru Hill's most commercially prominent member both within the group and through his solo career.",
+            "storyHook": "Mark Althavan Andrews. Born in Baltimore. Became Sisqó. Sang '5 Steps' in Dru Hill and 'Thong Song' alone. Two names. One voice.",
+            "sourceNotes": "PRIORITY VERIFY: Sisqó born Mark Althavan Andrews, Baltimore, Maryland. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sisqó – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sisq%C3%B3",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R3-B1",
+          "episodeId": "EP040",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Figures",
+          "era": "2000s",
+          "question": "Amerie's '1 Thing' appeared on which 2005 album — her second studio release?",
+          "choices": [
+            "All I Have",
+            "In Love & War",
+            "Touch",
+            "Because I Love It"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — THE COUNT IS COMPLETE"
+          },
+          "metadata": {
+            "artist": "Amerie",
+            "song": "1 Thing",
+            "album": "Touch",
+            "year": 2005,
+            "topicTags": [
+              "Amerie",
+              "1 Thing",
+              "Touch",
+              "2005",
+              "Columbia Records",
+              "Rich Harrison",
+              "second album"
+            ],
+            "fact": "Touch (2005) was Amerie's second studio album on Columbia Records — and '1 Thing' was its lead single and commercial breakthrough. Produced by Rich Harrison, the track's distinctive drum arrangement made it one of the most sonically discussed R&B records of the mid-2000s.",
+            "storyHook": "Touch. Second album. '1 Thing' as the single. Amerie and Rich Harrison made a record that people debated more than they admitted they loved — and then admitted they loved.",
+            "sourceNotes": "PRIORITY VERIFY: Amerie '1 Thing' from Touch (2005), Columbia Records, second album. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "1 Thing – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/1_Thing",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP040-R3-RES1",
+          "episodeId": "EP040",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Figures",
+          "era": "1980s",
+          "question": "Grover Washington Jr. — who recorded 'Just the Two of Us' — was primarily known for playing which instrument?",
+          "choices": [
+            "Trumpet",
+            "Piano",
+            "Saxophone",
+            "Flute"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Grover Washington Jr.",
+            "song": "Just the Two of Us",
+            "album": "Winelight",
+            "year": 1981,
+            "topicTags": [
+              "Grover Washington Jr.",
+              "saxophone",
+              "instrument",
+              "jazz",
+              "soul",
+              "biography"
+            ],
+            "fact": "Grover Washington Jr. was a saxophonist — playing soprano, alto, tenor, and baritone saxophone across his career, with tenor and soprano as his primary voices. His ability to move between pure jazz and soul-inflected crossover material made him one of the most commercially successful instrumentalists of his era.",
+            "storyHook": "The saxophone. Four varieties. Grover Washington Jr. played them all — and 'Just the Two of Us' was the record where the saxophone met Bill Withers and made history.",
+            "sourceNotes": "PRIORITY VERIFY: Grover Washington Jr. as saxophonist, known for tenor and soprano saxophone. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Grover Washington Jr. – Anthology track credits",
+                "url": "https://www.youtube.com/watch?v=6POZlJAZsok",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP040-R3-RES2",
+          "episodeId": "EP040",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Figures",
+          "era": "2000s",
+          "question": "Amerie — who recorded '1 Thing' — was born under which full name?",
+          "choices": [
+            "Amerie Lee Washington",
+            "Amerie Christine Park",
+            "Amerie Josephine Stevens",
+            "Amerie Mi Marie Rogers"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Amerie",
+            "song": "1 Thing",
+            "album": "Touch",
+            "year": 2005,
+            "topicTags": [
+              "Amerie",
+              "Amerie Mi Marie Rogers",
+              "birth name",
+              "biography",
+              "Korean American"
+            ],
+            "fact": "Amerie was born Amerie Mi Marie Rogers on January 12, 1980 — of African American and Korean heritage, raised across multiple states as a military family. She performs under her first name only, a choice that emphasised the directness of her vocal style and '1 Thing's' relentless focus.",
+            "storyHook": "Amerie Mi Marie Rogers. Half African American. Half Korean. Military family. One name. One thing. '1 Thing' was the record that made the single-name decision permanent.",
+            "sourceNotes": "PRIORITY VERIFY: Amerie born Amerie Mi Marie Rogers, African American and Korean heritage. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Amerie – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Amerie",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-26T12:18:00.057973+00:00"
+  }
+}

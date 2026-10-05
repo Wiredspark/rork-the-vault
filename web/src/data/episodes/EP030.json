@@ -1,0 +1,1563 @@
+{
+  "episodeId": "EP030",
+  "title": "Scene & Heard",
+  "theme": "The R&B soundtracks that lived as long as the films — and longer. From Boomerang to Waiting to Exhale, the era when a great soundtrack could outsell the movie.",
+  "narrativePurpose": "Test knowledge of the R&B soundtracks that defined 1990s Black cinema — their artists, their production stories, their chart records, and the careers they launched.",
+  "toneProgression": "The songs and names every fan knows → production credits, chart records, and the directors behind the films → label details, debut connections, and the facts only the devoted remember",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "5"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-5 — the year Waiting to Exhale redefined the commercial ceiling for an R&B soundtrack. The year the genre proved it could fill cinemas and dominate charts simultaneously."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "soundtracks": {
+    "anchors": [
+      "Waiting to Exhale (1995)",
+      "Boomerang (1992)"
+    ],
+    "supporting": [
+      "Poetic Justice (1993)",
+      "Love Jones (1997)",
+      "Soul Food (1997)",
+      "The Best Man (1999)"
+    ]
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The songs and artists that crossed from screen to radio and never looked back. Start here.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP030-R1-Q1",
+          "episodeId": "EP030",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brandy contributed which track to the Waiting to Exhale soundtrack — a song that became one of her defining recordings of the mid-1990s?",
+          "choices": [
+            "Baby",
+            "Sittin' Up in My Room",
+            "Brokenhearted",
+            "Best Friend"
+          ],
+          "correctIndex": 1,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "Exhale (Shoop Shoop)",
+            "album": "Waiting to Exhale (Soundtrack)",
+            "year": 1995,
+            "topicTags": [
+              "Whitney Houston",
+              "Exhale (Shoop Shoop)",
+              "Waiting to Exhale",
+              "1995",
+              "#1",
+              "Billboard Hot 100",
+              "Babyface"
+            ],
+            "fact": "'Exhale (Shoop Shoop)' was written and produced by Babyface and performed by Whitney Houston for the Waiting to Exhale soundtrack. It debuted at #1 on the Billboard Hot 100 upon the soundtrack's release in November 1995 and remained a defining record of Whitney Houston's mid-career period. The track's understated, conversational vocal delivery was a deliberate departure from Houston's more theatrical recordings.",
+            "storyHook": "No run-up. No build. 'Exhale (Shoop Shoop)' debuted at #1. Babyface wrote it. Whitney sang it. The film hadn't even opened yet.",
+            "sourceNotes": "Waiting to Exhale soundtrack liner notes (Arista Records, 1995). Billboard Hot 100 archives. Babyface production credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Billboard",
+                "url": "https://www.billboard.com/artist/brandy/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "track",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R1-Q2",
+          "episodeId": "EP030",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'The Best Things in Life Are Free' — the standout duet from the Boomerang soundtrack — paired Janet Jackson with which legendary R&B vocalist?",
+          "choices": [
+            "Barry White",
+            "Teddy Pendergrass",
+            "Luther Vandross",
+            "Peabo Bryson"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": "End of the Road",
+            "album": "Boomerang (Soundtrack)",
+            "year": 1992,
+            "topicTags": [
+              "Boyz II Men",
+              "End of the Road",
+              "Boomerang",
+              "1992",
+              "13 weeks",
+              "#1",
+              "Billboard record",
+              "Jimmy Jam",
+              "Terry Lewis"
+            ],
+            "fact": "'End of the Road' spent 13 weeks at #1 on the Billboard Hot 100 in 1992 — setting a new record for the longest stay at the top of the chart at that time. The record was later broken by Whitney Houston's 'I Will Always Love You' (14 weeks) and subsequently by Mariah Carey and Boyz II Men's 'One Sweet Day' (16 weeks). 'End of the Road' was produced by Jimmy Jam and Terry Lewis.",
+            "storyHook": "Thirteen weeks. A chart record set in 1992 that would be broken only by Whitney Houston — and then by Boyz II Men again alongside Mariah Carey. The same group held the record twice.",
+            "sourceNotes": "Billboard Hot 100 archives (1992). Boomerang soundtrack liner notes. Jimmy Jam and Terry Lewis production records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/92703-Luther-Vandross-Janet-Jackson-With-Special-Guests-BBD-Ralph-Tresvant-The-Best-Things-In-Life-Are-Fre",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R1-Q3",
+          "episodeId": "EP030",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Toni Braxton's breakthrough on the Boomerang soundtrack opened the door to her self-titled debut album — which won Grammy Awards for Best New Artist and Best R&B Album. How many Grammy Awards did she win that night?",
+          "choices": [
+            "Four",
+            "Three",
+            "One",
+            "Two"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Toni Braxton",
+            "song": "Love Shoulda Brought You Home",
+            "album": "Boomerang (Soundtrack)",
+            "year": 1992,
+            "topicTags": [
+              "Toni Braxton",
+              "Grammy",
+              "Best New Artist",
+              "Best R&B Album",
+              "1994",
+              "Boomerang",
+              "LaFace Records"
+            ],
+            "fact": "Toni Braxton won two Grammy Awards at the 36th Grammy ceremony in March 1994 — Best New Artist and Best R&B Album for her self-titled debut. The album had been preceded by her breakthrough on the 1992 Boomerang soundtrack with 'Love Shoulda Brought You Home.' Braxton became the first artist in Grammy history to win both awards in the same year.",
+            "storyHook": "Best New Artist and Best R&B Album in the same night. Toni Braxton in 1994 didn't arrive slowly — she arrived with both trophies.",
+            "sourceNotes": "Boomerang soundtrack liner notes (LaFace/Arista Records, 1992). Toni Braxton official discography. LaFace Records signing documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/song/love-shoulda-brought-you-home-mt0012025606",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R1-Q4",
+          "episodeId": "EP030",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mary J. Blige's contribution to the Waiting to Exhale soundtrack — one of her most powerful recordings of the decade — was titled what?",
+          "choices": [
+            "Everything",
+            "Real Love",
+            "Not Gon' Cry",
+            "I'm Goin' Down"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": "Not Gon' Cry",
+            "album": "Waiting to Exhale (Soundtrack)",
+            "year": 1995,
+            "topicTags": [
+              "Mary J. Blige",
+              "Not Gon' Cry",
+              "Waiting to Exhale",
+              "1995",
+              "Babyface",
+              "Billboard R&B"
+            ],
+            "fact": "'Not Gon' Cry' was written and produced by Babyface for Mary J. Blige on the Waiting to Exhale soundtrack. The track became one of the most commercially successful singles from the album and one of Blige's signature records. It was performed during the film by Angela Bassett's character — the sequence in which she burns her cheating husband's belongings became one of the most celebrated scenes of 1990s Black cinema.",
+            "storyHook": "Angela Bassett sets a car on fire on screen. Mary J. Blige sings 'Not Gon' Cry.' The sequence became a moment. The song outlived the moment.",
+            "sourceNotes": "Waiting to Exhale soundtrack liner notes (Arista Records, 1995). Billboard Hot R&B chart archives. Babyface production records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/78766-Mary-J-Blige-Not-Gon-Cry",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "track",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R1-Q5",
+          "episodeId": "EP030",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The 1993 John Singleton film 'Poetic Justice' — starring Janet Jackson — featured original poetry written throughout the film by which legendary American poet?",
+          "choices": [
+            "Maya Angelou",
+            "Nikki Giovanni",
+            "Sonia Sanchez",
+            "Gwendolyn Brooks"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": null,
+            "album": "Poetic Justice (Soundtrack)",
+            "year": 1993,
+            "topicTags": [
+              "Poetic Justice",
+              "Maya Angelou",
+              "Janet Jackson",
+              "John Singleton",
+              "1993",
+              "poetry",
+              "soundtrack"
+            ],
+            "fact": "The poetry heard throughout Poetic Justice — read by Janet Jackson's character Justice — was written by Maya Angelou, one of America's most celebrated poets. Angelou had recently delivered her inaugural poem 'On the Pulse of Morning' at President Clinton's inauguration in January 1993. The film released later that year. Her contribution gave Singleton's film a literary authenticity that elevated it beyond its genre.",
+            "storyHook": "John Singleton put Maya Angelou's words in Janet Jackson's mouth in 1993. Poetic Justice earned its title.",
+            "sourceNotes": "Poetic Justice production documentation (Columbia Pictures, 1993). Janet Jackson official biographical records. Maya Angelou archival credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0107840/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R1-Q6",
+          "episodeId": "EP030",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The Batman Forever soundtrack (1995) included a breakout ballad that won the Grammy for Record of the Year and Song of the Year in 1996. Which artist recorded it?",
+          "choices": [
+            "Maxwell",
+            "D'Angelo",
+            "Sting",
+            "Seal"
+          ],
+          "correctIndex": 3,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Seal",
+            "song": "Kiss from a Rose",
+            "album": "Batman Forever Original Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "Seal",
+              "Kiss from a Rose",
+              "Batman Forever",
+              "soundtrack",
+              "1995",
+              "Grammy"
+            ],
+            "fact": "Seal recorded 'Kiss from a Rose' for the Batman Forever soundtrack (1995), which went on to win Grammy Awards for Record of the Year and Song of the Year in 1996. One of the most unlikely crossover moments of the decade — a British soul artist anchoring a major superhero franchise soundtrack and walking away with the genre's top prizes.",
+            "storyHook": "A British soul artist. A Batman film. The two biggest Grammy awards. Nobody saw it coming.",
+            "sourceNotes": "Verified: 'Kiss from a Rose' by Seal on Batman Forever soundtrack. Sources: IMDB https://www.imdb.com/title/tt0112462/soundtrack/, Discogs https://www.discogs.com/master/52708-Various-Batman-Forever-Original-Music-From-The-Motion-Picture",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB — Batman Forever Soundtrack",
+                "url": "https://www.imdb.com/title/tt0112462/soundtrack/",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "Discogs — Batman Forever OST",
+                "url": "https://www.discogs.com/master/52708-Various-Batman-Forever-Original-Music-From-The-Motion-Picture",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R1-B1",
+          "episodeId": "EP030",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The Waiting to Exhale soundtrack — written and produced in its entirety by Babyface — was released on which record label in 1995?",
+          "choices": [
+            "Jive Records",
+            "Columbia Records",
+            "Arista Records",
+            "Epic Records"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — WAITING TO EXHALE'S HOME LABEL"
+          },
+          "metadata": {
+            "artist": "Babyface",
+            "song": null,
+            "album": "Waiting to Exhale (Soundtrack)",
+            "year": 1995,
+            "topicTags": [
+              "Waiting to Exhale",
+              "Arista Records",
+              "Babyface",
+              "1995",
+              "soundtrack",
+              "Whitney Houston"
+            ],
+            "fact": "The Waiting to Exhale original soundtrack was released on Arista Records on November 14, 1995. Arista — then led by Clive Davis — was the home of Whitney Houston's entire recording career and was the natural label home for a soundtrack she executive produced. The album debuted at #1 on the Billboard 200 and remained on the chart for over a year.",
+            "storyHook": "Clive Davis. Arista Records. Whitney Houston. The Waiting to Exhale soundtrack landed on the right label and spent the next year at the top of the chart.",
+            "sourceNotes": "Waiting to Exhale soundtrack liner notes (Arista Records, 1995). Grammy Award records (39th ceremony, 1997). Babyface official production credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Waiting_to_Exhale_(soundtrack)",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP030-R1-RES1",
+          "episodeId": "EP030",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Toni Braxton contributed which track to the Waiting to Exhale soundtrack — a 1995 single released between her self-titled debut and her landmark second album Secrets?",
+          "choices": [
+            "You're Makin' Me High",
+            "How Many Ways",
+            "Un-Break My Heart",
+            "Let It Flow"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "Count on Me",
+            "album": "Waiting to Exhale (Soundtrack)",
+            "year": 1995,
+            "topicTags": [
+              "Whitney Houston",
+              "CeCe Winans",
+              "Count on Me",
+              "Waiting to Exhale",
+              "duet",
+              "gospel",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Waiting to Exhale soundtrack liner notes (Arista Records, 1995). CeCe Winans official discography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Let_It_Flow_(song)",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R1-RES2",
+          "episodeId": "EP030",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "In Boomerang, Eddie Murphy's character Marcus Graham falls for which character — played by Halle Berry?",
+          "choices": [
+            "Strangé",
+            "Jacqueline",
+            "Angela",
+            "Lady Eloise"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "Boomerang (Soundtrack)",
+            "year": 1992,
+            "topicTags": [
+              "Boomerang",
+              "Halle Berry",
+              "Angela",
+              "Eddie Murphy",
+              "Marcus Graham",
+              "1992",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Boomerang film production documentation (Paramount Pictures, 1992). Halle Berry official biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0103859/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R1-RES3",
+          "episodeId": "EP030",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The 1991 film 'New Jack City' — whose soundtrack featured Color Me Badd's breakthrough hit 'I Wanna Sex You Up' — starred Wesley Snipes as which fictional drug kingpin?",
+          "choices": [
+            "G-Money",
+            "Stone",
+            "Kareem Akbar",
+            "Nino Brown"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "Poetic Justice (Soundtrack)",
+            "year": 1993,
+            "topicTags": [
+              "New Jack City",
+              "Wesley Snipes",
+              "Nino Brown",
+              "1991",
+              "soundtrack",
+              "Color Me Badd",
+              "swap reserve"
+            ],
+            "fact": "Wesley Snipes played Nino Brown — the Harlem crack dealer at the centre of New Jack City — in the 1991 Mario Van Peebles film. Color Me Badd's 'I Wanna Sex You Up' appeared on the soundtrack and became their breakthrough single, reaching #2 on the Billboard Hot 100. The film grossed over $47 million on a $8 million budget.",
+            "storyHook": "Nino Brown. Harlem. Wesley Snipes at his most magnetic. New Jack City gave Color Me Badd a platform and gave American cinema one of its sharpest crime portraits of the decade.",
+            "sourceNotes": "Poetic Justice production documentation (Columbia Pictures, 1993). Tupac Shakur filmography records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0107840/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R1-RES4",
+          "episodeId": "EP030",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Love Jones starred Nia Long alongside which actor as aspiring poet Darius Lovehall?",
+          "choices": [
+            "Blair Underwood",
+            "Taye Diggs",
+            "Larenz Tate",
+            "Morris Chestnut"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "Love Jones (Soundtrack)",
+            "year": 1997,
+            "topicTags": [
+              "Love Jones",
+              "Chicago",
+              "1997",
+              "Larenz Tate",
+              "Nia Long",
+              "Theodore Witcher",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Love Jones production documentation (New Line Cinema, 1997). Theodore Witcher directorial records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0119572/characters/nm0005478/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Production credits, chart records, directors, and the careers these soundtracks built. Where real fans separate from casual listeners.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP030-R2-Q1",
+          "episodeId": "EP030",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "'End of the Road' broke a Billboard Hot 100 record for longest stay at #1 that had been held since 1956 by which artist?",
+          "choices": [
+            "Michael Jackson",
+            "The Beatles",
+            "Elvis Presley",
+            "Stevie Wonder"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": "End of the Road",
+            "album": "Boomerang (Soundtrack)",
+            "year": 1992,
+            "topicTags": [
+              "Boyz II Men",
+              "End of the Road",
+              "Billboard record",
+              "Elvis Presley",
+              "1956",
+              "1992",
+              "chart history"
+            ],
+            "fact": "'End of the Road' broke the Billboard Hot 100 record for longest consecutive stay at #1 — a record that had stood since 1956 when Elvis Presley's double A-side 'Hound Dog'/'Don't Be Cruel' spent 11 weeks at the top. 'End of the Road' spent 13 weeks at #1. The record was subsequently broken by Whitney Houston's 'I Will Always Love You' (14 weeks) later that same chart year, and then by Boyz II Men again alongside Mariah Carey on 'One Sweet Day' (16 weeks, 1995-96).",
+            "storyHook": "A record held since 1956. Broken in 1992. By a Boomerang soundtrack single. Then broken again by Whitney Houston. Then broken again by Boyz II Men — the same group — three years later. The 1990s owned that chart record.",
+            "sourceNotes": "Billboard Hot 100 historical chart records. Elvis Presley chart documentation (1956). Boyz II Men discography records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dave's Music Database",
+                "url": "https://davesmusicdatabase.blogspot.com/1992/11/boyz-ii-men-spend-record-breaking-13th.html",
+                "accessed": "2026-05-13"
+              },
+              {
+                "title": "NY Post",
+                "url": "https://nypost.com/2022/08/15/how-boyz-ii-men-broke-elvis-presleys-no-1-record-30-years-ago/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R2-Q2",
+          "episodeId": "EP030",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Waiting to Exhale film — released in December 1995 — was directed by which actor-turned-director?",
+          "choices": [
+            "Blair Underwood",
+            "Danny Glover",
+            "Forest Whitaker",
+            "Denzel Washington"
+          ],
+          "correctIndex": 2,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "Waiting to Exhale (Soundtrack)",
+            "year": 1995,
+            "topicTags": [
+              "Forest Whitaker",
+              "Waiting to Exhale",
+              "director",
+              "1995",
+              "20th Century Fox",
+              "actor-director"
+            ],
+            "fact": "Forest Whitaker directed Waiting to Exhale — his second feature film as director after the 1993 HBO film Strapped. Whitaker was already a respected actor before transitioning to directing, and would later win the Academy Award for Best Actor for The Last King of Scotland (2006). His direction of Waiting to Exhale gave the film an intimacy and emotional grounding that matched the tone of Babyface's soundtrack.",
+            "storyHook": "An actor directed it. The same actor would later win an Oscar as a performer. In 1995, Forest Whitaker was behind the camera — and Waiting to Exhale was what he chose to make.",
+            "sourceNotes": "Waiting to Exhale production documentation (20th Century Fox, 1995). Forest Whitaker official filmography. Academy Award records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0114885/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R2-Q3",
+          "episodeId": "EP030",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Janet Jackson's lead single from the Poetic Justice soundtrack — released alongside the film she starred in — was titled what?",
+          "choices": [
+            "The Best Things in Life Are Free",
+            "Any Time",
+            "Again",
+            "New Agenda"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Toni Braxton",
+            "song": null,
+            "album": "Boomerang (Soundtrack)",
+            "year": 1992,
+            "topicTags": [
+              "Toni Braxton",
+              "LaFace Records",
+              "L.A. Reid",
+              "Babyface",
+              "Atlanta",
+              "Boomerang",
+              "1992"
+            ],
+            "fact": "LaFace Records was founded in Atlanta in 1989 by L.A. Reid and Babyface, distributed through Arista Records. Toni Braxton's exposure on the Boomerang soundtrack led directly to her LaFace signing — the label that released her self-titled debut album in 1993. LaFace's roster during the 1990s also included OutKast, TLC, Usher, and Goodie Mob, making it one of the defining Black music imprints of the decade.",
+            "storyHook": "L.A. Reid and Babyface built LaFace in Atlanta. Toni Braxton sang one song on a film soundtrack. LaFace signed her. The debut went ten million copies. The soundtrack made it possible.",
+            "sourceNotes": "LaFace Records founding documentation (1989). Toni Braxton official discography. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0107840/soundtrack/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R2-Q4",
+          "episodeId": "EP030",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Best Man — the 1999 romantic drama with a strong R&B-inflected soundtrack — was directed by which filmmaker?",
+          "choices": [
+            "F. Gary Gray",
+            "John Singleton",
+            "Malcolm D. Lee",
+            "Reginald Hudlin"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "The Best Man (Soundtrack)",
+            "year": 1999,
+            "topicTags": [
+              "The Best Man",
+              "Malcolm D. Lee",
+              "1999",
+              "Universal Pictures",
+              "Taye Diggs",
+              "Nia Long",
+              "Morris Chestnut"
+            ],
+            "fact": "Malcolm D. Lee directed The Best Man — his feature film debut. The film starred Taye Diggs, Nia Long, Morris Chestnut, and Sanaa Lathan and became a significant commercial and cultural success. Lee went on to direct The Best Man Holiday (2013) and subsequent films. He is the first cousin of filmmaker Spike Lee.",
+            "storyHook": "Malcolm D. Lee's first feature. Taye Diggs, Nia Long, Morris Chestnut, Sanaa Lathan. 1999. The Best Man arrived as both a directorial debut and a genuine cultural moment.",
+            "sourceNotes": "The Best Man production documentation (Universal Pictures, 1999). Malcolm D. Lee official filmography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0168501/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R2-Q5",
+          "episodeId": "EP030",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which legendary soul artist contributed 'My Love, Sweet Love' to the Waiting to Exhale soundtrack — representing an older generation among a largely 1990s cast of contributors?",
+          "choices": [
+            "Chaka Khan",
+            "Aretha Franklin",
+            "Gladys Knight",
+            "Patti LaBelle"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Patti LaBelle",
+            "song": "My Love, Sweet Love",
+            "album": "Waiting to Exhale (Soundtrack)",
+            "year": 1995,
+            "topicTags": [
+              "Patti LaBelle",
+              "My Love Sweet Love",
+              "Waiting to Exhale",
+              "1995",
+              "Babyface",
+              "soul veteran"
+            ],
+            "fact": "Patti LaBelle contributed 'My Love, Sweet Love' to the Waiting to Exhale soundtrack — written and produced by Babyface in keeping with the album's unified production approach. Her inclusion alongside younger artists like Brandy and Mary J. Blige gave the soundtrack a generational depth that reinforced the film's themes about women at different life stages.",
+            "storyHook": "Babyface wrote for everyone — Brandy at sixteen, Mary J. Blige at her commercial peak, and Patti LaBelle with decades of soul behind her. The soundtrack held all three in the same frame.",
+            "sourceNotes": "Waiting to Exhale soundtrack liner notes (Arista Records, 1995). Patti LaBelle official discography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/song/my-love-sweet-love-mt0005065308",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R2-B1",
+          "episodeId": "EP030",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Babyface — who wrote and produced the entire Waiting to Exhale soundtrack — was born under which full legal name?",
+          "choices": [
+            "Kevin Brian Edmonds",
+            "Kenneth Brian Edmonds",
+            "Kevin Paul Edmonds",
+            "Cornelius Bernard Edmonds"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — BABYFACE'S LEGAL BIRTH NAME"
+          },
+          "metadata": {
+            "artist": "Babyface",
+            "song": null,
+            "album": "Waiting to Exhale (Soundtrack)",
+            "year": 1995,
+            "topicTags": [
+              "Babyface",
+              "Kenneth Brian Edmonds",
+              "birth name",
+              "Indianapolis",
+              "songwriter",
+              "producer",
+              "bonus digit"
+            ],
+            "fact": "Babyface was born Kenneth Brian Edmonds on April 10, 1959, in Indianapolis, Indiana. The nickname 'Babyface' was given to him by funk musician Bootsy Collins, who noted his young appearance. By the mid-1990s, Edmonds was one of the most commercially successful songwriters and producers in American music, with credits spanning Whitney Houston, Toni Braxton, Boyz II Men, and TLC.",
+            "storyHook": "Bootsy Collins gave him the name. Indianapolis gave him the start. By 1995, Kenneth Brian Edmonds — Babyface — had written more #1 R&B hits than almost anyone alive.",
+            "sourceNotes": "Babyface official biographical records. Indianapolis Star archival coverage. Grammy Award records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/artist/babyface-mn0000061226",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP030-R2-RES1",
+          "episodeId": "EP030",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Forest Whitaker — who directed Waiting to Exhale — later won the Academy Award for Best Actor for his portrayal of which real-world figure?",
+          "choices": [
+            "Marcus Garvey",
+            "Patrice Lumumba",
+            "Nelson Mandela",
+            "Idi Amin"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 2006,
+            "topicTags": [
+              "Forest Whitaker",
+              "Idi Amin",
+              "The Last King of Scotland",
+              "Academy Award",
+              "Best Actor",
+              "2006",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Academy Award records (79th ceremony, 2007). The Last King of Scotland production documentation (Fox Searchlight, 2006).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0455590/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R2-RES2",
+          "episodeId": "EP030",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Boyz II Men — who performed 'End of the Road' for the Boomerang soundtrack — consisted of how many members?",
+          "choices": [
+            "6",
+            "5",
+            "4",
+            "3"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Boyz II Men",
+              "4 members",
+              "Wanya Morris",
+              "Nathan Morris",
+              "Shawn Stockman",
+              "Michael McCary",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Boyz II Men official biographical records. Motown Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Boyz_II_Men",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R2-RES3",
+          "episodeId": "EP030",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Toni Braxton's self-titled debut — which followed her Boomerang soundtrack breakthrough — produced which lead single that became her first signature R&B hit?",
+          "choices": [
+            "Breathe Again",
+            "Another Sad Love Song",
+            "You Mean the World to Me",
+            "Seven Whole Days"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Toni Braxton",
+            "song": null,
+            "album": "Toni Braxton",
+            "year": 1993,
+            "topicTags": [
+              "Toni Braxton",
+              "Another Sad Love Song",
+              "debut single",
+              "LaFace Records",
+              "1993",
+              "swap reserve"
+            ],
+            "fact": "'Another Sad Love Song' was the lead single from Toni Braxton's self-titled debut album, released in 1993. It reached #7 on the Billboard Hot 100 and #1 on the R&B chart. The song was written and produced by Babyface and established Braxton's signature sound — devastatingly controlled vocals over R&B production that never overwhelmed the performance.",
+            "storyHook": "The first single. The first #1 on the R&B chart. 'Another Sad Love Song' introduced Toni Braxton's voice to an audience that would follow it for decades.",
+            "sourceNotes": "Toni Braxton liner notes (LaFace Records, 1993). Billboard chart archives. Grammy Award records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/album/toni-braxton-mw0000099255",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Label details, directorial debuts, and the connections only the devoted have mapped. The final lock.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP030-R3-Q1",
+          "episodeId": "EP030",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Philip Bailey's 'Children of the Ghetto' was heard in Spike Lee's Clockers (1995) but excluded from the official MCA soundtrack album due to a Columbia Records licensing conflict. What similarly-themed track did MCA substitute on the official release?",
+          "choices": [
+            "Ghetto Children",
+            "Ghetto Dreams",
+            "Children of the Night",
+            "Street Children"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Marc Dorsey",
+            "song": "Ghetto Children",
+            "album": "Chinese Wall",
+            "year": 1995,
+            "topicTags": [
+              "Marc Dorsey",
+              "Ghetto Children",
+              "Clockers",
+              "Spike Lee",
+              "Philip Bailey",
+              "MCA",
+              "Columbia Records",
+              "soundtrack",
+              "1995",
+              "licensing"
+            ],
+            "fact": "MCA substituted 'Ghetto Children' by Marc Dorsey — an artist the label was actively promoting — in place of Philip Bailey's 'Children of the Ghetto' on the official Clockers soundtrack album. The replacement tracked the same thematic territory as Bailey's version but was a commercially motivated substitute driven by the Columbia/MCA licensing impasse.",
+            "storyHook": "The original was in the film. The substitute was on the album. Label politics replaced one of the most resonant songs in the movie with a track most people have never heard of.",
+            "sourceNotes": "Verified: Philip Bailey's 'Children of the Ghetto' used in Clockers but excluded from official soundtrack due to Columbia/MCA label conflict. Replaced on album by 'Ghetto Children' by Marc Dorsey. Sources: IMDB https://www.imdb.com/title/tt0112688/soundtrack/, Discogs https://www.discogs.com/master/330823-Various-Clockers-Original-Motion-Picture-Soundtrack",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB — Clockers Soundtrack",
+                "url": "https://www.imdb.com/title/tt0112688/soundtrack/",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "Discogs — Clockers OST",
+                "url": "https://www.discogs.com/master/330823-Various-Clockers-Original-Motion-Picture-Soundtrack",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R3-Q2",
+          "episodeId": "EP030",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Reginald Hudlin — who directed Boomerang in 1992 — had previously launched his film career with which 1990 debut feature?",
+          "choices": [
+            "House Party",
+            "Boyz n the Hood",
+            "Juice",
+            "New Jack City"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "Boomerang (Soundtrack)",
+            "year": 1990,
+            "topicTags": [
+              "Reginald Hudlin",
+              "House Party",
+              "1990",
+              "Boomerang",
+              "directorial debut",
+              "New Line Cinema",
+              "Kid n Play"
+            ],
+            "fact": "Reginald Hudlin directed House Party in 1990 — starring Kid 'n Play — as his feature debut, after making the short film of the same name while studying at Harvard. House Party was a commercial success that established Hudlin as a significant new voice in Black American cinema. His follow-up was Boomerang (1992), which expanded his commercial footprint considerably with Eddie Murphy as the lead.",
+            "storyHook": "House Party in 1990. Boomerang in 1992. Reginald Hudlin built a filmography in two years that most directors spend a decade assembling. Kid 'n Play to Eddie Murphy. The scale change was intentional.",
+            "sourceNotes": "House Party production documentation (New Line Cinema, 1990). Reginald Hudlin official filmography. Harvard University film records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb — Boomerang",
+                "url": "https://www.imdb.com/title/tt0103859/",
+                "accessed": "2026-05-13"
+              },
+              {
+                "title": "IMDb — House Party",
+                "url": "https://www.imdb.com/title/tt0099800/trivia/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R3-B1",
+          "episodeId": "EP030",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Malcolm D. Lee — who directed The Best Man — is the first cousin of which filmmaker who has defined Black American cinema across four decades?",
+          "choices": [
+            "Ernest Dickerson",
+            "Spike Lee",
+            "F. Gary Gray",
+            "John Singleton"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — THE BEST MAN DIRECTOR'S FAMOUS FIRST COUSIN"
+          },
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "The Best Man (Soundtrack)",
+            "year": 1999,
+            "topicTags": [
+              "Malcolm D. Lee",
+              "Spike Lee",
+              "cousins",
+              "The Best Man",
+              "1999",
+              "Brooklyn",
+              "filmmaker",
+              "bonus digit"
+            ],
+            "fact": "Malcolm D. Lee is the first cousin of Spike Lee — a connection that has been publicly documented and that both filmmakers have acknowledged. Malcolm Lee studied film at Georgetown University and later at NYU's Tisch School of the Arts. His debut film The Best Man (1999) was immediately compared in tone and ambition to Spike Lee's ensemble work, though Malcolm Lee developed a distinct commercial sensibility of his own.",
+            "storyHook": "Spike Lee's first cousin. NYU film school. The Best Man as a debut. The family connection was noted immediately by critics in 1999 — and Malcolm D. Lee has spent the years since building a career on its own terms.",
+            "sourceNotes": "Malcolm D. Lee official biographical records. The Best Man production documentation (Universal Pictures, 1999). NYU Tisch School of the Arts records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Malcolm_D._Lee",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP030-R3-RES1",
+          "episodeId": "EP030",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The Waiting to Exhale film — and its companion novel — was written by which author?",
+          "choices": [
+            "Toni Morrison",
+            "Bebe Moore Campbell",
+            "Alice Walker",
+            "Terry McMillan"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "Waiting to Exhale (Soundtrack)",
+            "year": 1992,
+            "topicTags": [
+              "Terry McMillan",
+              "Waiting to Exhale",
+              "novel",
+              "1992",
+              "author",
+              "adaptation",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Waiting to Exhale novel (Viking Press, 1992). Terry McMillan official bibliography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Waiting_to_Exhale",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP030-R3-RES2",
+          "episodeId": "EP030",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "John Singleton — who directed Poetic Justice — became the youngest director and first Black filmmaker nominated for the Academy Award for Best Director for which debut film?",
+          "choices": [
+            "Juice",
+            "New Jack City",
+            "Boyz n the Hood",
+            "Menace II Society"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": "Poetic Justice (Soundtrack)",
+            "year": 1991,
+            "topicTags": [
+              "John Singleton",
+              "Boyz n the Hood",
+              "1991",
+              "Academy Award",
+              "Best Director",
+              "youngest nominee",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Academy Award records (64th ceremony, 1992). Boyz n the Hood production documentation (Columbia Pictures, 1991). John Singleton official filmography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/John_Singleton",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-17T01:27:01.435041+00:00"
+  }
+}

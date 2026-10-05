@@ -1,0 +1,1491 @@
+{
+  "episodeId": "EP013",
+  "title": "The Remix Era (Hip-Hop Soul)",
+  "theme": "The 1990s movement that merged hard hip-hop drum breaks with smooth R&B vocals, defining the sound of New York and transforming R&B radio forever.",
+  "narrativePurpose": "Test players on the iconic features, production teams, and sample origins that defined the golden era of the R&B/Hip-Hop crossover remix.",
+  "toneProgression": "Massive rap features on R&B hits → The producers and sample crate-diggers behind the boards → Obscure remixes and underground hip-hop crossovers",
+  "version": "1.2",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "2"
+    },
+    "note": "Digit 4 (index 3) is always visible."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The massive crossovers that took R&B to the block. Identify the iconic rap features and the definitive hip-hop soul anthems.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "questions": [
+        {
+          "id": "EP013-R1-Q1",
+          "episodeId": "EP013",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which R&B group dominated hip-hop soul radio in 1996 with the Dr. Dre-featuring smash 'No Diggity'?",
+          "choices": [
+            "Dru Hill",
+            "112",
+            "Jodeci",
+            "Blackstreet"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Blackstreet",
+            "song": "No Diggity",
+            "album": "Daydream",
+            "year": 1995,
+            "topicTags": [
+              "Mariah Carey",
+              "Bad Boy Remix",
+              "feature",
+              "Wu-Tang"
+            ],
+            "fact": "'No Diggity' spent three weeks at #1 on the Billboard Hot 100 in 1996 and won the Grammy for Best R&B Performance by a Duo or Group — Blackstreet's commercial peak and one of the defining hip-hop soul records of the decade.",
+            "storyHook": "Puff Daddy brought a rugged, unpredictable hip-hop energy to the biggest pop star in the world, changing radio formats forever.",
+            "sourceNotes": "Official CD single credits (Columbia). ASCAP database confirms Russell Jones as co-writer. MTV retrospective interviews.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No Diggity – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_Diggity",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R1-Q2",
+          "episodeId": "EP013",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which legendary female MC opened the iconic hip-hop remix of Brandy's 'I Wanna Be Down'?",
+          "choices": [
+            "MC Lyte",
+            "Lil' Kim",
+            "Foxy Brown",
+            "Da Brat"
+          ],
+          "correctIndex": 0,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy",
+            "song": "I Wanna Be Down (Remix)",
+            "album": "Brandy",
+            "year": 1994,
+            "topicTags": [
+              "Brandy",
+              "MC Lyte",
+              "feature",
+              "remix"
+            ],
+            "fact": "The groundbreaking remix featured MC Lyte, Yo-Yo, and Queen Latifah, creating a definitive female empowerment anthem.",
+            "storyHook": "",
+            "sourceNotes": "Official CD single credits (Atlantic). ASCAP database confirms Lana Moorer. Historic Billboard reporting.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Wanna Be Down (Human Rhythm Hip Hop Remix) – Discogs",
+                "url": "https://www.discogs.com/release/1945818-Brandy-I-Wanna-Be-Down-The-Remix",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R1-Q3",
+          "episodeId": "EP013",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The Notorious B.I.G. and which rising Bad Boy rapper provided the massive guest verses on the remix of 112's 'Only You'?",
+          "choices": [
+            "Craig Mack",
+            "Mase",
+            "Black Rob",
+            "Shyne"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "112",
+            "song": "Only You (Bad Boy Remix)",
+            "album": "112",
+            "year": 1996,
+            "topicTags": [
+              "112",
+              "Mase",
+              "Bad Boy",
+              "feature"
+            ],
+            "fact": "The 'Only You' remix officially introduced Mase to a mainstream audience, launching his blockbuster Bad Boy career.",
+            "storyHook": "",
+            "sourceNotes": "Official CD single credits (Bad Boy/Arista). ASCAP database confirms Mason Betha. Documentaries on Bad Boy Records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Only You (112 song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Only_You_(112_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R1-Q4",
+          "episodeId": "EP013",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "SWV — whose 1993 'Right Here (Human Nature Remix)' became a hip-hop soul landmark — is an acronym standing for what?",
+          "choices": [
+            "Soulful Women Vibing",
+            "Sisters With Voices",
+            "Singing Women of Virginia",
+            "Smooth Women Vocalists"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "SWV",
+            "song": null,
+            "album": "It's About Time",
+            "year": 1993,
+            "topicTags": [
+              "SWV",
+              "Michael Jackson",
+              "sample",
+              "Teddy Riley"
+            ],
+            "fact": "SWV — Sisters With Voices — formed in New York City in 1988. The trio of Coko, Lelee, and Taj became one of the defining acts of the hip-hop soul era.",
+            "storyHook": "",
+            "sourceNotes": "Official CD single credits (RCA). ASCAP sample clearance records. Teddy Riley interviews.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "SWV – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/SWV",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R1-Q5",
+          "episodeId": "EP013",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mariah Carey's 1996 hip-hop soul ballad 'Breakdown' featured which Ohio rap trio?",
+          "choices": [
+            "Three 6 Mafia",
+            "The Lox",
+            "Naughty by Nature",
+            "Bone Thugs-n-Harmony"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey ft. Bone Thugs-n-Harmony",
+            "song": "Breakdown",
+            "album": "Tical",
+            "year": 1995,
+            "topicTags": [
+              "Method Man",
+              "Mary J. Blige",
+              "Puff Daddy",
+              "crossover"
+            ],
+            "fact": "'Breakdown' from Mariah's Daydream album featured Bone Thugs-n-Harmony — an unexpected but seamless pairing that demonstrated how fully hip-hop and R&B had merged by 1996.",
+            "storyHook": "",
+            "sourceNotes": "Grammy Awards historical database. Official CD single liner notes (Def Jam).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Breakdown (Mariah Carey song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Breakdown_(Mariah_Carey_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R1-Q6",
+          "episodeId": "EP013",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The Notorious B.I.G. featured on the Bad Boy debut single of which female R&B trio — the track that introduced them to mainstream audiences in 1995?",
+          "choices": [
+            "No One Else",
+            "Can't You See",
+            "What About Us",
+            "Kissing You"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Total ft. The Notorious B.I.G.",
+            "song": "Can't You See",
+            "album": "Where I Wanna Be",
+            "year": 1999,
+            "topicTags": [
+              "Donell Jones",
+              "Left Eye",
+              "feature",
+              "LaFace"
+            ],
+            "fact": "'Can't You See' debuted on the New Jersey Drive Vol. 1 soundtrack in 1995 — Total's introduction to mainstream audiences and one of Bad Boy's earliest hip-hop soul crossover moments.",
+            "storyHook": "",
+            "sourceNotes": "Official CD single credits (LaFace). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Can't You See (Total song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Can%27t_You_See_(Total_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R1-B1",
+          "episodeId": "EP013",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which rapper — known as 'The Overweight Lover' — was the flagship hip-hop artist at Uptown Records alongside Mary J. Blige?",
+          "choices": [
+            "Craig Mack",
+            "Big Daddy Kane",
+            "Heavy D",
+            "Busta Rhymes"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — UPTOWN RECORDS HIP-HOP FLAGSHIP ARTIST",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": null,
+            "album": "What's the 411? Remix",
+            "year": 1993,
+            "topicTags": [
+              "Mary J. Blige",
+              "remix album",
+              "year",
+              "bonus digit"
+            ],
+            "fact": "Heavy D was the commercial anchor of Uptown Records before Mary J. Blige arrived — his success gave Andre Harrell the credibility and budget to develop the hip-hop soul sound that defined the label.",
+            "storyHook": "",
+            "sourceNotes": "RIAA certification database. Official Uptown Records release history.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Heavy D – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Heavy_D",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP013-R1-RES1",
+          "episodeId": "EP013",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which female R&B trio broke through in 1994 with the Denzil Foster-produced hip-hop soul ballad 'If You Love Me'?",
+          "choices": [
+            "Total",
+            "Jade",
+            "Allure",
+            "Brownstone"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brownstone",
+            "song": "If You Love Me",
+            "album": "Nobody Does It Better",
+            "year": 1996,
+            "topicTags": [
+              "Gina Thompson",
+              "Missy Elliott",
+              "Bad Boy",
+              "swap reserve"
+            ],
+            "fact": "Brownstone's 'If You Love Me' — produced by Denzil Foster and Thomas McElroy — became one of 1994's defining slow jam crossover records, reaching #8 on the Billboard Hot 100.",
+            "storyHook": "",
+            "sourceNotes": "Official CD single credits (Mercury). ASCAP database confirms Melissa Elliott.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "If You Love Me (Brownstone song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/If_You_Love_Me_(Brownstone_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R1-RES2",
+          "episodeId": "EP013",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Kelly Price's massive 'Friend of Mine' remix featured R. Kelly alongside which legendary soul singer?",
+          "choices": [
+            "Keith Sweat",
+            "Aaron Hall",
+            "Babyface",
+            "Ronald Isley"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Kelly Price",
+            "song": "Friend of Mine (Remix)",
+            "album": "Soul of a Woman",
+            "year": 1998,
+            "topicTags": [
+              "Kelly Price",
+              "Ronald Isley",
+              "feature",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Official CD single credits (Island Black Music). ASCAP database confirms Ronald Isley.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Friend of Mine (Kelly Price song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Friend_of_Mine_(Kelly_Price_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R1-RES3",
+          "episodeId": "EP013",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Xscape's hip-hop soul debut — which launched the Jermaine Dupri-produced group in 1993 — was titled what?",
+          "choices": [
+            "Understanding",
+            "Traces of My Lipstick",
+            "Off the Hook",
+            "Hummin' Comin' at 'Cha"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Xscape",
+            "song": null,
+            "album": "Hummin' Comin' at 'Cha",
+            "year": 1996,
+            "topicTags": [
+              "Total",
+              "Foxy Brown",
+              "Bad Boy",
+              "swap reserve"
+            ],
+            "fact": "Xscape's debut album Hummin' Comin' at 'Cha (1993) was produced by Jermaine Dupri and introduced the Atlanta quartet as one of So So Def's flagship hip-hop soul acts.",
+            "storyHook": "",
+            "sourceNotes": "Official CD single credits (Bad Boy/Arista). ASCAP database confirms Inga Marchand.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Hummin' Comin' at 'Cha – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hummin%27_Comin%27_at_%27Cha",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R1-RES4",
+          "episodeId": "EP013",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Horace Brown's 1996 'One for the Money' remix prominently featured an early guest verse from which rap mogul?",
+          "choices": [
+            "Nas",
+            "Notorious B.I.G.",
+            "Jay-Z",
+            "Ma$e"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Horace Brown",
+            "song": "One for the Money (Remix)",
+            "album": "Horace Brown",
+            "year": 1996,
+            "topicTags": [
+              "Horace Brown",
+              "Jay-Z",
+              "feature",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Official CD single credits (Motown). ASCAP database confirms Shawn Carter.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "One for the Money (Horace Brown song) – Discogs",
+                "url": "https://www.discogs.com/release/1219780-Horace-Brown-One-For-The-Money",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The producers behind the boards and the obscure features that made the hip-hop soul era undeniable.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "questions": [
+        {
+          "id": "EP013-R2-Q1",
+          "episodeId": "EP013",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which NYC-based production duo, known collectively as the Trackmasters, dominated the R&B remix era for artists like Mariah Carey and Mary J. Blige?",
+          "choices": [
+            "Tim & Bob",
+            "Poke & Tone",
+            "Jimmy & Terry",
+            "Hugo & Pharrell"
+          ],
+          "correctIndex": 1,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Trackmasters",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Trackmasters",
+              "Poke & Tone",
+              "producer"
+            ],
+            "fact": "Jean-Claude 'Poke' Olivier and Samuel 'Tone' Barnes (The Trackmasters) were the defining architects of the glossy 90s hip-hop soul remix sound.",
+            "storyHook": "",
+            "sourceNotes": "ASCAP/BMI databases confirming Olivier and Barnes. Numerous historical producer credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Trackmasters – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Trackmasters",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R2-Q2",
+          "episodeId": "EP013",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jodeci's 'Freek'n You' received a gritty 'Mr. Dalvin's Freek Mix' featuring which two members of the Wu-Tang Clan?",
+          "choices": [
+            "Inspectah Deck & U-God",
+            "Raekwon & Ghostface Killah",
+            "RZA & GZA",
+            "Method Man & Redman"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jodeci",
+            "song": "Freek'n You (Mr. Dalvin's Freek Mix)",
+            "album": "The Show, the After Party, the Hotel",
+            "year": 1995,
+            "topicTags": [
+              "Jodeci",
+              "Wu-Tang",
+              "Raekwon",
+              "Ghostface Killah",
+              "remix"
+            ],
+            "fact": "The rugged remix became a massive street anthem, proving that Jodeci's sound could seamlessly integrate with the hardest NYC hip-hop.",
+            "storyHook": "",
+            "sourceNotes": "Official CD single credits (Uptown/MCA). ASCAP database. Wu-Tang discography archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Freek'n You – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Freek%27n_You",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R2-Q3",
+          "episodeId": "EP013",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Janet Jackson's 'Got 'til It's Gone' received the legendary 'Ummah Jay Dee's Revenge Mix', produced by which Detroit hip-hop icon?",
+          "choices": [
+            "J Dilla",
+            "Q-Tip",
+            "Ali Shaheed Muhammad",
+            "Pete Rock"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": "Got 'til It's Gone (Ummah Jay Dee's Revenge Mix)",
+            "album": "The Velvet Rope",
+            "year": 1997,
+            "topicTags": [
+              "Janet Jackson",
+              "J Dilla",
+              "The Ummah",
+              "producer",
+              "remix"
+            ],
+            "fact": "J Dilla (then known as Jay Dee) crafted the official remix under his Ummah production collective moniker.",
+            "storyHook": "The velvet rope opened up to allow one of underground hip-hop's most revered beatmakers to touch a pop masterpiece.",
+            "sourceNotes": "Official 12-inch single credits (Virgin). J Dilla discography archives. ASCAP publishing records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Got 'til It's Gone – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Got_%27til_It%27s_Gone",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "J Dilla – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/J_Dilla",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R2-Q4",
+          "episodeId": "EP013",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The 'Hip Hop Mix' of Boyz II Men's 'Vibin'' featured Craig Mack, Busta Rhymes, Method Man, and which Naughty By Nature frontman?",
+          "choices": [
+            "Treach",
+            "Queen Latifah",
+            "Kay Gee",
+            "Vinnie"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": "Vibin' (The New Flava)",
+            "album": "The Remix Collection",
+            "year": 1995,
+            "topicTags": [
+              "Boyz II Men",
+              "Treach",
+              "remix",
+              "feature"
+            ],
+            "fact": "The 'New Flava' mix was a posse-cut remix that successfully bridged the gap between smooth Philadelphia harmony and rugged East Coast rap.",
+            "storyHook": "",
+            "sourceNotes": "Official CD single credits (Motown). ASCAP database confirms Anthony Criss (Treach).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Vibin' – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Vibin%27",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R2-Q5",
+          "episodeId": "EP013",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Next's massive 1998 hit 'Too Close' was built around the groove from 'Christmas Rappin'' by which hip-hop pioneer?",
+          "choices": [
+            "Grandmaster Flash",
+            "Run-DMC",
+            "Kurtis Blow",
+            "The Sugarhill Gang"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Next",
+            "song": "Too Close",
+            "album": "Rated Next",
+            "year": 1998,
+            "topicTags": [
+              "Next",
+              "Kurtis Blow",
+              "sample"
+            ],
+            "fact": "Producer Kay Gee looped Kurtis Blow's 1979 classic 'Christmas Rappin'' to create the instrumental for 'Too Close'.",
+            "storyHook": "",
+            "sourceNotes": "Verified: 'Too Close' samples/interpolates 'Christmas Rappin'' by Kurtis Blow. Sources: WhoSampled https://www.whosampled.com/sample/911/Next-Too-Close-Kurtis-Blow-Christmas-Rappin/, Songfacts https://www.songfacts.com/facts/next/too-close, https://www.songfacts.com/facts/kurtis-blow/christmas-rappin. Note: produced by Kay Gee (Naughty by Nature) — EP017 production credit is consistent with this sample credit.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Too Close by Next – WhoSampled",
+                "url": "https://www.whosampled.com/Next/Too-Close/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Next 'Too Close' sample of Kurtis Blow 'Christmas Rappin'' – WhoSampled",
+                "url": "https://www.whosampled.com/sample/911/Next-Too-Close-Kurtis-Blow-Christmas-Rappin'/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Too Close by Next – Songfacts",
+                "url": "https://www.songfacts.com/facts/next/too-close",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Christmas Rappin' by Kurtis Blow – Songfacts",
+                "url": "https://www.songfacts.com/facts/kurtis-blow/christmas-rappin",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 4,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R2-B1",
+          "episodeId": "EP013",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "P. Diddy celebrated his label's dominance of the hip-hop soul era with the compilation 'We Invented the Remix' in what year?",
+          "choices": [
+            "2002",
+            "2000",
+            "2003",
+            "2001"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — THE YEAR BAD BOY INVENTED THE REMIX",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "P. Diddy & The Bad Boy Family",
+            "song": null,
+            "album": "We Invented the Remix",
+            "year": 2002,
+            "topicTags": [
+              "P. Diddy",
+              "Bad Boy",
+              "remix album",
+              "year",
+              "bonus digit"
+            ],
+            "fact": "The album debuted at #1 on the Billboard 200, proving that Bad Boy's signature remix formula was still highly profitable in the 2000s.",
+            "storyHook": "",
+            "sourceNotes": "RIAA certification database. Official Billboard 200 chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "We Invented the Remix – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/We_Invented_the_Remix",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP013-R2-RES1",
+          "episodeId": "EP013",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Faith Evans' 1998 anthem 'Love Like This' was built on a massive loop of 'Chic Cheer' by which legendary 70s band?",
+          "choices": [
+            "Earth, Wind & Fire",
+            "Chic",
+            "Sister Sledge",
+            "Kool & The Gang"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Faith Evans",
+            "song": "Love Like This",
+            "album": "Keep the Faith",
+            "year": 1998,
+            "topicTags": [
+              "Faith Evans",
+              "Chic",
+              "sample",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Keep the Faith (Bad Boy). ASCAP database confirms Nile Rodgers & Bernard Edwards.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Love Like This (Faith Evans song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Love_Like_This_(Faith_Evans_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R2-RES2",
+          "episodeId": "EP013",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Blackstreet's iconic 'No Diggity' famously sampled 'Grandma's Hands' by which soul legend?",
+          "choices": [
+            "Marvin Gaye",
+            "Bill Withers",
+            "Curtis Mayfield",
+            "Al Green"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Blackstreet",
+            "song": "No Diggity",
+            "album": "Another Level",
+            "year": 1996,
+            "topicTags": [
+              "Blackstreet",
+              "Bill Withers",
+              "sample",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Another Level (Interscope). ASCAP database confirms Bill Withers.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No Diggity – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_Diggity",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R2-RES3",
+          "episodeId": "EP013",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The '6th Borough Remix' of Groove Theory's 'Tell Me' featured a guest verse from which New York rap group?",
+          "choices": [
+            "Black Moon",
+            "Mobb Deep",
+            "Smif-N-Wessun",
+            "Brand Nubian"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Groove Theory",
+            "song": "Tell Me (6th Borough Remix)",
+            "album": "Tell Me (Single)",
+            "year": 1995,
+            "topicTags": [
+              "Groove Theory",
+              "Brand Nubian",
+              "feature",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Official 12-inch vinyl credits (Epic). Discogs release page.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tell Me (Groove Theory song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tell_Me_(Groove_Theory_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The deepest hip-hop soul crate digging. Test your knowledge of obscure samples, uncredited producers, and underground remixes.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "questions": [
+        {
+          "id": "EP013-R3-Q1",
+          "episodeId": "EP013",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "D'Angelo's 'Brown Sugar' received a gritty, underground hip-hop remix produced by which legendary Gang Starr member?",
+          "choices": [
+            "DJ Premier",
+            "Large Professor",
+            "Pete Rock",
+            "Q-Tip"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": "Brown Sugar (Remix)",
+            "album": "Brown Sugar (Single)",
+            "year": 1995,
+            "topicTags": [
+              "D'Angelo",
+              "DJ Premier",
+              "producer",
+              "remix"
+            ],
+            "fact": "DJ Premier's remix stripped away the lush neo-soul instrumentation, placing D'Angelo's vocals over a raw, signature boom-bap beat.",
+            "storyHook": "When neo-soul needed street credibility in New York, they called the greatest hip-hop producer in the city.",
+            "sourceNotes": "Official 12-inch vinyl credits (EMI). Discogs release database. DJ Premier discography records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Brown Sugar (D'Angelo song) – Discogs",
+                "url": "https://www.discogs.com/release/915373-DAngelo-Brown-Sugar",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R3-Q2",
+          "episodeId": "EP013",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Mary J. Blige's 'Love No Limit' Puff Daddy remix famously anchored its groove on a sample of 'Risin' to the Top' by which 80s artist?",
+          "choices": [
+            "Rick James",
+            "Bernard Wright",
+            "Mtume",
+            "Keni Burke"
+          ],
+          "correctIndex": 3,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": "Love No Limit (Puff Daddy Mix)",
+            "album": "What's the 411? Remix",
+            "year": 1993,
+            "topicTags": [
+              "Mary J. Blige",
+              "Keni Burke",
+              "Puff Daddy",
+              "sample"
+            ],
+            "fact": "Keni Burke's 1982 bassline from 'Risin' to the Top' is one of the most sampled grooves in hip-hop and R&B history.",
+            "storyHook": "Puff Daddy didn't just remix the song, he changed the underlying DNA by adding one of the most recognizable basslines of the 80s.",
+            "sourceNotes": "Official CD liner notes for What's the 411? Remix (Uptown). ASCAP database clearance records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Love No Limit – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Love_No_Limit",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Risin' to the Top by Keni Burke – WhoSampled",
+                "url": "https://www.whosampled.com/Keni-Burke/Risin%27-to-the-Top/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R3-B1",
+          "episodeId": "EP013",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "In what year did Mary J. Blige transition out of the heavy hip-hop soul era with her landmark album 'No More Drama'?",
+          "choices": [
+            "2001",
+            "2002",
+            "1999",
+            "2000"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — THE YEAR THE DRAMA ENDED",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": null,
+            "album": "No More Drama",
+            "year": 2001,
+            "topicTags": [
+              "Mary J. Blige",
+              "No More Drama",
+              "year",
+              "bonus digit"
+            ],
+            "fact": "Released in August 2001, the album marked a significant lyrical and sonic evolution for the Queen of Hip-Hop Soul.",
+            "storyHook": "",
+            "sourceNotes": "RIAA database. Official MCA Records release history.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No More Drama – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_More_Drama_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP013-R3-RES1",
+          "episodeId": "EP013",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Timbaland's production on Ginuwine's debut 'Pony' defined the hip-hop soul sound for 1997 — what was that debut album titled?",
+          "choices": [
+            "Pony",
+            "Ginuwine...the Bachelor",
+            "The Bachelor",
+            "100% Ginuwine"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ginuwine",
+            "song": "Pony",
+            "album": "Ginuwine...the Bachelor",
+            "year": 1996,
+            "topicTags": [
+              "Brandy",
+              "LL Cool J",
+              "Doug Rasheed",
+              "feature",
+              "swap reserve"
+            ],
+            "fact": "Ginuwine...the Bachelor (1997) was produced almost entirely by Timbaland — its futuristic drum programming and minimalist hip-hop soul arrangements established a new aesthetic that influenced a decade of R&B production.",
+            "storyHook": "",
+            "sourceNotes": "Official 12-inch single credits (Arista). ASCAP database confirms James Todd Smith.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ginuwine...the Bachelor – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ginuwine...the_Bachelor",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP013-R3-RES2",
+          "episodeId": "EP013",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Michael Jackson's 'Remember The Time' received a house/R&B 'Silky Soul 7' remix produced by which Chicago house pioneer?",
+          "choices": [
+            "Steve 'Silk' Hurley",
+            "Dallas Austin",
+            "Teddy Riley",
+            "Babyface"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Michael Jackson",
+            "song": "Remember The Time (Silky Soul 7)",
+            "album": "Remember The Time (Single)",
+            "year": 1992,
+            "topicTags": [
+              "Michael Jackson",
+              "Steve Silk Hurley",
+              "producer",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Official 12-inch single credits (Epic). Discogs release database.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Remember the Time – Discogs remix credits",
+                "url": "https://www.discogs.com/release/1322321-Michael-Jackson-Remember-The-Time",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.2",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-19T16:23:06.489194+00:00"
+  }
+}

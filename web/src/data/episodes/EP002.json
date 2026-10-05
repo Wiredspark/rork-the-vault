@@ -1,0 +1,1520 @@
+{
+  "episodeId": "EP002",
+  "title": "Collabs & Features",
+  "theme": "Duets, guest spots, and joint records — the collaborative side of 90s R&B",
+  "narrativePurpose": "Reward players who know not just who made the music, but who made it together — features, joint labels, studio collabs, and supergroup history",
+  "toneProgression": "Famous face time → credit knowledge → deep collab archaeology",
+  "version": "1.0",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "7"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-7 — the year the feature credit became a genre convention. I'll Be Missing You, LSG's debut, Janet's Got 'Til It's Gone with Q-Tip. R&B and hip-hop stopped asking permission to share a record."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "Famous collabs. Recognizable duets. Guest spots that made the radio. You know these.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP002-R1-Q1",
+          "episodeId": "EP002",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Puff Daddy and Faith Evans' 1997 hit 'I'll Be Missing You' was a tribute to which rapper?",
+          "choices": [
+            "Big L",
+            "Big Pun",
+            "The Notorious B.I.G.",
+            "Tupac Shakur"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Puff Daddy & Faith Evans",
+            "song": "I'll Be Missing You",
+            "album": "No Way Out",
+            "year": 1997,
+            "topicTags": [
+              "Puff Daddy",
+              "Faith Evans",
+              "Notorious B.I.G.",
+              "tribute",
+              "Bad Boy"
+            ],
+            "fact": "'I'll Be Missing You' debuted at #1 on the Billboard Hot 100 and spent 11 weeks at the top in 1997.",
+            "storyHook": "The song that stopped the summer — Puff Daddy turning grief into the biggest collab of the decade.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I'll Be Missing You – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I%27ll_Be_Missing_You",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R1-Q2",
+          "episodeId": "EP002",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Blackstreet's 1996 smash 'No Diggity' featured which rapper on the track?",
+          "choices": [
+            "Snoop Dogg",
+            "Ice Cube",
+            "Method Man",
+            "Dr. Dre"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Blackstreet",
+            "song": "No Diggity",
+            "album": "Another Level",
+            "year": 1996,
+            "topicTags": [
+              "Blackstreet",
+              "Dr. Dre",
+              "Teddy Riley",
+              "feature",
+              "number one"
+            ],
+            "fact": "'No Diggity' spent four weeks at #1 on the Billboard Hot 100 and won Best R&B Performance by a Duo or Group at the 1997 Grammys.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Blackstreet – No Diggity ft. Dr. Dre, Queen Pen – YouTube",
+                "url": "https://www.youtube.com/watch?v=3KL9mRus19o",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R1-Q3",
+          "episodeId": "EP002",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Destiny's Child's debut single 'No No No Part 2' (1997) was remixed by which Fugee?",
+          "choices": [
+            "Wyclef Jean",
+            "Lauryn Hill",
+            "Jay-Z",
+            "Pras"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": "No No No Part 2",
+            "album": "Destiny's Child",
+            "year": 1997,
+            "topicTags": [
+              "Destiny's Child",
+              "Wyclef Jean",
+              "Fugees",
+              "debut",
+              "feature"
+            ],
+            "fact": "Wyclef Jean's remix of 'No No No' transformed Destiny's Child's debut into a top 10 R&B hit in 1997.",
+            "storyHook": "The remix that put Destiny's Child on the map — Wyclef Jean handing the torch to the next generation.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Destiny's Child – No, No, No Part 2 ft. Wyclef Jean – YouTube",
+                "url": "https://www.youtube.com/watch?v=-0wbtk6_vpE",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R1-Q4",
+          "episodeId": "EP002",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which rapper duetted with Mary J. Blige on the 1995 hit 'You're All I Need to Get By'?",
+          "choices": [
+            "Nas",
+            "Method Man",
+            "Jay-Z",
+            "LL Cool J"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Method Man ft. Mary J. Blige",
+            "song": "You're All I Need to Get By",
+            "album": "Tical",
+            "year": 1995,
+            "topicTags": [
+              "Method Man",
+              "Mary J. Blige",
+              "Wu-Tang",
+              "duet",
+              "feature"
+            ],
+            "fact": "'You're All I Need to Get By' reached #1 on the Billboard Hot R&B Singles chart in 1995 and earned a Grammy for Best Rap Duo or Group Performance.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Method Man – I'll Be There For You / You're All I Need – YouTube",
+                "url": "https://www.youtube.com/watch?v=XW1HNWqdVbk",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R1-Q5",
+          "episodeId": "EP002",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Pras Michel's 1998 hit 'Ghetto Supastar (That Is What You Are)' featured Mýa alongside which rapper?",
+          "choices": [
+            "Ol' Dirty Bastard",
+            "DMX",
+            "Method Man",
+            "Busta Rhymes"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Pras ft. Mýa & Ol' Dirty Bastard",
+            "song": "Ghetto Supastar (That Is What You Are)",
+            "album": "Bulworth Soundtrack",
+            "year": 1998,
+            "topicTags": [
+              "Pras",
+              "Mýa",
+              "Ol' Dirty Bastard",
+              "Wu-Tang",
+              "soundtrack",
+              "feature"
+            ],
+            "fact": "'Ghetto Supastar' appeared on the Bulworth film soundtrack and reached the top 5 in multiple countries including the UK.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ghetto Supastar ft. Ol' Dirty Bastard & Mýa – Spotify",
+                "url": "https://open.spotify.com/track/31bf9SEOppLU6lQ85d8om6",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R1-Q6",
+          "episodeId": "EP002",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Eric Benét's 1999 R&B ballad 'Spend My Life with You' featured which Canadian singer?",
+          "choices": [
+            "Jade",
+            "Deborah Cox",
+            "Des'ree",
+            "Tamia"
+          ],
+          "correctIndex": 3,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Eric Benét ft. Tamia",
+            "song": "Spend My Life with You",
+            "album": "A Day in the Life",
+            "year": 1999,
+            "topicTags": [
+              "Eric Benét",
+              "Tamia",
+              "duet",
+              "feature",
+              "R&B"
+            ],
+            "fact": "'Spend My Life with You' reached #1 on the Billboard R&B chart and was nominated for Best R&B Performance by a Duo or Group at the 2000 Grammys.",
+            "storyHook": "Two underrated voices making the most slept-on duet of the decade.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Eric Benét ft. Tamia – Spend My Life With You – YouTube",
+                "url": "https://www.youtube.com/watch?v=Bl3tIXeZRo8",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R1-B1",
+          "episodeId": "EP002",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "LSG — the supergroup formed by Gerald Levert, Keith Sweat, and Johnny Gill — released their self-titled debut on which record label?",
+          "choices": [
+            "Elektra Records",
+            "EastWest Records",
+            "Motown Records",
+            "Mercury Records"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — LSG'S DEBUT LABEL",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": "LSG",
+            "song": null,
+            "album": "LSG",
+            "year": 1997,
+            "topicTags": [
+              "LSG",
+              "Gerald Levert",
+              "Keith Sweat",
+              "Johnny Gill",
+              "EastWest Records",
+              "1997",
+              "supergroup",
+              "collabs"
+            ],
+            "fact": "LSG — the supergroup formed by Gerald Levert, Keith Sweat, and Johnny Gill — released their self-titled debut album on EastWest Records in 1997. EastWest was a division of the Atlantic/WEA family. The album reached #2 on the Billboard 200 and spawned the R&B hit 'My Body.'",
+            "storyHook": "Three solo stars, one label, one album. LSG on EastWest in 1997 was the supergroup formula executed cleanly — and the charts confirmed it.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "LSG debut released by East West Records – Facebook",
+                "url": "https://www.facebook.com/femi.ajibode/posts/l-s-g-levert-sweat-gill-debut-studio-album-was-released-26-years-ago-on-this-day/318",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP002-R1-RES1",
+          "episodeId": "EP002",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mýa's self-titled debut album was released in what year?",
+          "choices": [
+            "1998",
+            "2000",
+            "1997",
+            "1999"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mýa",
+            "song": null,
+            "album": "Mýa",
+            "year": 1998,
+            "topicTags": [
+              "Mýa",
+              "debut album",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mya (album) – All About Mya Wiki",
+                "url": "https://all-about-mya.fandom.com/wiki/Mya_(album)",
+                "accessed": "2026-05-20"
+              },
+              {
+                "title": "Mya discography – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mya_discography",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R1-RES2",
+          "episodeId": "EP002",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Tamia's debut single 'You Put a Move on My Heart' (1995) appeared on which film's soundtrack?",
+          "choices": [
+            "Set It Off",
+            "Waiting to Exhale",
+            "Batman Forever",
+            "Bad Boys"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tamia",
+            "song": "You Put a Move on My Heart",
+            "album": "Batman Forever Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "Tamia",
+              "Batman Forever",
+              "soundtrack",
+              "debut",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "IMDB Batman Forever (1995) soundtrack listing confirms 'You Put a Move on My Heart' performed by Tamia. Atlantic Records Batman Forever: Music from the Motion Picture liner notes. AllMusic entry for the Batman Forever soundtrack confirms the track listing.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "You Put a Move on My Heart – Quincy Jones ft. Tamia – YouTube",
+                "url": "https://www.youtube.com/watch?v=pT-B6m7jfy8",
+                "accessed": "2026-05-20"
+              },
+              {
+                "title": "Batman Forever (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Batman_Forever_(soundtrack)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R1-RES3",
+          "episodeId": "EP002",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Faith Evans and The Notorious B.I.G., who married in 1994, were both signed to which record label?",
+          "choices": [
+            "Bad Boy Records",
+            "Def Jam",
+            "Death Row",
+            "Uptown"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Faith Evans",
+            "song": null,
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "Faith Evans",
+              "Notorious B.I.G.",
+              "Bad Boy Records",
+              "label",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Faith Evans – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Faith_Evans",
+                "accessed": "2026-05-20"
+              },
+              {
+                "title": "Bad Boy Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bad_Boy_Records",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R1-RES4",
+          "episodeId": "EP002",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Before his solo career, Pras Michel was a member of which group?",
+          "choices": [
+            "Black Star",
+            "Wu-Tang Clan",
+            "The Roots",
+            "Fugees"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Pras",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Pras",
+              "Fugees",
+              "group member",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Pras Michel – AP News",
+                "url": "https://apnews.com/article/fugees-pras-michel-conviction-29c1ca6e453c092e2fab8efb16779205",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Production credits. Label genealogy. The behind-the-scenes collab knowledge that separates fans from casual listeners.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP002-R2-Q1",
+          "episodeId": "EP002",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Before forming Blackstreet, Teddy Riley co-founded which earlier New Jack Swing group?",
+          "choices": [
+            "Bell Biv DeVoe",
+            "Guy",
+            "New Edition",
+            "Hi-Five"
+          ],
+          "correctIndex": 1,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Teddy Riley",
+            "song": null,
+            "album": null,
+            "year": 1987,
+            "topicTags": [
+              "Teddy Riley",
+              "Guy",
+              "Blackstreet",
+              "New Jack Swing",
+              "producer"
+            ],
+            "fact": "Guy's debut 'The Future' (1988) is credited as one of the first albums to fully define the New Jack Swing sound.",
+            "storyHook": "The man who invented a sound — twice.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Teddy Riley – Funky Friday post – Facebook",
+                "url": "https://www.facebook.com/OfficialTeddyRiley/posts/funky-friday-repost-gratefulan-entire-era-traces-back-to-one-source-teddy-rile",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R2-Q2",
+          "episodeId": "EP002",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jermaine Dupri produced Usher's 1997 commercial breakthrough album. What was it called?",
+          "choices": [
+            "8701",
+            "Confessions",
+            "My Way",
+            "Here I Stand"
+          ],
+          "correctIndex": 2,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Usher",
+            "song": null,
+            "album": "My Way",
+            "year": 1997,
+            "topicTags": [
+              "Usher",
+              "Jermaine Dupri",
+              "producer",
+              "So So Def",
+              "debut"
+            ],
+            "fact": "Jermaine Dupri's production on 'My Way' yielded the hit 'You Make Me Wanna...' — Usher's first top 5 pop crossover.",
+            "storyHook": "",
+            "sourceNotes": "So So Def/LaFace/Arista 1997 liner notes for 'My Way' credit Jermaine Dupri as executive producer. Discogs Usher 'My Way' release lists Jermaine Dupri as primary producer. ASCAP publishing database confirms Dupri co-writes on 'You Make Me Wanna...' and lead singles.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Usher – My Way 2nd studio album – Facebook",
+                "url": "https://www.facebook.com/hiphopheadquarters1/posts/my-way-is-the-2nd-studio-album-by-atlanta-singer-usher-%EF%B8%8Fit-was-releas",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R2-Q3",
+          "episodeId": "EP002",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Mariah Carey's 1995 megahit 'Fantasy' built its groove around a sample from 'Genius of Love' — a track originally recorded by which band?",
+          "choices": [
+            "Talking Heads",
+            "Chic",
+            "The B-52s",
+            "Tom Tom Club"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "OutKast",
+            "song": null,
+            "album": "Southernplayalisticadillacmuzik",
+            "year": 1994,
+            "topicTags": [
+              "Mariah Carey",
+              "Fantasy",
+              "Tom Tom Club",
+              "Genius of Love",
+              "sample",
+              "1995"
+            ],
+            "fact": "'Fantasy' (1995) samples Tom Tom Club's 1981 hit 'Genius of Love' — building its euphoric groove on one of the most infectious basslines of the New Wave era. Tom Tom Club was a side project of Talking Heads members Chris Frantz and Tina Weymouth.",
+            "storyHook": "Mariah Carey. Ol' Dirty Bastard. One remix. The moment in 1995 when R&B and hip-hop stopped being different conversations.",
+            "sourceNotes": "Verified: 'Fantasy' samples 'Genius of Love' by Tom Tom Club. Sources: WhoSampled https://www.whosampled.com/sample/107/Mariah-Carey-Fantasy-Tom-Tom-Club-Genius-of-Love/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Fantasy sample of Genius of Love – WhoSampled",
+                "url": "https://www.whosampled.com/sample/107/Mariah-Carey-Fantasy-Tom-Tom-Club-Genius-of-Love/",
+                "accessed": "2026-05-20"
+              },
+              {
+                "title": "Tom Tom Club – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tom_Tom_Club",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R2-Q4",
+          "episodeId": "EP002",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "LaFace Records — home to TLC, Usher, and Toni Braxton — was co-founded by Babyface and which other producer-executive?",
+          "choices": [
+            "Dallas Austin",
+            "Teddy Riley",
+            "L.A. Reid",
+            "Jermaine Dupri"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1989,
+            "topicTags": [
+              "LaFace Records",
+              "L.A. Reid",
+              "Babyface",
+              "label",
+              "Atlanta"
+            ],
+            "fact": "L.A. Reid and Babyface launched LaFace Records in 1989 with backing from Arista's Clive Davis.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "LaFace Records origin – L.A. Reid interview – YouTube",
+                "url": "https://www.youtube.com/watch?v=AO-pZ_woYSg",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R2-Q5",
+          "episodeId": "EP002",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jimmy Jam and Terry Lewis produced Janet Jackson's 1997 album exploring personal themes of sexuality and mental health. Name that album.",
+          "choices": [
+            "Control",
+            "janet.",
+            "The Velvet Rope",
+            "All for You"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": null,
+            "album": "The Velvet Rope",
+            "year": 1997,
+            "topicTags": [
+              "Janet Jackson",
+              "Jimmy Jam",
+              "Terry Lewis",
+              "producer",
+              "The Velvet Rope"
+            ],
+            "fact": "The Velvet Rope debuted at #1 in 14 countries upon its 1997 release and is widely considered Janet's most personal album.",
+            "storyHook": "The production duo that built Janet's career delivering her most vulnerable record.",
+            "sourceNotes": "Virgin Records 1997 liner notes credit Jimmy Jam and Terry Lewis as producers throughout The Velvet Rope. Discogs release for The Velvet Rope lists James Harris III and Terry Lewis. ASCAP database confirms writing and production credits for Harris and Lewis.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Velvet Rope – The Boombox interview with Jimmy Jam",
+                "url": "https://theboombox.com/velvet-rope-was-a-challenging-record-my-conversation-with-jimmy-jam/",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R2-B1",
+          "episodeId": "EP002",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "OutKast's debut album included the collab track 'Git Up, Git Out' alongside which fellow Atlanta group?",
+          "choices": [
+            "Arrested Development",
+            "Goodie Mob",
+            "Xscape",
+            "TLC"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — WHO SHARED THE MIC WITH OUTKAST ON THEIR DEBUT",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "OutKast ft. Goodie Mob",
+            "song": "Git Up, Git Out",
+            "album": "Southernplayalisticadillacmuzik",
+            "year": 1994,
+            "topicTags": [
+              "OutKast",
+              "Goodie Mob",
+              "Dungeon Family",
+              "Atlanta",
+              "collab",
+              "bonus digit"
+            ],
+            "fact": "'Git Up, Git Out' was the only track on OutKast's debut to feature an outside act — Goodie Mob — previewing the full Dungeon Family universe.",
+            "storyHook": "Two crews, one moment — the entire Atlanta rap movement seeded on a single album track.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Southernplayalisticadillacmuzik – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Southernplayalisticadillacmuzik",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP002-R2-RES1",
+          "episodeId": "EP002",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jimmy Jam and Terry Lewis began their long production partnership with Janet Jackson on which 1986 album?",
+          "choices": [
+            "The Velvet Rope",
+            "janet.",
+            "Rhythm Nation 1814",
+            "Control"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": null,
+            "album": "Control",
+            "year": 1986,
+            "topicTags": [
+              "Janet Jackson",
+              "Jimmy Jam",
+              "Terry Lewis",
+              "producer",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Control (Janet Jackson album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Control_(Janet_Jackson_album)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R2-RES2",
+          "episodeId": "EP002",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Organized Noize were founding members of which Atlanta collective that also included OutKast and Goodie Mob?",
+          "choices": [
+            "LaFace Crew",
+            "So So Def Family",
+            "Dungeon Family",
+            "Organized Crime"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Organized Noize",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Organized Noize",
+              "Dungeon Family",
+              "OutKast",
+              "Goodie Mob",
+              "Atlanta",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dungeon Family – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dungeon_Family",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R2-RES3",
+          "episodeId": "EP002",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jermaine Dupri produced 'Totally Krossed Out,' the debut album by which pre-teen rap duo?",
+          "choices": [
+            "Lil' Romeo",
+            "Da Brat",
+            "Kris Kross",
+            "Lil' Bow Wow"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Kris Kross",
+            "song": null,
+            "album": "Totally Krossed Out",
+            "year": 1992,
+            "topicTags": [
+              "Kris Kross",
+              "Jermaine Dupri",
+              "producer",
+              "So So Def",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Ruffhouse/Columbia 1992 liner notes for 'Totally Krossed Out' credit Jermaine Dupri as sole producer. Discogs Kris Kross 'Totally Krossed Out' release confirms JD. ASCAP publishing database confirms Dupri co-writes on 'Jump' and album tracks.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Totally Krossed Out – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Totally_Krossed_Out",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Collab facts most fans never knew. Supergroup genealogy. Sample archaeology. Only real ones leave here with all three digits.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP002-R3-Q1",
+          "episodeId": "EP002",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The 1998 song 'Take Me There' was performed by Blackstreet and Mýa as the lead track for which animated film's soundtrack?",
+          "choices": [
+            "A Bug's Life",
+            "The Rugrats Movie",
+            "Mulan",
+            "The Prince of Egypt"
+          ],
+          "correctIndex": 1,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Blackstreet & Mýa ft. Mase & Blinky Blink",
+            "song": "Take Me There",
+            "album": "The Rugrats Movie Soundtrack",
+            "year": 1998,
+            "topicTags": [
+              "Blackstreet",
+              "Mýa",
+              "Mase",
+              "Rugrats",
+              "soundtrack",
+              "collab"
+            ],
+            "fact": "'Take Me There' reached the top 20 on the Billboard Hot 100 and was the lead single from The Rugrats Movie soundtrack on Interscope Records.",
+            "storyHook": "A genuine hit hiding inside a children's movie — the collab nobody expected from the artists nobody would have paired.",
+            "sourceNotes": "IMDB The Rugrats Movie (Paramount/Nickelodeon, 1998) soundtrack listing confirms 'Take Me There' by Blackstreet & Mýa ft. Mase & Blinky Blink. Official Interscope Records Rugrats Movie soundtrack liner notes. Billboard singles chart history confirms the track reached the Hot 100.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Take Me There (Blackstreet and Mýa song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Take_Me_There_(Blackstreet_and_M%C3%BDa_song)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R3-Q2",
+          "episodeId": "EP002",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Gerald Levert's father Eddie Levert is the longtime lead singer of which soul group?",
+          "choices": [
+            "The Temptations",
+            "The O'Jays",
+            "The Spinners",
+            "The Four Tops"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Gerald Levert",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Gerald Levert",
+              "Eddie Levert",
+              "The O'Jays",
+              "family",
+              "soul"
+            ],
+            "fact": "Eddie Levert and Gerald Levert recorded together as Levert Sweat Gill and separately as 'Father and Son' — releasing a joint album in 1995.",
+            "storyHook": "The Leverts — where Philadelphia soul handed the baton directly to 90s R&B.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Gerald Levert – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Gerald_Levert",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R3-B1",
+          "episodeId": "EP002",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Janet Jackson's 1997 hit 'Got 'til It's Gone' prominently sampled a song by which singer-songwriter?",
+          "choices": [
+            "Joni Mitchell",
+            "Joan Baez",
+            "Carly Simon",
+            "Carole King"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — WHO JANET SAMPLED ON 'GOT 'TIL IT'S GONE'",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": "Got 'til It's Gone",
+            "album": "The Velvet Rope",
+            "year": 1997,
+            "topicTags": [
+              "Janet Jackson",
+              "Joni Mitchell",
+              "sample",
+              "The Velvet Rope",
+              "bonus digit"
+            ],
+            "fact": "'Got 'til It's Gone' samples Joni Mitchell's 'Big Yellow Taxi' (1970) — Mitchell is credited on the recording.",
+            "storyHook": "The most unexpected sample in 90s R&B — Janet reaching back to Joni Mitchell while Q-Tip held the mic.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Got 'til It's Gone – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Got_%27til_It%27s_Gone",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP002-R3-RES1",
+          "episodeId": "EP002",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Before his 2000 solo breakout with 'Thong Song,' Sisqó was a lead vocalist in which R&B group?",
+          "choices": [
+            "Jagged Edge",
+            "Dru Hill",
+            "Next",
+            "Ideal"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sisqó",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Sisqó",
+              "Dru Hill",
+              "group member",
+              "solo career",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sisqó – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sisq%C3%B3",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP002-R3-RES2",
+          "episodeId": "EP002",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Keith Sweat's 1996 hit 'Twisted' featured which R&B trio?",
+          "choices": [
+            "Changing Faces",
+            "Total",
+            "Kut Klose",
+            "702"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Keith Sweat ft. Kut Klose",
+            "song": "Twisted",
+            "album": "Keith Sweat",
+            "year": 1996,
+            "topicTags": [
+              "Keith Sweat",
+              "Kut Klose",
+              "feature",
+              "New Jack Swing",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Twisted (Keith Sweat song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Twisted_(Keith_Sweat_song)",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.0",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-20T22:55:30.271967+00:00"
+  }
+}

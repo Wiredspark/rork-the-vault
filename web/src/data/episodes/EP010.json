@@ -1,0 +1,1489 @@
+{
+  "episodeId": "EP010",
+  "title": "The Gospel Crossover",
+  "theme": "The collision of the church and the charts in the 1990s, featuring the artists, producers, and labels that blurred the lines between secular R&B and contemporary gospel",
+  "narrativePurpose": "Test the player's knowledge of the roots of 90s R&B vocal styling and the specific crossover moments that dominated mainstream radio",
+  "toneProgression": "Massive secular hits with church origins → Crossover production history → Label origins and obscure group rosters",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "7"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-7 — the year Kirk Franklin's Stomp featuring God's Property crossed out of gospel radio and onto the pop mainstream. The year the church finally took a chart position."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The massive hits that took the church to the club. Identify the crossover anthems and the R&B stars with deep gospel roots.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "questions": [
+        {
+          "id": "EP010-R1-Q1",
+          "episodeId": "EP010",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which artist collaborated with God's Property on the massive 1997 crossover hit 'Stomp'?",
+          "choices": [
+            "Hezekiah Walker",
+            "Fred Hammond",
+            "John P. Kee",
+            "Kirk Franklin"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Kirk Franklin",
+            "song": "Stomp",
+            "album": "God's Property from Kirk Franklin's Nu Nation",
+            "year": 1997,
+            "topicTags": [
+              "Kirk Franklin",
+              "Stomp",
+              "God's Property",
+              "crossover"
+            ],
+            "fact": "'Stomp' was a watershed moment for 90s gospel, receiving massive airplay on secular MTV and R&B radio stations.",
+            "storyHook": "The song that made the church youth choir the coolest group on MTV.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Stomp (God's Property song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Stomp_(God%27s_Property_song)",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Stomp – God's Property – Spotify",
+                "url": "https://open.spotify.com/track/07nv6M8pDLGNZoNpwp2RRD",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 150,
+          "timer": 15
+        },
+        {
+          "id": "EP010-R1-Q2",
+          "episodeId": "EP010",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Whitney Houston's 1996 album — the best-selling gospel album of all time — was the soundtrack to which movie?",
+          "choices": [
+            "The Bodyguard",
+            "The Preacher's Wife",
+            "Waiting to Exhale",
+            "Sparkle"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": null,
+            "album": "The Preacher's Wife",
+            "year": 1996,
+            "topicTags": [
+              "Whitney Houston",
+              "The Preacher's Wife",
+              "soundtrack",
+              "gospel"
+            ],
+            "fact": "The Preacher's Wife remains the best-selling gospel album in history, moving an estimated 6 million copies worldwide.",
+            "storyHook": "",
+            "sourceNotes": "RIAA certification database. Official Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Preacher's Wife soundtrack – For The Love of Whitney Facebook",
+                "url": "https://www.facebook.com/ForTheLoveOfWhitney/posts/29-years-later-and-the-preachers-wife-soundtrack-still-reigns-the-best-sellin",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 250,
+          "timer": 15
+        },
+        {
+          "id": "EP010-R1-Q3",
+          "episodeId": "EP010",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which Minneapolis-based ensemble had a 1991 R&B crossover hit with 'Optimistic'?",
+          "choices": [
+            "Mint Condition",
+            "Lo-Key?",
+            "Sounds of Blackness",
+            "The Steeles"
+          ],
+          "correctIndex": 2,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sounds of Blackness",
+            "song": "Optimistic",
+            "album": "The Evolution of Gospel",
+            "year": 1991,
+            "topicTags": [
+              "Sounds of Blackness",
+              "Optimistic",
+              "Minneapolis"
+            ],
+            "fact": "Sounds of Blackness blended traditional gospel with New Jack Swing, scoring a massive R&B chart hit with 'Optimistic'.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sounds of Blackness – Optimistic – YouTube",
+                "url": "https://www.youtube.com/watch?v=6kxI1fcOjSY",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 350,
+          "timer": 15
+        },
+        {
+          "id": "EP010-R1-Q4",
+          "episodeId": "EP010",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which sister-brother duo dominated the early 90s R&B charts with hits like 'Addictive Love' and 'I'll Take You There'?",
+          "choices": [
+            "Trin-i-tee 5:7",
+            "BeBe & CeCe Winans",
+            "Mary Mary",
+            "The Clark Sisters"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "BeBe & CeCe Winans",
+            "song": "Addictive Love",
+            "album": "Different Lifestyles",
+            "year": 1991,
+            "topicTags": [
+              "BeBe & CeCe Winans",
+              "Addictive Love",
+              "duo",
+              "crossover"
+            ],
+            "fact": "'Addictive Love' spent two weeks at #1 on the Billboard Hot R&B Singles chart in 1991.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "BeBe & CeCe Winans – Addictive Love – YouTube",
+                "url": "https://www.youtube.com/watch?v=9YRKIu3oiYs",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 450,
+          "timer": 15
+        },
+        {
+          "id": "EP010-R1-Q5",
+          "episodeId": "EP010",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Before becoming a Bad Boy Records star, which artist grew up singing in the church and directed the choir at her Newark, New Jersey parish?",
+          "choices": [
+            "Total",
+            "Mary J. Blige",
+            "Kelly Price",
+            "Faith Evans"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Faith Evans",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Faith Evans",
+              "Bad Boy",
+              "Newark",
+              "choir"
+            ],
+            "fact": "Faith Evans' heavy gospel vocal arrangements became the signature sonic backbone for early Bad Boy Records hits.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Faith Evans – Instagram profile",
+                "url": "https://www.instagram.com/therealfaithevans/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Faith Evans – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Faith_Evans",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 550,
+          "timer": 15
+        },
+        {
+          "id": "EP010-R1-Q6",
+          "episodeId": "EP010",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which R&B duo, originally part of the supergroup Jodeci, started their career performing in the gospel group Little Cedric and the Hailey Singers?",
+          "choices": [
+            "Ruff Endz",
+            "Playa",
+            "Boyz II Men",
+            "K-Ci & JoJo"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "K-Ci & JoJo",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "K-Ci & JoJo",
+              "Jodeci",
+              "Little Cedric",
+              "gospel roots"
+            ],
+            "fact": "Brothers Cedric and Joel Hailey released three gospel albums as Little Cedric and the Hailey Singers in the 1980s before joining Jodeci.",
+            "storyHook": "You can't have the grit of 90s R&B without the sweat of the 80s gospel circuit.",
+            "sourceNotes": "Official Discogs database for Little Cedric and the Hailey Singers. Jodeci historical biographies confirm origin.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "K-Ci & JoJo – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/K-Ci_%26_JoJo",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 750,
+          "timer": 15
+        },
+        {
+          "id": "EP010-R1-B1",
+          "episodeId": "EP010",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Kirk Franklin's landmark crossover album 'The Nu Nation Project' — released in 1998 — was released on which independent gospel label?",
+          "choices": [
+            "Verity Records",
+            "GospoCentric Records",
+            "Sparrow Records",
+            "Word Records"
+          ],
+          "correctIndex": 1,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — NU NATION'S HOME LABEL",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": "Kirk Franklin",
+            "song": null,
+            "album": "The Nu Nation Project",
+            "year": 1998,
+            "topicTags": [
+              "Kirk Franklin",
+              "The Nu Nation Project",
+              "GospoCentric Records",
+              "1998",
+              "gospel crossover"
+            ],
+            "fact": "Kirk Franklin's 'The Nu Nation Project' was released on GospoCentric Records — the independent label that was home to his earlier work including 'Kirk Franklin & The Family' (1993) and 'Whatcha Lookin' 4' (1996). GospoCentric was distributed through Interscope and was the primary vehicle for gospel music crossing into the mainstream in the 1990s.",
+            "storyHook": "GospoCentric was the label that made it possible for gospel to reach secular radio. Kirk Franklin used it to build the bridge.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Nu Nation Project – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Nu_Nation_Project",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 0,
+          "timer": 20
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP010-R1-RES1",
+          "episodeId": "EP010",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which female vocal duo released the breakthrough gospel-R&B crossover hit 'Shackles (Praise You)' in 2000?",
+          "choices": [
+            "Virtue",
+            "Trin-i-tee 5:7",
+            "Out of Eden",
+            "Mary Mary"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary Mary",
+            "song": "Shackles (Praise You)",
+            "album": "Thankful",
+            "year": 2000,
+            "topicTags": [
+              "Mary Mary",
+              "Shackles",
+              "crossover",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Shackles (Praise You) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Shackles_(Praise_You)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 15
+        },
+        {
+          "id": "EP010-R1-RES2",
+          "episodeId": "EP010",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "CeCe Winans won a Grammy for Best Gospel Performance in 1996 for her duet with Whitney Houston on which song?",
+          "choices": [
+            "Celebrate",
+            "Count on Me",
+            "I Go to the Rock",
+            "Hold On"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": "A Song For Mama",
+            "album": "Soul Food Soundtrack",
+            "year": 1997,
+            "topicTags": [
+              "CeCe Winans",
+              "Whitney Houston",
+              "Count on Me",
+              "1996",
+              "Grammy",
+              "gospel crossover",
+              "swap reserve"
+            ],
+            "fact": "'Count on Me' — performed by Whitney Houston and CeCe Winans — appeared on the Waiting to Exhale soundtrack (1995). The song won the Grammy Award for Best Gospel Performance by a Duo, Group, Choir or Chorus at the 38th Grammy Awards in 1996.",
+            "storyHook": "Whitney Houston and CeCe Winans brought gospel to a mainstream soundtrack audience in 1995. The Grammys noticed.",
+            "sourceNotes": "IMDB soundtrack credits for Soul Food (1997). Official album liner notes.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Count On Me – Whitney Houston Facebook",
+                "url": "https://www.facebook.com/WhitneyHouston/posts/march-1996-count-on-me-recorded-by-best-friends-whitney-and-cece-winans-was-rele/1",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 15
+        },
+        {
+          "id": "EP010-R1-RES3",
+          "episodeId": "EP010",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which gospel star won a Grammy for her 1995 crossover duet 'Count On Me' with Whitney Houston?",
+          "choices": [
+            "CeCe Winans",
+            "Shirley Caesar",
+            "Yolanda Adams",
+            "Tramaine Hawkins"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "CeCe Winans",
+            "song": "Count On Me",
+            "album": "Waiting to Exhale Soundtrack",
+            "year": 1995,
+            "topicTags": [
+              "CeCe Winans",
+              "Whitney Houston",
+              "Count On Me",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Grammy Awards official database (1996 ceremony). Official CD liner notes for Waiting to Exhale.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Count On Me – Whitney Houston Facebook",
+                "url": "https://www.facebook.com/WhitneyHouston/posts/march-1996-count-on-me-recorded-by-best-friends-whitney-and-cece-winans-was-rele/1",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 15
+        },
+        {
+          "id": "EP010-R1-RES4",
+          "episodeId": "EP010",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mase's 1997 hit 'Feel So Good' featured an iconic uncredited hook by which R&B singer with deep church roots?",
+          "choices": [
+            "Kelly Price",
+            "Faith Evans",
+            "Keisha Spivey",
+            "Mary J. Blige"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Kelly Price",
+            "song": "Feel So Good",
+            "album": "Harlem World",
+            "year": 1997,
+            "topicTags": [
+              "Kelly Price",
+              "Mase",
+              "uncredited vocal",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "ASCAP repertoire database lists Kelly Price as co-writer/vocal arranger. Confirmed in multiple Bad Boy retrospective interviews.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Feel So Good – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Feel_So_Good",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 15
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Production history, labels, and the writers who built the bridge between the pulpit and the studio.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "questions": [
+        {
+          "id": "EP010-R2-Q1",
+          "episodeId": "EP010",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which secular hip-hop artist provided a famous guest verse on Kirk Franklin's 'Stomp'?",
+          "choices": [
+            "Left Eye",
+            "MC Lyte",
+            "Salt",
+            "Da Brat"
+          ],
+          "correctIndex": 2,
+          "bonus": null,
+          "metadata": {
+            "artist": "Salt",
+            "song": "Stomp",
+            "album": "God's Property from Kirk Franklin's Nu Nation",
+            "year": 1997,
+            "topicTags": [
+              "Salt",
+              "Salt-N-Pepa",
+              "Kirk Franklin",
+              "guest verse"
+            ],
+            "fact": "Cheryl 'Salt' James of Salt-N-Pepa provided the guest rap verse, famously asking 'G.P. are you with me?'",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for God's Property (B-Rite/Interscope). ASCAP database.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Stomp (God's Property song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Stomp_(God%27s_Property_song)",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Kirk Franklin & God's Property's Stomp ft. Salt – GospelGuru Facebook",
+                "url": "https://www.facebook.com/TheGospelGuru/videos/kirk-franklin-gods-propertys-stomp-ft-salt-a-classic-kirkfranklin-godsproperty-s/3",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 1000,
+          "timer": 17
+        },
+        {
+          "id": "EP010-R2-Q2",
+          "episodeId": "EP010",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which legendary R&B production duo signed and produced Sounds of Blackness for Perspective Records?",
+          "choices": [
+            "Jimmy Jam & Terry Lewis",
+            "Dallas Austin & Colin Wolfe",
+            "Teddy Riley & Bernard Belle",
+            "L.A. Reid & Babyface"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jimmy Jam & Terry Lewis",
+            "song": null,
+            "album": "The Evolution of Gospel",
+            "year": 1991,
+            "topicTags": [
+              "Jimmy Jam & Terry Lewis",
+              "Sounds of Blackness",
+              "Perspective Records"
+            ],
+            "fact": "Jam & Lewis co-founded Perspective Records with A&M and made Sounds of Blackness their flagship signing.",
+            "storyHook": "",
+            "sourceNotes": "Discogs entry for Perspective Records catalog. Official album credits for The Evolution of Gospel.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sounds of Blackness – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sounds_of_Blackness",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 1200,
+          "timer": 17
+        },
+        {
+          "id": "EP010-R2-Q3",
+          "episodeId": "EP010",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Kirk Franklin's massive 1990s catalog was originally released on which influential independent gospel label?",
+          "choices": [
+            "Malaco Records",
+            "Word Records",
+            "Verity Records",
+            "GospoCentric"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Kirk Franklin",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "GospoCentric",
+              "Kirk Franklin",
+              "label"
+            ],
+            "fact": "Founded by Vicki Mack Lataillade, GospoCentric Records launched Kirk Franklin's career before later partnering with major labels.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Kirk Franklin – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Kirk_Franklin",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "The Nu Nation Project – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Nu_Nation_Project",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 1400,
+          "timer": 17
+        },
+        {
+          "id": "EP010-R2-Q4",
+          "episodeId": "EP010",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which R&B maestro wrote and produced the 1996 hit 'You Put a Move on My Heart' for Tamia, heavily featuring a massive gospel vocal arrangement?",
+          "choices": [
+            "R. Kelly",
+            "Babyface",
+            "David Foster",
+            "Quincy Jones"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Quincy Jones",
+            "song": "You Put a Move on My Heart",
+            "album": "Q's Jook Joint",
+            "year": 1995,
+            "topicTags": [
+              "Quincy Jones",
+              "Tamia",
+              "arranger"
+            ],
+            "fact": "The song appeared on Quincy Jones's album Q's Jook Joint and introduced a young Tamia to the R&B world.",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Q's Jook Joint (Qwest). ASCAP database confirms Rod Temperton as original writer, Quincy as producer.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "You Put a Move on My Heart – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/You_Put_a_Move_on_My_Heart",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 1800,
+          "timer": 17
+        },
+        {
+          "id": "EP010-R2-Q5",
+          "episodeId": "EP010",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Mary Mary's 2000 debut crossover hit 'Shackles (Praise You)' was produced by which architect of modern R&B and Gospel?",
+          "choices": [
+            "Rodney Jerkins",
+            "Jermaine Dupri",
+            "Warryn Campbell",
+            "Bryan-Michael Cox"
+          ],
+          "correctIndex": 2,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary Mary",
+            "song": "Shackles (Praise You)",
+            "album": "Thankful",
+            "year": 2000,
+            "topicTags": [
+              "Warryn Campbell",
+              "Mary Mary",
+              "producer"
+            ],
+            "fact": "Warryn Campbell produced the track and co-wrote it, establishing a production dynasty that bridged secular and gospel music.",
+            "storyHook": "",
+            "sourceNotes": "Discogs entry for Thankful (Columbia). ASCAP database confirms Warryn Campbell as writer/producer.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Shackles (Praise You) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Shackles_(Praise_You)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 2100,
+          "timer": 17
+        },
+        {
+          "id": "EP010-R2-B1",
+          "episodeId": "EP010",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Sounds of Blackness debut album 'The Evolution of Gospel' (1991) was the inaugural release for which record label?",
+          "choices": [
+            "Rowdy Records",
+            "LaFace Records",
+            "Perspective Records",
+            "Uptown Records"
+          ],
+          "correctIndex": 2,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — JAM & LEWIS'S SIGNATURE LABEL",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Sounds of Blackness",
+            "song": null,
+            "album": "The Evolution of Gospel",
+            "year": 1991,
+            "topicTags": [
+              "Perspective Records",
+              "Sounds of Blackness",
+              "label",
+              "bonus digit"
+            ],
+            "fact": "Perspective Records was formed by Jimmy Jam and Terry Lewis, and this album served as its catalog number 001.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Evolution of Gospel – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Evolution_of_Gospel",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 0,
+          "timer": 20
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP010-R2-RES1",
+          "episodeId": "EP010",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Mariah Carey and Boyz II Men's 'One Sweet Day' — which topped the Billboard Hot 100 for 16 consecutive weeks — appeared on which Mariah Carey album?",
+          "choices": [
+            "Daydream",
+            "Music Box",
+            "Butterfly",
+            "Emotions"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": "One Sweet Day",
+            "album": "Daydream",
+            "year": 1995,
+            "topicTags": [
+              "Mariah Carey",
+              "Boyz II Men",
+              "One Sweet Day",
+              "Daydream",
+              "1995",
+              "gospel influence",
+              "swap reserve"
+            ],
+            "fact": "'One Sweet Day' appeared on Mariah Carey's fifth studio album 'Daydream,' released in October 1995. The song was written as a tribute to loved ones who had passed away. It spent 16 consecutive weeks at #1 on the Billboard Hot 100 — a record that stood until 2019.",
+            "storyHook": "Daydream carried the most successful collaboration in Hot 100 history. A record that stood for over two decades.",
+            "sourceNotes": "Official CD liner notes for Daydream (Columbia). Billboard Hot 100 historical data.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "One Sweet Day – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/One_Sweet_Day",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 17
+        },
+        {
+          "id": "EP010-R2-RES2",
+          "episodeId": "EP010",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which Bad Boy producer created the gospel-tinged backing track for Faith Evans' 'Soon As I Get Home'?",
+          "choices": [
+            "Stevie J",
+            "Chucky Thompson",
+            "Sean Combs",
+            "Deric Angelettie"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "Faith Evans",
+            "song": "Soon As I Get Home",
+            "album": "Faith",
+            "year": 1995,
+            "topicTags": [
+              "Chucky Thompson",
+              "Faith Evans",
+              "producer",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Discogs entry for Faith (Bad Boy). ASCAP database confirms Carl Thompson as writer/producer.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Faith (Faith Evans album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Faith_(Faith_Evans_album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 17
+        },
+        {
+          "id": "EP010-R2-RES3",
+          "episodeId": "EP010",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which gospel vocal arranger orchestrated the massive choir sound on Michael Jackson's 'Will You Be There'?",
+          "choices": [
+            "Andrae Crouch",
+            "Lionel Richie",
+            "Stevie Wonder",
+            "Mervyn Warren"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Michael Jackson",
+            "song": "Will You Be There",
+            "album": "Dangerous",
+            "year": 1991,
+            "topicTags": [
+              "Andrae Crouch",
+              "Michael Jackson",
+              "choir",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for Dangerous (Epic). Credits list Andraé Crouch Choir.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Will You Be There – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Will_You_Be_There",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 17
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The deepest connections between secular soul and the sanctuary. Sample origins and obscure background credits.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "questions": [
+        {
+          "id": "EP010-R3-Q1",
+          "episodeId": "EP010",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Which founding member of the R&B group Jodeci was originally a gospel organist who travelled the church circuit in North Carolina?",
+          "choices": [
+            "Dalvin DeGrate",
+            "DeVante Swing",
+            "K-Ci Hailey",
+            "JoJo Hailey"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jodeci",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "DeVante Swing",
+              "Jodeci",
+              "organist",
+              "North Carolina"
+            ],
+            "fact": "Donald 'DeVante Swing' DeGrate played organ for gospel choirs before forming Jodeci.",
+            "storyHook": "Before he defined the sound of 90s R&B, he was laying down chords in southern sanctuaries.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jodeci – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jodeci",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 4500,
+          "timer": 20
+        },
+        {
+          "id": "EP010-R3-Q2",
+          "episodeId": "EP010",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Which classic 1976 gospel track by the Clark Sisters was heavily sampled by Jay-Z on his 2001 track 'Family Affair'?",
+          "choices": [
+            "Ha Ya (Eternal Life)",
+            "Blessed & Highly Favored",
+            "Is My Living In Vain",
+            "You Brought The Sunshine"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Clark Sisters",
+            "song": "Ha Ya (Eternal Life)",
+            "album": "Unbelievable",
+            "year": 1976,
+            "topicTags": [
+              "The Clark Sisters",
+              "Jay-Z",
+              "sample",
+              "Ha Ya"
+            ],
+            "fact": "Producer Just Blaze sampled 'Ha Ya (Eternal Life)' to create the backdrop for Jay-Z's 'Family Affair'.",
+            "storyHook": "Hip hop producers never stopped digging through gospel crates to find the perfect loop.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ha Ya (Eternal Life) – Clark Sisters – WhoSampled",
+                "url": "https://www.whosampled.com/The-Clark-Sisters/Ha-Ya-(Eternal-Life)/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 5500,
+          "timer": 20
+        },
+        {
+          "id": "EP010-R3-B1",
+          "episodeId": "EP010",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Jimmy Jam and Terry Lewis founded Perspective Records — the gospel and inspirational imprint that launched Sounds of Blackness — as a joint venture with which major label?",
+          "choices": [
+            "MCA Records",
+            "Mercury Records",
+            "A&M Records",
+            "Columbia Records"
+          ],
+          "correctIndex": 2,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — SOUNDS OF BLACKNESS'S LABEL",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Sounds of Blackness",
+            "song": null,
+            "album": "The Evolution of Gospel",
+            "year": 1991,
+            "topicTags": [
+              "Jimmy Jam",
+              "Terry Lewis",
+              "Perspective Records",
+              "A&M Records",
+              "Sounds of Blackness",
+              "gospel",
+              "label"
+            ],
+            "fact": "Perspective Records was founded by Jimmy Jam and Terry Lewis as a joint venture with A&M Records — giving their gospel and inspirational imprint the distribution power of a major label while maintaining creative independence. It was the vehicle through which Sounds of Blackness reached a mainstream audience.",
+            "storyHook": "Jimmy Jam and Terry Lewis didn't just produce the music. They built the label to release it. A&M backed the whole operation.",
+            "sourceNotes": "PRIORITY VERIFY: Confirm Perspective Records was a joint venture between Jimmy Jam/Terry Lewis and A&M Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Perspective Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Perspective_Records",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": 0,
+          "timer": 23
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP010-R3-RES1",
+          "episodeId": "EP010",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Which major 90s record label briefly ran a gospel imprint called 'B-Rite Music' which housed the group Trin-i-tee 5:7?",
+          "choices": [
+            "Interscope Records",
+            "LaFace Records",
+            "Bad Boy Records",
+            "Def Jam"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Trin-i-tee 5:7",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "B-Rite Music",
+              "Interscope",
+              "label",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "B-Rite Music – AllMusic",
+                "url": "https://www.allmusic.com/label/b-rite-music-mw0000130251",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 20
+        },
+        {
+          "id": "EP010-R3-RES2",
+          "episodeId": "EP010",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Which legendary gospel and a cappella artist co-produced the choir arrangements on Whitney Houston's 'The Preacher's Wife' soundtrack?",
+          "choices": [
+            "Donald Lawrence",
+            "Kirk Franklin",
+            "Mervyn Warren",
+            "BeBe Winans"
+          ],
+          "correctIndex": 2,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": null,
+            "album": "The Preacher's Wife",
+            "year": 1996,
+            "topicTags": [
+              "Mervyn Warren",
+              "Whitney Houston",
+              "producer",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for The Preacher's Wife (Arista). IMDB Soundtracks database. Discogs credit entry.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Preacher's Wife (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Preachers_Wife_(soundtrack)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-27",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 20
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-19T19:04:02.495240+00:00"
+  }
+}

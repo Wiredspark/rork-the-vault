@@ -1,0 +1,1525 @@
+{
+  "episodeId": "EP014",
+  "title": "The Neo-Soul Vanguard",
+  "theme": "The late-90s rebellion against glossy, digital R&B. Live instrumentation, organic grooves, and incense.",
+  "narrativePurpose": "Test the depth of the neo-soul canon — the artists, albums, labels, and collective infrastructure that defined a movement.",
+  "toneProgression": "Artist and album identification → Soulquarians infrastructure, labels, Grammy history → etymology, birth names, studio geography",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "7"
+    },
+    "note": "Digit 4 (index 3) is always visible."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The artists and albums everyone heard. Identify the records and the names that defined the neo-soul era.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP014-R1-Q1",
+          "episodeId": "EP014",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Erykah Badu — widely known as the Queen of Neo-Soul — was born and raised in which Texas city?",
+          "choices": [
+            "Dallas",
+            "San Antonio",
+            "Houston",
+            "Fort Worth"
+          ],
+          "correctIndex": 0,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Erykah Badu",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Erykah Badu",
+              "Dallas",
+              "Texas",
+              "origin",
+              "neo-soul"
+            ],
+            "fact": "Erykah Badu was born Erica Abi Wright on February 26, 1971, in Dallas, Texas — she attended the Booker T. Washington High School for the Performing and Visual Arts, the same school that produced many of Dallas's most celebrated artists.",
+            "storyHook": "The Queen of Neo-Soul came from the same Dallas arts high school that would later produce Norah Jones. The pipeline was already running.",
+            "sourceNotes": "Erykah Badu biographical records. Booker T. Washington High School alumni lists.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Erykah Badu – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Erykah_Badu",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Erykah Badu – Texas Monthly",
+                "url": "https://www.texasmonthly.com/articles/erykah-badu/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Erykah Badu – African American Registry",
+                "url": "https://aaregistry.org/story/erykah-badu-singer-born/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R1-Q2",
+          "episodeId": "EP014",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "D'Angelo's 1995 debut album — a landmark of the neo-soul movement — was titled what?",
+          "choices": [
+            "Black Messiah",
+            "Voodoo",
+            "Brown Sugar",
+            "Live at Jazz Cafe"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": null,
+            "album": "Brown Sugar",
+            "year": 1995,
+            "topicTags": [
+              "D'Angelo",
+              "Brown Sugar",
+              "debut album",
+              "neo-soul",
+              "EMI"
+            ],
+            "fact": "Brown Sugar was released on EMI Records in 1995 — D'Angelo played nearly every instrument on the album himself, establishing a template of analog self-sufficiency that defined neo-soul production philosophy.",
+            "storyHook": "One man, almost every instrument, analog tape. D'Angelo didn't just release a debut album — he wrote the rulebook for how neo-soul would be made.",
+            "sourceNotes": "Brown Sugar liner notes (EMI, 1995). AllMusic editorial. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "D'Angelo released 'Brown Sugar' – The Current",
+                "url": "https://www.thecurrent.org/feature/2025/07/03/july-3-in-music-history-d-angelo-released-brown-sugar",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R1-Q3",
+          "episodeId": "EP014",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Jill Scott's 2000 debut album — her full introduction to a mainstream audience — was titled what?",
+          "choices": [
+            "Woman",
+            "The Light of the Sun",
+            "Experience: Jill Scott 826+",
+            "Who Is Jill Scott?"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jill Scott",
+            "song": null,
+            "album": "Who Is Jill Scott? Words and Sounds Vol. 1",
+            "year": 2000,
+            "topicTags": [
+              "Jill Scott",
+              "Who Is Jill Scott?",
+              "debut album",
+              "neo-soul",
+              "Hidden Beach"
+            ],
+            "fact": "Who Is Jill Scott? Words and Sounds Vol. 1 was released on Hidden Beach Recordings in July 2000 — Jill Scott had previously been best known as a spoken word artist and co-writer for The Roots before this debut.",
+            "storyHook": "She asked the question on the album title. By the end of 2000, nobody needed to ask it twice.",
+            "sourceNotes": "Who Is Jill Scott? liner notes (Hidden Beach, 2000). Billboard R&B chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Who Is Jill Scott? – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Who_Is_Jill_Scott%3F:_Words_and_Sounds_Vol._1",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R1-Q4",
+          "episodeId": "EP014",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Musiq Soulchild's 2000 debut album — introducing his signature blend of soul and hip-hop — was titled what?",
+          "choices": [
+            "Aijuswanaseing",
+            "Onmyradio",
+            "Luvanmusiq",
+            "Juslisen"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Musiq Soulchild",
+            "song": null,
+            "album": "Aijuswanaseing",
+            "year": 2000,
+            "topicTags": [
+              "Musiq Soulchild",
+              "Aijuswanaseing",
+              "debut album",
+              "neo-soul",
+              "Def Soul"
+            ],
+            "fact": "Aijuswanaseing — a phonetic spelling of 'I just want to sing' — was released on Def Soul Records in 2000, spawning the R&B hits 'Just Friends (Sunny)' and 'Love'.",
+            "storyHook": "The title was how it sounded. The music was how it felt. Musiq Soulchild made spelling optional and emotion mandatory.",
+            "sourceNotes": "Aijuswanaseing liner notes (Def Soul, 2000). Discogs release page. Billboard R&B chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Musiq released 'Aijuswanaseing' – Facebook/The Source",
+                "url": "https://www.facebook.com/TheSourceMagazine/posts/november-14-2000-musiq-soulchild-released-his-acclaimed-debut-album-aijuswanase/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R1-Q5",
+          "episodeId": "EP014",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Common's 2000 neo-soul breakthrough — primarily produced by J Dilla — was titled what?",
+          "choices": [
+            "Finding Forever",
+            "One Day It'll All Make Sense",
+            "Like Water for Chocolate",
+            "Be"
+          ],
+          "correctIndex": 2,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Common",
+            "song": null,
+            "album": "Like Water for Chocolate",
+            "year": 2000,
+            "topicTags": [
+              "Common",
+              "Like Water for Chocolate",
+              "J Dilla",
+              "neo-soul",
+              "MCA"
+            ],
+            "fact": "Like Water for Chocolate was released on MCA Records in 2000 — primarily produced by J Dilla, it featured contributions from Erykah Badu, Bilal, and Mos Def, cementing Common's place in the Soulquarians orbit.",
+            "storyHook": "J Dilla produced it. Erykah Badu appeared on it. Common rapped over all of it. The neo-soul universe in one album.",
+            "sourceNotes": "Like Water for Chocolate liner notes (MCA, 2000). ASCAP credits database. AllMusic editorial.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Like Water for Chocolate – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Like_Water_for_Chocolate_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R1-Q6",
+          "episodeId": "EP014",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The New York recording studio built by Jimi Hendrix — where the Soulquarians recorded the bulk of their work — is named what?",
+          "choices": [
+            "Platinum Sound",
+            "The Hit Factory",
+            "Electric Lady Studios",
+            "Quad Recording Studios"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1970,
+            "topicTags": [
+              "Electric Lady Studios",
+              "Jimi Hendrix",
+              "Soulquarians",
+              "Greenwich Village",
+              "recording studio"
+            ],
+            "fact": "Electric Lady Studios was built by Jimi Hendrix in 1970 in Greenwich Village — after Hendrix's death that same year, the studio became one of the most storied recording facilities in the world, hosting sessions for D'Angelo's Voodoo, Common's Like Water for Chocolate, and dozens of other landmark records.",
+            "storyHook": "Hendrix built it and never got to use it for long. The Soulquarians moved in thirty years later and made it their church.",
+            "sourceNotes": "Electric Lady Studios official history. Questlove interviews (Rolling Stone, 2000). D'Angelo Voodoo documentary sources.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Electric Lady Studios – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Electric_Lady_Studios",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R1-B1",
+          "episodeId": "EP014",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "D'Angelo's landmark second album 'Voodoo' — recorded live to tape at Electric Lady Studios — was released in what year?",
+          "choices": [
+            "2000",
+            "1999",
+            "1998",
+            "2001"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — YEAR VOODOO DROPPED"
+          },
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": null,
+            "album": "Voodoo",
+            "year": 2000,
+            "topicTags": [
+              "D'Angelo",
+              "Voodoo",
+              "Electric Lady Studios",
+              "2000",
+              "bonus digit"
+            ],
+            "fact": "Voodoo was released on January 25, 2000 — debuting at #1 on the Billboard 200 and winning the Grammy for Best R&B Album. It took D'Angelo five years to record and another fourteen to release a follow-up.",
+            "storyHook": "Five years in the making. Fourteen more years before the next one. Some albums earn the wait.",
+            "sourceNotes": "Voodoo liner notes (Virgin, 2000). Billboard 200 chart archives. Grammy Award records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "D'Angelo – Voodoo (2000) – Dork",
+                "url": "https://readdork.com/album/dangelo-voodoo",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP014-R1-RES1",
+          "episodeId": "EP014",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Maxwell's debut album 'Urban Hang Suite' was released on which major label?",
+          "choices": [
+            "MCA Records",
+            "Columbia Records",
+            "Motown",
+            "Virgin Records"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Maxwell",
+            "song": null,
+            "album": "Maxwell's Urban Hang Suite",
+            "year": 1996,
+            "topicTags": [
+              "Maxwell",
+              "Urban Hang Suite",
+              "Columbia Records",
+              "debut",
+              "label",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Maxwell's Urban Hang Suite liner notes (Columbia, 1996). Discogs release page.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Maxwell's Urban Hang Suite – Get On Down",
+                "url": "https://getondown.com/products/maxwells-urban-hang-suite-colored-2xlp",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R1-RES2",
+          "episodeId": "EP014",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which engineer and mixer became closely associated with the neo-soul movement by mixing 'Baduizm' and many Soulquarians sessions?",
+          "choices": [
+            "Questlove",
+            "Scott Storch",
+            "Jay Dee",
+            "Bob Power"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Bob Power",
+              "Baduizm",
+              "Soulquarians",
+              "mixing",
+              "engineer",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Baduizm liner notes (Kedar Entertainment, 1997). Soulquarians session documentation. Bob Power interview credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "RIP Bob Power – Discogs/Facebook tribute",
+                "url": "https://www.facebook.com/Discogs/posts/rip-to-the-legendary-music-engineer-and-producer-bob-power-power-contributed-to-/13864928",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R1-RES3",
+          "episodeId": "EP014",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The Roots — central to the Soulquarians collective — are from which city?",
+          "choices": [
+            "Baltimore",
+            "Washington D.C.",
+            "Philadelphia",
+            "New York"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Roots",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "The Roots",
+              "Philadelphia",
+              "origin",
+              "Soulquarians",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "The Roots biographical records. DGC / MCA Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Roots – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Roots",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R1-RES4",
+          "episodeId": "EP014",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Maxwell's 2000 hit 'Fortunate' appeared on the soundtrack of which film — a drama starring Eddie Murphy and Martin Lawrence?",
+          "choices": [
+            "Life",
+            "Ali",
+            "Bamboozled",
+            "Shaft"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Maxwell",
+            "song": "Fortunate",
+            "album": "Romeo Must Die Soundtrack",
+            "year": 2000,
+            "topicTags": [
+              "Maxwell",
+              "Fortunate",
+              "Life",
+              "soundtrack",
+              "1999",
+              "Eddie Murphy",
+              "Martin Lawrence"
+            ],
+            "fact": "Maxwell's 'Fortunate' appeared on the soundtrack of Life (1999) — the Eddie Murphy and Martin Lawrence prison comedy-drama directed by Ted Demme. The song became one of Maxwell's best-known tracks despite being a soundtrack cut rather than a lead album single.",
+            "storyHook": "",
+            "sourceNotes": "Verified: 'Fortunate' by Maxwell on the Life (1999) film soundtrack. Source: Wikipedia https://en.wikipedia.org/wiki/Fortunate_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Fortunate (Maxwell song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Fortunate_(song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Soulquarians infrastructure. Label mechanics. Grammy history. The production architecture behind the movement.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP014-R2-Q1",
+          "episodeId": "EP014",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Questlove — The Roots' drummer and studio architect of the Soulquarians collective — was born with what name?",
+          "choices": [
+            "Tariq Trotter",
+            "James Poyser",
+            "Frank Ocean",
+            "Ahmir Thompson"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Questlove",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Questlove",
+              "Ahmir Thompson",
+              "The Roots",
+              "Soulquarians",
+              "birth name"
+            ],
+            "fact": "Ahmir-Khalib Thompson — known as Questlove — was born January 20, 1971, in Philadelphia. As The Roots' drummer and primary creative conductor, he was the logistical center of the Soulquarians, scheduling and orchestrating sessions at Electric Lady Studios.",
+            "storyHook": "Behind every great neo-soul record of the era was Questlove holding the session together with a drumstick and a schedule.",
+            "sourceNotes": "Questlove 'Mo Meta Blues' memoir (2013). The Roots biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Roots – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Roots",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R2-Q2",
+          "episodeId": "EP014",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Roots' 1999 album — widely considered their masterpiece and a defining document of the neo-soul era — was titled what?",
+          "choices": [
+            "Phrenology",
+            "Things Fall Apart",
+            "Do You Want More?!!!??!",
+            "Illadelph Halflife"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Roots",
+            "song": null,
+            "album": "Things Fall Apart",
+            "year": 1999,
+            "topicTags": [
+              "The Roots",
+              "Things Fall Apart",
+              "neo-soul",
+              "MCA",
+              "Grammy"
+            ],
+            "fact": "Things Fall Apart was released on MCA Records in 1999 — its title drawn from Chinua Achebe's novel — and won the Grammy for Best Rap Album at the 2000 ceremony, the first time The Roots won the award.",
+            "storyHook": "Named after an African novel. Recorded in Philadelphia. Won a Grammy in Los Angeles. Things Fall Apart is what happens when a hip-hop band decides to make the record of their generation.",
+            "sourceNotes": "Things Fall Apart liner notes (MCA, 1999). Grammy Award records (42nd ceremony, 2000). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Things Fall Apart – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Things_Fall_Apart_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R2-Q3",
+          "episodeId": "EP014",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Maxwell's more experimental 1998 second album — a departure from the warmth of 'Urban Hang Suite' — was titled what?",
+          "choices": [
+            "Fortunate",
+            "Embrya",
+            "Now",
+            "BLACKsummers'night"
+          ],
+          "correctIndex": 1,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Maxwell",
+            "song": null,
+            "album": "Embrya",
+            "year": 1998,
+            "topicTags": [
+              "Maxwell",
+              "Embrya",
+              "Columbia Records",
+              "neo-soul",
+              "second album"
+            ],
+            "fact": "Embrya was released on Columbia Records in 1998 — its abstract, jazz-influenced production polarized listeners who expected Urban Hang Suite Part Two, but its experimentation laid the groundwork for Maxwell's long-term artistic credibility.",
+            "storyHook": "The difficult second album. Maxwell didn't want to make the same record twice. Not everyone was ready for that.",
+            "sourceNotes": "Embrya liner notes (Columbia, 1998). AllMusic editorial. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Embrya – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Embrya",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R2-Q4",
+          "episodeId": "EP014",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Erykah Badu's debut album 'Baduizm' was released on which boutique label imprint?",
+          "choices": [
+            "Kedar Entertainment",
+            "Hidden Beach Recordings",
+            "Rowdy Records",
+            "Blackground Records"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Erykah Badu",
+            "song": null,
+            "album": "Baduizm",
+            "year": 1997,
+            "topicTags": [
+              "Erykah Badu",
+              "Baduizm",
+              "Kedar Entertainment",
+              "label",
+              "Universal"
+            ],
+            "fact": "Baduizm was released on Kedar Entertainment — an imprint of Universal Records run by Kedar Massenburg — in February 1997. The label was specifically designed to develop organic, artist-driven R&B in contrast to the polished mainstream sound of the era.",
+            "storyHook": "A boutique label built for exactly this kind of music. Kedar Massenburg signed the right artist at the right moment.",
+            "sourceNotes": "Baduizm liner notes (Kedar Entertainment/Universal, 1997). Label history documentation. Discogs release page.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Baduizm – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Baduizm",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R2-Q5",
+          "episodeId": "EP014",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jill Scott co-wrote and originally sang on which The Roots track — before Erykah Badu's vocals were used on the official album recording?",
+          "choices": [
+            "The Next Movement",
+            "You Got Me",
+            "Act Too (The Love of My Life)",
+            "Double Trouble"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Roots ft. Erykah Badu",
+            "song": "You Got Me",
+            "album": "Things Fall Apart",
+            "year": 1999,
+            "topicTags": [
+              "Jill Scott",
+              "The Roots",
+              "You Got Me",
+              "Erykah Badu",
+              "co-writer",
+              "Things Fall Apart"
+            ],
+            "fact": "Jill Scott co-wrote 'You Got Me' and performed it live with The Roots — but the label wanted a more established name on the recorded version, and Erykah Badu was brought in to sing Scott's parts. The song won the Grammy for Best Rap Duo or Group Performance in 2000.",
+            "storyHook": "She wrote it. She sang it live. Someone else sang it on the record. Then it won a Grammy. That is Jill Scott's introduction to the music industry.",
+            "sourceNotes": "Things Fall Apart liner notes (MCA, 1999). ASCAP writer credits. Jill Scott interviews confirming co-write.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "You Got Me (The Roots song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/You_Got_Me_(The_Roots_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "writer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R2-B1",
+          "episodeId": "EP014",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "The Roots' 'You Got Me' — featuring Erykah Badu — won which Grammy Award at the 42nd ceremony in 2000?",
+          "choices": [
+            "Best Rap Performance by a Duo or Group",
+            "Best Rap Album",
+            "Best R&B Performance by a Duo or Group",
+            "Best R&B Song"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE GRAMMY THINGS FALL APART WON"
+          },
+          "metadata": {
+            "artist": "The Roots",
+            "song": "You Got Me",
+            "album": "Things Fall Apart",
+            "year": 2000,
+            "topicTags": [
+              "The Roots",
+              "You Got Me",
+              "Grammy",
+              "Best Rap Performance by a Duo or Group",
+              "Erykah Badu",
+              "2000",
+              "42nd Grammy Awards"
+            ],
+            "fact": "'You Got Me' by The Roots featuring Erykah Badu won Best Rap Performance by a Duo or Group at the 42nd Grammy Awards in 2000. Things Fall Apart was nominated for Best Rap Album but did not win — that award went to Eminem's The Slim Shady LP.",
+            "storyHook": "A live band playing hip-hop won the Grammy for rap. The genre was telling itself something.",
+            "sourceNotes": "Verified: 'You Got Me' won Best Rap Performance by a Duo or Group at 42nd Grammys. Things Fall Apart did NOT win Best Rap Album. Source: Wikipedia https://en.wikipedia.org/wiki/Things_Fall_Apart_(album)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Things Fall Apart – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Things_Fall_Apart_(album)",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "You Got Me (The Roots song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/You_Got_Me_(The_Roots_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP014-R2-RES1",
+          "episodeId": "EP014",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Which Philadelphia-born vocalist — known for his genre-defying falsetto — appeared on D'Angelo's 'Voodoo' and became a core Soulquarians collaborator?",
+          "choices": [
+            "Eric Benet",
+            "Bilal",
+            "Rahsaan Patterson",
+            "Anthony Hamilton"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bilal",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Bilal",
+              "Voodoo",
+              "D'Angelo",
+              "Soulquarians",
+              "Philadelphia",
+              "falsetto",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Voodoo liner notes (Virgin, 2000). Bilal biographical records. Soulquarians session documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bilal (American singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bilal_(American_singer)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R2-RES2",
+          "episodeId": "EP014",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "The Roots' 2002 album — which pushed their neo-soul aesthetic into harder, more experimental territory — was titled what?",
+          "choices": [
+            "Rising Down",
+            "Phrenology",
+            "The Tipping Point",
+            "Game Theory"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Roots",
+            "song": null,
+            "album": "Phrenology",
+            "year": 2002,
+            "topicTags": [
+              "The Roots",
+              "Phrenology",
+              "MCA Records",
+              "2002",
+              "neo-soul",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Phrenology liner notes (MCA, 2002). AllMusic editorial. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Phrenology (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Phrenology_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R2-RES3",
+          "episodeId": "EP014",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "J Dilla — whose production was central to the Soulquarians sound — was born under which name?",
+          "choices": [
+            "Jerome Artis",
+            "Jamil Faulkner",
+            "James Dewitt Yancey",
+            "Jerome Duplessis"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "J Dilla",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "J Dilla",
+              "James Dewitt Yancey",
+              "birth name",
+              "Soulquarians",
+              "producer",
+              "Detroit"
+            ],
+            "fact": "J Dilla was born James Dewitt Yancey in Detroit, Michigan. He worked under the name Jay Dee before becoming widely known as J Dilla — the production alias that became synonymous with the warmth, swing, and controlled imperfection at the heart of the neo-soul and hip-hop underground movements of the late 90s and early 2000s.",
+            "storyHook": "James Dewitt Yancey. Jay Dee. J Dilla. Three names for one of the most influential producers the movement ever had.",
+            "sourceNotes": "PRIORITY VERIFY: Confirm J Dilla's birth name is James Dewitt Yancey. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "J Dilla – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/J_Dilla",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-19",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Etymology, birth names, and studio geography. The archeology underneath the neo-soul movement that only obsessives tracked.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP014-R3-Q1",
+          "episodeId": "EP014",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The Soulquarians collective derived its name from the fact that several core members — including D'Angelo, Erykah Badu, Common, and Questlove — were born under which astrological sign?",
+          "choices": [
+            "Aquarius",
+            "Pisces",
+            "Capricorn",
+            "Scorpio"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Soulquarians",
+              "Aquarius",
+              "astrology",
+              "D'Angelo",
+              "Erykah Badu",
+              "Questlove",
+              "Common"
+            ],
+            "fact": "The Soulquarians — whose core included D'Angelo, Erykah Badu, Common, Questlove, J Dilla, Mos Def, and Bilal — took their name from the prevalence of Aquarius sun signs among the group. It was a collective identity built around shared sensibility as much as shared birthdate.",
+            "storyHook": "They named themselves after a star sign. Then they went and recorded some of the most important records of the decade. The stars were not wrong.",
+            "sourceNotes": "Questlove 'Mo Meta Blues' memoir (2013). Interviews with D'Angelo and Erykah Badu confirming Aquarius connection.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soulquarians – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soulquarians",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R3-Q2",
+          "episodeId": "EP014",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Erykah Badu's birth name — which she legally changed before launching her music career — was what?",
+          "choices": [
+            "Erykah Wright",
+            "Erica Abi Wright",
+            "Erica Badu",
+            "Fatimah Wright"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Erykah Badu",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Erykah Badu",
+              "Erica Abi Wright",
+              "birth name",
+              "Dallas",
+              "legal name change"
+            ],
+            "fact": "Erykah Badu was born Erica Abi Wright on February 26, 1971, in Dallas, Texas. She adopted the name Erykah — a spelling she said felt more African — and took 'Badu' from the scat syllables she used while improvising.",
+            "storyHook": "She renamed herself after a sound she made while singing. Then she made that sound mean something to a generation.",
+            "sourceNotes": "Erykah Badu biographical records. Interview sources confirming Badu surname origin. Texas birth records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Erykah Badu – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Erykah_Badu",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R3-B1",
+          "episodeId": "EP014",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Musiq Soulchild — the Philadelphia neo-soul artist behind 'Just Friends' and 'Love' — was born in what year?",
+          "choices": [
+            "1977",
+            "1978",
+            "1976",
+            "1975"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — YEAR MUSIQ SOULCHILD WAS BORN"
+          },
+          "metadata": {
+            "artist": "Musiq Soulchild",
+            "song": null,
+            "album": null,
+            "year": 1977,
+            "topicTags": [
+              "Musiq Soulchild",
+              "birth year",
+              "Philadelphia",
+              "neo-soul",
+              "bonus digit"
+            ],
+            "fact": "Musiq Soulchild — born Taalib Johnson on September 19, 1977, in Philadelphia — grew up in North Philly and developed his vocal style through years of busking before being signed to Def Soul Records.",
+            "storyHook": "A Philadelphia street singer who spelled his album title phonetically and made soul music that sounded like it had always existed.",
+            "sourceNotes": "Musiq Soulchild biographical records. Def Soul Records press materials. AllMusic artist page.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Musiq Soulchild – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Musiq_Soulchild",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP014-R3-RES1",
+          "episodeId": "EP014",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Electric Lady Studios — where the Soulquarians recorded many of their landmark sessions — is located in which Manhattan neighborhood?",
+          "choices": [
+            "Harlem",
+            "The East Village",
+            "Greenwich Village",
+            "SoHo"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Electric Lady Studios",
+              "Greenwich Village",
+              "Manhattan",
+              "Jimi Hendrix",
+              "location",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Electric Lady Studios official address (52 West 8th Street, New York, NY). Studio historical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Electric Lady Studios – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Electric_Lady_Studios",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP014-R3-RES2",
+          "episodeId": "EP014",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Erykah Badu's 2000 follow-up to 'Baduizm' — featuring the hit 'Bag Lady' — was titled what?",
+          "choices": [
+            "New Amerykah Part One",
+            "Worldwide Underground",
+            "Mama's Gun",
+            "Live"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Erykah Badu",
+            "song": null,
+            "album": "Mama's Gun",
+            "year": 2000,
+            "topicTags": [
+              "Erykah Badu",
+              "Mama's Gun",
+              "Bag Lady",
+              "2000",
+              "Motown",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Mama's Gun liner notes (Motown, 2000). Billboard chart archives confirming 'Bag Lady' peak.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mama's Gun – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mama%27s_Gun",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-08",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-19T15:01:04.187439+00:00"
+  }
+}

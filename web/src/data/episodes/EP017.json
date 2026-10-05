@@ -1,0 +1,1540 @@
+{
+  "episodeId": "EP017",
+  "title": "Flashes in the Pan",
+  "theme": "The 90s R&B acts whose second single was silence. They arrived loud and left without warning.",
+  "narrativePurpose": "Test knowledge of the one-hit wonder wave that sits just below the superstar tier — artists who had the song but not the career, and whose stories are as interesting as their hits.",
+  "toneProgression": "Identify the act from the hit → labels, cities, chart records, hidden collaborators → college origins, follow-up obscurities, and chart peaks nobody remembers",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "5"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-5 — the year Montell Jordan's This Is How We Do It spent seven weeks at #1 — the brightest flash from an artist who would never reach that altitude again. The peak of the one-summer era."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "Name the act from the hit. These songs were everywhere. The artists — less so.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP017-R1-Q1",
+          "episodeId": "EP017",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'Ditty' was the 1993 hip-hop-inflected R&B debut for which California-based artist?",
+          "choices": [
+            "B-Rock & the Bizz",
+            "Domino",
+            "Sir Mix-A-Lot",
+            "Paperboy"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Paperboy",
+            "song": "Ditty",
+            "album": "The Nine Yards",
+            "year": 1993,
+            "topicTags": [
+              "Paperboy",
+              "Ditty",
+              "1993",
+              "Sacramento",
+              "debut",
+              "funk"
+            ],
+            "fact": "'This Is How We Do It' debuted at #1 on the Billboard Hot 100 in 1995 and stayed there for seven weeks. Despite being the defining Los Angeles R&B party anthem of the decade — in feel, in delivery, in geography — the song is built on a sample from Slick Rick's 'Children's Story,' a definitively East Coast, Def Jam/New York hip-hop record from 1988. The ultimate West Coast party track ran entirely on an East Coast engine.",
+            "storyHook": "Seven weeks at #1. The defining LA party anthem of the decade. Built entirely on a Slick Rick sample from 1988. New York produced the groove. Los Angeles got the credit.",
+            "sourceNotes": "Billboard Hot 100 chart archives (1995). This Is How We Do It ASCAP sample credits (Def Jam, 1995). Slick Rick 'Children's Story' discography (Def Jam, 1988).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ditty (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ditty_(song)",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Paperboy – Apple Music artist bio",
+                "url": "https://music.apple.com/us/artist/paperboy/909190126",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R1-Q2",
+          "episodeId": "EP017",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'Too Close' — the 1997 slow jam that made parents nervous at school dances — was the breakthrough hit for which R&B trio?",
+          "choices": [
+            "112",
+            "Jagged Edge",
+            "Dru Hill",
+            "Next"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Next",
+            "song": "Too Close",
+            "album": "Rated Next",
+            "year": 1997,
+            "topicTags": [
+              "Next",
+              "Too Close",
+              "1997",
+              "slow jam",
+              "Minnesota"
+            ],
+            "fact": "'Too Close' reached #1 on the Billboard Hot 100 in 1998 and spent multiple weeks at the top — its frank lyrical content about physical arousal during slow dancing made it one of the most-discussed singles of the year while simultaneously making it one of the most-played.",
+            "storyHook": "The most honest slow jam of the decade. Every generation has one song that explains exactly what slow dancing is actually about. This was the 90s version.",
+            "sourceNotes": "Billboard Hot 100 chart archives (1998). Arista Records press materials. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Too Close (Next song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Too_Close_(Next_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R1-Q3",
+          "episodeId": "EP017",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'Freak Like Me' was the provocative 1995 debut hit for which female R&B artist?",
+          "choices": [
+            "Adina Howard",
+            "Mia X",
+            "Foxy Brown",
+            "Lil' Kim"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Adina Howard",
+            "song": "Freak Like Me",
+            "album": "Do You Wanna Ride?",
+            "year": 1995,
+            "topicTags": [
+              "Adina Howard",
+              "Freak Like Me",
+              "1995",
+              "East West Records",
+              "debut"
+            ],
+            "fact": "'Freak Like Me' reached #2 on the Billboard Hot 100 in 1995 — Adina Howard's debut announced a frank, unapologetic sexuality that preceded the conversation the industry would later have about female artists and explicit content. The follow-up album and singles failed to replicate its commercial impact.",
+            "storyHook": "She was ahead of the conversation. The industry wasn't ready for it in 1995, and the chart run proved it — the follow-up landed in silence.",
+            "sourceNotes": "Billboard Hot 100 chart archives (1995). East West Records press materials. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Freak Like Me – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Freak_like_Me",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R1-Q4",
+          "episodeId": "EP017",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'Candy Rain' was the 1994 summer smash for which New York quartet of brothers?",
+          "choices": [
+            "Illegal",
+            "Immature",
+            "Soul for Real",
+            "Portrait"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Soul for Real",
+            "song": "Candy Rain",
+            "album": "Candy Rain",
+            "year": 1994,
+            "topicTags": [
+              "Soul for Real",
+              "Candy Rain",
+              "1994",
+              "Uptown Records",
+              "brothers",
+              "New York"
+            ],
+            "fact": "'Candy Rain' reached #2 on the Billboard Hot 100 in 1994 and topped the R&B chart — Soul for Real were a quartet of brothers from Harlem signed to Uptown Records. Their smooth delivery made 'Candy Rain' a summer staple, but subsequent singles failed to approach its crossover success.",
+            "storyHook": "Brothers from Harlem. One summer. One song. The rain didn't fall twice.",
+            "sourceNotes": "Billboard Hot 100 and R&B chart archives (1994). Uptown/MCA Records press materials. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Candy Rain (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Candy_Rain_(song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R1-Q5",
+          "episodeId": "EP017",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'Liar' was the 2000 debut hit for which R&B group — whose confessional lyrics about unfaithfulness resonated across urban radio?",
+          "choices": [
+            "Profyle",
+            "Avant",
+            "Ideal",
+            "Next"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Profyle",
+            "song": "Liar",
+            "album": "Whispers in the Dark",
+            "year": 2000,
+            "topicTags": [
+              "Profyle",
+              "Liar",
+              "2000",
+              "Motown",
+              "debut",
+              "quiet storm"
+            ],
+            "fact": "'Liar' reached the top 5 on the Billboard R&B chart in 2000 and gave Profyle one of that year's most recognizable radio hits — the group's smooth Quiet Storm delivery and the song's direct subject matter drove significant airplay. The follow-up single failed to approach its success.",
+            "storyHook": "Michael Jackson's label, San Francisco origins, a platinum debut. The machinery was in place. The second act never came.",
+            "sourceNotes": "Billboard R&B chart archives (2000). Motown Records press materials. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Liar (Profyle song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Liar_(Profyle_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R1-Q6",
+          "episodeId": "EP017",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'Last Night' was the 1996 debut for which Philadelphia harmony group?",
+          "choices": [
+            "All-4-One",
+            "Az Yet",
+            "Boyz II Men",
+            "Shai"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Az Yet",
+            "song": "Last Night",
+            "album": "Az Yet",
+            "year": 1996,
+            "topicTags": [
+              "Az Yet",
+              "Last Night",
+              "1996",
+              "LaFace Records",
+              "Philadelphia",
+              "harmony"
+            ],
+            "fact": "'Last Night' reached #9 on the Billboard Hot 100 in 1996 — Az Yet were a Philadelphia-based harmony group signed to LaFace Records. The song featured a guest vocal bridge by Peter Cetera of Chicago and became one of the year's most recognizable R&B ballads.",
+            "storyHook": "A Philadelphia harmony group, a guest vocal from the lead singer of Chicago, and one of 1996's biggest ballads. The follow-up was not one of 1997's biggest ballads.",
+            "sourceNotes": "Billboard Hot 100 chart archives (1996). LaFace Records press materials. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Az Yet – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Az_Yet",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R1-B1",
+          "episodeId": "EP017",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "CeCe Peniston's 1992 dance-R&B crossover — which became one of the year's most durable club and radio hits — was titled what?",
+          "choices": [
+            "Keep On Walkin'",
+            "Finally",
+            "Wow",
+            "I'm in the Mood"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — CECE PENISTON'S BREAKTHROUGH SINGLE TITLE"
+          },
+          "metadata": {
+            "artist": "CeCe Peniston",
+            "song": "Finally",
+            "album": "Finally",
+            "year": 1992,
+            "topicTags": [
+              "CeCe Peniston",
+              "Finally",
+              "1992",
+              "A&M Records",
+              "dance",
+              "crossover",
+              "bonus digit"
+            ],
+            "fact": "'Finally' reached #5 on the Billboard Hot 100 in 1992 and topped the dance chart — CeCe Peniston's debut crossed over from club play to mainstream R&B radio and became one of the signature tracks of the year. Its energy and production placed it at the intersection of house music and traditional R&B.",
+            "storyHook": "A dance-floor hit that crossed over to pop radio. CeCe Peniston had the energy of a house anthem and the voice of an R&B star. The combination worked once at this scale.",
+            "sourceNotes": "Billboard Hot 100 and Dance chart archives (1992). A&M Records press materials. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Finally (CeCe Peniston song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Finally_(CeCe_Peniston_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP017-R1-RES1",
+          "episodeId": "EP017",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Montell Jordan's 1995 debut album — which launched the song that defined his career — shared its title with which single?",
+          "choices": [
+            "Get It On Tonite",
+            "This Is How We Do It",
+            "Somethin' 4 Da Honeyz",
+            "I Can Do That"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Montell Jordan",
+            "song": "This Is How We Do It",
+            "album": "This Is How We Do It",
+            "year": 1995,
+            "topicTags": [
+              "Montell Jordan",
+              "This Is How We Do It",
+              "debut album",
+              "Def Jam",
+              "1995",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "This Is How We Do It liner notes (Def Jam, 1995). Discogs release page.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Montell Jordan – This Is How We Do It – Dork",
+                "url": "https://readdork.com/album/montell-jordan-this-is-how-we-do-it",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R1-RES2",
+          "episodeId": "EP017",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Jade — the early-90s trio behind the slow jam 'Don't Walk Away' — had which 1992 debut hit?",
+          "choices": [
+            "I Wanna Love You",
+            "Don't Walk Away",
+            "Looking for Mr. Right",
+            "One Woman"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jade",
+            "song": "Don't Walk Away",
+            "album": "Jade to the Max",
+            "year": 1992,
+            "topicTags": [
+              "Jade",
+              "Don't Walk Away",
+              "1992",
+              "Giant Records",
+              "trio",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Jade to the Max liner notes (Giant Records, 1992). Billboard R&B chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Don't Walk Away (Jade song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Don%27t_Walk_Away_(Jade_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R1-RES3",
+          "episodeId": "EP017",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "DRS — the rap-influenced R&B act behind the 1993 funeral elegy 'Gangsta Lean' — stood for which three words?",
+          "choices": [
+            "Deep Rhythm Sounds",
+            "Dope Rhythm Specialists",
+            "Dirty Rotten Scoundrels",
+            "Def Rap Squad"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "DRS",
+            "song": "Gangsta Lean",
+            "album": "Gangsta Lean",
+            "year": 1993,
+            "topicTags": [
+              "DRS",
+              "Dirty Rotten Scoundrels",
+              "Gangsta Lean",
+              "1993",
+              "acronym",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "DRS official biography. Capitol Records press materials. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "DRS (band) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/DRS_(band)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R1-RES4",
+          "episodeId": "EP017",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Changing Faces — the duo behind the 1994 hit 'Stroke You Up' — were from which city?",
+          "choices": [
+            "Chicago",
+            "Los Angeles",
+            "New York",
+            "Atlanta"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Changing Faces",
+            "song": "Stroke You Up",
+            "album": "Changing Faces",
+            "year": 1994,
+            "topicTags": [
+              "Changing Faces",
+              "Stroke You Up",
+              "New York",
+              "1994",
+              "Big Beat Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Changing Faces official biography. Big Beat/Atlantic Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Changing Faces (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Changing_Faces_(group)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Labels, cities, hidden collaborators, and chart records that nobody tracked at the time.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP017-R2-Q1",
+          "episodeId": "EP017",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "3T — the sibling trio behind the 1995 hit 'Anything' — are the sons of which member of the Jackson family?",
+          "choices": [
+            "Randy Jackson",
+            "Jackie Jackson",
+            "Tito Jackson",
+            "Marlon Jackson"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "3T",
+            "song": "Anything",
+            "album": "Brotherhood",
+            "year": 1995,
+            "topicTags": [
+              "3T",
+              "Tito Jackson",
+              "Jackson family",
+              "1995",
+              "MJJ Music",
+              "sibling group"
+            ],
+            "fact": "3T — consisting of Tariano, Taj, and TJ Jackson — are the sons of Tito Jackson, the guitarist and founding member of The Jackson 5. Their 1995 debut single 'Anything' — which featured an uncredited appearance from Michael Jackson — became a major international hit, particularly in the UK, though the group never replicated that success in the US.",
+            "storyHook": "Sons of a Jackson. Featured their uncle Michael. Had a bigger hit in the UK than in America. The family name wasn't quite enough to sustain a career.",
+            "sourceNotes": "3T official biography. MJJ Music/Epic Records press materials. Jackson family documentation.",
+            "clipCue": "",
+            "hostNote": "All four choices are real Jackson brothers — maximum distractor potential.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "3T – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/3T",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R2-Q2",
+          "episodeId": "EP017",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Montell Jordan's 'This Is How We Do It' dominated the Billboard Hot 100 — spending how many weeks at #1 in 1995?",
+          "choices": [
+            "5",
+            "7",
+            "3",
+            "10"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Montell Jordan",
+            "song": "This Is How We Do It",
+            "album": "This Is How We Do It",
+            "year": 1995,
+            "topicTags": [
+              "Montell Jordan",
+              "This Is How We Do It",
+              "Hot 100",
+              "#1",
+              "7 weeks",
+              "chart"
+            ],
+            "fact": "'This Is How We Do It' spent seven consecutive weeks at #1 on the Billboard Hot 100 in 1995 — making it one of the longest-running debut chart-toppers of the decade. Its combination of effortless swagger, minimal production, and Montell Jordan's conversational delivery made it a defining record of the mid-90s party-anthem era.",
+            "storyHook": "Def Jam was hip-hop. Then Montell Jordan showed up with a party anthem, and the label realized R&B could be just as lucrative.",
+            "sourceNotes": "Billboard Hot 100 chart archives (1995). Def Jam Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "This Is How We Do It (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/This_Is_How_We_Do_It_(song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R2-Q3",
+          "episodeId": "EP017",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Az Yet followed up 'Last Night' with a David Foster-produced cover of 'Hard to Say I'm Sorry' — featuring which rock legend on vocals?",
+          "choices": [
+            "Michael McDonald",
+            "Kenny Loggins",
+            "Phil Collins",
+            "Peter Cetera"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Az Yet",
+            "song": "Last Night",
+            "album": "Az Yet",
+            "year": 1996,
+            "topicTags": [
+              "Az Yet",
+              "Peter Cetera",
+              "David Foster",
+              "Chicago",
+              "cover",
+              "1997"
+            ],
+            "fact": "Peter Cetera — original lead singer of Chicago — provided lead vocals on Az Yet's David Foster-produced cover of 'Hard to Say I'm Sorry.' The single was a modest R&B hit but failed to match the commercial impact of 'Last Night.'",
+            "storyHook": "A Philadelphia R&B group. The former lead singer of Chicago. One of 1996's most unlikely studio pairings — and one of the year's biggest ballads.",
+            "sourceNotes": "Az Yet official discography. David Foster production credits. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Az Yet – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Az_Yet",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R2-Q4",
+          "episodeId": "EP017",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Deborah Cox — the R&B singer behind 'Nobody's Supposed to Be Here' — is from which Canadian city?",
+          "choices": [
+            "Toronto",
+            "Montreal",
+            "Vancouver",
+            "Ottawa"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Deborah Cox",
+            "song": "Nobody's Supposed to Be Here",
+            "album": "One Wish",
+            "year": 1998,
+            "topicTags": [
+              "Deborah Cox",
+              "Toronto",
+              "Canada",
+              "R&B",
+              "Nobody's Supposed to Be Here"
+            ],
+            "fact": "Deborah Cox was born and raised in Toronto, Ontario — one of the few Canadian artists to achieve major mainstream R&B chart success in the US during the 90s. Her Toronto background shaped her vocal training, which blended gospel influences with the polished pop-R&B production that defined the LaFace Records sound.",
+            "storyHook": "Canadian, Toronto-trained, and one of the biggest R&B records of 1998. The R&B chart didn't care where she was from.",
+            "sourceNotes": "Deborah Cox official biography. Arista Records press materials. Toronto Star archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Deborah Cox – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Deborah_Cox",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R2-Q5",
+          "episodeId": "EP017",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Brownstone released their debut album 'From the Bottom Up' on which label imprint owned by Michael Jackson?",
+          "choices": [
+            "Uptown Records",
+            "Bad Boy Records",
+            "MJJ Music",
+            "LaFace Records"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brownstone",
+            "song": null,
+            "album": "From the Bottom Up",
+            "year": 1994,
+            "topicTags": [
+              "Brownstone",
+              "MJJ Music",
+              "Michael Jackson",
+              "Epic Records",
+              "label",
+              "From the Bottom Up"
+            ],
+            "fact": "MJJ Music was Michael Jackson's vanity imprint distributed through Epic Records — Brownstone were among the label's most successful R&B signings. The imprint's backing gave Brownstone major promotional support for their debut, contributing to the platinum performance of 'From the Bottom Up.'",
+            "storyHook": "Signed to Michael Jackson's label. Platinum debut. The machinery was in place. The second album didn't have the same engine.",
+            "sourceNotes": "From the Bottom Up liner notes (MJJ Music/Epic, 1994). Epic Records press materials. AllMusic label documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "From the Bottom Up (Brownstone album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/From_the_Bottom_Up_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R2-B1",
+          "episodeId": "EP017",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Deborah Cox's 'Nobody's Supposed to Be Here' set a then-record for most consecutive weeks at #1 on the US R&B chart — spending how many weeks at the top?",
+          "choices": [
+            "11",
+            "14",
+            "17",
+            "8"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — WEEKS DEBORAH COX HELD #1 ON THE R&B CHART"
+          },
+          "metadata": {
+            "artist": "Deborah Cox",
+            "song": "Nobody's Supposed to Be Here",
+            "album": "One Wish",
+            "year": 1998,
+            "topicTags": [
+              "Deborah Cox",
+              "Nobody's Supposed to Be Here",
+              "R&B chart",
+              "#1",
+              "14 weeks",
+              "record",
+              "bonus digit"
+            ],
+            "fact": "'Nobody's Supposed to Be Here' spent 14 consecutive weeks at #1 on the Billboard R&B/Hip-Hop Singles chart in 1998-1999 — setting a record at the time for longest run at the top position. The song's success made it one of the most statistically dominant R&B records of the decade despite Cox never achieving the same commercial peak again.",
+            "storyHook": "Fourteen weeks at #1. That's a record. That's also the entire arc of her mainstream career. One record-setting run, then quiet.",
+            "sourceNotes": "Billboard R&B/Hip-Hop Singles chart archives (1998-1999). Arista Records press materials. Record documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Nobody's Supposed to Be Here – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Nobody%27s_Supposed_to_Be_Here",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP017-R2-RES1",
+          "episodeId": "EP017",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Deborah Cox's 'Nobody's Supposed to Be Here' appeared on which 1998 album?",
+          "choices": [
+            "One Wish",
+            "Deborah Cox",
+            "Absolutely Not",
+            "Same Script Different Cast"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Deborah Cox",
+            "song": "Nobody's Supposed to Be Here",
+            "album": "One Wish",
+            "year": 1998,
+            "topicTags": [
+              "Deborah Cox",
+              "One Wish",
+              "1998",
+              "Arista Records",
+              "album",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "One Wish liner notes (Arista Records, 1998). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "One Wish (Deborah Cox album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/One_Wish_(Deborah_Cox_album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R2-RES2",
+          "episodeId": "EP017",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Profyle's breakthrough single 'Liar' appeared on their 2000 debut album — titled what?",
+          "choices": [
+            "Liar",
+            "Whispers in the Dark",
+            "Rated Next",
+            "Confessions"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Profyle",
+            "song": "Liar",
+            "album": "Whispers in the Dark",
+            "year": 2000,
+            "topicTags": [
+              "Profyle",
+              "Liar",
+              "Whispers in the Dark",
+              "album",
+              "Motown",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Whispers in the Dark liner notes (Motown, 2000). Billboard R&B chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Whispers in the Dark (Profyle album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Whispers_in_the_Dark_(Profyle_album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R2-RES3",
+          "episodeId": "EP017",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Kay Gee — the Naughty by Nature member who produced Next's 'Too Close' — was born under which name?",
+          "choices": [
+            "Keir Gist",
+            "Kyle Garrett",
+            "Kareem Gibson",
+            "Kevin Grant"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Next",
+            "song": "Too Close",
+            "album": "Rated Next",
+            "year": 1997,
+            "topicTags": [
+              "Kay Gee",
+              "Keir Gist",
+              "birth name",
+              "Naughty by Nature",
+              "producer"
+            ],
+            "fact": "Kay Gee's birth name is Keir Gist. He is best known as the DJ and producer of Naughty by Nature, but also built a parallel career producing R&B acts including Next.",
+            "storyHook": "The man behind Naughty by Nature made the slow jam that made parents nervous. Kay Gee produced 'Too Close.'",
+            "sourceNotes": "Verified: Kay Gee's birth name is Keir Lamont Gist. 'Keir Gist' is a shortened form consistent with all sources.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "KayGee – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/KayGee",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "DJ Kay Gee – WBSS Media",
+                "url": "https://wbssmedia.com/artists/detail/2244",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Happy Blessed Birthday to Keir Lamont Gist – Facebook",
+                "url": "https://www.facebook.com/AaliyahUnleashed/posts/happy-blessed-birthday-to-keir-lamont-gist-born-september-15-1969-professionally",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-18",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "College origins, follow-up obscurities, and the chart peaks that nobody tracked at the time.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP017-R3-Q1",
+          "episodeId": "EP017",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "After stepping away from recording music in the 2000s, Montell Jordan was ordained and embraced which vocation?",
+          "choices": [
+            "Producer",
+            "Pastor",
+            "Motivational Speaker",
+            "Sports Agent"
+          ],
+          "correctIndex": 1,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Montell Jordan",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Montell Jordan",
+              "pastor",
+              "ordained",
+              "post-music",
+              "Hidden Gems"
+            ],
+            "fact": "After his recording career slowed, Montell Jordan became an ordained pastor and has spoken publicly about his Christian faith and the decision to step away from secular music. His transition from one of the decade's biggest party anthems to pastoral ministry is one of the more dramatic post-fame arcs in 90s R&B.",
+            "storyHook": "Six foot eight. Pepperdine University. Communications major. One of the most improbable origin stories in 90s R&B.",
+            "sourceNotes": "Montell Jordan public interviews and pastoral ministry documentation. Christian music press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Montell Jordan – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Montell_Jordan",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R3-Q2",
+          "episodeId": "EP017",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "CeCe Peniston — whose 'Finally' became a club and radio staple — was born in which Ohio city?",
+          "choices": [
+            "Dayton",
+            "Cleveland",
+            "Cincinnati",
+            "Columbus"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "CeCe Peniston",
+            "song": "Finally",
+            "album": "Finally",
+            "year": 1992,
+            "topicTags": [
+              "CeCe Peniston",
+              "Dayton",
+              "Ohio",
+              "birthplace",
+              "biography"
+            ],
+            "fact": "CeCe Peniston was born in Dayton, Ohio — the same city that produced Roger Troutman and the Zapp sound. She later moved to Phoenix, Arizona, where she launched her music career.",
+            "storyHook": "Giant Records lasted eleven years and is remembered primarily by label historians. Jade's one big hit outlasted the label's cultural footprint.",
+            "sourceNotes": "Verified: CeCe Peniston born in Dayton, Ohio. Sources: Wikipedia, Gray Area, All American Speakers.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "CeCe Peniston – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/CeCe_Peniston",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "CeCe Peniston – Gray Area biography",
+                "url": "https://grayarea.org/community-entry/cece-peniston/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "CeCe Peniston Biography – All American Speakers",
+                "url": "https://www.allamericanspeakers.com/celebritytalentbios/CeCe+Peniston/426297",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R3-B1",
+          "episodeId": "EP017",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Brownstone's follow-up to 'If You Love Me' — which became a solid R&B hit in 1995 though it never matched its predecessor's crossover success — was titled what?",
+          "choices": [
+            "5 Miles to Empty",
+            "Grapevyne",
+            "Don't Go",
+            "Pass the Lovin'"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — BROWNSTONE'S FOLLOW-UP SINGLE TITLE"
+          },
+          "metadata": {
+            "artist": "Brownstone",
+            "song": "5 Miles to Empty",
+            "album": "From the Bottom Up",
+            "year": 1995,
+            "topicTags": [
+              "Brownstone",
+              "5 Miles to Empty",
+              "follow-up",
+              "1995",
+              "MJJ Music",
+              "bonus digit"
+            ],
+            "fact": "'5 Miles to Empty' was Brownstone's follow-up to 'If You Love Me' and reached the top 5 on the Billboard R&B chart in 1995 — it was a solid hit, but its failure to cross over to the Hot 100 with the same momentum as the debut signaled the commercial ceiling the group would ultimately hit.",
+            "storyHook": "The follow-up that did its job on R&B radio but didn't make the jump. Five miles to empty is a long way to run on fumes.",
+            "sourceNotes": "From the Bottom Up liner notes (MJJ Music/Epic, 1994). Billboard R&B chart archives (1995).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "5 Miles to Empty – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/5_Miles_to_Empty",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP017-R3-RES1",
+          "episodeId": "EP017",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "CeCe Peniston was born in which US state?",
+          "choices": [
+            "Texas",
+            "Georgia",
+            "Arizona",
+            "Ohio"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "CeCe Peniston",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "CeCe Peniston",
+              "Ohio",
+              "birthplace",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "CeCe Peniston biographical records. A&M Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "CeCe Peniston – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/CeCe_Peniston",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP017-R3-RES2",
+          "episodeId": "EP017",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "'Gangsta Lean' by DRS — which topped the R&B chart for six weeks — peaked at which position on the Billboard Hot 100?",
+          "choices": [
+            "#1",
+            "#4",
+            "#14",
+            "#9"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "DRS",
+            "song": "Gangsta Lean",
+            "album": "Gangsta Lean",
+            "year": 1993,
+            "topicTags": [
+              "DRS",
+              "Gangsta Lean",
+              "Billboard Hot 100",
+              "#1",
+              "1993",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Billboard Hot 100 and R&B chart archives (1993-1994). Capitol Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Gangsta Lean – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Gangsta_Lean",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-09",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-20T02:26:54.414737+00:00"
+  }
+}

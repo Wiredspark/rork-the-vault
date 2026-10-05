@@ -1,0 +1,1548 @@
+{
+  "episodeId": "EP009",
+  "title": "Baby Makers and Slow Jams",
+  "theme": "The Quiet Storm format, the late-night radio staples, and the artists who built careers entirely on slow tempos",
+  "narrativePurpose": "Test the depth of the slow jam canon — not just the hits, but the labels, the format history, and the artists who survived on tempo alone",
+  "toneProgression": "Famous slow jam identifications → Quiet Storm format history and personnel → label archaeology and format founding",
+  "version": "1.0",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "5"
+    },
+    "note": "Digit 4 (index 3) is always visible."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The slow jams everyone heard on late-night radio. The artists who made Saturday night R&B what it was.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP009-R1-Q1",
+          "episodeId": "EP009",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which artist had a 1995 debut smash with 'This Is How We Do It'?",
+          "choices": [
+            "Joe",
+            "Montell Jordan",
+            "Case",
+            "Jon B"
+          ],
+          "correctIndex": 1,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Montell Jordan",
+            "song": "This Is How We Do It",
+            "album": "This Is How We Do It",
+            "year": 1995,
+            "topicTags": [
+              "Montell Jordan",
+              "This Is How We Do It",
+              "debut",
+              "Def Jam",
+              "slow jam"
+            ],
+            "fact": "'This Is How We Do It' spent seven weeks at #1 on the Billboard Hot 100 in 1995 — Montell Jordan's commercial peak and one of the defining slow jams of the decade.",
+            "storyHook": "A six-foot-eight singer from Los Angeles made the smoothest record of 1995. Nobody saw it coming.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "This Is How We Do It – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/This_Is_How_We_Do_It",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "This Is How We Do It – Spotify",
+                "url": "https://open.spotify.com/album/6VTrm81s50qmidaYI6EjiQ",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R1-Q2",
+          "episodeId": "EP009",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brian McKnight's career-defining 1999 ballad 'Back at One' appeared on which album?",
+          "choices": [
+            "Anytime",
+            "Superhero",
+            "Back at One",
+            "Brian McKnight"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brian McKnight",
+            "song": "Back at One",
+            "album": "Back at One",
+            "year": 1999,
+            "topicTags": [
+              "Brian McKnight",
+              "Back at One",
+              "Motown",
+              "slow jam",
+              "ballad"
+            ],
+            "fact": "'Back at One' peaked at #2 on the Billboard Hot 100 in 1999 and earned Brian McKnight a Grammy nomination for Best Male R&B Vocal Performance.",
+            "storyHook": "The slow jam so smooth it became a counting lesson. Back at one.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Back at One (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Back_at_One_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R1-Q3",
+          "episodeId": "EP009",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "112's debut single 'Cupid' (1996) appeared on which debut album?",
+          "choices": [
+            "Only You",
+            "Room 112",
+            "112",
+            "Cupid"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "112",
+            "song": "Cupid",
+            "album": "Room 112",
+            "year": 1996,
+            "topicTags": [
+              "112",
+              "Cupid",
+              "Room 112",
+              "Bad Boy",
+              "slow jam",
+              "debut"
+            ],
+            "fact": "Room 112 was released on Puff Daddy's Bad Boy Entertainment in 1996 — 'Cupid' and 'Only You' established 112 as one of the label's defining slow jam acts.",
+            "storyHook": "Bad Boy's smooth side. Four Atlanta singers in a New York machine.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cupid – 112 – YouTube",
+                "url": "https://www.youtube.com/watch?v=8dtzMPApA4M",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "112 (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/112_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R1-Q4",
+          "episodeId": "EP009",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which R&B singer had a 1998 debut hit with 'Sweet Lady' before starring in the Fast & Furious franchise?",
+          "choices": [
+            "Case",
+            "Joe",
+            "Tyrese",
+            "Ginuwine"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tyrese",
+            "song": "Sweet Lady",
+            "album": "Tyrese",
+            "year": 1998,
+            "topicTags": [
+              "Tyrese",
+              "Sweet Lady",
+              "debut",
+              "RCA",
+              "slow jam",
+              "actor"
+            ],
+            "fact": "'Sweet Lady' reached #1 on the Billboard R&B chart in 1998 — Tyrese Gibson's commercial debut before his acting career in the Fast & Furious franchise redefined his public identity.",
+            "storyHook": "He sang himself into the room before he drove himself into a franchise.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tyrese Gibson – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tyrese_Gibson",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R1-Q5",
+          "episodeId": "EP009",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Next — the R&B trio behind 1997's 'Too Close' — were from which Midwestern city?",
+          "choices": [
+            "Chicago",
+            "Cleveland",
+            "Detroit",
+            "Minneapolis"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Next",
+            "song": "Too Close",
+            "album": "Rated Next",
+            "year": 1997,
+            "topicTags": [
+              "Next",
+              "Too Close",
+              "Minneapolis",
+              "Arista",
+              "slow jam",
+              "regional"
+            ],
+            "fact": "'Too Close' spent five weeks at #1 on the Billboard Hot 100 in 1998 — Next's only major chart-topper, and one of the most recognizable slow jams of the late decade.",
+            "storyHook": "Minneapolis gave the world Prince, then handed the baton to three guys with a story about a slow dance.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Next (American group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Next_(American_group)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R1-Q6",
+          "episodeId": "EP009",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Case's 1996 hit 'Touch Me Tease Me' from the Nutty Professor soundtrack featured which female rapper?",
+          "choices": [
+            "Foxy Brown",
+            "Lil' Kim",
+            "Da Brat",
+            "Yo-Yo"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Case ft. Foxy Brown",
+            "song": "Touch Me Tease Me",
+            "album": "The Nutty Professor Soundtrack",
+            "year": 1996,
+            "topicTags": [
+              "Case",
+              "Foxy Brown",
+              "Touch Me Tease Me",
+              "Nutty Professor",
+              "soundtrack",
+              "slow jam"
+            ],
+            "fact": "'Touch Me Tease Me' appeared on The Nutty Professor (1996) soundtrack — Foxy Brown's feature helped introduce both artists to a mainstream audience simultaneously.",
+            "storyHook": "A soundtrack slot handed two careers their first major push at the same time.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Touch Me Tease Me – Spotify",
+                "url": "https://open.spotify.com/track/7Ip3bBZzgBpjfkrdOR526P",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R1-B1",
+          "episodeId": "EP009",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Montell Jordan — whose debut dominated 1995 R&B — was born in what year?",
+          "choices": [
+            "1969",
+            "1966",
+            "1968",
+            "1967"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — YEAR JON B'S DEBUT DROPPED",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": "Jon B",
+            "song": null,
+            "album": "Bonafide",
+            "year": 1995,
+            "topicTags": [
+              "Jon B",
+              "Bonafide",
+              "debut album",
+              "Yab Yum",
+              "slow jam",
+              "bonus digit"
+            ],
+            "fact": "Montell Jordan was born on December 3, 1968 in Los Angeles, California.",
+            "storyHook": "A white kid from Pasadena making the kind of R&B that station directors assumed couldn't come from him.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Montell Jordan – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Montell_Jordan",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP009-R1-RES1",
+          "episodeId": "EP009",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brian McKnight — the slow jam architect behind Back at One — was born and raised in which upstate New York city?",
+          "choices": [
+            "Rochester",
+            "Albany",
+            "Syracuse",
+            "Buffalo"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Donnell Jones",
+            "song": "Where I Wanna Be",
+            "album": "Where I Wanna Be",
+            "year": 1999,
+            "topicTags": [
+              "Donnell Jones",
+              "Where I Wanna Be",
+              "Chicago",
+              "LaFace",
+              "slow jam",
+              "swap reserve"
+            ],
+            "fact": "Brian McKnight was born in Buffalo, New York, where he grew up alongside his brother Claude McKnight of Take 6.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Brian McKnight – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brian_McKnight",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R1-RES2",
+          "episodeId": "EP009",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Joe's 1997 major label breakthrough album 'All That I Am' was released on which label?",
+          "choices": [
+            "Columbia",
+            "Mercury Records",
+            "Jive Records",
+            "Motown"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Joe",
+            "song": null,
+            "album": "All That I Am",
+            "year": 1997,
+            "topicTags": [
+              "Joe",
+              "All That I Am",
+              "Jive Records",
+              "label",
+              "slow jam",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "All That I Am (Joe album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/All_That_I_Am_(Joe_album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R1-RES3",
+          "episodeId": "EP009",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which R&B female group featured 112 on their 1997 single 'All Cried Out'?",
+          "choices": [
+            "Jade",
+            "Total",
+            "Allure",
+            "Changing Faces"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Allure ft. 112",
+            "song": "All Cried Out",
+            "album": "Allure",
+            "year": 1997,
+            "topicTags": [
+              "Allure",
+              "112",
+              "All Cried Out",
+              "Crave Records",
+              "slow jam",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Allure – All Cried Out – YouTube",
+                "url": "https://www.youtube.com/watch?v=D2_A3Ia-69U",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R1-RES4",
+          "episodeId": "EP009",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Next's 'Too Close' appeared on which 1997 debut album?",
+          "choices": [
+            "Next",
+            "Rated Next",
+            "Too Close",
+            "Arrival"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Next",
+            "song": "Too Close",
+            "album": "Rated Next",
+            "year": 1997,
+            "topicTags": [
+              "Next",
+              "Rated Next",
+              "Too Close",
+              "debut album",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rated Next – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rated_Next",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Quiet Storm history. Label mechanics. The personnel and format infrastructure behind the slow jam economy.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP009-R2-Q1",
+          "episodeId": "EP009",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Quiet Storm late-night radio format was pioneered by DJ Melvin Lindsey at which Washington D.C. radio station?",
+          "choices": [
+            "WHUR-FM",
+            "WKYS",
+            "WPGC",
+            "WOL"
+          ],
+          "correctIndex": 0,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1976,
+            "topicTags": [
+              "WHUR-FM",
+              "Quiet Storm",
+              "Melvin Lindsey",
+              "Washington D.C.",
+              "radio format"
+            ],
+            "fact": "DJ Melvin Lindsey launched the Quiet Storm format at WHUR-FM (Howard University's radio station) in 1976 — the format spread nationally through the early 1980s and became the primary home for R&B slow jams through the 90s.",
+            "storyHook": "A college radio station in D.C. invented the format that every R&B slow jam artist in this episode owes their career to.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Quiet storm – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Quiet_storm",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R2-Q2",
+          "episodeId": "EP009",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Tyrese Gibson was discovered as a teenager after appearing in a nationally broadcast commercial for which soft drink brand?",
+          "choices": [
+            "Pepsi",
+            "Sprite",
+            "Dr Pepper",
+            "Coca-Cola"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tyrese",
+            "song": null,
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "Tyrese Gibson",
+              "Coca-Cola",
+              "commercial",
+              "discovery",
+              "1994"
+            ],
+            "fact": "Tyrese Gibson was discovered at age 16 after appearing in a 1994 Coca-Cola commercial — singing 'Always Coca-Cola' while riding a city bus. The ad launched his career and led directly to his record deal.",
+            "storyHook": "A fast food commercial launched one of the smoothest R&B careers of the late 90s. The slow jam pipeline ran through the golden arches.",
+            "sourceNotes": "Verified: Tyrese's breakthrough commercial was for Coca-Cola, not McDonald's. Sources: YouTube, theGrio, Mashed.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Coca-Cola Commercial (Tyrese Singing On Bus) 1994 – YouTube",
+                "url": "https://www.youtube.com/watch?v=djPDSIXy_eE",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Tyrese first TV appearance – Coca Cola 1994 – Facebook",
+                "url": "https://www.facebook.com/vintageaaeverything/posts/tyrese-first-tv-appearance-coca-cola-1994/898840188938680/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Tyrese recreates his 1994 Coca-Cola commercial – theGrio",
+                "url": "https://thegrio.com/2015/07/15/tyres-recreates-coke-commercial/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "How Coca-Cola Launched Tyrese Gibson's Career – Mashed",
+                "url": "https://www.mashed.com/426723/how-coca-cola-launched-tyrese-gibsons-career/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 4,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R2-Q3",
+          "episodeId": "EP009",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Brian McKnight's brother Claude is a founding member of which celebrated Christian a cappella group?",
+          "choices": [
+            "Sounds of Blackness",
+            "Take 6",
+            "Witness",
+            "Commissioned"
+          ],
+          "correctIndex": 1,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brian McKnight",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Brian McKnight",
+              "Claude McKnight",
+              "Take 6",
+              "gospel",
+              "a cappella",
+              "family"
+            ],
+            "fact": "Claude McKnight co-founded Take 6 — the Grammy-winning Christian a cappella sextet — while his brother Brian McKnight pursued a secular R&B career, making the McKnight family one of the most musically accomplished in 90s gospel and R&B.",
+            "storyHook": "Two brothers. Two lanes. Gospel and R&B split between them at birth.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Take 6 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Take_6",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Brian McKnight – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brian_McKnight",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R2-Q4",
+          "episodeId": "EP009",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Donell Jones's biggest single from his 1999 'Where I Wanna Be' album — which topped the Billboard R&B chart — was titled what?",
+          "choices": [
+            "This Luv",
+            "U Know What's Up",
+            "Where I Wanna Be",
+            "Shorty (Got Her Eyes on Me)"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Donell Jones",
+            "song": "U Know What's Up",
+            "album": "Where I Wanna Be",
+            "year": 1999,
+            "topicTags": [
+              "Donell Jones",
+              "U Know What's Up",
+              "LaFace",
+              "slow jam",
+              "R&B"
+            ],
+            "fact": "'U Know What's Up' was Donell Jones's commercial peak — produced by Jones and Kyle West, it reached #1 on the Billboard R&B chart and crossed into the pop top 10 in 1999.",
+            "storyHook": "The slow jam with the unexpected uptempo follow-up. One album, two completely different radio lanes.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Where I Wanna Be (Donell Jones album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Where_I_Wanna_Be_(Donell_Jones_album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R2-Q5",
+          "episodeId": "EP009",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Montell Jordan — before his 1995 breakthrough — attended which Malibu-based university on a basketball scholarship?",
+          "choices": [
+            "Cal State Northridge",
+            "UCLA",
+            "USC",
+            "Pepperdine University"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Montell Jordan",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Montell Jordan",
+              "Pepperdine University",
+              "Malibu",
+              "basketball",
+              "origin"
+            ],
+            "fact": "Montell Jordan attended Pepperdine University in Malibu on a basketball scholarship before his music career — his six-foot-eight frame made him one of the more physically imposing figures in 90s R&B.",
+            "storyHook": "He had a scholarship for basketball. He ended up making one of 1995's biggest records instead.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Montell Jordan – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Montell_Jordan",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R2-B1",
+          "episodeId": "EP009",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Tyrese Gibson — whose debut Sweet Lady anchored the late 90s slow jam era — was born in what year?",
+          "choices": [
+            "1978",
+            "1976",
+            "1979",
+            "1977"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — YEAR TYRESE'S DEBUT DROPPED",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Tyrese",
+            "song": null,
+            "album": "Tyrese",
+            "year": 1998,
+            "topicTags": [
+              "Tyrese",
+              "debut album",
+              "Sweet Lady",
+              "RCA",
+              "1998",
+              "bonus digit"
+            ],
+            "fact": "Tyrese Gibson was born December 30, 1978 in Los Angeles, California.",
+            "storyHook": "The final class of 90s slow jam stars. Tyrese made the cut.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tyrese Gibson – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tyrese_Gibson",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP009-R2-RES1",
+          "episodeId": "EP009",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Quiet Storm radio format takes its name from a 1975 album by which Motown legend?",
+          "choices": [
+            "Marvin Gaye",
+            "Stevie Wonder",
+            "Al Green",
+            "Smokey Robinson"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Smokey Robinson",
+            "song": null,
+            "album": "Quiet Storm",
+            "year": 1975,
+            "topicTags": [
+              "Smokey Robinson",
+              "Quiet Storm",
+              "Motown",
+              "radio format",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "A Quiet Storm – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/A_Quiet_Storm",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Quiet storm – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Quiet_storm",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R2-RES2",
+          "episodeId": "EP009",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Kay Gee — a co-writer and producer associated with the Next camp — was a founding member of which New Jersey rap group?",
+          "choices": [
+            "Naughty by Nature",
+            "Lords of the Underground",
+            "Poor Righteous Teachers",
+            "Redman"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Kay Gee",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Kay Gee",
+              "Naughty by Nature",
+              "Next",
+              "producer",
+              "New Jersey",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Naughty by Nature – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Naughty_by_Nature",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R2-RES3",
+          "episodeId": "EP009",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Case's self-titled 1996 debut album was released on which Def Jam imprint?",
+          "choices": [
+            "Island Black Music",
+            "Def Jam",
+            "Def Soul",
+            "Roc-A-Fella"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Case",
+            "song": null,
+            "album": "Case",
+            "year": 1996,
+            "topicTags": [
+              "Case",
+              "Def Soul",
+              "Def Jam",
+              "label",
+              "debut album",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Case (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Case_(singer)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Format founding history. Label archaeology. The infrastructure underneath the slow jam economy that only obsessives ever tracked.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP009-R3-Q1",
+          "episodeId": "EP009",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The Quiet Storm radio format takes its name from a 1975 Smokey Robinson album released on which Motown imprint?",
+          "choices": [
+            "Motown",
+            "Soul",
+            "Tamla",
+            "Gordy"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Smokey Robinson",
+            "song": null,
+            "album": "Quiet Storm",
+            "year": 1975,
+            "topicTags": [
+              "Smokey Robinson",
+              "Quiet Storm",
+              "Tamla",
+              "Motown",
+              "radio format",
+              "origin"
+            ],
+            "fact": "Smokey Robinson's Quiet Storm was released on Tamla — one of Motown's several imprint labels — in 1975. DJ Melvin Lindsey named his WHUR-FM late-night format after the album the following year, and the format has never left radio since.",
+            "storyHook": "An album title became a radio format became an entire aesthetic that defined 20 years of R&B. It started on a Motown sub-label most people have never heard of.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "A Quiet Storm – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/A_Quiet_Storm",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R3-Q2",
+          "episodeId": "EP009",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Next — the Minneapolis trio behind 'Too Close' — released their debut on which independent label distributed through Arista?",
+          "choices": [
+            "LaFace Records",
+            "Perspective Records",
+            "Divine Mill Records",
+            "So So Def"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Next",
+            "song": null,
+            "album": "Rated Next",
+            "year": 1997,
+            "topicTags": [
+              "Next",
+              "Divine Mill Records",
+              "Arista",
+              "Minneapolis",
+              "label",
+              "independent"
+            ],
+            "fact": "Next released Rated Next on Divine Mill Records — an independent imprint distributed through Arista — giving the Minneapolis trio major label reach through an indie structure that preserved their creative control.",
+            "storyHook": "Three guys from Minneapolis getting national distribution through a label most people needed Google to find.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Next (American group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Next_(American_group)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R3-B1",
+          "episodeId": "EP009",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Smokey Robinson's 'Quiet Storm' album — which gave a radio format its name — was released in what year?",
+          "choices": [
+            "1973",
+            "1974",
+            "1976",
+            "1975"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — YEAR SMOKEY'S QUIET STORM ALBUM DROPPED",
+            "codeDigit": "7"
+          },
+          "metadata": {
+            "artist": "Smokey Robinson",
+            "song": null,
+            "album": "Quiet Storm",
+            "year": 1975,
+            "topicTags": [
+              "Smokey Robinson",
+              "Quiet Storm",
+              "Tamla",
+              "1975",
+              "Motown",
+              "bonus digit"
+            ],
+            "fact": "Smokey Robinson's Quiet Storm was released in 1975 on Tamla Records — DJ Melvin Lindsey named his WHUR-FM radio segment after it the following year, and the format spread nationally through the late 1970s and 1980s.",
+            "storyHook": "A 1975 album nobody talks about anymore built the format that every artist in this episode depended on.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "A Quiet Storm – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/A_Quiet_Storm",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP009-R3-RES1",
+          "episodeId": "EP009",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Allure — who featured 112 on 'All Cried Out' — were signed to which label?",
+          "choices": [
+            "Motown",
+            "Atlantic Records",
+            "Bad Boy Records",
+            "Crave Records"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Allure",
+            "song": null,
+            "album": "Allure",
+            "year": 1997,
+            "topicTags": [
+              "Allure",
+              "Crave Records",
+              "label",
+              "112",
+              "All Cried Out",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Allure (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Allure_(group)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP009-R3-RES2",
+          "episodeId": "EP009",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Brian McKnight's 1992 self-titled debut — which contained 'One Last Cry' — was released on which label?",
+          "choices": [
+            "Giant Records",
+            "Motown",
+            "Mercury Records",
+            "Qwest Records"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brian McKnight",
+            "song": null,
+            "album": "Brian McKnight",
+            "year": 1992,
+            "topicTags": [
+              "Brian McKnight",
+              "Mercury Records",
+              "debut album",
+              "One Last Cry",
+              "label",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Brian McKnight (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brian_McKnight_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-26",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.0",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-19T22:30:45.518127+00:00"
+  }
+}

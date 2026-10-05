@@ -1,0 +1,1480 @@
+{
+  "episodeId": "EP011",
+  "title": "Sophomore Breakthroughs",
+  "theme": "Artists whose second albums completely shattered the ceiling set by their debuts.",
+  "narrativePurpose": "Test chronological discography knowledge by forcing players to separate an artist's breakout sophomore hits from their early debut singles.",
+  "toneProgression": "Massive sophomore chart toppers → Producers and lineup shifts between albums → Obscure credits on multi-platinum second albums",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The sophomore singles that changed everything. Differentiate the massive second-album anthems from the debut warm-ups.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "questions": [
+        {
+          "id": "EP011-R1-Q1",
+          "episodeId": "EP011",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which blockbuster single helped TLC's sophomore album 'CrazySexyCool' achieve Diamond status?",
+          "choices": [
+            "Waterfalls",
+            "Baby-Baby-Baby",
+            "Unpretty",
+            "Ain't 2 Proud 2 Beg"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "Waterfalls",
+            "album": "CrazySexyCool",
+            "year": 1995,
+            "topicTags": [
+              "TLC",
+              "CrazySexyCool",
+              "sophomore",
+              "Diamond"
+            ],
+            "fact": "'Waterfalls' spent seven weeks at #1 in 1995, propelling 'CrazySexyCool' to become the best-selling album by an American girl group.",
+            "storyHook": "They traded the oversized colorful clothes of their debut for silk pajamas and made history.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "CrazySexyCool – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/CrazySexyCool",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "TLC CrazySexyCool RIAA Multi-Platinum Award – MusicGoldmine",
+                "url": "https://musicgoldmine.com/products/tlc-crazy-sexy-cool-riaa-5x-multi-platinum-album-award",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 150,
+          "timer": 15
+        },
+        {
+          "id": "EP011-R1-Q2",
+          "episodeId": "EP011",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Usher's sophomore album 'My Way' spawned his first Billboard Hot 100 #1 single. Which song was it?",
+          "choices": [
+            "Nice & Slow",
+            "Think of You",
+            "U Remind Me",
+            "Yeah!"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Usher",
+            "song": "Nice & Slow",
+            "album": "My Way",
+            "year": 1997,
+            "topicTags": [
+              "Usher",
+              "My Way",
+              "sophomore",
+              "number one"
+            ],
+            "fact": "'Nice & Slow' hit #1 in early 1998, establishing Usher as a global superstar after a relatively modest debut album.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Usher's My Way at 25 – r/popheads",
+                "url": "https://www.reddit.com/r/popheads/comments/xfode8/25_years_ago_ushers_my_way/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 250,
+          "timer": 15
+        },
+        {
+          "id": "EP011-R1-Q3",
+          "episodeId": "EP011",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Destiny's Child's breakthrough sophomore album 'The Writing's on the Wall' featured which signature anthem?",
+          "choices": [
+            "Survivor",
+            "Independent Women Part I",
+            "No, No, No",
+            "Say My Name"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": "Say My Name",
+            "album": "The Writing's on the Wall",
+            "year": 1999,
+            "topicTags": [
+              "Destiny's Child",
+              "Say My Name",
+              "sophomore"
+            ],
+            "fact": "'Say My Name' won two Grammy Awards and pushed the sophomore album to over 8 million copies sold in the US.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Say My Name – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Say_My_Name",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 350,
+          "timer": 15
+        },
+        {
+          "id": "EP011-R1-Q4",
+          "episodeId": "EP011",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Aaliyah completely redefined her sound on her sophomore album 'One In A Million' with which title track?",
+          "choices": [
+            "Back & Forth",
+            "One In A Million",
+            "Age Ain't Nothing but a Number",
+            "Try Again"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": "One In A Million",
+            "album": "One In A Million",
+            "year": 1996,
+            "topicTags": [
+              "Aaliyah",
+              "One In A Million",
+              "sophomore"
+            ],
+            "fact": "The title track 'One In A Million' peaked at #1 on the Billboard Mainstream R&B/Hip-Hop chart.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "One in a Million (Aaliyah song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/One_in_a_Million_(Aaliyah_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 450,
+          "timer": 15
+        },
+        {
+          "id": "EP011-R1-Q5",
+          "episodeId": "EP011",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brandy's sophomore blockbuster 'Never Say Never' included a massive 13-week #1 duet with which fellow R&B star?",
+          "choices": [
+            "Monica",
+            "Faith Evans",
+            "Aaliyah",
+            "Mary J. Blige"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy",
+            "song": "The Boy Is Mine",
+            "album": "Never Say Never",
+            "year": 1998,
+            "topicTags": [
+              "Brandy",
+              "Monica",
+              "duet",
+              "sophomore"
+            ],
+            "fact": "'The Boy Is Mine' was the lead single from Brandy's second album, making it the best-selling female duet in US chart history.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Brandy & Monica's 'The Boy Is Mine' – Facebook",
+                "url": "https://www.facebook.com/groups/RandBSlowJamsOldandNew/posts/7814064271972347/",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 550,
+          "timer": 15
+        },
+        {
+          "id": "EP011-R1-Q6",
+          "episodeId": "EP011",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Jagged Edge hit double-platinum with their sophomore album 'J.E. Heartbreak', which featured which massive wedding staple?",
+          "choices": [
+            "Promise",
+            "I Gotta Be",
+            "Let's Get Married",
+            "Walked Outta Heaven"
+          ],
+          "correctIndex": 2,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jagged Edge",
+            "song": "Let's Get Married",
+            "album": "J.E. Heartbreak",
+            "year": 2000,
+            "topicTags": [
+              "Jagged Edge",
+              "Let's Get Married",
+              "sophomore"
+            ],
+            "fact": "'Let's Get Married' reached #11 on the Hot 100, far surpassing any single from their debut album.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Let's Get Married (Jagged Edge song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Let%27s_Get_Married_(Jagged_Edge_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 750,
+          "timer": 15
+        },
+        {
+          "id": "EP011-R1-B1",
+          "episodeId": "EP011",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Usher's sophomore album My Way was anchored by which lead debut single?",
+          "choices": [
+            "Nice & Slow",
+            "Slow Jam",
+            "My Way",
+            "You Make Me Wanna..."
+          ],
+          "correctIndex": 3,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "bonusHint": "DIGIT 1 OF 3 — THE LEAD SINGLE FROM USHER'S MY WAY",
+            "codeDigit": "1"
+          },
+          "metadata": {
+            "artist": "Usher",
+            "song": null,
+            "album": "My Way",
+            "year": 1997,
+            "topicTags": [
+              "Usher",
+              "My Way",
+              "year",
+              "bonus digit"
+            ],
+            "fact": "You Make Me Wanna... was the lead single from Usher's My Way (1997) — produced by Jermaine Dupri, it reached #2 on the Billboard Hot 100 and set the commercial tone for his sophomore breakthrough.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "You Make Me Wanna... – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/You_Make_Me_Wanna...",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 0,
+          "timer": 20
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP011-R1-RES1",
+          "episodeId": "EP011",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Dru Hill's sophomore album 'Enter the Dru' featured which massive lead single?",
+          "choices": [
+            "Tell Me",
+            "How Deep Is Your Love",
+            "Never Make a Promise",
+            "In My Bed"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "Dru Hill",
+            "song": "How Deep Is Your Love",
+            "album": "Enter the Dru",
+            "year": 1998,
+            "topicTags": [
+              "Dru Hill",
+              "sophomore",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "How Deep Is Your Love (Dru Hill song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/How_Deep_Is_Your_Love_(Dru_Hill_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 15
+        },
+        {
+          "id": "EP011-R1-RES2",
+          "episodeId": "EP011",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Monica's sophomore album 'The Boy Is Mine' featured which solo #1 hit?",
+          "choices": [
+            "The First Night",
+            "Don't Take It Personal (Just One of Dem Days)",
+            "Like This and Like That",
+            "So Gone"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Monica",
+            "song": "The First Night",
+            "album": "The Boy Is Mine",
+            "year": 1998,
+            "topicTags": [
+              "Monica",
+              "sophomore",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Boy Is Mine album – Soul In Stereo",
+                "url": "https://soulinstereo.com/2023/07/1998-rewind-remembering-monicas-the-boy-is-mine.html",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 15
+        },
+        {
+          "id": "EP011-R1-RES3",
+          "episodeId": "EP011",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "112's sophomore album 'Room 112' contained which hit featuring Mase?",
+          "choices": [
+            "Love Me",
+            "Only You",
+            "Dance with Me",
+            "Peaches & Cream"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "112",
+            "song": "Love Me",
+            "album": "Room 112",
+            "year": 1998,
+            "topicTags": [
+              "112",
+              "sophomore",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Love Me (112 song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Love_Me_(112_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 15
+        },
+        {
+          "id": "EP011-R1-RES4",
+          "episodeId": "EP011",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Ginuwine's sophomore album '100% Ginuwine' was anchored by which massive slow jam?",
+          "choices": [
+            "Pony",
+            "Differences",
+            "Tell Me Do U Wanna",
+            "So Anxious"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ginuwine",
+            "song": "So Anxious",
+            "album": "100% Ginuwine",
+            "year": 1999,
+            "topicTags": [
+              "Ginuwine",
+              "sophomore",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "So Anxious – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/So_Anxious",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 15
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The producers, writers, and lineup shifts that made these sophomore leaps possible.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "questions": [
+        {
+          "id": "EP011-R2-Q1",
+          "episodeId": "EP011",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Boyz II Men's sophomore album 'II' debuted at #1 in 1994 and was distributed through which legendary Motown founder's company?",
+          "choices": [
+            "Russell Simmons",
+            "Berry Gordy",
+            "Clive Davis",
+            "Andre Harrell"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": null,
+            "album": "II",
+            "year": 1994,
+            "topicTags": [
+              "Boyz II Men",
+              "II",
+              "Berry Gordy",
+              "Motown",
+              "sophomore album"
+            ],
+            "fact": "Boyz II Men's sophomore album 'II' was released on Motown Records in 1994 — Berry Gordy's label distributed one of the decade's best-selling R&B albums, debuting at #1 on the Billboard 200.",
+            "storyHook": "The Motown machine still had enough left to launch one of the 90s biggest records.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "II (Boyz II Men album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/II_(Boyz_II_Men_album)",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Motown – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Motown",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 1000,
+          "timer": 17
+        },
+        {
+          "id": "EP011-R2-Q2",
+          "episodeId": "EP011",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Timbaland and Missy Elliott took over production duties for Aaliyah's sophomore album, shifting her away from which debut producer?",
+          "choices": [
+            "Jermaine Dupri",
+            "Teddy Riley",
+            "R. Kelly",
+            "DeVante Swing"
+          ],
+          "correctIndex": 2,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": null,
+            "album": "One In A Million",
+            "year": 1996,
+            "topicTags": [
+              "Aaliyah",
+              "R. Kelly",
+              "producer",
+              "shift"
+            ],
+            "fact": "R. Kelly produced Aaliyah's entire debut album, but had no involvement in her sophomore release 'One In A Million'.",
+            "storyHook": "",
+            "sourceNotes": "Discogs entry for Age Ain't Nothing But A Number (Jive) vs One In A Million (Blackground). Album liner notes.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Age Ain't Nothing but a Number – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Age_Ain%27t_Nothing_but_a_Number",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 1200,
+          "timer": 17
+        },
+        {
+          "id": "EP011-R2-Q3",
+          "episodeId": "EP011",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "'The Writing's on the Wall' was the last Destiny's Child album to feature which original group member alongside Beyoncé and Kelly?",
+          "choices": [
+            "Farrah Franklin",
+            "Solange Knowles",
+            "Michelle Williams",
+            "LeToya Luckett"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": "The Writing's on the Wall",
+            "year": 1999,
+            "topicTags": [
+              "Destiny's Child",
+              "LeToya Luckett",
+              "group_member"
+            ],
+            "fact": "LeToya Luckett and LaTavia Roberson left Destiny's Child shortly after the release of their sophomore album.",
+            "storyHook": "The album was a breakthrough, but it broke the original lineup.",
+            "sourceNotes": "Official CD liner notes for The Writing's on the Wall (Columbia). Historical biographies of Destiny's Child group changes. ASCAP writer credits for LeToya on the album.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Writing's on the Wall – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Writing%27s_on_the_Wall_(album)",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Destiny's Child – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Destiny%27s_Child",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "group_member",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 1400,
+          "timer": 17
+        },
+        {
+          "id": "EP011-R2-Q4",
+          "episodeId": "EP011",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which prominent producer/writer co-wrote Brandy and Monica's 'The Boy Is Mine' for Brandy's sophomore album?",
+          "choices": [
+            "Sean Combs",
+            "Rodney Jerkins",
+            "Babyface",
+            "Dallas Austin"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy & Monica",
+            "song": "The Boy Is Mine",
+            "album": "Never Say Never",
+            "year": 1998,
+            "topicTags": [
+              "Brandy",
+              "Rodney Jerkins",
+              "writer",
+              "producer"
+            ],
+            "fact": "Rodney 'Darkchild' Jerkins co-wrote and produced 'The Boy Is Mine', defining Brandy's sophomore sound.",
+            "storyHook": "",
+            "sourceNotes": "Discogs entry for Never Say Never (Atlantic). ASCAP database confirms Rodney Jerkins as writer/producer. Official Billboard credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Boy Is Mine (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Boy_Is_Mine_(song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "writer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 1800,
+          "timer": 17
+        },
+        {
+          "id": "EP011-R2-Q5",
+          "episodeId": "EP011",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Dru Hill's sophomore album 'Enter the Dru' featured 'How Deep Is Your Love', which originally appeared on which film soundtrack?",
+          "choices": [
+            "The Nutty Professor",
+            "Soul Food",
+            "Space Jam",
+            "Rush Hour"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Dru Hill",
+            "song": "How Deep Is Your Love",
+            "album": "Enter the Dru",
+            "year": 1998,
+            "topicTags": [
+              "Dru Hill",
+              "soundtrack",
+              "Rush Hour"
+            ],
+            "fact": "'How Deep Is Your Love' served as the lead single for both the Rush Hour soundtrack and Dru Hill's sophomore album.",
+            "storyHook": "",
+            "sourceNotes": "IMDB Soundtracks database for Rush Hour (1998). Official CD liner notes for Enter the Dru (Island).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "How Deep Is Your Love (Dru Hill song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/How_Deep_Is_Your_Love_(Dru_Hill_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 2100,
+          "timer": 17
+        },
+        {
+          "id": "EP011-R2-B1",
+          "episodeId": "EP011",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Aaliyah's sophomore album One in a Million was released on which label founded by her uncle Barry Hankerson?",
+          "choices": [
+            "Interscope Records",
+            "Jive Records",
+            "Atlantic Records",
+            "Blackground Records"
+          ],
+          "correctIndex": 3,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "bonusHint": "DIGIT 2 OF 3 — THE LABEL BEHIND AALIYAH'S ONE IN A MILLION",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": null,
+            "album": "One In A Million",
+            "year": 1996,
+            "topicTags": [
+              "Aaliyah",
+              "One In A Million",
+              "year",
+              "bonus digit"
+            ],
+            "fact": "Blackground Records was founded by Barry Hankerson — Aaliyah's uncle — and distributed through Atlantic Records, giving her creative independence at a major label level.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "One in a Million (Aaliyah album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/One_in_a_Million_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 0,
+          "timer": 20
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP011-R2-RES1",
+          "episodeId": "EP011",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "D'Angelo's sophomore album 'Voodoo' was released on which label in 2000?",
+          "choices": [
+            "Motown",
+            "LaFace Records",
+            "Def Soul",
+            "Cheeba Sound / Virgin"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": null,
+            "album": "Voodoo",
+            "year": 2000,
+            "topicTags": [
+              "D'Angelo",
+              "label",
+              "Virgin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Voodoo (D'Angelo album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Voodoo_(D%27Angelo_album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 17
+        },
+        {
+          "id": "EP011-R2-RES2",
+          "episodeId": "EP011",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which producer crafted Next's sophomore hit 'Wifey' from 'Welcome II Nextasy'?",
+          "choices": [
+            "Jermaine Dupri",
+            "Darkchild",
+            "Teddy Riley",
+            "Kay Gee"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Next",
+            "song": "Wifey",
+            "album": "Welcome II Nextasy",
+            "year": 2000,
+            "topicTags": [
+              "Next",
+              "Kay Gee",
+              "producer",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Discogs entry for Welcome II Nextasy (Arista). ASCAP database confirms K. Gist as writer/producer.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wifey (Next song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Wifey_(song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 17
+        },
+        {
+          "id": "EP011-R2-RES3",
+          "episodeId": "EP011",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Ginuwine's 'So Anxious' from his sophomore album featured background vocals from which frequent collaborator?",
+          "choices": [
+            "Playa",
+            "Missy Elliott",
+            "Magoo",
+            "Static Major"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ginuwine",
+            "song": "So Anxious",
+            "album": "100% Ginuwine",
+            "year": 1999,
+            "topicTags": [
+              "Ginuwine",
+              "Static Major",
+              "vocals",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for 100% Ginuwine list Stephen 'Static' Garrett for backing vocals. ASCAP database confirms co-writer credit.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "So Anxious – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/So_Anxious",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 17
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Deep era cuts. The obscure samples and collectives that defined the legendary second albums.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "questions": [
+        {
+          "id": "EP011-R3-Q1",
+          "episodeId": "EP011",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "D'Angelo's sophomore album 'Voodoo' was heavily shaped by a collective of musicians known as what?",
+          "choices": [
+            "The Dungeon Family",
+            "The Hitmen",
+            "The Native Tongues",
+            "The Soulquarians"
+          ],
+          "correctIndex": 3,
+          "bonus": null,
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": null,
+            "album": "Voodoo",
+            "year": 2000,
+            "topicTags": [
+              "D'Angelo",
+              "Voodoo",
+              "Soulquarians",
+              "collective"
+            ],
+            "fact": "The Soulquarians (including Questlove, James Poyser, and Pino Palladino) were instrumental in the Electric Lady Studios sessions for 'Voodoo'.",
+            "storyHook": "The most famous neo-soul album ever made was built by a secret society of musicians in Greenwich Village.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soulquarians – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soulquarians",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 4500,
+          "timer": 20
+        },
+        {
+          "id": "EP011-R3-Q2",
+          "episodeId": "EP011",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "TLC's 'Waterfalls' from their sophomore album 'CrazySexyCool' heavily interpolated the horn line from 'Listen to What the Man Said' by which original performing artist?",
+          "choices": [
+            "The Isley Brothers",
+            "Paul McCartney & Wings",
+            "Steely Dan",
+            "Earth, Wind & Fire"
+          ],
+          "correctIndex": 1,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "Waterfalls",
+            "album": "CrazySexyCool",
+            "year": 1995,
+            "topicTags": [
+              "TLC",
+              "Waterfalls",
+              "sample",
+              "Paul McCartney"
+            ],
+            "fact": "The signature horn line in 'Waterfalls' is a direct interpolation of Paul McCartney & Wings' 1975 hit 'Listen to What the Man Said'.",
+            "storyHook": "The biggest R&B song of 1995 secretly owed its groove to a former Beatle.",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Listen to What the Man Said – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Listen_to_What_the_Man_Said",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Waterfalls (TLC song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Waterfalls_(TLC_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 5500,
+          "timer": 20
+        },
+        {
+          "id": "EP011-R3-B1",
+          "episodeId": "EP011",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Destiny's Child's breakthrough sophomore album — which launched their commercial dominance — was titled what?",
+          "choices": [
+            "This Is the Remix",
+            "Destiny's Child",
+            "Survivor",
+            "The Writing's on the Wall"
+          ],
+          "correctIndex": 3,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "bonusHint": "DIGIT 3 OF 3 — DESTINY'S CHILD'S SOPHOMORE ALBUM TITLE",
+            "codeDigit": "9"
+          },
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": "The Writing's on the Wall",
+            "year": 1999,
+            "topicTags": [
+              "Destiny's Child",
+              "year",
+              "bonus digit"
+            ],
+            "fact": "The Writing's on the Wall (1999) was Destiny's Child's breakthrough — it sold over 10 million copies worldwide and contained Say My Name and Bills, Bills, Bills.",
+            "storyHook": "",
+            "sourceNotes": "",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Writing's on the Wall – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Writing%27s_on_the_Wall_(album)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": 0,
+          "timer": 23
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP011-R3-RES1",
+          "episodeId": "EP011",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Aaliyah's Blackground Records label was founded by which music executive who was also her maternal uncle?",
+          "choices": [
+            "Barry Hankerson",
+            "Andre Harrell",
+            "Russell Simmons",
+            "Clive Davis"
+          ],
+          "correctIndex": 0,
+          "bonus": null,
+          "metadata": {
+            "artist": "Usher",
+            "song": "You Make Me Wanna...",
+            "album": "My Way",
+            "year": 1997,
+            "topicTags": [
+              "Usher",
+              "Jermaine Dupri",
+              "writer",
+              "swap reserve"
+            ],
+            "fact": "Barry Hankerson — Aaliyah's uncle and former husband of Gladys Knight — founded Blackground Entertainment specifically to develop Aaliyah's career, giving her both family support and professional infrastructure.",
+            "storyHook": "",
+            "sourceNotes": "Discogs entry for My Way (LaFace). ASCAP database confirms Jermaine Dupri as co-writer.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Blackground Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Blackground_Records",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "writer",
+            "sourcesCount": 1,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 20
+        },
+        {
+          "id": "EP011-R3-RES2",
+          "episodeId": "EP011",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Jagged Edge's sophomore album — which contained their signature slow jam Let's Get Married — was titled what?",
+          "choices": [
+            "Jagged Little Thrill",
+            "Baby Makin Project",
+            "J.E. Heartbreak",
+            "Hard"
+          ],
+          "correctIndex": 2,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jagged Edge",
+            "song": "Let's Get Married",
+            "album": "J.E. Heartbreak",
+            "year": 2000,
+            "topicTags": [
+              "Jagged Edge",
+              "Jermaine Dupri",
+              "producer",
+              "swap reserve"
+            ],
+            "fact": "J.E. Heartbreak (2000) was Jagged Edge's commercial breakthrough — produced largely by Jermaine Dupri, it went platinum and established the Atlanta quartet as slow jam royalty.",
+            "storyHook": "",
+            "sourceNotes": "Official CD liner notes for J.E. Heartbreak (So So Def/Columbia). ASCAP confirms Dupri.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "J.E. Heartbreak – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/J.E._Heartbreak",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Let's Get Married (Jagged Edge song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Let%27s_Get_Married_(Jagged_Edge_song)",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 2,
+            "lastVerified": "2026-04-30",
+            "flags": []
+          },
+          "payout": null,
+          "timer": 20
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-19T17:41:22.710835+00:00"
+  }
+}
