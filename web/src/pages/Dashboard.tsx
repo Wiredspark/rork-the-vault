@@ -1,13 +1,16 @@
-import { ArrowRight } from "lucide-react";
+import { ArrowRight, Trophy } from "lucide-react";
+import { useState } from "react";
 import { Link } from "react-router-dom";
 
 import { EpisodePicker } from "@/components/vault/EpisodePicker";
+import { LeaderboardDialog } from "@/components/vault/Leaderboard";
 import { IMAGES } from "@/data/assets";
 import { ACTIVE_MODULE } from "@/data/modules";
 import { useGame } from "@/providers/GameProvider";
 
 function Hero() {
   const { episode, status, state } = useGame();
+  const [boardOpen, setBoardOpen] = useState<boolean>(false);
   const cta =
     status === "fresh"
       ? { to: "/play", label: "Enter the Vault" }
@@ -40,6 +43,15 @@ function Hero() {
               {cta.label}
               <ArrowRight className="h-5 w-5" aria-hidden="true" />
             </Link>
+            <button
+              type="button"
+              onClick={() => setBoardOpen(true)}
+              className="ghost-neon-button h-14"
+              aria-haspopup="dialog"
+            >
+              <Trophy className="h-5 w-5" aria-hidden="true" />
+              Leaderboard
+            </button>
             {episode.status === "draft" && (
               <span className="rounded-full border border-vault-ice/25 px-3 py-1 text-[11px] font-semibold uppercase tracking-[0.2em] text-vault-ice/70">
                 Draft episode
@@ -49,6 +61,7 @@ function Hero() {
           <EpisodePicker className="mt-5" />
         </div>
       </div>
+      <LeaderboardDialog open={boardOpen} onOpenChange={setBoardOpen} />
     </section>
   );
 }

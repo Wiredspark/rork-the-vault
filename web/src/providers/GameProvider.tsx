@@ -52,6 +52,9 @@ const STORAGE_PREFIX = "the-vault:v3:";
 const LEGACY_STORAGE_KEY = "the-vault:v2";
 const SYNC_DEBOUNCE_MS = 900;
 const SYNC_RETRY_MS = 15000;
+// Safety net on top of the debounce: re-push dirty state periodically and when
+// the tab hides/unloads so a refresh mid-round never loses digit progress.
+const AUTOSAVE_INTERVAL_MS = 15000;
 
 function isValidRun(run: unknown, episodeId: string): run is GameState {
   const candidate = run as Partial<GameState> | null;
@@ -228,6 +231,38 @@ export const [GameProvider, useGame] = createContextHook(() => {
     },
   });
   const { mutate: pushSync, isPending: isSyncing } = syncMutation;
+
+  // Immediate flush of whatever is dirty right now (used by the autosave timer
+  // and by visibility/pagehide so progress survives a refresh). One in-flight
+  // request at a time is already enforced by the shared mutation.
+  const flushRef = useRef<() => void>(() => {});
+  useEffect(() => {
+    flushRef.current = () => {
+      if (!hydrated || !user || isSyncing) return;
+      if (dirtyRuns.length === 0 && !prefsDirty) return;
+      const runIds = dirtyRuns;
+      const prefs = prefsDirty;
+      const snapshot = data;
+      setDirtyRuns((prev) => prev.filter((id) => !runIds.includes(id)));
+      setPrefsDirty(false);
+      pushSync({ runIds, prefs, snapshot });
+    };
+  });
+
+  useEffect(() => {
+    const flush = () => flushRef.current();
+    const interval = window.setInterval(flush, AUTOSAVE_INTERVAL_MS);
+    const onVisibility = () => {
+      if (document.visibilityState === "hidden") flush();
+    };
+    document.addEventListener("visibilitychange", onVisibility);
+    window.addEventListener("pagehide", flush);
+    return () => {
+      window.clearInterval(interval);
+      document.removeEventListener("visibilitychange", onVisibility);
+      window.removeEventListener("pagehide", flush);
+    };
+  }, []);
 
   // Debounced push of changed runs/prefs; one request in flight at a time keeps writes ordered.
   useEffect(() => {

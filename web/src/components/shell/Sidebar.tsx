@@ -1,6 +1,7 @@
 import { BrandMark } from "@/components/shell/BrandMark";
 import { ModuleNav } from "@/components/shell/ModuleNav";
 
+/** Contents of the concealed drawer menu, opened from the header menu button. */
 export function SidebarContent({ onNavigate }: { onNavigate?: () => void }) {
   return (
     <div className="flex h-full flex-col">
@@ -19,14 +20,5 @@ export function SidebarContent({ onNavigate }: { onNavigate?: () => void }) {
         </p>
       </div>
     </div>
-  );
-}
-
-/** Persistent desktop sidebar. */
-export function Sidebar() {
-  return (
-    <aside className="sticky top-0 hidden h-screen w-[268px] shrink-0 border-r border-vault-neon/10 bg-vault-ink/80 lg:block">
-      <SidebarContent />
-    </aside>
   );
 }
