@@ -1,0 +1,1525 @@
+{
+  "episodeId": "EP058",
+  "title": "Men of Soul: The Eighties",
+  "theme": "The svengali model carrying over from the prior decade — Maurice Starr built New Edition the way Rick James built the Mary Jane Girls — sitting alongside a family act (DeBarge), a visually distinct funk showman (Cameo), and the brief, hit-and-gone acts that defined the decade's middle (Ready for the World, Force MDs).",
+  "narrativePurpose": "Trace 1980s male vocal group history through manufactured-group origins, label infrastructure, and film/soundtrack crossovers — keeping every personnel fact confined to active-career biography per series standard.",
+  "toneProgression": "The hits and origin stories that defined the era → the lineup mechanics, labels, and city origins behind the sound → the archival pop-culture connections hiding inside this era's legacy",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "5"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-8-5 — the year Bobby Brown left New Edition, Ready for the World hit #1 with 'Oh Sheila,' DeBarge crossed over with 'Rhythm of the Night,' and Force MDs broke through with 'Tender Love.' The decade's middle, where most of this cast peaked at once."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The hits and origin stories that defined 1980s male vocal groups.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP058-R1-Q1",
+          "episodeId": "EP058",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "New Edition's 1983 debut single, produced by Maurice Starr, reached #1 R&B and #1 on the UK singles chart. What was it?",
+          "choices": [
+            "Mr. Telephone Man",
+            "Popcorn Love",
+            "Cool It Now",
+            "Candy Girl"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-song-candy-girl-new-edition-1983-maurice-starr-number-one-rb-uk",
+            "artist": "New Edition",
+            "song": "Candy Girl",
+            "album": "Candy Girl",
+            "year": 1983,
+            "topicTags": [
+              "New Edition",
+              "Candy Girl",
+              "1983",
+              "Maurice Starr",
+              "Streetwise Records",
+              "#1 R&B",
+              "#1 UK"
+            ],
+            "fact": "'Candy Girl' (1983), produced by Maurice Starr, was New Edition's debut single — reaching #1 on the Billboard R&B chart, #46 on the Hot 100, and #1 on the UK singles chart.",
+            "storyHook": "'Candy Girl.' #1 R&B. #1 in the UK. New Edition's very first single — and it already topped two charts.",
+            "sourceNotes": "Verified: 'Candy Girl' (1983), produced by Maurice Starr, #1 R&B, #46 Hot 100, #1 UK. Sources: Wikipedia https://en.wikipedia.org/wiki/Candy_Girl_(New_Edition_song), Wikipedia (album) https://en.wikipedia.org/wiki/Candy_Girl_(album)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Candy Girl (New Edition song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Candy_Girl_(New_Edition_song)",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Candy Girl (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Candy_Girl_(album)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R1-Q2",
+          "episodeId": "EP058",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Cameo, led by Larry Blackmon, scored their biggest hit in 1986 — #6 Hot 100, #1 R&B, UK Top 3 — with which single?",
+          "choices": [
+            "Candy",
+            "Single Life",
+            "Word Up!",
+            "She's Strange"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-song-word-up-cameo-1986-larry-blackmon-chart-peak",
+            "artist": "Cameo",
+            "song": "Word Up!",
+            "album": "Word Up!",
+            "year": 1986,
+            "topicTags": [
+              "Cameo",
+              "Word Up!",
+              "1986",
+              "Larry Blackmon",
+              "#6 Hot 100",
+              "#1 R&B"
+            ],
+            "fact": "'Word Up!' (1986) was Cameo's biggest commercial hit — reaching #6 on the Hot 100, #1 on the R&B chart, and the UK Top 3 — a funk record distinctive enough to define the group's entire legacy.",
+            "storyHook": "'Word Up!' #6 pop, #1 R&B, Top 3 in the UK. Cameo's single biggest commercial moment.",
+            "sourceNotes": "Verified: 'Word Up!' (1986) #6 Hot 100, #1 R&B, UK Top 3. Source: Wikipedia https://en.wikipedia.org/wiki/Word_Up!",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Word Up! – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Word_Up!",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R1-Q3",
+          "episodeId": "EP058",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "The Whispers, produced by L.A. Reid and Babyface, scored their second and final R&B #1 in 1987 — also #7 Hot 100 — with which single?",
+          "choices": [
+            "It's a Love Thing",
+            "Lady",
+            "Rock Steady",
+            "And the Beat Goes On"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-song-rock-steady-whispers-1987-reid-babyface-second-final-rb-number-one",
+            "artist": "The Whispers",
+            "song": "Rock Steady",
+            "album": null,
+            "year": 1987,
+            "topicTags": [
+              "The Whispers",
+              "Rock Steady",
+              "1987",
+              "L.A. Reid",
+              "Babyface",
+              "#1 R&B"
+            ],
+            "fact": "'Rock Steady' (1987), produced by L.A. Reid and Babyface, reached #7 on the Hot 100 and was the Whispers' second and final #1 on the R&B chart — the commercial peak of a career that had already spanned two decades by that point.",
+            "storyHook": "Produced by L.A. Reid and Babyface, years before they founded their own label. 'Rock Steady' was the Whispers' last trip to #1 R&B.",
+            "sourceNotes": "Verified: 'Rock Steady' (1987) produced by L.A. Reid/Babyface, #7 Hot 100, second and final R&B #1. Source: Wikipedia https://en.wikipedia.org/wiki/Rock_Steady_(The_Whispers_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rock Steady (The Whispers song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rock_Steady_(The_Whispers_song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R1-Q4",
+          "episodeId": "EP058",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Ready for the World, from Flint, Michigan, scored a triple #1 in 1985 — Hot 100, R&B, and Dance charts simultaneously — with which single?",
+          "choices": [
+            "Oh Sheila",
+            "Love You Down",
+            "Tonight",
+            "Digital Display"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-song-oh-sheila-ready-for-the-world-1985-triple-number-one",
+            "artist": "Ready for the World",
+            "song": "Oh Sheila",
+            "album": null,
+            "year": 1985,
+            "topicTags": [
+              "Ready for the World",
+              "Oh Sheila",
+              "1985",
+              "#1 Hot 100",
+              "#1 R&B",
+              "#1 Dance"
+            ],
+            "fact": "'Oh Sheila' (1985) reached #1 simultaneously on the Hot 100, the Hot Black Singles (R&B) chart, and the Dance chart — Ready for the World's only #1 hit, and a total commercial sweep for a single record.",
+            "storyHook": "Three charts. One single. 'Oh Sheila' didn't just hit #1 — it hit #1 everywhere at once.",
+            "sourceNotes": "Verified: 'Oh Sheila' (1985) #1 Hot 100, Hot Black Singles, and Dance charts. Source: Wikipedia https://en.wikipedia.org/wiki/Oh_Sheila",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Oh Sheila – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Oh_Sheila",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R1-Q5",
+          "episodeId": "EP058",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "DeBarge reached #3 on the Hot 100 and #1 R&B and Adult Contemporary in 1985 with which single, also featured in The Last Dragon?",
+          "choices": [
+            "Rhythm of the Night",
+            "Time Will Reveal",
+            "Who's Holding Donna Now",
+            "All This Love"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-song-rhythm-of-the-night-debarge-1985-chart-peak-last-dragon",
+            "artist": "DeBarge",
+            "song": "Rhythm of the Night",
+            "album": "Rhythm of the Night",
+            "year": 1985,
+            "topicTags": [
+              "DeBarge",
+              "Rhythm of the Night",
+              "1985",
+              "#3 Hot 100",
+              "#1 R&B",
+              "The Last Dragon"
+            ],
+            "fact": "'Rhythm of the Night' (1985) reached #3 on the Hot 100 and #1 on both the R&B and Adult Contemporary charts — DeBarge's biggest crossover hit, boosted by its prominent placement in The Last Dragon.",
+            "storyHook": "#3 pop. #1 R&B and Adult Contemporary, at the same time. 'Rhythm of the Night' was DeBarge's furthest reach into the mainstream.",
+            "sourceNotes": "Verified: 'Rhythm of the Night' (1985) #3 Hot 100, #1 R&B and AC, featured in The Last Dragon. Source: Wikipedia https://en.wikipedia.org/wiki/Rhythm_of_the_Night_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rhythm of the Night (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rhythm_of_the_Night_(song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R1-Q6",
+          "episodeId": "EP058",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "New Edition's 1984 follow-up, the first single from their self-titled second album, reached #4 Hot 100 and #1 R&B. What was it?",
+          "choices": [
+            "With You All the Way",
+            "Candy Girl",
+            "Cool It Now",
+            "Mr. Telephone Man"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-song-cool-it-now-new-edition-1984-chart-peak-second-album",
+            "artist": "New Edition",
+            "song": "Cool It Now",
+            "album": "New Edition",
+            "year": 1984,
+            "topicTags": [
+              "New Edition",
+              "Cool It Now",
+              "1984",
+              "#4 Hot 100",
+              "#1 R&B",
+              "second album"
+            ],
+            "fact": "'Cool It Now' (1984), the first single from New Edition's self-titled second album, reached #4 on the Hot 100 and #1 on the R&B chart — confirming the group as a genuine commercial force rather than a one-hit act.",
+            "storyHook": "#4 pop, #1 R&B. 'Cool It Now' proved 'Candy Girl' wasn't a fluke.",
+            "sourceNotes": "Verified: 'Cool It Now' (1984), first single from second album, #4 Hot 100, #1 R&B. Source: Wikipedia https://en.wikipedia.org/wiki/Cool_It_Now",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cool It Now – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Cool_It_Now",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R1-B1",
+          "episodeId": "EP058",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "New Edition was discovered at a 1982 talent show and co-produced for their own label by which Boston-based manager and producer?",
+          "choices": [
+            "Rick James",
+            "Jimmy Jam and Terry Lewis",
+            "Maurice Starr",
+            "Quincy Jones"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — NEW EDITION'S CREATOR"
+          },
+          "metadata": {
+            "factKey": "ep058-artist-maurice-starr-discovered-new-edition-1982-streetwise-records",
+            "artist": "Maurice Starr",
+            "song": null,
+            "album": null,
+            "year": 1982,
+            "topicTags": [
+              "Maurice Starr",
+              "New Edition",
+              "1982",
+              "talent show",
+              "Streetwise Records",
+              "Boston"
+            ],
+            "fact": "Maurice Starr discovered New Edition at a Boston talent show in 1982 and co-wrote and co-produced their 1983 debut album for his own label, Streetwise Records.",
+            "storyHook": "A 1982 talent show in Boston. Maurice Starr saw something — and built an entire label around it the following year.",
+            "sourceNotes": "Verified: Maurice Starr discovered New Edition at a 1982 talent show, co-produced debut for his Streetwise Records. Source: Genius artist bio https://genius.com/artists/Maurice-starr",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Maurice Starr – Genius artist bio",
+                "url": "https://genius.com/artists/Maurice-starr",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP058-R1-RES1",
+          "episodeId": "EP058",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Force MDs scored a 1985 hit, written and produced by Jimmy Jam and Terry Lewis, that was also featured in the film Krush Groove. What was it?",
+          "choices": [
+            "Tender Love",
+            "Here I Go Again",
+            "Love Is a House",
+            "Itchin' for a Scratch"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-song-tender-love-force-mds-1985-jimmy-jam-terry-lewis-krush-groove",
+            "artist": "Force MDs",
+            "song": "Tender Love",
+            "album": "Chillin'",
+            "year": 1985,
+            "topicTags": [
+              "Force MDs",
+              "Tender Love",
+              "1985",
+              "Jimmy Jam",
+              "Terry Lewis",
+              "Krush Groove"
+            ],
+            "fact": "'Tender Love' (1985), from Force MDs' second album Chillin', was written and produced by Jimmy Jam and Terry Lewis, appeared in and on the soundtrack of Krush Groove, and reached #10 on the Hot 100, #4 R&B, and #2 Adult Contemporary in 1986.",
+            "storyHook": "Jimmy Jam and Terry Lewis wrote it. Krush Groove featured it. 'Tender Love' became Force MDs' breakthrough on three different charts at once.",
+            "sourceNotes": "Verified: 'Tender Love' (1985, from Chillin') written/produced by Jimmy Jam/Terry Lewis, featured in Krush Groove, #10 Hot 100/#4 R&B/#2 AC in 1986. Source: Wikipedia https://en.wikipedia.org/wiki/Tender_Love",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tender Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tender_Love",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R1-RES2",
+          "episodeId": "EP058",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Which DeBarge member served as the family group's primary lead vocalist on hits including 'All This Love,' 'Time Will Reveal,' and 'Rhythm of the Night'?",
+          "choices": [
+            "James DeBarge",
+            "Randy DeBarge",
+            "Mark DeBarge",
+            "El DeBarge"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-artist-el-debarge-primary-lead-vocalist-debarge",
+            "artist": "El DeBarge",
+            "song": null,
+            "album": null,
+            "year": 1982,
+            "topicTags": [
+              "El DeBarge",
+              "DeBarge",
+              "lead vocalist",
+              "All This Love",
+              "Rhythm of the Night"
+            ],
+            "fact": "El DeBarge served as DeBarge's primary lead vocalist on the group's biggest hits, including 'All This Love,' 'Time Will Reveal,' and 'Rhythm of the Night,' before launching a solo career.",
+            "storyHook": "Every DeBarge hit you can name has the same lead voice: El DeBarge.",
+            "sourceNotes": "Verified: El DeBarge was DeBarge's primary lead vocalist. Source: Wikipedia https://en.wikipedia.org/wiki/El_DeBarge",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "El DeBarge – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/El_DeBarge",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R1-RES3",
+          "episodeId": "EP058",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Which New Edition member shared lead vocal duties with Bobby Brown early on, and remained the group's primary lead after Brown's departure?",
+          "choices": [
+            "Ronnie DeVoe",
+            "Ricky Bell",
+            "Michael Bivins",
+            "Ralph Tresvant"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-artist-ralph-tresvant-new-edition-co-lead-primary-lead",
+            "artist": "Ralph Tresvant",
+            "song": null,
+            "album": null,
+            "year": 1983,
+            "topicTags": [
+              "Ralph Tresvant",
+              "New Edition",
+              "lead vocalist",
+              "Bobby Brown"
+            ],
+            "fact": "Ralph Tresvant shared lead vocal duties with Bobby Brown during New Edition's early run, and remained the group's primary lead vocalist after Brown's 1985 departure.",
+            "storyHook": "Two leads at first — Tresvant and Brown. When Brown left, Tresvant carried the lead role forward on his own.",
+            "sourceNotes": "Verified: Ralph Tresvant was New Edition's lead singer, co-lead with Brown early on. Source: Wikipedia https://en.wikipedia.org/wiki/Ralph_Tresvant",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ralph Tresvant – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ralph_Tresvant",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R1-RES4",
+          "episodeId": "EP058",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Cameo's Larry Blackmon became known for which distinctive visual signature, prominently seen in the 'Word Up!' video?",
+          "choices": [
+            "Wearing all white",
+            "Face paint",
+            "A red codpiece and asymmetric high-top haircut",
+            "A signature top hat"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-artist-larry-blackmon-red-codpiece-high-top-haircut-cameo",
+            "artist": "Larry Blackmon",
+            "song": null,
+            "album": null,
+            "year": 1986,
+            "topicTags": [
+              "Larry Blackmon",
+              "Cameo",
+              "red codpiece",
+              "visual signature"
+            ],
+            "fact": "Larry Blackmon's red codpiece and asymmetric high-top haircut, prominently visible in the 'Word Up!' video, became one of the most recognizable visual signatures in 1980s R&B and funk.",
+            "storyHook": "You don't need to hear the music to know it's Larry Blackmon — the red codpiece and the haircut say it for him.",
+            "sourceNotes": "Verified: Larry Blackmon's red codpiece and asymmetric high-top haircut were his signature look. Source: Wikipedia (Word Up! imagery context) https://en.wikipedia.org/wiki/Word_Up!",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Word Up! – Wikipedia (Larry Blackmon imagery in video)",
+                "url": "https://en.wikipedia.org/wiki/Word_Up!",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The lineup mechanics, labels, and city origins behind the 1980s male vocal group sound.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP058-R2-Q1",
+          "episodeId": "EP058",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "In which year was Bobby Brown voted out of New Edition over behavior issues, before launching a solo career?",
+          "choices": [
+            "1989",
+            "1983",
+            "1985",
+            "1987"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-artist-bobby-brown-voted-out-new-edition-1985-solo-career",
+            "artist": "Bobby Brown",
+            "song": null,
+            "album": null,
+            "year": 1985,
+            "topicTags": [
+              "Bobby Brown",
+              "New Edition",
+              "1985",
+              "departure",
+              "solo career"
+            ],
+            "fact": "Bobby Brown was voted out of New Edition in 1985 over behavior issues, then signed as a solo artist — a departure that would make him one of the decade's biggest individual R&B stars.",
+            "storyHook": "1985. The group voted Bobby Brown out. Within a few years he was bigger as a solo act than the group he'd left.",
+            "sourceNotes": "Verified (moderate confidence — documentary source): Bobby Brown voted out of New Edition in 1985 over behavior issues, then went solo. Source: New Edition/NKOTB documentary https://www.youtube.com/watch?v=bDPVXgPfIl4",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Maurice Starr Story – YouTube (NE/NKOTB documentary)",
+                "url": "https://www.youtube.com/watch?v=bDPVXgPfIl4",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R2-Q2",
+          "episodeId": "EP058",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Which singer joined New Edition in 1987, replacing Bobby Brown and appearing on the group's 1988 album Heart Break?",
+          "choices": [
+            "Ralph Tresvant",
+            "Ricky Bell",
+            "Ronnie DeVoe",
+            "Johnny Gill"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-artist-johnny-gill-joined-new-edition-1987-heart-break-album",
+            "artist": "Johnny Gill",
+            "song": null,
+            "album": "Heart Break",
+            "year": 1987,
+            "topicTags": [
+              "Johnny Gill",
+              "New Edition",
+              "1987",
+              "Heart Break",
+              "Bobby Brown replacement"
+            ],
+            "fact": "Johnny Gill joined New Edition in 1987, filling the gap left by Bobby Brown's departure two years earlier, and appeared on the group's 1988 album Heart Break.",
+            "storyHook": "Two years after Bobby Brown left, Johnny Gill stepped in — and New Edition had a new sound on Heart Break.",
+            "sourceNotes": "Verified: Johnny Gill joined New Edition in 1987, appeared on Heart Break (1988). Source: Wikipedia (lineup history) https://en.wikipedia.org/wiki/New_Edition",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "New Edition – Wikipedia (lineup history)",
+                "url": "https://en.wikipedia.org/wiki/New_Edition",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R2-Q3",
+          "episodeId": "EP058",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Ready for the World, the Prince-tinged group behind 'Oh Sheila,' formed in which Michigan city in the early 1980s?",
+          "choices": [
+            "Flint, Michigan",
+            "Detroit",
+            "Chicago",
+            "Cleveland"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-artist-ready-for-the-world-flint-michigan-formation",
+            "artist": "Ready for the World",
+            "song": null,
+            "album": null,
+            "year": 1981,
+            "topicTags": [
+              "Ready for the World",
+              "Flint",
+              "Michigan",
+              "formation",
+              "Prince-influenced"
+            ],
+            "fact": "Ready for the World formed in Flint, Michigan in the early 1980s — an unusual hometown, far from the coastal R&B hubs, for a group whose Prince-tinged sound would briefly dominate the charts.",
+            "storyHook": "Flint, Michigan. Not Detroit, not Los Angeles. Ready for the World's #1 hit came out of a city most people wouldn't guess.",
+            "sourceNotes": "Verified: Ready for the World formed in Flint, Michigan. Source: Oh Sheila YouTube description (Ready For The World bio) https://www.youtube.com/watch?v=mvP1vdAeTpk",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ready For The World – 'Oh Sheila' – YouTube description",
+                "url": "https://www.youtube.com/watch?v=mvP1vdAeTpk",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R2-Q4",
+          "episodeId": "EP058",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "The Whispers recorded their 1970s-80s peak material, including 'Rock Steady,' for which label, also associated with Shalamar and the SOS Band?",
+          "choices": [
+            "Solar Records",
+            "MCA",
+            "Geffen",
+            "Motown"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-label-solar-records-whispers-shalamar-sos-band",
+            "artist": "The Whispers",
+            "song": null,
+            "album": null,
+            "year": 1979,
+            "topicTags": [
+              "Solar Records",
+              "The Whispers",
+              "Shalamar",
+              "SOS Band",
+              "label"
+            ],
+            "fact": "The Whispers recorded their 1970s-80s peak material, including 'Rock Steady,' for Solar Records (Sound of Los Angeles Records) — a label also associated with Shalamar and the SOS Band's run into the 1980s R&B mainstream.",
+            "storyHook": "Solar Records. Same label ecosystem as Shalamar and the SOS Band — and the Whispers were right in the middle of it.",
+            "sourceNotes": "Verified: The Whispers recorded for Solar Records, associated with Shalamar and SOS Band. Sources: Wikipedia (Rock Steady) https://en.wikipedia.org/wiki/Rock_Steady_(The_Whispers_song), Wikipedia (Solar Records) https://en.wikipedia.org/wiki/Solar_Records",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rock Steady – Wikipedia (label credit and context)",
+                "url": "https://en.wikipedia.org/wiki/Rock_Steady_(The_Whispers_song)",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "SOLAR Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Solar_Records",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R2-Q5",
+          "episodeId": "EP058",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Force MDs, who started as street performers on the Staten Island Ferry, formed in which New York City borough?",
+          "choices": [
+            "Staten Island",
+            "Queens",
+            "The Bronx",
+            "Brooklyn"
+          ],
+          "correctIndex": 0,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-artist-force-mds-staten-island-ferry-street-performers",
+            "artist": "Force MDs",
+            "song": null,
+            "album": null,
+            "year": 1982,
+            "topicTags": [
+              "Force MDs",
+              "Staten Island",
+              "ferry",
+              "street performers"
+            ],
+            "fact": "Force MDs formed in Staten Island, New York City — originally performing as street singers on the Staten Island Ferry before becoming a recording act.",
+            "storyHook": "Before the records, before Krush Groove, Force MDs were singing for tips on the Staten Island Ferry.",
+            "sourceNotes": "Verified: Force MDs from Staten Island, originally Staten Island Ferry street performers. Source: Wikipedia https://en.wikipedia.org/wiki/Force_MDs",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Force MDs – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Force_MDs",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R2-B1",
+          "episodeId": "EP058",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Force MDs' 'Tender Love' was featured in which 1985 film about the early hip-hop and R&B music business?",
+          "choices": [
+            "Breakin'",
+            "Beat Street",
+            "Wild Style",
+            "Krush Groove"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE 1985 FILM FEATURING 'TENDER LOVE'"
+          },
+          "metadata": {
+            "factKey": "ep058-film-krush-groove-1985-tender-love-force-mds",
+            "artist": "Force MDs",
+            "song": "Tender Love",
+            "album": null,
+            "year": 1985,
+            "topicTags": [
+              "Krush Groove",
+              "1985",
+              "Tender Love",
+              "Force MDs",
+              "film"
+            ],
+            "fact": "'Tender Love' appeared in and on the soundtrack of Krush Groove (1985), a film dramatizing the early hip-hop and R&B music business — giving Force MDs additional exposure beyond radio.",
+            "storyHook": "Krush Groove put the early rap and R&B business on screen — and Force MDs' 'Tender Love' was right there on the soundtrack.",
+            "sourceNotes": "Verified: 'Tender Love' featured in Krush Groove (1985). Source: Wikipedia https://en.wikipedia.org/wiki/Tender_Love",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tender Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tender_Love",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "film",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP058-R2-RES1",
+          "episodeId": "EP058",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "DeBarge, the family group behind 'Rhythm of the Night,' recorded primarily for which Motown subsidiary label?",
+          "choices": [
+            "Arista",
+            "Columbia",
+            "Gordy Records",
+            "Atlantic"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-label-gordy-records-debarge-motown-subsidiary",
+            "artist": "DeBarge",
+            "song": null,
+            "album": null,
+            "year": 1981,
+            "topicTags": [
+              "DeBarge",
+              "Gordy Records",
+              "Motown",
+              "label"
+            ],
+            "fact": "DeBarge recorded primarily for Gordy Records throughout their 1980s run — the same Motown subsidiary that also released the Mary Jane Girls' catalog.",
+            "storyHook": "Gordy Records. Same Motown subsidiary, two completely different 1980s acts — DeBarge and the Mary Jane Girls.",
+            "sourceNotes": "Verified: DeBarge recorded primarily for Motown's Gordy Records imprint. Source: Wikipedia https://en.wikipedia.org/wiki/DeBarge",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "DeBarge – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/DeBarge",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R2-RES2",
+          "episodeId": "EP058",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "DeBarge's 'Rhythm of the Night' gained extra exposure through its prominent placement in which martial-arts-themed 1985 film?",
+          "choices": [
+            "Krush Groove",
+            "Breakin'",
+            "The Last Dragon",
+            "Beat Street"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-film-the-last-dragon-1985-rhythm-of-the-night-debarge",
+            "artist": "DeBarge",
+            "song": "Rhythm of the Night",
+            "album": null,
+            "year": 1985,
+            "topicTags": [
+              "The Last Dragon",
+              "1985",
+              "Rhythm of the Night",
+              "DeBarge",
+              "film"
+            ],
+            "fact": "'Rhythm of the Night' gained additional exposure through its prominent placement in The Last Dragon (1985), helping push the single into mainstream pop territory.",
+            "storyHook": "A martial-arts film and a DeBarge single, tied together in 1985 — and the song reached further into the pop charts because of it.",
+            "sourceNotes": "Verified: 'Rhythm of the Night' featured in The Last Dragon (1985). Source: Wikipedia https://en.wikipedia.org/wiki/Rhythm_of_the_Night_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rhythm of the Night (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rhythm_of_the_Night_(song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R2-RES3",
+          "episodeId": "EP058",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "New Edition's debut single 'Candy Girl,' released July 19, 1983, came out on which independent Boston-based label?",
+          "choices": [
+            "Arista",
+            "MCA",
+            "Motown",
+            "Streetwise Records"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-label-streetwise-records-candy-girl-1983-boston",
+            "artist": "New Edition",
+            "song": "Candy Girl",
+            "album": "Candy Girl",
+            "year": 1983,
+            "topicTags": [
+              "Streetwise Records",
+              "Candy Girl",
+              "1983",
+              "Boston",
+              "New Edition"
+            ],
+            "fact": "'Candy Girl,' New Edition's debut album, was released July 19, 1983 on Streetwise Records — Maurice Starr's own independent Boston label — before the group moved to a major label for later releases.",
+            "storyHook": "July 19, 1983. Streetwise Records — Maurice Starr's own label — put out New Edition's very first album.",
+            "sourceNotes": "Verified: 'Candy Girl' album released July 19, 1983 on Streetwise Records. Sources: Wikipedia (album) https://en.wikipedia.org/wiki/Candy_Girl_(album), Wikipedia (song) https://en.wikipedia.org/wiki/Candy_Girl_(New_Edition_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Candy Girl (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Candy_Girl_(album)",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Candy Girl (New Edition song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Candy_Girl_(New_Edition_song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival pop-culture connections hiding inside this era's legacy.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP058-R3-Q1",
+          "episodeId": "EP058",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "DeBarge's classic lineup of five siblings — Bunny, El, Mark, Randy, and James — included which member as the group's sole female voice?",
+          "choices": [
+            "Bunny DeBarge",
+            "Randy DeBarge",
+            "El DeBarge",
+            "Mark DeBarge"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-artist-bunny-debarge-sole-female-member-classic-lineup",
+            "artist": "Bunny DeBarge",
+            "song": null,
+            "album": null,
+            "year": 1981,
+            "topicTags": [
+              "Bunny DeBarge",
+              "DeBarge",
+              "lineup",
+              "sole female member"
+            ],
+            "fact": "DeBarge's classic lineup consisted of five siblings — Bunny, El, Mark, Randy, and James — with Bunny DeBarge as the group's only sister among four brothers.",
+            "storyHook": "Five DeBarge siblings. Four brothers, and one sister: Bunny.",
+            "sourceNotes": "Verified: DeBarge's classic lineup was Bunny, El, Mark, Randy, and James DeBarge, with Bunny as the sole sister. Source: Wikipedia https://en.wikipedia.org/wiki/DeBarge",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "DeBarge – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/DeBarge",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R3-Q2",
+          "episodeId": "EP058",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Cameo's 'Word Up!' was covered by Gun, a Scottish hard rock band, in 1994 — reaching the UK Top 10. Which act covered it?",
+          "choices": [
+            "Gun",
+            "Rage Against the Machine",
+            "Faith No More",
+            "Limp Bizkit"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-song-word-up-gun-1994-cover-uk-top-10",
+            "artist": "Cameo",
+            "song": "Word Up!",
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "Word Up!",
+              "Gun",
+              "1994",
+              "cover version",
+              "UK Top 10"
+            ],
+            "fact": "Cameo's 'Word Up!' was covered by Gun, a Scottish hard rock band, in 1994 — reaching the UK Top 10 and introducing the song to a new rock-oriented audience nearly a decade after the original.",
+            "storyHook": "A Scottish hard rock band took 'Word Up!' into the UK Top 10 in 1994 — eight years after Cameo's original, in a completely different genre.",
+            "sourceNotes": "Verified: 'Word Up!' covered by Gun (Scottish hard rock band) in 1994, UK Top 10. Note: Korn also covered the song in 2004 with lower chart impact; this question specifically addresses the Gun version. Source: Wikipedia (cover versions section) https://en.wikipedia.org/wiki/Word_Up!",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Word Up! – Wikipedia (cover versions section)",
+                "url": "https://en.wikipedia.org/wiki/Word_Up!",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R3-B1",
+          "episodeId": "EP058",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Maurice Starr, who created New Edition, applied a similar manufactured-group formula in 1984 to create which other hugely successful vocal group?",
+          "choices": [
+            "New Kids on the Block",
+            "Color Me Badd",
+            "Boyz II Men",
+            "Hi-Five"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "8",
+            "bonusHint": "DIGIT 3 OF 3 — MAURICE STARR'S OTHER CREATION"
+          },
+          "metadata": {
+            "factKey": "ep058-artist-maurice-starr-new-kids-on-the-block-1984-manufactured-group",
+            "artist": "Maurice Starr",
+            "song": null,
+            "album": null,
+            "year": 1984,
+            "topicTags": [
+              "Maurice Starr",
+              "New Kids on the Block",
+              "1984",
+              "manufactured group"
+            ],
+            "fact": "Maurice Starr applied a similar manufactured-group formula in 1984 to create New Kids on the Block, aiming the same model at a different audience than New Edition — and NKOTB went on to sell millions of albums worldwide.",
+            "storyHook": "Maurice Starr didn't stop at New Edition. The same blueprint, aimed at a different audience, became New Kids on the Block.",
+            "sourceNotes": "Verified: Maurice Starr formed New Kids on the Block in 1984 using a formula similar to New Edition's. Source: Genius artist bio https://genius.com/artists/Maurice-starr",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Maurice Starr – Genius artist bio",
+                "url": "https://genius.com/artists/Maurice-starr",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP058-R3-RES1",
+          "episodeId": "EP058",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "The Whispers, who scored their biggest hit with 'Rock Steady' in 1987, actually formed around twins Walter and Wallace Scott over two decades earlier, in which year?",
+          "choices": [
+            "1963",
+            "1971",
+            "1980",
+            "1975"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-artist-whispers-formed-1963-los-angeles-walter-wallace-scott-twins",
+            "artist": "The Whispers",
+            "song": null,
+            "album": null,
+            "year": 1963,
+            "topicTags": [
+              "The Whispers",
+              "1963",
+              "Los Angeles",
+              "Walter Scott",
+              "Wallace Scott",
+              "twins"
+            ],
+            "fact": "The Whispers formed in 1963 in Los Angeles, built around twins Walter and Wallace Scott — making their 1987 commercial peak with 'Rock Steady' the product of an unusually long career arc by R&B standards.",
+            "storyHook": "1963. Twenty-four years before 'Rock Steady.' The Whispers had already been a group for nearly a quarter-century by the time they had their biggest hit.",
+            "sourceNotes": "Verified: The Whispers formed in 1963 in Los Angeles around twins Walter and Wallace Scott. Source: Wikipedia https://en.wikipedia.org/wiki/The_Whispers",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Whispers – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Whispers",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP058-R3-RES2",
+          "episodeId": "EP058",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Force MDs' 'Tender Love' appeared on which 1985 album, the group's second studio release?",
+          "choices": [
+            "Love Letters",
+            "Step to Me",
+            "Touch and Go",
+            "Chillin'"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep058-album-chillin-force-mds-1985-second-studio-album",
+            "artist": "Force MDs",
+            "song": "Tender Love",
+            "album": "Chillin'",
+            "year": 1985,
+            "topicTags": [
+              "Chillin'",
+              "Force MDs",
+              "1985",
+              "second album",
+              "Tender Love"
+            ],
+            "fact": "'Tender Love' appeared on Chillin' (1985), Force MDs' second studio album — the release that delivered their commercial breakthrough.",
+            "storyHook": "'Chillin'.' That's the album 'Tender Love' came from — Force MDs' second try, and the one that broke through.",
+            "sourceNotes": "Verified: 'Tender Love' was from Force MDs' second studio album, Chillin' (1985). Source: Wikipedia https://en.wikipedia.org/wiki/Tender_Love",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tender Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tender_Love",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-25T20:40:10.990772+00:00"
+  }
+}

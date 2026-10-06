@@ -1,0 +1,1567 @@
+{
+  "episodeId": "EP049",
+  "title": "Muscle Shoals",
+  "theme": "The gritty, unvarnished Southern soul created when Black R&B royalty traveled to rural, segregated Alabama to record with an all-white rhythm section — and came away with some of the most emotionally explosive recordings of the 1960s and 1970s.",
+  "narrativePurpose": "Dive into the session history of the Muscle Shoals Rhythm Section (The Swampers), the intense rivalry between Rick Hall's FAME Studios and Muscle Shoals Sound Studio, and the definitive recordings of Aretha Franklin, Wilson Pickett, Etta James, and others who made the journey south.",
+  "toneProgression": "The landmark recordings and the names behind the sound → the studio mechanics, personnel, and the conflict that split FAME → the archival connections that reveal how deep the Muscle Shoals story goes",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "7"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-6-7 — the year Aretha Franklin arrived at FAME Studios in January and recorded 'I Never Loved a Man (the Way I Love You)' in a single explosive session, and the year Etta James recorded 'Tell Mama' at the same facility. 1967: the year Muscle Shoals proved what it could do — and the year its most consequential story unfolded."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The landmark recordings and the names behind the Muscle Shoals sound.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP049-R1-Q1",
+          "episodeId": "EP049",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "FAME Studios — the recording facility at the heart of the Muscle Shoals story — takes its name from an acronym. What does FAME stand for?",
+          "choices": [
+            "Famous Alabama Music Enterprises",
+            "Formal Alabama Music Enterprises",
+            "Frontier Alabama Music Enterprises",
+            "Florence Alabama Music Enterprises"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-studio-fame-florence-alabama-music-enterprises-acronym",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "FAME Studios",
+              "Florence Alabama Music Enterprises",
+              "Muscle Shoals",
+              "Rick Hall",
+              "founding"
+            ],
+            "fact": "FAME stands for Florence Alabama Music Enterprises — named for Florence, Alabama, where Rick Hall, Billy Sherrill, and Tom Stafford first established the operation above City Drug Store in 1959 before Hall moved it to Muscle Shoals.",
+            "storyHook": "Four letters. One of the most important recording studios in American music history. Florence Alabama Music Enterprises.",
+            "sourceNotes": "Verified: FAME stands for Florence Alabama Music Enterprises. Sources: FAME Studios official history https://famestudios.com/our-history/, Wikipedia https://en.wikipedia.org/wiki/FAME_Studios",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Our history – FAME Studios",
+                "url": "https://famestudios.com/our-history/",
+                "accessed": "2026-06-06"
+              },
+              {
+                "title": "FAME Studios – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/FAME_Studios",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "studio",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R1-Q2",
+          "episodeId": "EP049",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Aretha Franklin traveled to FAME Studios in January 1967 for her first Atlantic Records session. After a conflict ended the visit prematurely, only one track was completed. Which song was it?",
+          "choices": [
+            "Respect",
+            "Do Right Woman, Do Right Man",
+            "Chain of Fools",
+            "I Never Loved a Man (the Way I Love You)"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-song-aretha-franklin-i-never-loved-a-man-fame-studios-only-completed-track",
+            "artist": "Aretha Franklin",
+            "song": "I Never Loved a Man (the Way I Love You)",
+            "album": "I Never Loved a Man the Way I Love You",
+            "year": 1967,
+            "topicTags": [
+              "Aretha Franklin",
+              "I Never Loved a Man",
+              "FAME Studios",
+              "Atlantic Records",
+              "1967",
+              "Muscle Shoals"
+            ],
+            "fact": "'I Never Loved a Man (the Way I Love You)' was the sole track Aretha completed at FAME in January 1967. The rest of the album was finished in New York with the same Muscle Shoals musicians flown in — and it became her career-defining breakthrough.",
+            "storyHook": "One session. One completed track. 'I Never Loved a Man (the Way I Love You)' was all Aretha walked out of FAME with. It was more than enough.",
+            "sourceNotes": "Verified: 'I Never Loved a Man (the Way I Love You)' was the only track completed at FAME; rest of album finished in New York. Sources: Rebeatmag http://www.rebeatmag.com/i-never-loved-a-man-aretha-franklin/, uDiscoverMusic https://www.udiscovermusic.com/in-depth-features/muscle-shoals-studio-history/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "With 'I Never Loved a Man,' Aretha Franklin Becomes…",
+                "url": "http://www.rebeatmag.com/i-never-loved-a-man-aretha-franklin/",
+                "accessed": "2026-06-06"
+              },
+              {
+                "title": "Muscle Shoals Studio: A History Of The Soul Of America – uDiscoverMusic",
+                "url": "https://www.udiscovermusic.com/in-depth-features/muscle-shoals-studio-history/",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R1-Q3",
+          "episodeId": "EP049",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Wilson Pickett recorded 'Mustang Sally' at FAME Studios in 1966. Despite being closely associated with Pickett, the song was actually written by which fellow soul musician?",
+          "choices": [
+            "Rick Hall",
+            "Wilson Pickett",
+            "Mack Rice",
+            "Jerry Wexler"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-song-mustang-sally-mack-rice-writer-wilson-pickett-fame-1966",
+            "artist": "Wilson Pickett",
+            "song": "Mustang Sally",
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Wilson Pickett",
+              "Mustang Sally",
+              "Mack Rice",
+              "FAME Studios",
+              "1966",
+              "Muscle Shoals"
+            ],
+            "fact": "'Mustang Sally' was written by Mack Rice (Sir Mack Rice) and originally recorded in 1965. Wilson Pickett's 1966 FAME recording made the song famous, creating the widespread misconception that Pickett wrote it.",
+            "storyHook": "Everyone thinks Wilson Pickett wrote 'Mustang Sally.' He didn't. Mack Rice did. Pickett just made it impossible to forget.",
+            "sourceNotes": "Verified: 'Mustang Sally' written by Mack Rice; recorded at FAME in 1966 by Wilson Pickett. Source: Facebook historical note https://www.facebook.com/mark.hall.434773/posts/in-1966-wilson-pickett-entered-fame-studios-in-muscle-shoals-to-record-some-of-h",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "In 1966, Wilson Pickett entered FAME Studios… – Facebook note",
+                "url": "https://www.facebook.com/mark.hall.434773/posts/in-1966-wilson-pickett-entered-fame-studios-in-muscle-shoals-to-record-some-of-h",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R1-Q4",
+          "episodeId": "EP049",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "FAME Studios — where Aretha Franklin, Wilson Pickett, and Etta James recorded their most celebrated 1960s work — was founded and ultimately run as sole owner by which music producer?",
+          "choices": [
+            "Rick Hall",
+            "Tom Stafford",
+            "Roger Hawkins",
+            "Jerry Wexler"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-studio-fame-rick-hall-founder-sole-owner",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "Rick Hall",
+              "FAME Studios",
+              "founder",
+              "Muscle Shoals",
+              "biography"
+            ],
+            "fact": "Rick Hall co-founded FAME in 1959 with Tom Stafford and Billy Sherrill, eventually buying out both partners to become the studio's sole owner and the driving force behind its commercial and creative peak.",
+            "storyHook": "Rick Hall built FAME from the ground up — bought out his partners, moved to Muscle Shoals, and created one of the great studios in American music history.",
+            "sourceNotes": "Verified: Rick Hall co-founded FAME and became its sole owner. Sources: FAME Studios official history https://famestudios.com/our-history/, Wikipedia https://en.wikipedia.org/wiki/FAME_Studios",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Our history – FAME Studios",
+                "url": "https://famestudios.com/our-history/",
+                "accessed": "2026-06-06"
+              },
+              {
+                "title": "FAME Studios – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/FAME_Studios",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "studio",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R1-Q5",
+          "episodeId": "EP049",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Swampers — the legendary Muscle Shoals rhythm section — included which bassist, who played on countless FAME sessions before becoming a founding member of Muscle Shoals Sound Studio?",
+          "choices": [
+            "Jimmy Johnson",
+            "Roger Hawkins",
+            "Barry Beckett",
+            "David Hood"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-artist-david-hood-swampers-bassist-fame-muscle-shoals-sound",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1969,
+            "topicTags": [
+              "David Hood",
+              "The Swampers",
+              "Muscle Shoals Rhythm Section",
+              "FAME Studios",
+              "Muscle Shoals Sound Studio",
+              "bass"
+            ],
+            "fact": "David Hood played bass as part of the Muscle Shoals Rhythm Section (The Swampers) on virtually every major FAME Studios session before co-founding Muscle Shoals Sound Studio in 1969.",
+            "storyHook": "David Hood. Bass. The groove that anchored every Muscle Shoals session. If you've heard a Muscle Shoals record, you've heard David Hood.",
+            "sourceNotes": "Verified: David Hood was the Swampers' bassist and co-founded Muscle Shoals Sound Studio. Source: Roots of American Music Trail https://musictrail.una.edu/?page_id=900",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "David Hood – Roots of American Music Trail",
+                "url": "https://musictrail.una.edu/?page_id=900",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R1-Q6",
+          "episodeId": "EP049",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The line 'In Muscle Shoals they love the governor' — a famous lyrical nod to the Alabama recording scene — appears in which Lynyrd Skynyrd classic?",
+          "choices": [
+            "Freebird",
+            "That Smell",
+            "Simple Man",
+            "Sweet Home Alabama"
+          ],
+          "correctIndex": 3,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-song-sweet-home-alabama-lynyrd-skynyrd-muscle-shoals-lyric",
+            "artist": "Lynyrd Skynyrd",
+            "song": "Sweet Home Alabama",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "Lynyrd Skynyrd",
+              "Sweet Home Alabama",
+              "Muscle Shoals",
+              "1974",
+              "Southern rock"
+            ],
+            "fact": "Lynyrd Skynyrd's 'Sweet Home Alabama' (1974) contains the line 'In Muscle Shoals they love the governor' — one of Southern rock's most famous references to the Alabama recording scene.",
+            "storyHook": "Southern rock's most celebrated anthem. One line about Muscle Shoals. The studio became part of the song that defined a region.",
+            "sourceNotes": "Verified: 'Sweet Home Alabama' contains the Muscle Shoals reference. Source: Facebook post referencing the lyric https://www.facebook.com/DavidRosalesMusic/posts/now-muscle-shoals-has-got-the-swampers-and-theyve-been-known-to-pick-a-song-or-",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Muscle Shoals Sound Studios' history and legendary… – Facebook post",
+                "url": "https://www.facebook.com/DavidRosalesMusic/posts/now-muscle-shoals-has-got-the-swampers-and-theyve-been-known-to-pick-a-song-or-",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R1-B1",
+          "episodeId": "EP049",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Rolling Stones visited Muscle Shoals Sound Studio in December 1969, recording 'Brown Sugar,' 'Wild Horses,' and 'You Gotta Move.' These tracks appeared on which 1971 album?",
+          "choices": [
+            "Let It Bleed",
+            "Sticky Fingers",
+            "Some Girls",
+            "Exile on Main St."
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — THE STONES' MUSCLE SHOALS ALBUM"
+          },
+          "metadata": {
+            "factKey": "ep049-studio-rolling-stones-muscle-shoals-sound-december-1969-sticky-fingers",
+            "artist": "The Rolling Stones",
+            "song": null,
+            "album": "Sticky Fingers",
+            "year": 1969,
+            "topicTags": [
+              "The Rolling Stones",
+              "Sticky Fingers",
+              "Muscle Shoals Sound Studio",
+              "1969",
+              "1971",
+              "Brown Sugar",
+              "Wild Horses",
+              "You Gotta Move"
+            ],
+            "fact": "Between December 2 and 4, 1969, the Rolling Stones recorded 'Brown Sugar,' 'Wild Horses,' and 'You Gotta Move' at Muscle Shoals Sound Studio. All three tracks appeared on Sticky Fingers (1971).",
+            "storyHook": "December 1969. Sheffield, Alabama. The Rolling Stones walked into a studio that had just opened. What they recorded became Sticky Fingers.",
+            "sourceNotes": "Verified: Rolling Stones recorded at Muscle Shoals Sound Studio December 2-4, 1969; tracks appeared on Sticky Fingers (1971). Source: RollingStonesData https://rollingstonesdata.com/articles/muscle-shoals-sound-studios/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Muscle Shoals and The Rolling Stones: Inside The '69 Sessions – RollingStonesData",
+                "url": "https://rollingstonesdata.com/articles/muscle-shoals-sound-studios/",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "studio",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP049-R1-RES1",
+          "episodeId": "EP049",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Etta James's 'Tell Mama' — recorded at FAME in 1967 — was co-written by which artist who himself recorded at FAME and developed 'Tell Mama' from his own earlier composition 'Tell Daddy'?",
+          "choices": [
+            "Al Green",
+            "Bobby Womack",
+            "Clarence Carter",
+            "Eddie Floyd"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-song-tell-mama-etta-james-clarence-carter-writer-fame-1967",
+            "artist": "Etta James / Clarence Carter",
+            "song": "Tell Mama",
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Etta James",
+              "Tell Mama",
+              "Clarence Carter",
+              "FAME Studios",
+              "1967",
+              "songwriter"
+            ],
+            "fact": "Clarence Carter co-wrote 'Tell Daddy' and recorded it at FAME — the song was reworked as 'Tell Mama' for Etta James, also recorded at FAME. Carter was himself a significant FAME recording artist.",
+            "storyHook": "Clarence Carter wrote 'Tell Daddy.' FAME reworked it as 'Tell Mama.' Etta James recorded it at the same studio. The Muscle Shoals ecosystem fed itself.",
+            "sourceNotes": "Verified: Clarence Carter co-wrote 'Tell Daddy' which became 'Tell Mama' for Etta James, both at FAME. Source: FAME Studios artist profile https://famestudios.com/clarence-carter/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Clarence Carter – FAME Studios artist profile",
+                "url": "https://famestudios.com/clarence-carter/",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R1-RES2",
+          "episodeId": "EP049",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Swampers' rhythm section included which drummer, whose loose, propulsive groove was one of the most recognizable signatures of the Muscle Shoals sound?",
+          "choices": [
+            "Jimmy Johnson",
+            "David Hood",
+            "Barry Beckett",
+            "Roger Hawkins"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-artist-roger-hawkins-swampers-drummer-muscle-shoals-sound",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1969,
+            "topicTags": [
+              "Roger Hawkins",
+              "The Swampers",
+              "drums",
+              "Muscle Shoals Rhythm Section",
+              "FAME Studios"
+            ],
+            "fact": "Roger Hawkins played drums on the majority of the landmark FAME sessions — his loose, propulsive style became one of the most recognizable signatures of the Muscle Shoals sound.",
+            "storyHook": "Roger Hawkins never drew attention to himself. He just made every recording feel inevitable.",
+            "sourceNotes": "Verified: Roger Hawkins was the Swampers' drummer. Source: Roots of American Music Trail (via David Hood profile) https://musictrail.una.edu/?page_id=900",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "David Hood – Roots of American Music Trail (references full Swampers lineup)",
+                "url": "https://musictrail.una.edu/?page_id=900",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R1-RES3",
+          "episodeId": "EP049",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Jimmy Hughes had a 1964 hit with which song — the first single recorded at the new FAME Studios in Muscle Shoals — that demonstrated what Rick Hall's operation could produce?",
+          "choices": [
+            "Steal Away",
+            "I Gotcha",
+            "Land of 1000 Dances",
+            "Funky Broadway"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-song-steal-away-jimmy-hughes-1964-first-fame-muscle-shoals-single",
+            "artist": "Jimmy Hughes",
+            "song": "Steal Away",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "Jimmy Hughes",
+              "Steal Away",
+              "FAME Studios",
+              "1964",
+              "Muscle Shoals",
+              "first single"
+            ],
+            "fact": "'Steal Away' (1964) was the first single recorded at the new FAME Studios location in Muscle Shoals — a gospel-inflected soul ballad that became a national Top 40 crossover hit and demonstrated what Rick Hall's studio could deliver.",
+            "storyHook": "The first single from the new FAME location. 1964. Jimmy Hughes. 'Steal Away' put Muscle Shoals on the map.",
+            "sourceNotes": "Verified: 'Steal Away' was the first single recorded at FAME Studios in Muscle Shoals and a Top 40 crossover hit. Source: Wikipedia https://en.wikipedia.org/wiki/Steal_Away_(Jimmy_Hughes_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Steal Away (Jimmy Hughes song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Steal_Away_(Jimmy_Hughes_song)",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R1-RES4",
+          "episodeId": "EP049",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Which artist recorded 'Steal Away' at FAME Studios in 1964 — the first single cut at the new Muscle Shoals location and a signal that the facility could compete with the major soul labels?",
+          "choices": [
+            "Jimmy Hughes",
+            "Arthur Alexander",
+            "Joe Tex",
+            "Wilson Pickett"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-artist-jimmy-hughes-steal-away-fame-studios-first-muscle-shoals-single",
+            "artist": "Jimmy Hughes",
+            "song": "Steal Away",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "Jimmy Hughes",
+              "Steal Away",
+              "FAME Studios",
+              "1964",
+              "Muscle Shoals"
+            ],
+            "fact": "Jimmy Hughes recorded 'Steal Away' at the new FAME Studios Muscle Shoals location in 1964 — the first single from that facility, and the recording that proved Rick Hall's operation could produce commercially significant soul recordings.",
+            "storyHook": "Jimmy Hughes. 1964. 'Steal Away.' The first thing out of the new FAME location in Muscle Shoals — and it went to the top 40.",
+            "sourceNotes": "Verified: Jimmy Hughes recorded 'Steal Away' at FAME Studios in Muscle Shoals in 1964. Sources: Wikipedia https://en.wikipedia.org/wiki/Steal_Away_(Jimmy_Hughes_song), Rock & Roll Hall of Fame archive https://catalog.rockhall.com/rrhof-ais/Details/archive/110000026",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Steal Away (Jimmy Hughes song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Steal_Away_(Jimmy_Hughes_song)",
+                "accessed": "2026-06-06"
+              },
+              {
+                "title": "FAME Studios Records – Rock & Roll Hall of Fame archive",
+                "url": "https://catalog.rockhall.com/rrhof-ais/Details/archive/110000026",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "recording",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The studio mechanics, personnel, and the conflict that split FAME from The Swampers.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP049-R2-Q1",
+          "episodeId": "EP049",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The Swampers featured which keyboardist — whose fluid, blues-inflected playing became a defining element of the Muscle Shoals signature sound?",
+          "choices": [
+            "David Hood",
+            "Roger Hawkins",
+            "Jimmy Johnson",
+            "Barry Beckett"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-artist-barry-beckett-swampers-keyboardist-muscle-shoals",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1969,
+            "topicTags": [
+              "Barry Beckett",
+              "The Swampers",
+              "keyboards",
+              "Muscle Shoals Rhythm Section",
+              "FAME Studios"
+            ],
+            "fact": "Barry Beckett played keyboards as part of the Muscle Shoals Rhythm Section (The Swampers). His loose, churchy, deeply rhythmic playing was central to the sound that drew Black soul artists to rural Alabama.",
+            "storyHook": "Four people. One rhythm section. Barry Beckett on keys was the element that made the Muscle Shoals sound feel like Sunday morning and Saturday night simultaneously.",
+            "sourceNotes": "Verified: Barry Beckett was The Swampers' keyboardist. Source: Wikipedia https://en.wikipedia.org/wiki/Barry_Beckett",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Barry Beckett – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Barry_Beckett",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R2-Q2",
+          "episodeId": "EP049",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The Swampers included which rhythm guitarist — whose understated, pocket-focused approach anchored the rhythm section without ever drawing attention from the vocalists?",
+          "choices": [
+            "Barry Beckett",
+            "Roger Hawkins",
+            "David Hood",
+            "Jimmy Johnson"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-artist-jimmy-johnson-swampers-guitarist-muscle-shoals",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1969,
+            "topicTags": [
+              "Jimmy Johnson",
+              "The Swampers",
+              "guitar",
+              "Muscle Shoals Rhythm Section",
+              "FAME Studios",
+              "Muscle Shoals Sound Studio"
+            ],
+            "fact": "Jimmy Johnson played guitar as part of The Swampers and co-founded Muscle Shoals Sound Studio in 1969. His restrained, groove-focused style was essential to the rhythm section's function on hundreds of landmark recordings.",
+            "storyHook": "Jimmy Johnson played guitar on records that changed American music — and never made the moment about himself. That was the Swampers' whole philosophy.",
+            "sourceNotes": "Verified: Jimmy Johnson was The Swampers' guitarist and co-founded Muscle Shoals Sound Studio. Source: Grammy.com https://www.grammy.com/news/jimmy-johnson-muscle-shoals-guitarist-dies-76/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jimmy Johnson, Muscle Shoals Guitarist, Dies At 76 – GRAMMY.com",
+                "url": "https://www.grammy.com/news/jimmy-johnson-muscle-shoals-guitarist-dies-76/",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R2-Q3",
+          "episodeId": "EP049",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Frustrated with their lack of recognition and compensation at FAME, The Swampers departed to open Muscle Shoals Sound Studio in which year?",
+          "choices": [
+            "1971",
+            "1967",
+            "1969",
+            "1966"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-studio-swampers-left-fame-founded-muscle-shoals-sound-1969",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1969,
+            "topicTags": [
+              "The Swampers",
+              "Muscle Shoals Sound Studio",
+              "FAME Studios",
+              "1969",
+              "rivalry",
+              "founding"
+            ],
+            "fact": "The four Swampers — David Hood, Barry Beckett, Roger Hawkins, and Jimmy Johnson — left FAME in early 1969 to found Muscle Shoals Sound Studio at 3614 Jackson Highway in Sheffield, Alabama.",
+            "storyHook": "They built FAME's sound. Then they left and built a competitor. 1969: The Swampers bet on themselves — and they were right.",
+            "sourceNotes": "Verified: Muscle Shoals Sound Studio opened in early 1969; The Swampers left FAME to found it. Sources: Muscle Shoals Sound Studio official history https://muscleshoalssoundstudio.org/pages/history, Wikipedia https://en.wikipedia.org/wiki/Muscle_Shoals_Sound_Studio",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Muscle Shoals Sound Studio – official history",
+                "url": "https://muscleshoalssoundstudio.org/pages/history",
+                "accessed": "2026-06-06"
+              },
+              {
+                "title": "Muscle Shoals Sound Studio – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Muscle_Shoals_Sound_Studio",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "studio",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R2-Q4",
+          "episodeId": "EP049",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Muscle Shoals Sound Studio — founded by The Swampers at 3614 Jackson Highway — was located not in the city of Muscle Shoals itself but in which neighboring Alabama city?",
+          "choices": [
+            "Sheffield",
+            "Tuscaloosa",
+            "Huntsville",
+            "Florence"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-studio-muscle-shoals-sound-sheffield-alabama-location",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1969,
+            "topicTags": [
+              "Muscle Shoals Sound Studio",
+              "Sheffield Alabama",
+              "3614 Jackson Highway",
+              "Tri-Cities",
+              "geography"
+            ],
+            "fact": "Muscle Shoals Sound Studio was located at 3614 Jackson Highway in Sheffield, Alabama — one of the Tri-Cities municipalities alongside Muscle Shoals and Florence. The name 'Muscle Shoals' became shorthand for the entire regional recording scene.",
+            "storyHook": "The studio called Muscle Shoals Sound wasn't in Muscle Shoals. It was in Sheffield. The name was bigger than the geography.",
+            "sourceNotes": "Verified: Muscle Shoals Sound Studio located at 3614 Jackson Highway in Sheffield, Alabama. Source: Wikipedia https://en.wikipedia.org/wiki/Muscle_Shoals_Sound_Studio",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Muscle Shoals Sound Studio – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Muscle_Shoals_Sound_Studio",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "studio",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R2-Q5",
+          "episodeId": "EP049",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Aretha Franklin's 1967 FAME session was cut short after tensions erupted involving which individual — her husband and personal manager at the time?",
+          "choices": [
+            "Berry Gordy",
+            "Ahmet Ertegun",
+            "Ted White",
+            "Quincy Jones"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-artist-ted-white-aretha-franklin-husband-manager-fame-conflict-1967",
+            "artist": "Aretha Franklin",
+            "song": null,
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Ted White",
+              "Aretha Franklin",
+              "FAME Studios",
+              "1967",
+              "conflict",
+              "biography"
+            ],
+            "fact": "Tensions between Ted White — Aretha's husband and manager, married from 1961 to 1969 — and both a member of the FAME horn section and producer Jerry Wexler cut short the session after only one track was completed.",
+            "storyHook": "One session. One completed track. One conflict too many. Ted White. Aretha left FAME with 'I Never Loved a Man' and never came back.",
+            "sourceNotes": "Verified: Ted White was Aretha Franklin's husband and manager; tensions involving White (and between Wexler and Hall) cut short the FAME session. Sources: Rebeatmag http://www.rebeatmag.com/i-never-loved-a-man-aretha-franklin/, Wikipedia https://en.wikipedia.org/wiki/Ted_White_(music_manager)",
+            "clipCue": "",
+            "hostNote": "The conflict at FAME involved racial tensions between a FAME horn section member and Ted White. The question references the conflict without specifying its racial nature — handle sensitively in live delivery.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "With 'I Never Loved a Man,' Aretha Franklin Becomes…",
+                "url": "http://www.rebeatmag.com/i-never-loved-a-man-aretha-franklin/",
+                "accessed": "2026-06-06"
+              },
+              {
+                "title": "Ted White (music manager) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ted_White_(music_manager)",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-06",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP049-R2-B1",
+          "episodeId": "EP049",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The Atlantic Records executive who brought Wilson Pickett, Aretha Franklin, and others to record at FAME Studios — transforming the Muscle Shoals sound into a national phenomenon — was which industry figure?",
+          "choices": [
+            "Ahmet Ertegun",
+            "Jerry Wexler",
+            "Clive Davis",
+            "Tom Dowd"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE ATLANTIC EXECUTIVE WHO BROUGHT THEM SOUTH"
+          },
+          "metadata": {
+            "factKey": "ep049-artist-jerry-wexler-atlantic-records-brought-artists-fame-muscle-shoals",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Jerry Wexler",
+              "Atlantic Records",
+              "FAME Studios",
+              "Muscle Shoals",
+              "Aretha Franklin",
+              "Wilson Pickett"
+            ],
+            "fact": "Jerry Wexler at Atlantic Records was the key executive who brought major soul artists to FAME Studios — sending Wilson Pickett in 1966 and bringing Aretha Franklin in January 1967, catalyzing the studio's commercial rise.",
+            "storyHook": "Jerry Wexler heard something in Muscle Shoals that nobody else in New York was hearing. He sent Wilson Pickett. Then he brought Aretha. The rest was history.",
+            "sourceNotes": "Verified: Jerry Wexler at Atlantic brought artists to FAME Studios. Source: uDiscoverMusic https://www.udiscovermusic.com/in-depth-features/muscle-shoals-studio-history/. NOTE: cross-episode — Jerry Wexler used as correct answer in EP043-R2-RES3 (coined 'rhythm and blues').",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Muscle Shoals Studio: A History Of The Soul Of America – uDiscoverMusic",
+                "url": "https://www.udiscovermusic.com/in-depth-features/muscle-shoals-studio-history/",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP049-R2-RES1",
+          "episodeId": "EP049",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Wilson Pickett's 1967 FAME recordings included which additional smash — beyond 'Mustang Sally' and 'Land of 1000 Dances' — that peaked at #8 on the Billboard Hot 100?",
+          "choices": [
+            "Land of 1000 Dances",
+            "In the Midnight Hour",
+            "Funky Broadway",
+            "Mustang Sally"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-song-funky-broadway-wilson-pickett-fame-1967-hot-100-top-10",
+            "artist": "Wilson Pickett",
+            "song": "Funky Broadway",
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Wilson Pickett",
+              "Funky Broadway",
+              "FAME Studios",
+              "1967",
+              "Billboard Hot 100",
+              "#8"
+            ],
+            "fact": "'Funky Broadway' was recorded by Wilson Pickett at FAME in 1967 and peaked at #8 on the Billboard Hot 100 — one of his only two Top 10 pop hits and a cornerstone of his FAME-era run.",
+            "storyHook": "'Funky Broadway.' #8 on the Hot 100. 1967. Wilson Pickett at FAME was producing hits faster than anyone could count them.",
+            "sourceNotes": "Verified: 'Funky Broadway' peaked at #8 on the Billboard Hot 100 and was a 1967 FAME recording. Source: Lost Songs substack https://lostsongs.substack.com/p/funky-broadway-wilson-pickett-1967",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Funky Broadway, Wilson Pickett (1967) – Lost Songs",
+                "url": "https://lostsongs.substack.com/p/funky-broadway-wilson-pickett-1967",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R2-RES2",
+          "episodeId": "EP049",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "One of the earliest significant artists to record at FAME Studios was which Alabama-born singer-songwriter, whose 1962 recording 'You Better Move On' became the studio's first chart hit?",
+          "choices": [
+            "Arthur Alexander",
+            "Percy Sledge",
+            "Jimmy Hughes",
+            "Clarence Carter"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-artist-arthur-alexander-you-better-move-on-1962-fame-first-chart-hit",
+            "artist": "Arthur Alexander",
+            "song": "You Better Move On",
+            "album": null,
+            "year": 1962,
+            "topicTags": [
+              "Arthur Alexander",
+              "You Better Move On",
+              "FAME Studios",
+              "1962",
+              "first chart hit",
+              "British Invasion"
+            ],
+            "fact": "Arthur Alexander's 'You Better Move On' (1962) became FAME's first chart hit. His recordings also attracted The Beatles and The Rolling Stones, who covered his songs on their early albums.",
+            "storyHook": "Before Wilson Pickett. Before Aretha. Arthur Alexander was at FAME in 1962 — and his songs were so good the Beatles and the Stones covered them.",
+            "sourceNotes": "Verified: Arthur Alexander's 'You Better Move On' (1962) was FAME's first chart hit; Beatles and Stones covered his work. Source: Encyclopedia of Alabama https://encyclopediaofalabama.org/article/arthur-alexander/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Arthur Alexander – Encyclopedia of Alabama",
+                "url": "https://encyclopediaofalabama.org/article/arthur-alexander/",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R2-RES3",
+          "episodeId": "EP049",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Clarence Carter — who co-wrote Etta James's 'Tell Mama' — scored his biggest personal hit at FAME with which 1970 recording that won the Grammy Award for Best Rhythm & Blues Song?",
+          "choices": [
+            "Too Weak to Fight",
+            "Slip Away",
+            "I Can't See Myself Leaving You",
+            "Patches"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-song-patches-clarence-carter-fame-1970-grammy-best-rb-song",
+            "artist": "Clarence Carter",
+            "song": "Patches",
+            "album": null,
+            "year": 1970,
+            "topicTags": [
+              "Clarence Carter",
+              "Patches",
+              "FAME Studios",
+              "1970",
+              "Grammy Award",
+              "Best Rhythm & Blues Song",
+              "country soul crossover"
+            ],
+            "fact": "'Patches' was Clarence Carter's biggest hit — it reached #4 on the Hot 100, #2 R&B, and #2 in the UK, and won the Grammy Award for Best Rhythm & Blues Song at the 1971 ceremony.",
+            "storyHook": "Clarence Carter. 'Patches.' A Grammy. #4 on the Hot 100. FAME Studios produced a Grammy-winning song in 1970 — and most people can't name the artist or the studio.",
+            "sourceNotes": "Verified: 'Patches' was Clarence Carter's biggest hit, reaching #4 Hot 100 and winning the 1971 Grammy for Best Rhythm & Blues Song. Source: Wikipedia https://en.wikipedia.org/wiki/Patches_(Chairmen_of_the_Board_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Patches (Chairmen of the Board song) – Wikipedia (includes Clarence Carter version)",
+                "url": "https://en.wikipedia.org/wiki/Patches_(Chairmen_of_the_Board_song)",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival connections that reveal how deep the Muscle Shoals story goes.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP049-R3-Q1",
+          "episodeId": "EP049",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Cher recorded a 1969 album at Muscle Shoals Sound Studio whose title came directly from the studio's street address. What was that album called?",
+          "choices": [
+            "Sweet Soul Music",
+            "Muscle Shoals",
+            "3614 Jackson Highway",
+            "Wham! Bam Thank You Ma'am"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-album-cher-3614-jackson-highway-muscle-shoals-sound-studio-1969",
+            "artist": "Cher",
+            "song": null,
+            "album": "3614 Jackson Highway",
+            "year": 1969,
+            "topicTags": [
+              "Cher",
+              "3614 Jackson Highway",
+              "Muscle Shoals Sound Studio",
+              "1969",
+              "The Swampers"
+            ],
+            "fact": "Cher's sixth album '3614 Jackson Highway' (1969) was the first full-length album recorded at the original Muscle Shoals Sound Studio — backed by The Swampers, and titled directly after the studio's street address in Sheffield, Alabama.",
+            "storyHook": "The new studio needed a landmark recording. Cher walked in with The Swampers and walked out with an album named after the address. The name stuck.",
+            "sourceNotes": "Verified: Cher's '3614 Jackson Highway' (1969) was the first full album recorded at Muscle Shoals Sound Studio. Sources: Wikipedia https://en.wikipedia.org/wiki/Muscle_Shoals_Sound_Studio, Facebook anniversary post https://www.facebook.com/muscleshoalssoundstudio/posts/today-marks-the-56th-anniversary-of-the-june-20-1969-release-of-chers-361",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Muscle Shoals Sound Studio – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Muscle_Shoals_Sound_Studio",
+                "accessed": "2026-06-06"
+              },
+              {
+                "title": "Muscle Shoals Sound Studio – 3614 Jackson Highway anniversary post",
+                "url": "https://www.facebook.com/muscleshoalssoundstudio/posts/today-marks-the-56th-anniversary-of-the-june-20-1969-release-of-chers-361",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "recording",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R3-Q2",
+          "episodeId": "EP049",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "FAME Studios was co-founded by Rick Hall alongside which two other individuals — both of whom sold their stakes to Hall before the studio reached its commercial peak?",
+          "choices": [
+            "Roger Hawkins and David Hood",
+            "Jerry Wexler and Ahmet Ertegun",
+            "Jim Dickinson and Dan Penn",
+            "Tom Stafford and Billy Sherrill"
+          ],
+          "correctIndex": 3,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-studio-fame-co-founders-tom-stafford-billy-sherrill-rick-hall-buyout",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "FAME Studios",
+              "Rick Hall",
+              "Tom Stafford",
+              "Billy Sherrill",
+              "co-founders",
+              "biography"
+            ],
+            "fact": "Rick Hall and Billy Sherrill accepted an offer from Tom Stafford to establish Florence Alabama Music Enterprises in 1959 — above City Drug Store in Florence. Hall eventually bought out both partners to become FAME's sole owner. Sherrill later became one of Nashville's most celebrated country music producers.",
+            "storyHook": "Three men started FAME. One of them — Billy Sherrill — walked away and became one of Nashville's greatest producers. Rick Hall stayed and built a legend.",
+            "sourceNotes": "Verified: Tom Stafford and Billy Sherrill were FAME's original co-founders with Rick Hall; Hall bought them out. Sources: FAME Studios official history https://famestudios.com/our-history/, Wikipedia https://en.wikipedia.org/wiki/FAME_Studios",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Our history – FAME Studios",
+                "url": "https://famestudios.com/our-history/",
+                "accessed": "2026-06-06"
+              },
+              {
+                "title": "FAME Studios – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/FAME_Studios",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "studio",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R3-B1",
+          "episodeId": "EP049",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Aretha Franklin's breakthrough first Atlantic Records album — partly recorded at FAME and completed in New York — was released in which year?",
+          "choices": [
+            "1965",
+            "1966",
+            "1968",
+            "1967"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "6",
+            "bonusHint": "DIGIT 3 OF 3 — THE YEAR ARETHA'S BREAKTHROUGH ARRIVED"
+          },
+          "metadata": {
+            "factKey": "ep049-album-aretha-franklin-i-never-loved-a-man-atlantic-1967-breakthrough",
+            "artist": "Aretha Franklin",
+            "song": null,
+            "album": "I Never Loved a Man the Way I Love You",
+            "year": 1967,
+            "topicTags": [
+              "Aretha Franklin",
+              "I Never Loved a Man the Way I Love You",
+              "Atlantic Records",
+              "1967",
+              "breakthrough"
+            ],
+            "fact": "'I Never Loved a Man the Way I Love You' — Aretha Franklin's first Atlantic Records album — was released in 1967, launching the most commercially and artistically dominant period of her career.",
+            "storyHook": "1967. One session at FAME. The rest recorded in New York. The album that made Aretha Franklin 'Aretha Franklin.'",
+            "sourceNotes": "Verified: Aretha's first Atlantic album released in 1967. Source: uDiscoverMusic https://www.udiscovermusic.com/in-depth-features/muscle-shoals-studio-history/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Muscle Shoals Studio: A History Of The Soul Of America – uDiscoverMusic",
+                "url": "https://www.udiscovermusic.com/in-depth-features/muscle-shoals-studio-history/",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP049-R3-RES1",
+          "episodeId": "EP049",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Arthur Alexander's FAME Studios recording 'Anna (Go to Him)' was covered on the debut album of which legendary group — a touchstone connection between American Southern soul and the British Invasion?",
+          "choices": [
+            "The Kinks",
+            "The Who",
+            "The Rolling Stones",
+            "The Beatles"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-song-anna-go-to-him-arthur-alexander-beatles-please-please-me-cover",
+            "artist": "Arthur Alexander / The Beatles",
+            "song": "Anna (Go to Him)",
+            "album": "Please Please Me",
+            "year": 1963,
+            "topicTags": [
+              "Arthur Alexander",
+              "Anna (Go to Him)",
+              "The Beatles",
+              "Please Please Me",
+              "FAME Studios",
+              "British Invasion",
+              "1963"
+            ],
+            "fact": "The Beatles covered 'Anna (Go to Him)' on their debut album Please Please Me (1963), with John Lennon on lead vocal. The cover — alongside other Alexander covers by The Stones — demonstrated how deeply FAME's catalog had permeated British rock.",
+            "storyHook": "Arthur Alexander recorded it at FAME in 1962. John Lennon covered it on Please Please Me in 1963. The distance between Muscle Shoals and Liverpool was smaller than anyone imagined.",
+            "sourceNotes": "Verified: The Beatles covered 'Anna (Go to Him)' on Please Please Me (1963). Source: Something Else Reviews https://somethingelsereviews.com/2018/01/14/beatles-anna-go-to-him-arthur-alexander/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Beatles, 'Anna (Go to Him)' from 'Please Please Me' – Something Else Reviews",
+                "url": "https://somethingelsereviews.com/2018/01/14/beatles-anna-go-to-him-arthur-alexander/",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP049-R3-RES2",
+          "episodeId": "EP049",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Wilson Pickett — who recorded landmark tracks at FAME Studios in 1966 and 1967 — was known by which colorful nickname?",
+          "choices": [
+            "The King of Soul",
+            "The Wicked Pickett",
+            "The Soul Commissioner",
+            "The Godfather of Soul"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep049-artist-wilson-pickett-the-wicked-pickett-nickname",
+            "artist": "Wilson Pickett",
+            "song": null,
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Wilson Pickett",
+              "The Wicked Pickett",
+              "nickname",
+              "FAME Studios",
+              "biography"
+            ],
+            "fact": "Wilson Pickett was known as 'The Wicked Pickett' — a nickname that captured both his raw, aggressive vocal style and his turbulent personal reputation. He was a performer who held nothing back.",
+            "storyHook": "The Wicked Pickett. The name fit the sound. Nobody walked out of a Wilson Pickett recording session without knowing they'd been in the presence of something serious.",
+            "sourceNotes": "Verified: Wilson Pickett's nickname was 'The Wicked Pickett.' Source: Facebook fan post https://www.facebook.com/groups/susancrebello/posts/4420258374925144/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wilson Pickett a.k.a Wicked Pickett – fan post",
+                "url": "https://www.facebook.com/groups/susancrebello/posts/4420258374925144/",
+                "accessed": "2026-06-06"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-06",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-06T18:59:31.755658+00:00"
+  }
+}

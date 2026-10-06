@@ -1,0 +1,1541 @@
+{
+  "episodeId": "EP047",
+  "title": "The Deep End",
+  "theme": "The R&B records that lived below the radar — massive on the soul chart, largely invisible to pop audiences. The Persuaders, Latimore, Joe Simon, The Dells, Luther Ingram. Artists who built careers without crossover and songs that still hit harder than most of what surrounded them.",
+  "narrativePurpose": "Test knowledge of the deep-catalog 1970s soul records that defined the genre for serious listeners — the labels, the songwriters, the artists, and the archival connections that reveal how wide and deep the era actually was.",
+  "toneProgression": "The deep soul records that R&B fans know by heart → the labels, writers, and personnel stories behind the recordings → the archival connections that trace the reach of these overlooked classics",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "1"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-7-1 — the year 'Thin Line Between Love and Hate' (The Persuaders), 'Drowning in the Sea of Love' (Joe Simon), and 'The Love We Had (Stays On My Mind)' (The Dells) all appeared on the R&B charts — three deep soul records from the same twelve months, largely unknown to casual listeners. 1971: a year that lived in the deep end."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The deep soul records R&B fans know — and the accessible facts that anchor them.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP047-R1-Q1",
+          "episodeId": "EP047",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Harold Melvin & The Blue Notes' 'If You Don't Know Me by Now' (1972) was later covered by which British soul-pop group, scoring a #1 hit in the United States in 1989?",
+          "choices": [
+            "Sade",
+            "Seal",
+            "Simply Red",
+            "Take That"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-song-if-you-dont-know-me-by-now-simply-red-1989-us-number-1",
+            "artist": "Harold Melvin & The Blue Notes / Simply Red",
+            "song": "If You Don't Know Me by Now",
+            "album": null,
+            "year": 1989,
+            "topicTags": [
+              "Simply Red",
+              "If You Don't Know Me by Now",
+              "Harold Melvin & The Blue Notes",
+              "1989",
+              "Billboard Hot 100",
+              "cover"
+            ],
+            "fact": "Simply Red's 1989 cover of 'If You Don't Know Me by Now' reached #1 on the Billboard Hot 100 in the United States and #2 on the UK Singles Chart — their biggest US hit.",
+            "storyHook": "A British soul-pop group took a Philadelphia classic to #1 in America seventeen years after the original. Harold Melvin didn't even make the Pop chart with it.",
+            "sourceNotes": "Verified: Simply Red's version reached #1 on the Billboard Hot 100 in 1989 (not #1 UK — corrected from draft). Sources: Wikipedia https://en.wikipedia.org/wiki/If_You_Don%27t_Know_Me_by_Now, Simply Red archive https://www.simplyred.com/archive/if-you-dont-know-me-by-now/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "If You Don't Know Me by Now – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/If_You_Don%27t_Know_Me_by_Now",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "If You Don't Know Me By Now – Simply Red song page",
+                "url": "https://www.simplyred.com/archive/if-you-dont-know-me-by-now/",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R1-Q2",
+          "episodeId": "EP047",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Luther Ingram's 'If Loving You Is Wrong I Don't Want to Be Right' (1972) — one of soul music's most resigned forbidden-love anthems — was released on which Memphis-based label?",
+          "choices": [
+            "Hi Records",
+            "Atlantic",
+            "Koko Records",
+            "Stax"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-song-if-loving-you-is-wrong-luther-ingram-koko-records",
+            "artist": "Luther Ingram",
+            "song": "(If Loving You Is Wrong) I Don't Want to Be Right",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Luther Ingram",
+              "If Loving You Is Wrong",
+              "Koko Records",
+              "Memphis",
+              "1972"
+            ],
+            "fact": "Luther Ingram recorded for KoKo Records, a small Memphis-based label with Stax affiliations. 'If Loving You Is Wrong' was produced by John Baylor and written by Homer Banks, Carl Hampton, and Raymond Jackson.",
+            "storyHook": "KoKo Records. Memphis. A song about knowing something is wrong and not caring. Luther Ingram delivered it like he meant every word.",
+            "sourceNotes": "Verified: Luther Ingram recorded '(If Loving You Is Wrong)' for KoKo Records. Source: Wikipedia https://en.wikipedia.org/wiki/(If_Loving_You_Is_Wrong)_I_Don%27t_Want_to_Be_Right",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "(If Loving You Is Wrong) I Don't Want to Be Right – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/(If_Loving_You_Is_Wrong)_I_Don%27t_Want_to_Be_Right",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R1-Q3",
+          "episodeId": "EP047",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "David Ruffin's 'Walk Away from Love' (1975) — his biggest solo hit — came after his departure from which iconic group where his voice had defined the sound?",
+          "choices": [
+            "The Four Tops",
+            "The Miracles",
+            "The Temptations",
+            "The O'Jays"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-artist-david-ruffin-temptations-walk-away-from-love-solo",
+            "artist": "David Ruffin",
+            "song": "Walk Away from Love",
+            "album": null,
+            "year": 1975,
+            "topicTags": [
+              "David Ruffin",
+              "The Temptations",
+              "Walk Away from Love",
+              "solo career",
+              "Motown",
+              "1975"
+            ],
+            "fact": "David Ruffin sang lead for The Temptations during their classic period before being fired in 1968. His solo career on Motown peaked with 'Walk Away from Love' in 1975.",
+            "storyHook": "The voice of The Temptations went solo. It took seven years but 'Walk Away from Love' proved the voice was still everything.",
+            "sourceNotes": "Verified: David Ruffin was best known as The Temptations' lead singer; fired 1968. Source: Classic Motown https://classic.motown.com/artist/david-ruffin/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "David Ruffin – Classic Motown artist bio",
+                "url": "https://classic.motown.com/artist/david-ruffin/",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R1-Q4",
+          "episodeId": "EP047",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Main Ingredient's 1974 deep soul hit 'Just Don't Want to Be Lonely' was performed by Cuba Gooding — the father of which Oscar-winning actor?",
+          "choices": [
+            "Blair Underwood",
+            "Denzel Washington",
+            "Cuba Gooding Jr.",
+            "Wesley Snipes"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-artist-cuba-gooding-sr-main-ingredient-cuba-gooding-jr-father",
+            "artist": "The Main Ingredient",
+            "song": "Just Don't Want to Be Lonely",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "Cuba Gooding Sr.",
+              "The Main Ingredient",
+              "Cuba Gooding Jr.",
+              "Just Don't Want to Be Lonely",
+              "1974"
+            ],
+            "fact": "Cuba Gooding (Sr.) was the lead singer of The Main Ingredient. His son Cuba Gooding Jr. won the Academy Award for Best Supporting Actor for Jerry Maguire (1996).",
+            "storyHook": "The singer's son won an Oscar. Cuba Gooding Sr. left something just as lasting — one of the smoothest soul ballads of 1974.",
+            "sourceNotes": "Verified: Cuba Gooding Sr. was lead singer of The Main Ingredient; father of Cuba Gooding Jr. Source: NYT obituary https://www.nytimes.com/2017/04/21/arts/music/cuba-gooding-sr-dead-main-ingredient-singer.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cuba Gooding Sr. – obituary/profile",
+                "url": "https://www.nytimes.com/2017/04/21/arts/music/cuba-gooding-sr-dead-main-ingredient-singer.html",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R1-Q5",
+          "episodeId": "EP047",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Persuaders' 1971 deep soul classic 'Thin Line Between Love and Hate' was released on which label — a subsidiary of Atlantic Records known for its soul and R&B catalog?",
+          "choices": [
+            "Stax",
+            "Atco Records",
+            "Motown",
+            "Philadelphia International"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-song-thin-line-between-love-and-hate-persuaders-atco-records",
+            "artist": "The Persuaders",
+            "song": "Thin Line Between Love and Hate",
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "The Persuaders",
+              "Thin Line Between Love and Hate",
+              "Atco Records",
+              "Atlantic Records",
+              "1971"
+            ],
+            "fact": "'Thin Line Between Love and Hate' was released on Atco Records — Atlantic's subsidiary label — in 1971. The Persuaders were a Brooklyn-based duo who wrote, produced, and performed the song.",
+            "storyHook": "Atco Records. Brooklyn. Two brothers who wrote the song, produced the song, and then sang it. The Persuaders did everything themselves.",
+            "sourceNotes": "Verified: 'Thin Line Between Love and Hate' released on Atco Records. Source: Spotify track metadata https://open.spotify.com/track/0hlthnSCTlKnRf91hR2f5L",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Thin Line Between Love and Hate – song entry",
+                "url": "https://open.spotify.com/track/0hlthnSCTlKnRf91hR2f5L",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R1-Q6",
+          "episodeId": "EP047",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Lenny Williams' raw 1978 soul ballad ''Cause I Love You' became one of the era's most anguished vocal performances. Before his solo breakthrough, Williams had served as lead vocalist for which Oakland-based funk band?",
+          "choices": [
+            "Sly & the Family Stone",
+            "Mandrill",
+            "Tower of Power",
+            "War"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-artist-lenny-williams-tower-of-power-cause-i-love-you-solo",
+            "artist": "Lenny Williams",
+            "song": "'Cause I Love You",
+            "album": null,
+            "year": 1978,
+            "topicTags": [
+              "Lenny Williams",
+              "Tower of Power",
+              "'Cause I Love You",
+              "Oakland",
+              "1978"
+            ],
+            "fact": "Lenny Williams is best known as Tower of Power's lead vocalist from the early 1970s. His visceral vocal style carried directly from that foundation into ''Cause I Love You.'",
+            "storyHook": "He sang for Tower of Power. Then he went solo and made one of the most emotionally unguarded soul performances of the decade.",
+            "sourceNotes": "Verified: Lenny Williams was Tower of Power's lead vocalist. Source: Wikipedia https://en.wikipedia.org/wiki/Lenny_Williams",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lenny Williams – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lenny_Williams",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R1-B1",
+          "episodeId": "EP047",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Joe Simon's 1971 soul hit 'Drowning in the Sea of Love' was a Southern soul record — but the song was written and produced by which team best known for their Philadelphia International Records work?",
+          "choices": [
+            "Holland-Dozier-Holland",
+            "Kenny Gamble and Leon Huff",
+            "Norman Whitfield and Barrett Strong",
+            "Thom Bell and Linda Creed"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — WRITTEN BY PHILADELPHIA'S FINEST"
+          },
+          "metadata": {
+            "factKey": "ep047-song-drowning-in-the-sea-of-love-joe-simon-gamble-huff-writers",
+            "artist": "Joe Simon",
+            "song": "Drowning in the Sea of Love",
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Joe Simon",
+              "Drowning in the Sea of Love",
+              "Kenny Gamble",
+              "Leon Huff",
+              "Philadelphia soul",
+              "Spring Records",
+              "1971"
+            ],
+            "fact": "'Drowning in the Sea of Love' was written and produced by Kenny Gamble and Leon Huff — the architects of Philadelphia International Records — despite being recorded by a Southern soul artist for Spring Records.",
+            "storyHook": "Philadelphia's most famous producers wrote a record for a Southern soul singer on a New York label. The deep soul world didn't care about boundaries.",
+            "sourceNotes": "Verified: 'Drowning in the Sea of Love' written and produced by Kenny Gamble and Leon Huff for Spring Records. Sources: Wikipedia https://en.wikipedia.org/wiki/Drowning_in_the_Sea_of_Love, album entry https://en.wikipedia.org/wiki/Drowning_in_the_Sea_of_Love_(album)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Drowning in the Sea of Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Drowning_in_the_Sea_of_Love",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "Drowning in the Sea of Love (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Drowning_in_the_Sea_of_Love_(album)",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "production",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP047-R1-RES1",
+          "episodeId": "EP047",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Manhattans recorded 'Kiss and Say Goodbye' (1976) — their only #1 hit on the Billboard Hot 100 — for which major label?",
+          "choices": [
+            "Atlantic",
+            "Columbia Records",
+            "Polydor",
+            "Stax"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-song-kiss-and-say-goodbye-manhattans-columbia-records-label",
+            "artist": "The Manhattans",
+            "song": "Kiss and Say Goodbye",
+            "album": null,
+            "year": 1976,
+            "topicTags": [
+              "The Manhattans",
+              "Kiss and Say Goodbye",
+              "Columbia Records",
+              "1976",
+              "label"
+            ],
+            "fact": "'Kiss and Say Goodbye' was recorded for Columbia Records and released in 1976 as the lead single from the album The Manhattans — becoming the group's only #1 hit on the Billboard Hot 100.",
+            "storyHook": "One #1 hit. One label. Columbia Records put 'Kiss and Say Goodbye' into homes across America in 1976.",
+            "sourceNotes": "Verified: 'Kiss and Say Goodbye' was released by Columbia Records in 1976. Source: Wikipedia https://en.wikipedia.org/wiki/Kiss_and_Say_Goodbye",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Kiss and Say Goodbye – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Kiss_and_Say_Goodbye",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R1-RES2",
+          "episodeId": "EP047",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Latimore — who released 'Let's Straighten It Out' in 1974 — built his career on which Miami-based independent label?",
+          "choices": [
+            "Malaco Records",
+            "Glades Records",
+            "Marlin Records",
+            "Spring Records"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-song-lets-straighten-it-out-latimore-glades-records",
+            "artist": "Latimore",
+            "song": "Let's Straighten It Out",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "Latimore",
+              "Let's Straighten It Out",
+              "Glades Records",
+              "Miami soul",
+              "1974"
+            ],
+            "fact": "Latimore built his career on Glades Records — a Miami-based soul imprint — releasing 'Let's Straighten It Out' in 1974 as part of a run of Southern soul recordings.",
+            "storyHook": "Glades Records. Miami. And a voice so smooth it made working things out sound like the easiest thing in the world.",
+            "sourceNotes": "Verified: Latimore recorded 'Let's Straighten It Out' on Glades Records in 1974. Source: FleaMarketFunk https://fleamarketfunk.com/2010/05/11/latimore-lets-straighten-it-out/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Latimore – 'Let's Straighten It Out' – FleaMarketFunk",
+                "url": "https://fleamarketfunk.com/2010/05/11/latimore-lets-straighten-it-out/",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R1-RES3",
+          "episodeId": "EP047",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Manhattans — who recorded 'Kiss and Say Goodbye' — featured which vocalist as their primary lead singer throughout their commercial peak in the 1970s and 1980s?",
+          "choices": [
+            "Richard Taylor",
+            "Edward Bivins",
+            "Gerald Alston",
+            "Winfred Blue Lovett"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-artist-manhattans-gerald-alston-lead-vocalist-commercial-peak",
+            "artist": "The Manhattans",
+            "song": null,
+            "album": null,
+            "year": 1970,
+            "topicTags": [
+              "The Manhattans",
+              "Gerald Alston",
+              "lead vocalist",
+              "Kiss and Say Goodbye",
+              "biography"
+            ],
+            "fact": "Gerald Alston was The Manhattans' principal lead vocalist from late 1970 through 1988, fronting the group through 25 Top 40 R&B hits including 'Kiss and Say Goodbye.'",
+            "storyHook": "Gerald Alston fronted The Manhattans through 25 Top 40 R&B hits. The voice behind 'Kiss and Say Goodbye' — and most everything else they recorded in that era.",
+            "sourceNotes": "Verified: Gerald Alston was the Manhattans' lead singer between late 1970 and 1988. Source: Wikipedia https://en.wikipedia.org/wiki/Gerald_Alston",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Gerald Alston – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Gerald_Alston",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R1-RES4",
+          "episodeId": "EP047",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Joe Simon — who recorded 'Drowning in the Sea of Love' in 1971 — was signed to which New York-based independent label?",
+          "choices": [
+            "Volt Records",
+            "Rounder Records",
+            "Malaco Records",
+            "Spring Records"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-song-drowning-sea-of-love-joe-simon-spring-records",
+            "artist": "Joe Simon",
+            "song": "Drowning in the Sea of Love",
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Joe Simon",
+              "Drowning in the Sea of Love",
+              "Spring Records",
+              "New York",
+              "1971"
+            ],
+            "fact": "'Drowning in the Sea of Love' was recorded by Joe Simon for Spring Records — the New York-based independent label that released the song in 1971.",
+            "storyHook": "New York label. Philadelphia writers. Southern soul singer. 'Drowning in the Sea of Love' came from everywhere at once.",
+            "sourceNotes": "Verified: 'Drowning in the Sea of Love' was recorded by Joe Simon for Spring Records. Source: Wikipedia https://en.wikipedia.org/wiki/Drowning_in_the_Sea_of_Love",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Drowning in the Sea of Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Drowning_in_the_Sea_of_Love",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The labels, writers, personnel, and production stories behind the deep soul catalog.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP047-R2-Q1",
+          "episodeId": "EP047",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'If Loving You Is Wrong I Don't Want to Be Right' was co-written by Homer Banks, Raymond Jackson, and Carl Hampton — the same songwriting team behind which 1968 Stax smash for Johnnie Taylor?",
+          "choices": [
+            "Knock on Wood",
+            "Soul Man",
+            "Hold On I'm Comin'",
+            "Who's Making Love"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-song-if-loving-you-is-wrong-banks-jackson-hampton-whos-making-love-johnnie-taylor",
+            "artist": "Luther Ingram / Johnnie Taylor",
+            "song": "(If Loving You Is Wrong) I Don't Want to Be Right",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Homer Banks",
+              "Raymond Jackson",
+              "Carl Hampton",
+              "Luther Ingram",
+              "Johnnie Taylor",
+              "Who's Making Love",
+              "Stax",
+              "1968",
+              "songwriting"
+            ],
+            "fact": "Homer Banks, Raymond Jackson, and Carl Hampton wrote both 'If Loving You Is Wrong' and Johnnie Taylor's 1968 Stax smash 'Who's Making Love' — establishing them as one of the Memphis soul era's most accomplished songwriting teams.",
+            "storyHook": "Three writers. Two massive hits. Homer Banks, Raymond Jackson, and Carl Hampton built a catalog that went from Johnnie Taylor in 1968 to Luther Ingram in 1972.",
+            "sourceNotes": "Verified: Banks, Hampton, and Jackson wrote both songs. Sources: Wikipedia https://en.wikipedia.org/wiki/(If_Loving_You_Is_Wrong)_I_Don%27t_Want_to_Be_Right, Facebook story post https://www.facebook.com/ClassicCountryMusicStories/posts/the-story-behind-the-songif-loving-you-is-wrong-i-dont-want-to-be-righ",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "(If Loving You Is Wrong) I Don't Want to Be Right – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/(If_Loving_You_Is_Wrong)_I_Don%27t_Want_to_Be_Right",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "'(If Loving You Is Wrong)' – writers Banks, Jackson & Hampton",
+                "url": "https://www.facebook.com/ClassicCountryMusicStories/posts/the-story-behind-the-songif-loving-you-is-wrong-i-dont-want-to-be-righ",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R2-Q2",
+          "episodeId": "EP047",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "David Ruffin was fired from The Temptations in 1968 after increasingly erratic behavior. He was replaced as the group's lead vocalist by which singer?",
+          "choices": [
+            "Dennis Edwards",
+            "Melvin Franklin",
+            "Paul Williams",
+            "Eddie Kendricks"
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-artist-dennis-edwards-replaced-david-ruffin-temptations-1968",
+            "artist": "The Temptations",
+            "song": null,
+            "album": null,
+            "year": 1968,
+            "topicTags": [
+              "Dennis Edwards",
+              "David Ruffin",
+              "The Temptations",
+              "1968",
+              "replacement",
+              "biography"
+            ],
+            "fact": "Dennis Edwards replaced David Ruffin as The Temptations' lead vocalist in 1968 and went on to front some of the group's most celebrated Norman Whitfield–produced psychedelic soul recordings.",
+            "storyHook": "David Ruffin left. Dennis Edwards arrived. The Temptations didn't miss a beat — and then went somewhere entirely new.",
+            "sourceNotes": "Verified: Dennis Edwards replaced David Ruffin as Temptations lead vocalist in 1968. Source: Wikipedia https://en.wikipedia.org/wiki/Dennis_Edwards",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dennis Edwards – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dennis_Edwards",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R2-Q3",
+          "episodeId": "EP047",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Dells — who recorded 'The Love We Had (Stays On My Mind)' in 1971 — released their major soul recordings on which subsidiary label of Chess Records?",
+          "choices": [
+            "Stax",
+            "Motown",
+            "Cadet Records",
+            "Atlantic"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-group-the-dells-cadet-records-chess-subsidiary",
+            "artist": "The Dells",
+            "song": "The Love We Had (Stays On My Mind)",
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "The Dells",
+              "Cadet Records",
+              "Chess Records",
+              "The Love We Had",
+              "1971",
+              "label"
+            ],
+            "fact": "The Dells recorded for Cadet Records — Chess Records' jazz and soul subsidiary — throughout their most commercially significant period of the late 1960s and early 1970s.",
+            "storyHook": "Chess Records built an empire. Cadet was where they put the soul. The Dells found their most important recordings there.",
+            "sourceNotes": "Verified: The Dells recorded for Cadet Records (Chess subsidiary) for their early-1970s releases. Source: AllMusic discography https://www.allmusic.com/artist/the-dells-mn0000130447/discography",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Dells – discography overview",
+                "url": "https://www.allmusic.com/artist/the-dells-mn0000130447/discography",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R2-Q4",
+          "episodeId": "EP047",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Latimore — associated with Miami soul — was actually born in which Southern state, a long way from the Florida scene where he built his career?",
+          "choices": [
+            "Mississippi",
+            "Alabama",
+            "Tennessee",
+            "Georgia"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-artist-latimore-born-charleston-tennessee-miami-soul",
+            "artist": "Latimore",
+            "song": null,
+            "album": null,
+            "year": 1939,
+            "topicTags": [
+              "Latimore",
+              "Charleston Tennessee",
+              "Miami soul",
+              "biography",
+              "birthplace"
+            ],
+            "fact": "Latimore (born Benjamin 'Benny' Latimore) was born in Charleston, Tennessee in 1939 — far from the Miami soul scene where he would eventually build his reputation on Glades Records.",
+            "storyHook": "Charleston, Tennessee. Not Miami. Latimore came a long way to become the voice of Florida soul.",
+            "sourceNotes": "Verified: Latimore born Benjamin 'Benny' Latimore in Charleston, Tennessee. Source: FleaMarketFunk https://fleamarketfunk.com/2010/05/11/latimore-lets-straighten-it-out/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Latimore – 'Let's Straighten It Out' – FleaMarketFunk",
+                "url": "https://fleamarketfunk.com/2010/05/11/latimore-lets-straighten-it-out/",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R2-Q5",
+          "episodeId": "EP047",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Thin Line Between Love and Hate' was written and produced by two brothers who were also members of The Persuaders. What were their names?",
+          "choices": [
+            "Holland-Dozier-Holland",
+            "Smokey Robinson and Marvin Tarplin",
+            "Leon Huff and Kenny Gamble",
+            "Richard and Robert Poindexter"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-song-thin-line-between-love-and-hate-richard-robert-poindexter-writers",
+            "artist": "The Persuaders",
+            "song": "Thin Line Between Love and Hate",
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Richard Poindexter",
+              "Robert Poindexter",
+              "The Persuaders",
+              "Thin Line Between Love and Hate",
+              "songwriter",
+              "1971"
+            ],
+            "fact": "Richard Poindexter and Robert Poindexter — brothers and members of The Persuaders — wrote and produced 'Thin Line Between Love and Hate,' with additional writing credit to Jackie Members.",
+            "storyHook": "Two brothers. One song. Richard and Robert Poindexter wrote, produced, and performed 'Thin Line Between Love and Hate' — and made it feel like the most dangerous love story in soul music.",
+            "sourceNotes": "Verified: Richard and Robert Poindexter wrote and produced 'Thin Line Between Love and Hate' (with co-writer Jackie Members). Source: Spotify track credits https://open.spotify.com/track/0hlthnSCTlKnRf91hR2f5L",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Thin Line Between Love and Hate – song credits",
+                "url": "https://open.spotify.com/track/0hlthnSCTlKnRf91hR2f5L",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R2-B1",
+          "episodeId": "EP047",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Main Ingredient — who recorded 'Just Don't Want to Be Lonely' — released the song on which major label?",
+          "choices": [
+            "RCA Records",
+            "Atlantic",
+            "Motown",
+            "Columbia"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE MAIN INGREDIENT'S LABEL"
+          },
+          "metadata": {
+            "factKey": "ep047-group-main-ingredient-rca-records-just-dont-want-to-be-lonely",
+            "artist": "The Main Ingredient",
+            "song": "Just Don't Want to Be Lonely",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "The Main Ingredient",
+              "RCA Records",
+              "Just Don't Want to Be Lonely",
+              "1974",
+              "label"
+            ],
+            "fact": "'Just Don't Want to Be Lonely' was released on RCA Records in 1974 as part of The Main Ingredient's mid-1970s commercial run.",
+            "storyHook": "RCA Records. Cuba Gooding Sr. at the mic. And one of the smoothest soul ballads the early 1970s produced.",
+            "sourceNotes": "Verified: 'Just Don't Want to Be Lonely' was released on RCA Records. Source: Discogs https://www.discogs.com/master/153927-The-Main-Ingredient-Just-Dont-Want-To-Be-Lonely",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Just Don't Want to Be Lonely – The Main Ingredient single info",
+                "url": "https://www.discogs.com/master/153927-The-Main-Ingredient-Just-Dont-Want-To-Be-Lonely",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP047-R2-RES1",
+          "episodeId": "EP047",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Tower of Power — whose former lead vocalist Lenny Williams went on to record ''Cause I Love You' — were founded in which California city?",
+          "choices": [
+            "Los Angeles",
+            "Sacramento",
+            "San Francisco",
+            "Oakland"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-group-tower-of-power-founded-oakland-california",
+            "artist": "Tower of Power",
+            "song": null,
+            "album": null,
+            "year": 1968,
+            "topicTags": [
+              "Tower of Power",
+              "Oakland",
+              "California",
+              "biography",
+              "Lenny Williams"
+            ],
+            "fact": "Tower of Power were founded in Oakland, California — a city whose distinct R&B and funk scene gave the group a harder-edged, horn-driven sound unlike anything coming from Los Angeles.",
+            "storyHook": "Not Los Angeles. Oakland. Tower of Power came from a tougher, rawer side of the California music scene.",
+            "sourceNotes": "Verified: Tower of Power founded in Oakland, California. Source: Wikipedia https://en.wikipedia.org/wiki/Tower_of_Power",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tower of Power – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tower_of_Power",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R2-RES2",
+          "episodeId": "EP047",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "David Ruffin's 'Walk Away from Love' (1975) peaked at which position on the Billboard Hot 100 — his strongest solo chart performance?",
+          "choices": [
+            "#15",
+            "#9",
+            "#12",
+            "#5"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-song-walk-away-from-love-david-ruffin-number-9-hot-100",
+            "artist": "David Ruffin",
+            "song": "Walk Away from Love",
+            "album": null,
+            "year": 1975,
+            "topicTags": [
+              "David Ruffin",
+              "Walk Away from Love",
+              "Billboard Hot 100",
+              "#9",
+              "1975",
+              "chart"
+            ],
+            "fact": "'Walk Away from Love' reached #9 on the Billboard Hot 100 in early 1976 (following its 1975 release) — David Ruffin's best solo chart performance.",
+            "storyHook": "Seven years after The Temptations. #9 on the Hot 100. David Ruffin proved he didn't need the group.",
+            "sourceNotes": "Verified: 'Walk Away from Love' reached #9 on the Billboard Hot 100. Source: Billboard chart history https://www.billboard.com/artist/david-ruffin/chart-history/hsi/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "David Ruffin – 'Walk Away from Love' chart history",
+                "url": "https://www.billboard.com/artist/david-ruffin/chart-history/hsi/",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R2-RES3",
+          "episodeId": "EP047",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1950s",
+          "question": "The Dells — one of R&B's longest-running vocal groups — were originally formed in which year?",
+          "choices": [
+            "1953",
+            "1960",
+            "1957",
+            "1955"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-group-the-dells-formed-1953-harvey-illinois",
+            "artist": "The Dells",
+            "song": null,
+            "album": null,
+            "year": 1953,
+            "topicTags": [
+              "The Dells",
+              "1953",
+              "Harvey Illinois",
+              "formation",
+              "biography"
+            ],
+            "fact": "The Dells were formed in Harvey, Illinois in 1953 as a doo-wop group — going on to record and perform across multiple musical eras for over five decades.",
+            "storyHook": "1953. Harvey, Illinois. A doo-wop group that would still be recording decades later. The Dells outlasted almost everyone.",
+            "sourceNotes": "Verified: The Dells formed in Harvey, Illinois in 1953. Source: Wikipedia https://en.wikipedia.org/wiki/The_Dells",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Dells – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Dells",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival connections that trace the reach of deep soul — across decades, genres, and state lines.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP047-R3-Q1",
+          "episodeId": "EP047",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "The Persuaders' 'Thin Line Between Love and Hate' crossed genre lines when it was covered on which prominent British new wave act's 1984 album Learning to Crawl?",
+          "choices": [
+            "The Clash",
+            "The Jam",
+            "The Pretenders",
+            "Siouxsie and the Banshees"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-song-thin-line-between-love-and-hate-pretenders-learning-to-crawl-1984",
+            "artist": "The Pretenders",
+            "song": "Thin Line Between Love and Hate",
+            "album": "Learning to Crawl",
+            "year": 1984,
+            "topicTags": [
+              "The Pretenders",
+              "Thin Line Between Love and Hate",
+              "Learning to Crawl",
+              "1984",
+              "cover",
+              "new wave"
+            ],
+            "fact": "The Pretenders recorded 'Thin Line Between Love and Hate' for their 1984 album Learning to Crawl — one of the most unexpected genre crossings in the deep soul catalog's history.",
+            "storyHook": "A Brooklyn soul record from 1971 ended up on a British new wave album in 1984. The Pretenders heard something in 'Thin Line' that transcended genre — and they were right.",
+            "sourceNotes": "Verified: The Pretenders covered 'Thin Line Between Love and Hate' on Learning to Crawl (1984). Source: Wikipedia https://en.wikipedia.org/wiki/Learning_to_Crawl",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Learning to Crawl – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Learning_to_Crawl",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R3-Q2",
+          "episodeId": "EP047",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1950s",
+          "question": "The Dells — who recorded 'The Love We Had (Stays On My Mind)' in 1971 — are one of R&B's longest-running acts, having formed in 1953 in which Chicago suburb?",
+          "choices": [
+            "Harvey, Illinois",
+            "Compton, California",
+            "Gary, Indiana",
+            "Saginaw, Michigan"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-group-the-dells-harvey-illinois-chicago-suburb-formed-1953",
+            "artist": "The Dells",
+            "song": "The Love We Had (Stays On My Mind)",
+            "album": null,
+            "year": 1953,
+            "topicTags": [
+              "The Dells",
+              "Harvey Illinois",
+              "Chicago suburb",
+              "1953",
+              "biography"
+            ],
+            "fact": "The Dells were formed in Harvey, Illinois — a Chicago suburb — in 1953. Their proximity to Chicago's gospel and doo-wop scenes gave them the foundation for one of the longest careers in R&B history.",
+            "storyHook": "Harvey, Illinois. Not Chicago. Just outside. And yet The Dells became one of the city's — and the genre's — most enduring stories.",
+            "sourceNotes": "Verified: The Dells formed in Harvey, Illinois in 1953. Source: Wikipedia https://en.wikipedia.org/wiki/The_Dells",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Dells – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Dells",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R3-B1",
+          "episodeId": "EP047",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Luther Ingram's 'If Loving You Is Wrong I Don't Want to Be Right' received a Grammy nomination at the 1974 Grammy Awards. In which category was it nominated?",
+          "choices": [
+            "Best Soul Gospel Performance",
+            "Best Traditional R&B Vocal Performance",
+            "Best R&B Album",
+            "Best Rhythm & Blues Song"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "7",
+            "bonusHint": "DIGIT 3 OF 3 — ITS GRAMMY NOMINATION CATEGORY"
+          },
+          "metadata": {
+            "factKey": "ep047-song-if-loving-you-is-wrong-grammy-nomination-best-rhythm-blues-song-1974",
+            "artist": "Luther Ingram",
+            "song": "(If Loving You Is Wrong) I Don't Want to Be Right",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "Luther Ingram",
+              "If Loving You Is Wrong",
+              "Grammy Awards",
+              "Best Rhythm & Blues Song",
+              "1974",
+              "16th Grammy Awards"
+            ],
+            "fact": "Luther Ingram's '(If Loving You Is Wrong) I Don't Want to Be Right' received a Grammy nomination for Best Rhythm & Blues Song at the 16th Annual Grammy Awards in 1974, covering 1973 releases.",
+            "storyHook": "A KoKo Records record on a small Memphis label got a Grammy nomination for Best Rhythm & Blues Song. The Academy noticed what soul fans already knew.",
+            "sourceNotes": "Verified: Grammy nomination for Best Rhythm & Blues Song at the 16th Grammy Awards (1974). Source: Grammy.com https://www.grammy.com/awards/16th-annual-grammy-awards",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Grammy Awards – 16th Annual, R&B fields",
+                "url": "https://www.grammy.com/awards/16th-annual-grammy-awards",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP047-R3-RES1",
+          "episodeId": "EP047",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Joe Simon — who recorded 'Drowning in the Sea of Love' in 1971 — was born in Simmesport in which Southern state?",
+          "choices": [
+            "Louisiana",
+            "Tennessee",
+            "Mississippi",
+            "Georgia"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-artist-joe-simon-born-simmesport-louisiana",
+            "artist": "Joe Simon",
+            "song": null,
+            "album": null,
+            "year": 1943,
+            "topicTags": [
+              "Joe Simon",
+              "Simmesport",
+              "Louisiana",
+              "birthplace",
+              "biography"
+            ],
+            "fact": "Joe Simon was born in Simmesport, Louisiana — a Southern gospel background that informed the devotional intensity of his soul recordings.",
+            "storyHook": "Simmesport, Louisiana. A small town that produced one of the era's most emotionally charged soul voices.",
+            "sourceNotes": "Verified: Joe Simon born in Simmesport, Louisiana. Source: Wikipedia https://en.wikipedia.org/wiki/Joe_Simon_(musician)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Joe Simon – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Joe_Simon_(musician)",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP047-R3-RES2",
+          "episodeId": "EP047",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Latimore's Glades Records was a subsidiary of which larger Miami-based independent operation — run by entrepreneur Henry Stone — that dominated Florida's soul output throughout the 1970s?",
+          "choices": [
+            "TK Records",
+            "Criteria Recording Studios",
+            "Atlantic South",
+            "Columbia South"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep047-label-glades-records-tk-records-henry-stone-miami",
+            "artist": "Latimore",
+            "song": null,
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "Glades Records",
+              "TK Records",
+              "Henry Stone",
+              "Miami",
+              "Latimore",
+              "label history"
+            ],
+            "fact": "Glades Records was one of several subsidiary labels run by Henry Stone under the TK Records umbrella — the Miami operation that also launched KC and the Sunshine Band on the disco side of its catalog.",
+            "storyHook": "Henry Stone ran TK Records. Glades was where he put the soul. KC and the Sunshine Band were next door — and Latimore was the deep end of the catalog.",
+            "sourceNotes": "Verified: Glades Records was a TK Records subsidiary under Henry Stone. Sources: Wikipedia https://en.wikipedia.org/wiki/TK_Records, FleaMarketFunk https://fleamarketfunk.com/2010/05/11/latimore-lets-straighten-it-out/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TK Records – label history",
+                "url": "https://en.wikipedia.org/wiki/TK_Records",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "Latimore – 'Let's Straighten It Out' – Glades/TK context",
+                "url": "https://fleamarketfunk.com/2010/05/11/latimore-lets-straighten-it-out/",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-31T22:51:08.743652+00:00"
+  }
+}

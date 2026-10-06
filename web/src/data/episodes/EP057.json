@@ -1,0 +1,1551 @@
+{
+  "episodeId": "EP057",
+  "title": "Men of Soul: The Seventies",
+  "theme": "Philadelphia International's golden run sitting alongside Thom Bell's other Philly-soul-adjacent productions, with Chicago's Chi-Lites and Detroit's Dramatics providing the counterweight outside the Philadelphia machine.",
+  "narrativePurpose": "Trace 1970s male vocal group history through the Sound of Philadelphia's production infrastructure (Gamble & Huff, Thom Bell, Sigma Sound) alongside the Chicago and Detroit scenes operating outside it — keeping every personnel fact confined to active-career biography per series standard.",
+  "toneProgression": "The hits and label history that defined the era → the producers, songwriters, and studio infrastructure behind the sound → the archival pop-culture connections hiding inside this era's legacy",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "2"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-7-2 — the year of 'Back Stabbers,' 'If You Don't Know Me by Now,' 'I'll Be Around,' 'Betcha By Golly, Wow,' and 'Oh Girl.' Philadelphia International's first great breakout year."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The hits and label history that defined 1970s male vocal groups.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP057-R1-Q1",
+          "episodeId": "EP057",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The O'Jays scored a 1972 Philadelphia International breakthrough hit, written by Leon Huff, Gene McFadden, and John Whitehead, about disloyal friends. What was it called?",
+          "choices": [
+            "Use Ta Be My Girl",
+            "For the Love of Money",
+            "Back Stabbers",
+            "Love Train"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-back-stabbers-ojays-1972-huff-mcfadden-whitehead",
+            "artist": "The O'Jays",
+            "song": "Back Stabbers",
+            "album": "Back Stabbers",
+            "year": 1972,
+            "topicTags": [
+              "The O'Jays",
+              "Back Stabbers",
+              "1972",
+              "Philadelphia International",
+              "Leon Huff",
+              "Gene McFadden",
+              "John Whitehead"
+            ],
+            "fact": "'Back Stabbers' (1972), written by Leon Huff, Gene McFadden, and John Whitehead, became the O'Jays' breakthrough hit and one of Philadelphia International's signature early successes — reaching the Top 10 on the Hot 100 and #1 on the R&B chart.",
+            "storyHook": "'Back Stabbers.' 1972. Huff, McFadden, and Whitehead wrote it — and Philadelphia International had its first true breakout single.",
+            "sourceNotes": "Verified: 'Back Stabbers' (1972) written by Leon Huff, Gene McFadden, John Whitehead (not Gamble & Huff); Top 10 pop, #1 R&B. Sources: All Things Music Plus+ https://www.facebook.com/allthingmusicplus/posts/august-1972-53-years-agothe-ojays-back-stabbers-is-released-all-things-music-pl, Dutch Top 40 https://www.top40.nl/o-jays/the-o-jays-back-stabbers-4504",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The O'Jays – Back Stabbers release note",
+                "url": "https://www.facebook.com/allthingmusicplus/posts/august-1972-53-years-agothe-ojays-back-stabbers-is-released-all-things-music-pl",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Back Stabbers – Dutch Top 40 song info",
+                "url": "https://www.top40.nl/o-jays/the-o-jays-back-stabbers-4504",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R1-Q2",
+          "episodeId": "EP057",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Harold Melvin & the Blue Notes, featuring Teddy Pendergrass on lead vocals, scored a 1972 hit — written by Gamble and Huff — that reached #3 on the Hot 100 and #1 R&B. What was it?",
+          "choices": [
+            "Don't Leave Me This Way",
+            "If You Don't Know Me by Now",
+            "The Love I Lost",
+            "Wake Up Everybody"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-if-you-dont-know-me-by-now-blue-notes-1972-gamble-huff",
+            "artist": "Harold Melvin & the Blue Notes",
+            "song": "If You Don't Know Me by Now",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Harold Melvin & the Blue Notes",
+              "If You Don't Know Me by Now",
+              "1972",
+              "Gamble and Huff",
+              "Teddy Pendergrass"
+            ],
+            "fact": "'If You Don't Know Me by Now' (1972), written by Kenny Gamble and Leon Huff, reached #3 on the Hot 100 and #1 on the R&B chart — Teddy Pendergrass's lead vocal anchoring one of Philadelphia soul's most enduring ballads.",
+            "storyHook": "#3 pop, #1 R&B. 'If You Don't Know Me by Now' is the song most people think of first when they hear Teddy Pendergrass's name.",
+            "sourceNotes": "Verified: 'If You Don't Know Me by Now' (1972) written by Gamble/Huff, #3 Hot 100, #1 R&B. Sources: Wikipedia https://en.wikipedia.org/wiki/If_You_Don't_Know_Me_by_Now, Songfacts https://www.songfacts.com/facts/harold-melvin-the-blue-notes/if-you-dont-know-me-by-now",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "If You Don't Know Me by Now – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/If_You_Don't_Know_Me_by_Now",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "If You Don't Know Me By Now – Songfacts",
+                "url": "https://www.songfacts.com/facts/harold-melvin-the-blue-notes/if-you-dont-know-me-by-now",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R1-Q3",
+          "episodeId": "EP057",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The O'Jays reached #1 on both the R&B chart and the Hot 100 in early 1973 with which single?",
+          "choices": [
+            "992 Arguments",
+            "Back Stabbers",
+            "Love Train",
+            "For the Love of Money"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-love-train-ojays-1973-number-one-rb-hot-100",
+            "artist": "The O'Jays",
+            "song": "Love Train",
+            "album": "Back Stabbers",
+            "year": 1973,
+            "topicTags": [
+              "The O'Jays",
+              "Love Train",
+              "1973",
+              "#1 R&B",
+              "#1 Hot 100"
+            ],
+            "fact": "'Love Train' (1973) reached #1 on the R&B Singles chart in February 1973 and #1 on the Hot 100 the following month — the O'Jays' biggest pop crossover and one of Philadelphia International's defining anthems.",
+            "storyHook": "February to March 1973. 'Love Train' went #1 R&B, then #1 pop a month later. A clean sweep.",
+            "sourceNotes": "Verified: 'Love Train' (1973) #1 R&B (Feb 1973) and #1 Hot 100 (March 1973). Source: Wikipedia https://en.wikipedia.org/wiki/Love_Train",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Love Train – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Love_Train",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R1-Q4",
+          "episodeId": "EP057",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Philadelphia International Records, the label behind the O'Jays and Harold Melvin & the Blue Notes, was founded in 1971 by which songwriting and production duo?",
+          "choices": [
+            "Eugene Record and Barbara Acklin",
+            "Thom Bell and Linda Creed",
+            "Kenneth Gamble and Leon Huff",
+            "McFadden and Whitehead"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-label-philadelphia-international-1971-gamble-huff-founders",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Philadelphia International Records",
+              "1971",
+              "Kenneth Gamble",
+              "Leon Huff",
+              "founding"
+            ],
+            "fact": "Kenneth Gamble and Leon Huff founded Philadelphia International Records in 1971 — building the production infrastructure that would define the Sound of Philadelphia for the rest of the decade.",
+            "storyHook": "1971. Gamble and Huff started a label. Within a year it was producing some of the decade's biggest soul records.",
+            "sourceNotes": "Verified: Philadelphia International Records founded 1971 by Kenneth Gamble and Leon Huff. Sources: Wikipedia https://en.wikipedia.org/wiki/Philadelphia_International_Records, Soulwalking http://www.soulwalking.co.uk/Philadelphia%20International.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Philadelphia International Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Philadelphia_International_Records",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Philadelphia International Records Page – Soulwalking",
+                "url": "http://www.soulwalking.co.uk/Philadelphia%20International.html",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R1-Q5",
+          "episodeId": "EP057",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Spinners' first #1 R&B hit after signing with Atlantic and being produced by Thom Bell was which July 1972 single?",
+          "choices": [
+            "Then Came You",
+            "Could It Be I'm Falling in Love",
+            "Working My Way Back to You",
+            "I'll Be Around"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-ill-be-around-spinners-1972-thom-bell-breakthrough-number-one-rb",
+            "artist": "The Spinners",
+            "song": "I'll Be Around",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "The Spinners",
+              "I'll Be Around",
+              "1972",
+              "Thom Bell",
+              "Atlantic Records",
+              "breakthrough"
+            ],
+            "fact": "'I'll Be Around,' released in July 1972 on Atlantic, became the Spinners' first #1 R&B hit and reached #3 on the pop chart — their breakthrough single under producer Thom Bell after a relatively quiet earlier run with Motown.",
+            "storyHook": "July 1972. The Spinners' first #1 R&B record. Thom Bell had found their sound.",
+            "sourceNotes": "Verified: 'I'll Be Around' released July 1972 on Atlantic, first #1 R&B hit, #3 pop, Spinners' breakthrough under Thom Bell. Source: Wikipedia https://en.wikipedia.org/wiki/I'll_Be_Around_(The_Spinners_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I'll Be Around (The Spinners song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I'll_Be_Around_(The_Spinners_song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R1-Q6",
+          "episodeId": "EP057",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Stylistics, led by Russell Thompkins Jr.'s falsetto, scored a Top 10 hit in 1972 with which Thom Bell and Linda Creed composition?",
+          "choices": [
+            "Stop, Look, Listen",
+            "Betcha By Golly, Wow",
+            "You Are Everything",
+            "You Make Me Feel Brand New"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-betcha-by-golly-wow-stylistics-1972-thom-bell-linda-creed",
+            "artist": "The Stylistics",
+            "song": "Betcha By Golly, Wow",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "The Stylistics",
+              "Betcha By Golly Wow",
+              "1972",
+              "Thom Bell",
+              "Linda Creed",
+              "Russell Thompkins Jr."
+            ],
+            "fact": "'Betcha By Golly, Wow' (1972), written by Thom Bell and Linda Creed, reached the Top 10 on the Hot 100 — Russell Thompkins Jr.'s falsetto lead carrying one of the era's most recognizable Philly soul ballads.",
+            "storyHook": "'Betcha By Golly, Wow.' Thom Bell and Linda Creed wrote it. Russell Thompkins Jr.'s falsetto made it unmistakable.",
+            "sourceNotes": "Verified: 'Betcha By Golly, Wow' (1972) written by Thom Bell/Linda Creed, Top 10 Hot 100. Source: Wikipedia https://en.wikipedia.org/wiki/Betcha_by_Golly,_Wow",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Betcha by Golly, Wow – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Betcha_by_Golly,_Wow",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R1-B1",
+          "episodeId": "EP057",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Chi-Lites scored their only pop #1, written by Eugene Record, in 1972 — also #1 R&B — recognizable for its distinctive harmonica intro. What was it?",
+          "choices": [
+            "Homely Girl",
+            "Oh Girl",
+            "Stoned Out of My Mind",
+            "Have You Seen Her"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — THE CHI-LITES' ONLY #1 POP HIT"
+          },
+          "metadata": {
+            "factKey": "ep057-song-oh-girl-chi-lites-1972-eugene-record-number-one-hot-100-rb",
+            "artist": "The Chi-Lites",
+            "song": "Oh Girl",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "The Chi-Lites",
+              "Oh Girl",
+              "1972",
+              "Eugene Record",
+              "#1 Hot 100",
+              "#1 R&B"
+            ],
+            "fact": "'Oh Girl' (1972), written by Eugene Record, reached #1 on both the Hot 100 and the R&B chart — the Chi-Lites' only pop #1, instantly recognizable for its harmonica intro.",
+            "storyHook": "'Oh Girl.' #1 pop, #1 R&B. The Chi-Lites only hit #1 on the Hot 100 once in their career — and this was it.",
+            "sourceNotes": "Verified: 'Oh Girl' (1972) written by Eugene Record, #1 Hot 100 (Chi-Lites' only pop #1) and #1 R&B. Sources: Wikipedia https://en.wikipedia.org/wiki/Oh_Girl, 50th anniversary post https://www.facebook.com/groups/653723061750315/posts/1438345846621362/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Oh Girl – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Oh_Girl",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "The Chi-Lites' 'Oh Girl' reached #1 – 50th anniversary post",
+                "url": "https://www.facebook.com/groups/653723061750315/posts/1438345846621362/",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP057-R1-RES1",
+          "episodeId": "EP057",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Dramatics scored a Top 10 R&B and pop hit in 1971, released on Volt (a Stax imprint), with which single?",
+          "choices": [
+            "In the Rain",
+            "Get Up and Get Down",
+            "Be My Girl",
+            "Whatcha See Is Whatcha Get"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-whatcha-see-is-whatcha-get-dramatics-1971-volt-stax",
+            "artist": "The Dramatics",
+            "song": "Whatcha See Is Whatcha Get",
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "The Dramatics",
+              "Whatcha See Is Whatcha Get",
+              "1971",
+              "Volt Records",
+              "Stax"
+            ],
+            "fact": "'Whatcha See Is Whatcha Get' (1971), released on Volt — a Stax imprint — became a Top 10 R&B and Top 10 pop hit, one of the Dramatics' biggest records and a Detroit-rooted counterpoint to the Philadelphia International machine dominating the era.",
+            "storyHook": "'Whatcha See Is Whatcha Get.' 1971. Volt Records, a Stax imprint. The Dramatics built their hit outside the Philadelphia system entirely.",
+            "sourceNotes": "Verified: 'Whatcha See Is Whatcha Get' (1971) on Volt (Stax imprint), Top 10 R&B and pop. Source: Wikipedia https://en.wikipedia.org/wiki/Whatcha_See_Is_Whatcha_Get",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Whatcha See Is Whatcha Get – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Whatcha_See_Is_Whatcha_Get",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R1-RES2",
+          "episodeId": "EP057",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Chi-Lites' 1971 hit 'Have You Seen Her,' which reached #3 on the Hot 100, opened with which distinctive vocal device, delivered by Eugene Record?",
+          "choices": [
+            "A whistled melody",
+            "A spoken-word introduction",
+            "A call-and-response chant",
+            "A cappella harmony"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-have-you-seen-her-chi-lites-1971-spoken-word-intro-eugene-record",
+            "artist": "The Chi-Lites",
+            "song": "Have You Seen Her",
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "The Chi-Lites",
+              "Have You Seen Her",
+              "1971",
+              "Eugene Record",
+              "spoken word"
+            ],
+            "fact": "'Have You Seen Her' (1971) reached #3 on the Hot 100 and opens with a spoken-word introduction from Eugene Record — a device that became one of the song's most memorable features.",
+            "storyHook": "Before the singing even starts, Eugene Record talks. 'Have You Seen Her' opens with his voice alone — and that's the part everyone remembers first.",
+            "sourceNotes": "Verified: 'Have You Seen Her' (1971) #3 Hot 100, spoken-word intro by Eugene Record. Source: Wikipedia https://en.wikipedia.org/wiki/Have_You_Seen_Her",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Have You Seen Her – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Have_You_Seen_Her",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R1-RES3",
+          "episodeId": "EP057",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The O'Jays' 1973 hit 'For the Love of Money' is built around a now-iconic bassline that producer Leon Huff originated in a jam session and which session musician developed into the recorded riff?",
+          "choices": [
+            "James Jamerson",
+            "Anthony Jackson",
+            "Bootsy Collins",
+            "Chuck Rainey"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-for-the-love-of-money-anthony-jackson-bassline-1973",
+            "artist": "The O'Jays",
+            "song": "For the Love of Money",
+            "album": null,
+            "year": 1973,
+            "topicTags": [
+              "The O'Jays",
+              "For the Love of Money",
+              "1973",
+              "Anthony Jackson",
+              "bassline",
+              "Leon Huff"
+            ],
+            "fact": "'For the Love of Money' (1973), released on Philadelphia International, is built around a now-iconic bassline that producer Leon Huff originated in a jam session — bassist Anthony Jackson developed it into the recorded riff, a contribution distinctive enough that he's credited as a co-writer on later licensing of the song.",
+            "storyHook": "Leon Huff came up with the riff jamming in the studio. Anthony Jackson turned it into the bassline everyone now recognizes instantly.",
+            "sourceNotes": "Verified: 'For the Love of Money' (1973), bassline originated by Leon Huff in a jam, developed by Anthony Jackson, who is credited as co-writer in later contexts. Sources: Wikipedia https://en.wikipedia.org/wiki/For_the_Love_of_Money, MusicVerse https://musicverse.fun/apprentice/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "For the Love of Money – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/For_the_Love_of_Money",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "The Apprentice: A Theme Song That's All Business – MusicVerse",
+                "url": "https://musicverse.fun/apprentice/",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R1-RES4",
+          "episodeId": "EP057",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Spinners' 1972 hit 'Could It Be I'm Falling in Love' was written by Melvin and Mervin Steals, recording under which shared pen name?",
+          "choices": [
+            "Gamble and Huff",
+            "Isley Brothers",
+            "Mystro and Lyric",
+            "The Mizell Brothers"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-could-it-be-im-falling-in-love-steals-brothers-mystro-lyric-pen-name",
+            "artist": "The Spinners",
+            "song": "Could It Be I'm Falling in Love",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "The Spinners",
+              "Could It Be I'm Falling in Love",
+              "1972",
+              "Melvin Steals",
+              "Mervin Steals",
+              "Mystro and Lyric"
+            ],
+            "fact": "'Could It Be I'm Falling in Love' (late 1972) was written by Melvin and Mervin Steals under the shared pen name 'Mystro and Lyric' — a songwriting credit distinct from the Thom Bell material that made up most of the Spinners' Atlantic-era catalog.",
+            "storyHook": "Mystro and Lyric. That's the pen name behind 'Could It Be I'm Falling in Love' — Melvin and Mervin Steals, stepping outside Thom Bell's usual songwriting role for this one.",
+            "sourceNotes": "Verified: 'Could It Be I'm Falling in Love' written by Melvin and Mervin Steals under pen name Mystro and Lyric, late 1972 release. Note: source confirms the names but does not specify the brothers are twins, so that detail has been removed. Source: Wikipedia https://en.wikipedia.org/wiki/Could_It_Be_I%27m_Falling_in_Love",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Could It Be I'm Falling in Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Could_It_Be_I%27m_Falling_in_Love",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The producers, songwriters, and studio infrastructure behind the 1970s male vocal group sound.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP057-R2-Q1",
+          "episodeId": "EP057",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Which singer started as Harold Melvin & the Blue Notes' drummer before becoming their lead vocalist and defining their commercial peak through 1976, when he left for a solo career?",
+          "choices": [
+            "Teddy Pendergrass",
+            "Lloyd Parks",
+            "Bernard Wilson",
+            "Jerry Cummings"
+          ],
+          "correctIndex": 0,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-artist-teddy-pendergrass-drummer-to-lead-blue-notes-1976-departure",
+            "artist": "Teddy Pendergrass",
+            "song": null,
+            "album": null,
+            "year": 1976,
+            "topicTags": [
+              "Teddy Pendergrass",
+              "Harold Melvin & the Blue Notes",
+              "drummer",
+              "lead vocalist",
+              "1976"
+            ],
+            "fact": "Teddy Pendergrass started as Harold Melvin & the Blue Notes' drummer before moving to lead vocals — his powerful voice defining the group's commercial peak throughout the early-to-mid 1970s, before he departed for a solo career in 1976.",
+            "storyHook": "Teddy Pendergrass didn't start as the singer. He started behind the drums. By the time he left in 1976, his voice WAS the Blue Notes.",
+            "sourceNotes": "Verified: Teddy Pendergrass began as Blue Notes' drummer, became lead vocalist, left for solo career in 1976. Source: Songfacts https://www.songfacts.com/facts/harold-melvin-the-blue-notes/if-you-dont-know-me-by-now",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "If You Don't Know Me By Now – Songfacts",
+                "url": "https://www.songfacts.com/facts/harold-melvin-the-blue-notes/if-you-dont-know-me-by-now",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R2-Q2",
+          "episodeId": "EP057",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Spinners and Dionne Warwick teamed up for which October 1974 single — the Spinners' first and only #1 on the Billboard Hot 100?",
+          "choices": [
+            "Then Came You",
+            "Working My Way Back to You",
+            "Mighty Love",
+            "Rubberband Man"
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-then-came-you-spinners-dionne-warwick-1974-only-number-one-hot-100",
+            "artist": "The Spinners",
+            "song": "Then Came You",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "The Spinners",
+              "Dionne Warwick",
+              "Then Came You",
+              "1974",
+              "#1 Hot 100"
+            ],
+            "fact": "'Then Came You' (October 1974) paired the Spinners with Dionne Warwick and became the Spinners' first and only #1 hit on the Billboard Hot 100 — a rare cross-label collaboration and one of the decade's biggest soul crossover moments.",
+            "storyHook": "October 1974. One single. The Spinners' only #1 on the Hot 100 — and it took a duet with Dionne Warwick to get them there.",
+            "sourceNotes": "Verified: 'Then Came You' (Oct 1974), Spinners/Dionne Warwick, Spinners' only #1 Hot 100. Source: Wikipedia https://en.wikipedia.org/wiki/Then_Came_You",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Then Came You – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Then_Came_You",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R2-Q3",
+          "episodeId": "EP057",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Which Stylistics member's falsetto lead vocal became the group's defining sonic signature throughout the 1970s?",
+          "choices": [
+            "Herb Murrell",
+            "Russell Thompkins Jr.",
+            "James Smith",
+            "Airrion Love"
+          ],
+          "correctIndex": 1,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-artist-russell-thompkins-jr-stylistics-falsetto-signature-sound",
+            "artist": "Russell Thompkins Jr.",
+            "song": null,
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Russell Thompkins Jr.",
+              "The Stylistics",
+              "falsetto",
+              "lead vocalist"
+            ],
+            "fact": "Russell Thompkins Jr.'s falsetto lead vocal became the Stylistics' defining sonic signature — carrying the group's run of Thom Bell and Linda Creed-written ballads throughout the decade.",
+            "storyHook": "Every Stylistics ballad you can hum has the same voice on top of it: Russell Thompkins Jr., reaching for notes most singers wouldn't attempt.",
+            "sourceNotes": "Verified: Russell Thompkins Jr. was the Stylistics' falsetto lead vocalist. Source: Wikipedia https://en.wikipedia.org/wiki/The_Stylistics",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Stylistics – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Stylistics",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R2-Q4",
+          "episodeId": "EP057",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Which Chicago-based singer served as the Chi-Lites' lead vocalist and most successful songwriter throughout their early-1970s commercial peak?",
+          "choices": [
+            "Marshall Thompson",
+            "Robert Squirrel Lester",
+            "Eugene Record",
+            "Creadel Jones"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-artist-eugene-record-chi-lites-lead-songwriter-peak",
+            "artist": "Eugene Record",
+            "song": null,
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Eugene Record",
+              "The Chi-Lites",
+              "Chicago",
+              "lead vocalist",
+              "songwriter"
+            ],
+            "fact": "Eugene Record served as the Chi-Lites' lead vocalist and most successful songwriter throughout their early-1970s commercial peak — writing or co-writing 'Oh Girl,' 'Have You Seen Her,' and most of the group's biggest hits.",
+            "storyHook": "Eugene Record sang lead AND wrote the songs. 'Oh Girl,' 'Have You Seen Her' — both his.",
+            "sourceNotes": "Verified: Eugene Record was the Chi-Lites' lead vocalist and most successful songwriter. Source: Wikipedia (Oh Girl background) https://en.wikipedia.org/wiki/Oh_Girl",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Oh Girl – Wikipedia (background on Eugene Record)",
+                "url": "https://en.wikipedia.org/wiki/Oh_Girl",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R2-Q5",
+          "episodeId": "EP057",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Chi-Lites recorded their biggest early-1970s hits for which Chicago-based label, also historically home to Jackie Wilson?",
+          "choices": [
+            "Vee-Jay Records",
+            "Curtom Records",
+            "Chess Records",
+            "Brunswick Records"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-label-brunswick-records-chi-lites-chicago-jackie-wilson",
+            "artist": "The Chi-Lites",
+            "song": null,
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Brunswick Records",
+              "The Chi-Lites",
+              "Chicago",
+              "Jackie Wilson",
+              "label"
+            ],
+            "fact": "The Chi-Lites recorded 'Have You Seen Her' and 'Oh Girl' — their biggest early-1970s hits — for Brunswick Records, a Chicago-based label with a history stretching back to Jackie Wilson's earlier era.",
+            "storyHook": "Brunswick Records. Same Chicago label that gave the world Jackie Wilson decades earlier, now home to the Chi-Lites' biggest run.",
+            "sourceNotes": "Verified: Chi-Lites' key hits released on Brunswick Records (Chicago, historically home to Jackie Wilson). Source: Wikipedia (Oh Girl label section) https://en.wikipedia.org/wiki/Oh_Girl",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Oh Girl – Wikipedia (label section)",
+                "url": "https://en.wikipedia.org/wiki/Oh_Girl",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R2-B1",
+          "episodeId": "EP057",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Which producer's distinctive sound connected both the Stylistics' classic singles and the Spinners' Atlantic-era run, including 'I'll Be Around' and 'Betcha By Golly, Wow'?",
+          "choices": [
+            "Thom Bell",
+            "Norman Whitfield",
+            "Gamble and Huff",
+            "Van McCoy"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE PRODUCER BEHIND BOTH GROUPS' BIGGEST HITS"
+          },
+          "metadata": {
+            "factKey": "ep057-artist-thom-bell-producer-stylistics-spinners-connection",
+            "artist": "Thom Bell",
+            "song": null,
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Thom Bell",
+              "The Stylistics",
+              "The Spinners",
+              "producer",
+              "connection"
+            ],
+            "fact": "Thom Bell produced and arranged nearly all of the Stylistics' classic singles, including 'You Are Everything' and 'Betcha By Golly, Wow,' before doing the same for the Spinners' Atlantic-era run, including 'I'll Be Around' and 'Could It Be I'm Falling in Love.'",
+            "storyHook": "Thom Bell built two completely different groups' signature sounds back to back — the Stylistics first, then the Spinners.",
+            "sourceNotes": "Verified: Thom Bell produced both the Stylistics' classic catalog and the Spinners' Atlantic-era run. Sources: Wikipedia (I'll Be Around producer credit) https://en.wikipedia.org/wiki/I'll_Be_Around_(The_Spinners_song), Wikipedia (Stylistics production section) https://en.wikipedia.org/wiki/The_Stylistics",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I'll Be Around – Wikipedia (producer credit)",
+                "url": "https://en.wikipedia.org/wiki/I'll_Be_Around_(The_Spinners_song)",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "The Stylistics – Wikipedia (production section)",
+                "url": "https://en.wikipedia.org/wiki/The_Stylistics",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP057-R2-RES1",
+          "episodeId": "EP057",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Stylistics' first major hit, written and produced by Thom Bell with Linda Creed, was which 1971 single?",
+          "choices": [
+            "Stop, Look, Listen",
+            "You Are Everything",
+            "Betcha By Golly, Wow",
+            "You Make Me Feel Brand New"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-you-are-everything-stylistics-1971-first-major-hit-thom-bell",
+            "artist": "The Stylistics",
+            "song": "You Are Everything",
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "The Stylistics",
+              "You Are Everything",
+              "1971",
+              "Thom Bell",
+              "Linda Creed",
+              "first hit"
+            ],
+            "fact": "'You Are Everything' (1971), written by Thom Bell and Linda Creed and produced by Bell, reached the Top 10 R&B chart and is widely regarded as the Stylistics' first major hit — the beginning of their long songwriting partnership with Bell and Creed.",
+            "storyHook": "'You Are Everything.' 1971. The first big one — and the start of a partnership with Thom Bell and Linda Creed that would define the rest of the decade for the Stylistics.",
+            "sourceNotes": "Verified: 'You Are Everything' (1971) written by Thom Bell/Linda Creed, produced by Bell, Top 10 R&B, first major Stylistics hit. Source: Wikipedia https://en.wikipedia.org/wiki/You_Are_Everything",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "You Are Everything – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/You_Are_Everything",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R2-RES2",
+          "episodeId": "EP057",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Harold Melvin & the Blue Notes' 1973 hit 'The Love I Lost,' written by Gene McFadden, John Whitehead, and Victor Carstarphen, broke from the group's ballad style with which musical quality?",
+          "choices": [
+            "A reggae-influenced rhythm",
+            "An extended guitar solo",
+            "An entirely instrumental arrangement",
+            "A faster, dance-oriented tempo, sometimes cited as an early disco influence"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-the-love-i-lost-blue-notes-1973-early-disco-mcfadden-whitehead-carstarphen",
+            "artist": "Harold Melvin & the Blue Notes",
+            "song": "The Love I Lost",
+            "album": null,
+            "year": 1973,
+            "topicTags": [
+              "Harold Melvin & the Blue Notes",
+              "The Love I Lost",
+              "1973",
+              "disco",
+              "Gene McFadden",
+              "John Whitehead",
+              "Victor Carstarphen"
+            ],
+            "fact": "'The Love I Lost' (1973), written by Gene McFadden, John Whitehead, and Victor Carstarphen, broke from the Blue Notes' typical ballad style with a faster, four-on-the-floor groove — a shift sometimes cited among the early influences on the disco sound that would dominate later in the decade.",
+            "storyHook": "The Blue Notes were a ballad group — until 'The Love I Lost' sped everything up. Some historians point straight to this record as an early disco blueprint.",
+            "sourceNotes": "Verified: 'The Love I Lost' (1973) written by McFadden/Whitehead/Carstarphen, described as proto-disco due to uptempo four-on-the-floor groove. Source: Wikipedia https://en.wikipedia.org/wiki/The_Love_I_Lost",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Love I Lost – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Love_I_Lost",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R2-RES3",
+          "episodeId": "EP057",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Most of the Philadelphia International sound — including the O'Jays and Harold Melvin & the Blue Notes — was recorded at which Philadelphia studio, run by engineer Joe Tarsia?",
+          "choices": [
+            "Sigma Sound Studios",
+            "Criteria Studios",
+            "Muscle Shoals Sound Studio",
+            "Electric Lady Studios"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-studio-sigma-sound-philadelphia-international-joe-tarsia",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Sigma Sound Studios",
+              "Joe Tarsia",
+              "Philadelphia International",
+              "studio"
+            ],
+            "fact": "Sigma Sound Studios, run by engineer Joe Tarsia, was where most of Gamble and Huff's Philadelphia International recordings — including the O'Jays and Harold Melvin & the Blue Notes — were made, making it the physical home of the Sound of Philadelphia.",
+            "storyHook": "Almost every Philadelphia International record you can name was cut in the same room — Sigma Sound, with Joe Tarsia at the board.",
+            "sourceNotes": "Verified (moderate confidence — single fan-history source, but consistent with well-established music history): Sigma Sound Studios and Joe Tarsia as the physical home of Philadelphia International recordings. Source: Soulwalking http://www.soulwalking.co.uk/Philadelphia%20International.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Philadelphia International Records Page – Soulwalking",
+                "url": "http://www.soulwalking.co.uk/Philadelphia%20International.html",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival pop-culture connections hiding inside this era's legacy.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP057-R3-Q1",
+          "episodeId": "EP057",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Philadelphia International's house band, MFSB, featuring The Three Degrees, released a 1973 instrumental that hit #1 on the Hot 100 in April 1974 as the theme for which television show?",
+          "choices": [
+            "The Midnight Special",
+            "Solid Gold",
+            "Soul Train",
+            "American Bandstand"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-tsop-mfsb-three-degrees-1973-1974-soul-train-theme-number-one",
+            "artist": "MFSB",
+            "song": "TSOP (The Sound of Philadelphia)",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "MFSB",
+              "The Three Degrees",
+              "TSOP",
+              "Soul Train",
+              "1973",
+              "1974",
+              "#1 Hot 100"
+            ],
+            "fact": "'TSOP (The Sound of Philadelphia),' released in 1973 by MFSB featuring The Three Degrees, became the theme song for Soul Train and reached #1 on the Hot 100 in April 1974 — a rare instrumental chart-topper from Philadelphia International's house band.",
+            "storyHook": "1973 release. #1 in April 1974. An instrumental — credited to the house band, with The Three Degrees on top — became Soul Train's theme and a chart-topper in its own right.",
+            "sourceNotes": "Verified: 'TSOP' (1973) by MFSB featuring The Three Degrees, Soul Train theme, #1 Hot 100 April 1974. Sources: Wikipedia https://en.wikipedia.org/wiki/TSOP_(The_Sound_of_Philadelphia), Soulwalking http://www.soulwalking.co.uk/Philadelphia%20International.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TSOP (The Sound of Philadelphia) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/TSOP_(The_Sound_of_Philadelphia)",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Philadelphia International Records Page – Soulwalking",
+                "url": "http://www.soulwalking.co.uk/Philadelphia%20International.html",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R3-Q2",
+          "episodeId": "EP057",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Linda Creed, who co-wrote 'Betcha By Golly, Wow' and 'You Are Everything' with Thom Bell, also co-wrote lyrics (with composer Michael Masser) for a song originally recorded by George Benson in 1977 for the film The Greatest — later a #1 hit for Whitney Houston. What song?",
+          "choices": [
+            "On Broadway",
+            "The Greatest Love of All",
+            "Turn Your Love Around",
+            "Give Me the Night"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-the-greatest-love-of-all-linda-creed-masser-benson-1977-whitney",
+            "artist": "Linda Creed",
+            "song": "The Greatest Love of All",
+            "album": null,
+            "year": 1977,
+            "topicTags": [
+              "Linda Creed",
+              "The Greatest Love of All",
+              "Michael Masser",
+              "George Benson",
+              "1977",
+              "Whitney Houston"
+            ],
+            "fact": "'The Greatest Love of All' was written by Michael Masser (music) and Linda Creed (lyrics) — originally recorded by George Benson in 1977 for the film The Greatest, nearly a decade before Whitney Houston's 1985-86 version became a #1 hit, connecting this episode's Philly soul songwriting world to one of the following decade's biggest pop moments.",
+            "storyHook": "Linda Creed wrote the lyrics for 'The Greatest Love of All' a decade before Whitney Houston made it a #1 hit. George Benson had it first, in 1977, for a Muhammad Ali biopic.",
+            "sourceNotes": "Verified: 'The Greatest Love of All' written by Michael Masser/Linda Creed, originally George Benson 1977 (The Greatest), later Whitney Houston #1 hit 1985-86. Source: Wikipedia https://en.wikipedia.org/wiki/The_Greatest_Love_of_All",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Greatest Love of All – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Greatest_Love_of_All",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R3-B1",
+          "episodeId": "EP057",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "The O'Jays' 'For the Love of Money' found an unexpected second life decades later as the official theme music for which reality television show?",
+          "choices": [
+            "The Apprentice",
+            "American Idol",
+            "Shark Tank",
+            "Survivor"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "7",
+            "bonusHint": "DIGIT 3 OF 3 — THE REALITY SHOW THAT ADOPTED 'FOR THE LOVE OF MONEY'"
+          },
+          "metadata": {
+            "factKey": "ep057-song-for-the-love-of-money-apprentice-theme-reality-tv",
+            "artist": "The O'Jays",
+            "song": "For the Love of Money",
+            "album": null,
+            "year": 2004,
+            "topicTags": [
+              "For the Love of Money",
+              "The Apprentice",
+              "reality television",
+              "theme song"
+            ],
+            "fact": "'For the Love of Money' became the official theme music for The Apprentice — a 1973 O'Jays soul record about disloyalty and greed finding an unexpected, fitting second life decades later on a show built entirely around those themes.",
+            "storyHook": "A song about backstabbing for money. A TV show about backstabbing for money. 'For the Love of Money' became The Apprentice's theme — and it fits a little too well.",
+            "sourceNotes": "Verified: 'For the Love of Money' is the official theme of The Apprentice. Source: MusicVerse https://musicverse.fun/apprentice/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Apprentice: A Theme Song That's All Business – MusicVerse",
+                "url": "https://musicverse.fun/apprentice/",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP057-R3-RES1",
+          "episodeId": "EP057",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "The pen name 'Mystro and Lyric,' credited as the writers of the Spinners' 'Could It Be I'm Falling in Love,' belonged to which real-life songwriting pair?",
+          "choices": [
+            "Melvin and Mervin Steals",
+            "McFadden and Whitehead",
+            "Eugene Record and Barbara Acklin",
+            "Gamble and Huff"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-artist-melvin-mervin-steals-real-names-mystro-lyric-pen-name",
+            "artist": "The Spinners",
+            "song": "Could It Be I'm Falling in Love",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Melvin Steals",
+              "Mervin Steals",
+              "Mystro and Lyric",
+              "pen name",
+              "Could It Be I'm Falling in Love"
+            ],
+            "fact": "The pen name 'Mystro and Lyric,' credited on the Spinners' 'Could It Be I'm Falling in Love' (1972), belonged to real-life songwriters Melvin and Mervin Steals — a credit distinct from the Thom Bell material that made up most of the group's Atlantic-era catalog.",
+            "storyHook": "'Mystro and Lyric' sounds like a single act. It's actually two people — Melvin and Mervin Steals, working under a shared pen name.",
+            "sourceNotes": "Verified: 'Mystro and Lyric' was the pen name of Melvin and Mervin Steals on 'Could It Be I'm Falling in Love.' Source: Wikipedia https://en.wikipedia.org/wiki/Could_It_Be_I%27m_Falling_in_Love",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Could It Be I'm Falling in Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Could_It_Be_I%27m_Falling_in_Love",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP057-R3-RES2",
+          "episodeId": "EP057",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Harold Melvin & the Blue Notes' 1975 hit 'Wake Up Everybody' was written by the same trio behind 'The Love I Lost' — John Whitehead, Gene McFadden, and which third collaborator?",
+          "choices": [
+            "Victor Carstarphen",
+            "Norman Harris",
+            "Dexter Wansel",
+            "Bunny Sigler"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep057-song-wake-up-everybody-1975-whitehead-mcfadden-carstarphen-same-trio",
+            "artist": "Harold Melvin & the Blue Notes",
+            "song": "Wake Up Everybody",
+            "album": null,
+            "year": 1975,
+            "topicTags": [
+              "Wake Up Everybody",
+              "John Whitehead",
+              "Gene McFadden",
+              "Victor Carstarphen",
+              "1975"
+            ],
+            "fact": "'Wake Up Everybody' (1975) was written by John Whitehead, Gene McFadden, and Victor Carstarphen — the same trio behind 'The Love I Lost' two years earlier. McFadden and Whitehead later had their own hit as a duo with 'Ain't No Stoppin' Us Now,' tying the two writing credits together.",
+            "storyHook": "Same three writers, two different Blue Notes classics: 'The Love I Lost' and 'Wake Up Everybody.' Whitehead and McFadden would later strike out on their own.",
+            "sourceNotes": "Verified: 'Wake Up Everybody' (1975) written by Whitehead/McFadden/Carstarphen, same trio as 'The Love I Lost'; McFadden & Whitehead later had 'Ain't No Stoppin' Us Now.' Source: Wikipedia https://en.wikipedia.org/wiki/Wake_Up_Everybody_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wake Up Everybody – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Wake_Up_Everybody_(song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-25T15:33:44.492520+00:00"
+  }
+}

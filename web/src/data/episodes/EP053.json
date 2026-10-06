@@ -1,0 +1,1539 @@
+{
+  "episodeId": "EP053",
+  "title": "Ladies of Soul: The Eighties",
+  "theme": "The svengali decade. Rick James built the Mary Jane Girls from scratch. Prince built Vanity 6 — then rebuilt it as Apollonia 6 when the original lead walked out. Almost every major 1980s girl group was a male producer's creative project. The notable exception: Klymaxx, who played their own instruments, wrote their own material, and answered to nobody.",
+  "narrativePurpose": "Trace the 1980s girl group arc from Prince's protégée factory through Rick James's Mary Jane Girls, the Weather Girls' disco-adjacent bombast, and Exposé's Miami freestyle — with Klymaxx standing apart as the decade's most self-directed female act. Purple Rain is the episode's axis: the year the svengali model reached its most cinematic expression.",
+  "toneProgression": "The hits and the films that defined the era → the production machinery, the svengali figures, and the individuals who operated outside that system → the archival connections hiding inside the decade's most celebrated girl group moments",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-8-4 — the year Purple Rain is released, Apollonia 6's 'Sex Shooter' appears in the film, and Klymaxx release 'Meeting in the Ladies Room.' 1984: the svengali-produced girl group story reaches its most cinematic moment — and the most compelling alternative to that model announces itself."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The hits and films that defined the 1980s girl group era.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP053-R1-Q1",
+          "episodeId": "EP053",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Prince's protégée group Vanity 6 launched with which 1982 single — a provocative debut that announced a new era of production-driven girl group R&B?",
+          "choices": [
+            "Nasty Girl",
+            "Drive Me Wild",
+            "If a Girl Answers (Don't Hang Up)",
+            "Make Up"
+          ],
+          "correctIndex": 0,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-song-nasty-girl-vanity-6-1982-prince-debut-single",
+            "artist": "Vanity 6",
+            "song": "Nasty Girl",
+            "album": "Vanity 6",
+            "year": 1982,
+            "topicTags": [
+              "Vanity 6",
+              "Nasty Girl",
+              "1982",
+              "Prince",
+              "debut single",
+              "protégée"
+            ],
+            "fact": "'Nasty Girl' was Vanity 6's debut single in 1982 — written and produced by Prince, and built around the same blueprint he would refine through every protégée project that followed: provocative premise, tight funk production, female voices delivering his vision.",
+            "storyHook": "'Nasty Girl.' 1982. Vanity 6. Prince wrote it. Prince produced it. The voices were someone else's — but the blueprint was entirely his.",
+            "sourceNotes": "Verified: 'Nasty Girl' was Vanity 6's 1982 debut single, written and produced by Prince. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Vanity 6 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Vanity_6",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R1-Q2",
+          "episodeId": "EP053",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "When Denise Matthews departed Prince's protégée project before Purple Rain began filming, which actress and singer replaced her as lead of the newly renamed Apollonia 6?",
+          "choices": [
+            "Carmen Electra",
+            "Sheila E.",
+            "Jill Jones",
+            "Apollonia Kotero"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-artist-apollonia-kotero-replaced-vanity-lead-apollonia-6-purple-rain",
+            "artist": "Apollonia 6",
+            "song": null,
+            "album": null,
+            "year": 1984,
+            "topicTags": [
+              "Apollonia Kotero",
+              "Apollonia 6",
+              "Vanity 6",
+              "Purple Rain",
+              "Prince",
+              "protégée"
+            ],
+            "fact": "Apollonia Kotero replaced Denise Matthews (Vanity) as the lead of Prince's protégée group — which was renamed Apollonia 6 — and appeared as Prince's love interest in Purple Rain (1984).",
+            "storyHook": "Vanity left. Prince needed a new lead. Apollonia Kotero walked in. Apollonia 6. Purple Rain. One departure changed the entire shape of the project.",
+            "sourceNotes": "Verified: Apollonia Kotero replaced Denise Matthews as lead of the renamed Apollonia 6 and appeared in Purple Rain. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Apollonia 6 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Apollonia_6",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R1-Q3",
+          "episodeId": "EP053",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "The Mary Jane Girls — Rick James's protégée group — scored their biggest hit with which 1985 recording, which reached the top of the R&B chart?",
+          "choices": [
+            "All Night Long",
+            "In My House",
+            "Candy Man",
+            "Wild and Crazy Love"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-song-in-my-house-mary-jane-girls-1985-rick-james-rb-number-one",
+            "artist": "Mary Jane Girls",
+            "song": "In My House",
+            "album": "Only Four You",
+            "year": 1985,
+            "topicTags": [
+              "Mary Jane Girls",
+              "In My House",
+              "1985",
+              "Rick James",
+              "R&B #1",
+              "Gordy Records"
+            ],
+            "fact": "'In My House' was the Mary Jane Girls' biggest hit — reaching #1 on the R&B chart in 1985. Written and produced by Rick James, it was the clearest distillation of what he had built with the group: propulsive funk, seductive vocals, and an unmistakably Jamesian production identity.",
+            "storyHook": "'In My House.' 1985. #1 R&B. Everything Rick James built the Mary Jane Girls to be, in three and a half minutes.",
+            "sourceNotes": "Verified: 'In My House' reached #1 R&B in 1985. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "Rick James died August 6, 2004. The question addresses only his production role with the Mary Jane Girls — not his death or legal history.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mary Jane Girls – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mary_Jane_Girls",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R1-Q4",
+          "episodeId": "EP053",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "The Mary Jane Girls — who scored R&B hits including 'All Night Long' and 'In My House' — were created, written for, and produced entirely by which artist?",
+          "choices": [
+            "Teena Marie",
+            "Rick James",
+            "George Clinton",
+            "Morris Day"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-artist-rick-james-created-wrote-produced-mary-jane-girls-gordy-records",
+            "artist": "Rick James",
+            "song": null,
+            "album": null,
+            "year": 1983,
+            "topicTags": [
+              "Rick James",
+              "Mary Jane Girls",
+              "Gordy Records",
+              "svengali",
+              "producer",
+              "biography"
+            ],
+            "fact": "Rick James conceived, created, wrote for, and produced the Mary Jane Girls — a protégée group he built in the image of his own musical aesthetic. Every song on their albums was a Rick James production.",
+            "storyHook": "Rick James didn't just produce the Mary Jane Girls. He invented them. Every song, every production, every direction — that was Rick James working through another set of voices.",
+            "sourceNotes": "Verified: Rick James created, wrote, and produced the Mary Jane Girls. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "Rick James died August 6, 2004. The question addresses only his production role — not his death or legal history.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mary Jane Girls – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mary_Jane_Girls",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP053-R1-Q5",
+          "episodeId": "EP053",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "The Weather Girls announced themselves in 1982 with which impossibly exuberant recording — one of the decade's most instantly recognizable opening lines?",
+          "choices": [
+            "Success",
+            "Dear Santa (Bring Me a Man This Christmas)",
+            "It's Raining Men",
+            "No One Will Ever Love You"
+          ],
+          "correctIndex": 2,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-song-its-raining-men-weather-girls-1982-debut-hit-exuberant",
+            "artist": "The Weather Girls",
+            "song": "It's Raining Men",
+            "album": "Success",
+            "year": 1982,
+            "topicTags": [
+              "The Weather Girls",
+              "It's Raining Men",
+              "1982",
+              "Martha Wash",
+              "Izora Armstead",
+              "debut"
+            ],
+            "fact": "'It's Raining Men' (1982) established Martha Wash and Izora Armstead as The Weather Girls — a declaration of outsized personality that became one of the decade's most indestructible anthems.",
+            "storyHook": "'It's Raining Men.' 1982. Martha Wash and Izora Armstead. An opening line nobody forgets, from two singers who had been backing somebody else for years.",
+            "sourceNotes": "Verified: 'It's Raining Men' was The Weather Girls' 1982 breakthrough hit. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "It's Raining Men – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/It%27s_Raining_Men",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R1-Q6",
+          "episodeId": "EP053",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Klymaxx — the all-female band who wrote and performed their own material — broke through with which 1984 recording that became one of R&B's most enduring party tracks?",
+          "choices": [
+            "Lock My Heart",
+            "Meeting in the Ladies Room",
+            "The Men All Pause",
+            "I Miss You"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-song-meeting-in-the-ladies-room-klymaxx-1984-rb-breakthrough-self-directed",
+            "artist": "Klymaxx",
+            "song": "Meeting in the Ladies Room",
+            "album": "Meeting in the Ladies Room",
+            "year": 1984,
+            "topicTags": [
+              "Klymaxx",
+              "Meeting in the Ladies Room",
+              "1984",
+              "all-female band",
+              "self-directed",
+              "R&B"
+            ],
+            "fact": "'Meeting in the Ladies Room' (1984) was Klymaxx's commercial breakthrough — an all-female band that played their own instruments, wrote their own songs, and operated without a male svengali at the helm, making them a genuine counterpoint to the Mary Jane Girls and Vanity 6 model.",
+            "storyHook": "'Meeting in the Ladies Room.' 1984. Klymaxx. No Rick James. No Prince. They wrote it, they played it, they owned it.",
+            "sourceNotes": "Verified: 'Meeting in the Ladies Room' was Klymaxx's 1984 breakthrough. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Klymaxx – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Klymaxx",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R1-B1",
+          "episodeId": "EP053",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Apollonia 6 — the group Prince assembled after Vanity 6's dissolution — performed their signature song 'Sex Shooter' in which landmark 1984 film?",
+          "choices": [
+            "Under the Cherry Moon",
+            "Purple Rain",
+            "Graffiti Bridge",
+            "Sign 'O' the Times"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — THE 1984 FILM FEATURING APOLLONIA 6"
+          },
+          "metadata": {
+            "factKey": "ep053-film-purple-rain-1984-apollonia-6-sex-shooter-prince-vault-year",
+            "artist": "Apollonia 6",
+            "song": "Sex Shooter",
+            "album": "Purple Rain (soundtrack)",
+            "year": 1984,
+            "topicTags": [
+              "Purple Rain",
+              "Apollonia 6",
+              "Sex Shooter",
+              "1984",
+              "Prince",
+              "film"
+            ],
+            "fact": "Purple Rain (1984) featured Apollonia 6 performing 'Sex Shooter' — the song's primary commercial context. The film presented the entire Apollonia 6 project to a mass audience and made 'Sex Shooter' inseparable from its Purple Rain moment.",
+            "storyHook": "Purple Rain. 1984. Apollonia 6 on stage. 'Sex Shooter.' The entire protégée project delivered to a global audience in a single scene.",
+            "sourceNotes": "Verified: Apollonia 6 performed 'Sex Shooter' in Purple Rain (1984). Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "Prince died April 21, 2016. The question addresses only the film and group — not his death.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Purple Rain (film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Purple_Rain_(film)",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "film",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP053-R1-RES1",
+          "episodeId": "EP053",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Denise Matthews — who fronted Prince's protégée group before departing the project — performed under which stage name?",
+          "choices": [
+            "Sheila",
+            "Carmen",
+            "Apollonia",
+            "Vanity"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-artist-denise-matthews-stage-name-vanity-prince-protegee-vanity-6",
+            "artist": "Vanity 6",
+            "song": null,
+            "album": null,
+            "year": 1982,
+            "topicTags": [
+              "Vanity",
+              "Denise Matthews",
+              "stage name",
+              "Vanity 6",
+              "Prince",
+              "biography"
+            ],
+            "fact": "Denise Matthews performed as 'Vanity' — the stage name Prince gave her — as the lead of Vanity 6. She departed the project before Purple Rain went into production.",
+            "storyHook": "Her name was Denise Matthews. Prince called her Vanity. She was the original face of the protégée project — before she walked away.",
+            "sourceNotes": "Verified: Denise Matthews performed as 'Vanity' with Vanity 6. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "Denise Matthews (Vanity) died February 15, 2016. The question addresses only her stage name — not her death.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Vanity (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Vanity_(singer)",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP053-R1-RES2",
+          "episodeId": "EP053",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Apollonia 6's only major single — featured in the film Purple Rain — was which provocatively titled recording?",
+          "choices": [
+            "Love... Thy Will Be Done",
+            "Take Me with U",
+            "Sex Shooter",
+            "Nasty Girl"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-song-sex-shooter-apollonia-6-purple-rain-1984-only-major-single",
+            "artist": "Apollonia 6",
+            "song": "Sex Shooter",
+            "album": "Apollonia 6",
+            "year": 1984,
+            "topicTags": [
+              "Apollonia 6",
+              "Sex Shooter",
+              "Purple Rain",
+              "1984",
+              "Prince"
+            ],
+            "fact": "'Sex Shooter' was Apollonia 6's defining recording — appearing in Purple Rain and introduced to a mass audience through the film's iconic performance scene. Like everything in the Apollonia 6 project, it was written and produced by Prince.",
+            "storyHook": "'Sex Shooter.' Purple Rain. The song that introduced Apollonia 6 to the world — inside a film that was impossible to ignore.",
+            "sourceNotes": "Verified: 'Sex Shooter' was Apollonia 6's major single, featured in Purple Rain. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Apollonia 6 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Apollonia_6",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R1-RES3",
+          "episodeId": "EP053",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "The Mary Jane Girls released their hit recordings on which Motown subsidiary label — named for the founder of the parent company?",
+          "choices": [
+            "Gordy Records",
+            "Mowest",
+            "Tamla",
+            "Soul Records"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-label-gordy-records-mary-jane-girls-motown-subsidiary-berry-gordy",
+            "artist": "Mary Jane Girls",
+            "song": null,
+            "album": null,
+            "year": 1983,
+            "topicTags": [
+              "Gordy Records",
+              "Mary Jane Girls",
+              "Motown",
+              "subsidiary label",
+              "Rick James",
+              "biography"
+            ],
+            "fact": "The Mary Jane Girls released their recordings on Gordy Records — a Motown subsidiary label named for Berry Gordy, the company's founder. Rick James's deal at Gordy gave him the platform to develop and release the group's catalog.",
+            "storyHook": "Gordy Records. Named for Berry Gordy. The Mary Jane Girls were a Motown project — filtered through Rick James's vision and released on the label that bore the founder's name.",
+            "sourceNotes": "Verified: Mary Jane Girls released on Gordy Records (Motown subsidiary). Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mary Jane Girls – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mary_Jane_Girls",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R1-RES4",
+          "episodeId": "EP053",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "The Mary Jane Girls featured which lead vocalist — known professionally as JoJo — whose voice anchored the group's recording career?",
+          "choices": [
+            "Yvette Marine",
+            "Candi Ghant",
+            "JoJo McDuffie",
+            "Kimberley Wansel"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-artist-jojo-mcduffie-mary-jane-girls-lead-vocalist-joanne-mcduffie",
+            "artist": "Mary Jane Girls",
+            "song": null,
+            "album": null,
+            "year": 1983,
+            "topicTags": [
+              "JoJo McDuffie",
+              "Joanne McDuffie",
+              "Mary Jane Girls",
+              "lead vocalist",
+              "biography"
+            ],
+            "fact": "Joanne 'JoJo' McDuffie was the Mary Jane Girls' primary lead vocalist — the voice most associated with the group's recordings, including 'All Night Long,' 'Candy Man,' and 'In My House.'",
+            "storyHook": "JoJo McDuffie. Her voice is the Mary Jane Girls. Four women in the group — but when you think of the sound, you're thinking of her.",
+            "sourceNotes": "Verified: JoJo (Joanne) McDuffie was the Mary Jane Girls' primary lead vocalist. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mary Jane Girls – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mary_Jane_Girls",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The production machinery, the svengali figures, and the individuals who operated outside the system.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP053-R2-Q1",
+          "episodeId": "EP053",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Klymaxx was founded and led by which drummer — who handled the group's creative direction and business decisions while serving as its driving force?",
+          "choices": [
+            "Cheryl Cooley",
+            "Lynn Malsby",
+            "Joyce Irby",
+            "Bernadette Cooper"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-artist-bernadette-cooper-klymaxx-founder-drummer-bandleader-creative-force",
+            "artist": "Klymaxx",
+            "song": null,
+            "album": null,
+            "year": 1979,
+            "topicTags": [
+              "Bernadette Cooper",
+              "Klymaxx",
+              "founder",
+              "drummer",
+              "bandleader",
+              "biography"
+            ],
+            "fact": "Bernadette Cooper founded Klymaxx, played drums, and served as the group's primary creative and business director — embodying the self-directed model that made Klymaxx the decade's most striking counterpoint to the svengali-produced girl groups around them.",
+            "storyHook": "Bernadette Cooper built Klymaxx. She played drums. She ran the group. She answered to nobody. That was the whole point.",
+            "sourceNotes": "Verified: Bernadette Cooper was Klymaxx's founder, drummer, and creative director. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Klymaxx – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Klymaxx",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R2-Q2",
+          "episodeId": "EP053",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Before achieving fame as The Weather Girls, Martha Wash and Izora Armstead performed under which earlier group name — working as backing vocalists for a Bay Area disco performer?",
+          "choices": [
+            "Two Tons O' Fun",
+            "The Mighty Clouds",
+            "The Full Force",
+            "Hot Stuff"
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-artist-weather-girls-previous-name-two-tons-o-fun-martha-wash-izora-armstead",
+            "artist": "The Weather Girls",
+            "song": null,
+            "album": null,
+            "year": 1977,
+            "topicTags": [
+              "Two Tons O' Fun",
+              "The Weather Girls",
+              "Martha Wash",
+              "Izora Armstead",
+              "Sylvester",
+              "San Francisco",
+              "biography"
+            ],
+            "fact": "Martha Wash and Izora Armstead performed as Two Tons O' Fun before becoming The Weather Girls — working as backing vocalists for San Francisco disco performer Sylvester, whose stage they shared before launching their own career.",
+            "storyHook": "Two Tons O' Fun. That was the name before Weather Girls. Martha Wash and Izora Armstead, backing somebody else — building the vocal power that would make 'It's Raining Men' inevitable.",
+            "sourceNotes": "Verified: The Weather Girls previously performed as Two Tons O' Fun, backing Sylvester. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Two Tons o' Fun – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Two_Tons_o%27_Fun",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R2-Q3",
+          "episodeId": "EP053",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Klymaxx demonstrated their range beyond party tracks with which 1984 ballad — a lush, aching recording that became a significant R&B hit and showcased a completely different side of the group?",
+          "choices": [
+            "Lock My Heart",
+            "A Friend",
+            "Private Party",
+            "I Miss You"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-song-i-miss-you-klymaxx-1984-ballad-rb-hit-range",
+            "artist": "Klymaxx",
+            "song": "I Miss You",
+            "album": "Meeting in the Ladies Room",
+            "year": 1984,
+            "topicTags": [
+              "Klymaxx",
+              "I Miss You",
+              "1984",
+              "ballad",
+              "R&B",
+              "range"
+            ],
+            "fact": "'I Miss You' (1984) was Klymaxx's ballad showcase — a significant commercial and artistic departure from 'Meeting in the Ladies Room' that demonstrated the group's full range as both performers and songwriters.",
+            "storyHook": "'Meeting in the Ladies Room' was the party. 'I Miss You' was the morning after. Klymaxx could do both — and they wrote every note of each.",
+            "sourceNotes": "Verified: 'I Miss You' was a 1984 R&B hit ballad for Klymaxx. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Klymaxx – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Klymaxx",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R2-Q4",
+          "episodeId": "EP053",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "When Vanity 6 was reconstituted as Apollonia 6, Prince retained two of the original members — including which vocalist who appeared in both groups?",
+          "choices": [
+            "Sheila E.",
+            "Brenda Bennett",
+            "Denise Matthews",
+            "Jill Jones"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-artist-brenda-bennett-vanity-6-to-apollonia-6-carried-over-both-groups",
+            "artist": "Vanity 6 / Apollonia 6",
+            "song": null,
+            "album": null,
+            "year": 1984,
+            "topicTags": [
+              "Brenda Bennett",
+              "Vanity 6",
+              "Apollonia 6",
+              "Prince",
+              "continuity",
+              "biography"
+            ],
+            "fact": "Brenda Bennett was one of two members (alongside Susan Moonsie) who carried over from Vanity 6 to Apollonia 6 when Denise Matthews departed — providing continuity in the group's personnel as Prince rebuilt the project for Purple Rain.",
+            "storyHook": "When Vanity left, Brenda Bennett stayed. Vanity 6 became Apollonia 6 — and Brenda Bennett was the thread connecting both versions of the project.",
+            "sourceNotes": "Verified: Brenda Bennett (and Susan Moonsie) carried over from Vanity 6 to Apollonia 6. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Apollonia 6 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Apollonia_6",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R2-Q5",
+          "episodeId": "EP053",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Miami-based Exposé scored their biggest ballad moment with which 1987 recording — a departure from their freestyle dance sound that reached #1 on the Billboard Hot 100?",
+          "choices": [
+            "Let Me Be the One",
+            "Seasons Change",
+            "Point of No Return",
+            "Come Go with Me"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-song-seasons-change-expose-1987-ballad-crossover-miami-freestyle",
+            "artist": "Exposé",
+            "song": "Seasons Change",
+            "album": "Exposure",
+            "year": 1987,
+            "topicTags": [
+              "Exposé",
+              "Seasons Change",
+              "1987",
+              "ballad",
+              "Miami",
+              "freestyle",
+              "crossover"
+            ],
+            "fact": "'Seasons Change' (1987) reached #1 on the Billboard Hot 100 on February 20, 1988 — a dramatic departure from Exposé's uptempo freestyle style and their biggest commercial moment, proving the trio's range well beyond the dance floor.",
+            "storyHook": "Exposé made their name on the dance floor. 'Seasons Change' was the moment they proved there was more. 1987 — and the ballad crossed over.",
+            "sourceNotes": "Verified: 'Seasons Change' reached #1 on the Billboard Hot 100 on February 20, 1988. Sources: Exposé Wikipedia https://en.wikipedia.org/wiki/Expos%C3%A9_(group), Facebook post https://www.facebook.com/FlashBackToTheEightes/posts/on-february-20-1988-the-single-seasons-change-by-expos%C3%A9-reached-1-on-t",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Exposé (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Expos%C3%A9_(group)",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R2-B1",
+          "episodeId": "EP053",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Before becoming The Weather Girls, Martha Wash and Izora Armstead — as Two Tons O' Fun — were the backing vocalists for which legendary San Francisco disco performer?",
+          "choices": [
+            "Patrick Cowley",
+            "Disco Tex",
+            "Jimmy Somerville",
+            "Sylvester"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE DISCO ARTIST THE WEATHER GIRLS BACKED BEFORE GOING SOLO"
+          },
+          "metadata": {
+            "factKey": "ep053-artist-sylvester-two-tons-o-fun-weather-girls-backed-san-francisco-disco",
+            "artist": "Sylvester",
+            "song": null,
+            "album": null,
+            "year": 1977,
+            "topicTags": [
+              "Sylvester",
+              "Two Tons O' Fun",
+              "The Weather Girls",
+              "San Francisco",
+              "disco",
+              "biography"
+            ],
+            "fact": "Martha Wash and Izora Armstead performed as Two Tons O' Fun — the backing vocal duo for San Francisco disco legend Sylvester — before launching their own career as The Weather Girls with 'It's Raining Men.'",
+            "storyHook": "Sylvester. San Francisco. The disco stage he built was the stage that made Martha Wash and Izora Armstead. Two Tons O' Fun backed him — then they outgrew the role.",
+            "sourceNotes": "Verified: Two Tons O' Fun (later The Weather Girls) backed Sylvester in San Francisco. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Two Tons o' Fun – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Two_Tons_o%27_Fun",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP053-R2-RES1",
+          "episodeId": "EP053",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "The Jets — the Tongan-American family group from Minneapolis — topped the Hot R&B chart in 1988 with which recording?",
+          "choices": [
+            "Make It Real",
+            "I Like It",
+            "You Got It All",
+            "Crush on You"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-song-make-it-real-the-jets-1988-rb-chart-topper-tongan-american",
+            "artist": "The Jets",
+            "song": "Make It Real",
+            "album": "Magic",
+            "year": 1988,
+            "topicTags": [
+              "The Jets",
+              "Make It Real",
+              "1988",
+              "R&B chart",
+              "Tongan-American",
+              "Minneapolis"
+            ],
+            "fact": "'Make It Real' topped the Hot R&B chart for The Jets in 1988 — the commercial peak of a Tongan-American family group from Minneapolis whose ethnic background and Midwestern origin made them one of 1980s pop's most distinctive acts.",
+            "storyHook": "The Jets. Minneapolis. Tongan-American siblings. 'Make It Real.' #1 R&B. The late 1980s had room for a family group from the most unexpected corner of the pop landscape.",
+            "sourceNotes": "Verified: 'Make It Real' was a major hit for The Jets in 1988. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Jets (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Jets_(group)",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R2-RES2",
+          "episodeId": "EP053",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Miami-based Exposé was assembled and produced by which Miami producer — who created the template that launched one of the era's most commercially consistent freestyle acts?",
+          "choices": [
+            "Lewis Martinee",
+            "Stock Aitken Waterman",
+            "KC (Harry Wayne Casey)",
+            "TK Kirkland"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-producer-lewis-martinee-created-produced-expose-miami-freestyle-template",
+            "artist": "Exposé",
+            "song": null,
+            "album": null,
+            "year": 1984,
+            "topicTags": [
+              "Lewis Martinee",
+              "Exposé",
+              "Miami",
+              "freestyle",
+              "producer",
+              "biography"
+            ],
+            "fact": "Lewis Martinee assembled and produced Exposé — creating the Miami freestyle template that drove the group's commercial success and made them the first group to have four Top 10 hits on the Billboard Hot 100 from a debut album.",
+            "storyHook": "Lewis Martinee. Miami. He built Exposé from the ground up — and the freestyle sound he created with them became one of the late 1980s' most commercially reliable formulas.",
+            "sourceNotes": "Verified: Lewis Martinee created Exposé; they were the first group with four Top 10 Hot 100 hits from a debut album. Source: No Echo interview https://www.noecho.net/interviews/lewis-martinee-producer-expose-pet-shop-boys-debbie-gibson-cover-girls",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Exposé (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Expos%C3%A9_(group)",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R2-RES3",
+          "episodeId": "EP053",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Vanity 6, Apollonia 6, and Prince's entire protégée creative infrastructure were centered on which American city — an unlikely Midwestern hub that became 1980s pop's most creatively explosive address?",
+          "choices": [
+            "Cleveland",
+            "St. Louis",
+            "Minneapolis",
+            "Detroit"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-artist-prince-protegee-ecosystem-minneapolis-minnesota-paisley-park-midwest",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1982,
+            "topicTags": [
+              "Minneapolis",
+              "Minnesota",
+              "Prince",
+              "Paisley Park",
+              "Vanity 6",
+              "Apollonia 6",
+              "protégée",
+              "geography"
+            ],
+            "fact": "Prince's entire protégée operation — Vanity 6, Apollonia 6, and the broader Paisley Park creative ecosystem — was rooted in Minneapolis, Minnesota. The city's isolation from the coastal music industry hubs gave Prince the freedom to build something entirely his own.",
+            "storyHook": "Minneapolis. Not New York. Not Los Angeles. Prince built his entire world in Minneapolis — and everything that came out of it, including Vanity 6 and Apollonia 6, carried the city's fingerprints.",
+            "sourceNotes": "Verified: Prince's creative operations were based in Minneapolis, Minnesota. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "Prince died April 21, 2016. The question addresses only the geographic fact about his creative operations — not his death.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Prince (musician) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Prince_(musician)",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival connections hiding inside the decade's most celebrated girl group moments.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP053-R3-Q1",
+          "episodeId": "EP053",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "'It's Raining Men' by The Weather Girls (1982) was co-written by Paul Jabara and which musician — later famous for decades as the bandleader on The Late Show with David Letterman?",
+          "choices": [
+            "Paul Shaffer",
+            "Paul Simon",
+            "Paul Williams",
+            "Paul Anka"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-song-its-raining-men-paul-shaffer-paul-jabara-co-writers-weather-girls-1982",
+            "artist": "The Weather Girls",
+            "song": "It's Raining Men",
+            "album": null,
+            "year": 1982,
+            "topicTags": [
+              "Paul Shaffer",
+              "Paul Jabara",
+              "It's Raining Men",
+              "The Weather Girls",
+              "co-writer",
+              "biography"
+            ],
+            "fact": "'It's Raining Men' was co-written by Paul Jabara and Paul Shaffer — the musician who spent decades as the bandleader on The Late Show with David Letterman. The song's journey from Shaffer's pen to a Weather Girls global hit is one of pop's most unexpected connections.",
+            "storyHook": "Paul Shaffer co-wrote 'It's Raining Men.' The Letterman bandleader. The man who spent decades behind a television desk helped write one of the most exuberant anthems in R&B history — and most people have no idea.",
+            "sourceNotes": "Verified: 'It's Raining Men' was co-written by Paul Shaffer and Paul Jabara. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "It's Raining Men – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/It%27s_Raining_Men",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R3-Q2",
+          "episodeId": "EP053",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Denise Matthews — who performed as Vanity and fronted Vanity 6 — abandoned her music and acting career in the late 1980s to devote herself entirely to which calling?",
+          "choices": [
+            "Philanthropy",
+            "Film producing",
+            "Fashion design",
+            "Christian ministry"
+          ],
+          "correctIndex": 3,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-artist-denise-matthews-vanity-abandoned-music-christian-ministry-evangelism",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "Vanity",
+              "Denise Matthews",
+              "Christian ministry",
+              "evangelism",
+              "biography",
+              "conversion"
+            ],
+            "fact": "Denise Matthews abandoned her music and acting career to become an evangelical Christian minister and preacher — a total break from the provocative persona she had built as Vanity, and one of the 1980s entertainment world's most complete personal transformations.",
+            "storyHook": "She was Vanity. She became something else entirely. Denise Matthews walked away from everything that defined her public image — and replaced it with Christian ministry.",
+            "sourceNotes": "Verified: Denise Matthews (Vanity) converted to Christianity and became an evangelical minister, abandoning her music and acting career. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "Denise Matthews (Vanity) died February 15, 2016. The question addresses her documented conversion and ministry work — not her death. Handle with appropriate care in live delivery.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Vanity (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Vanity_(singer)",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP053-R3-B1",
+          "episodeId": "EP053",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "In Purple Rain (1984), Prince played a semi-autobiographical musician known by which nickname — the character around whom the film's entire narrative revolves?",
+          "choices": [
+            "The Funk",
+            "The Kid",
+            "The Duke",
+            "The Prince"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "8",
+            "bonusHint": "DIGIT 3 OF 3 — PRINCE'S CHARACTER NAME IN PURPLE RAIN"
+          },
+          "metadata": {
+            "factKey": "ep053-film-purple-rain-prince-character-the-kid-1984-semi-autobiographical",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1984,
+            "topicTags": [
+              "Purple Rain",
+              "Prince",
+              "The Kid",
+              "1984",
+              "character",
+              "semi-autobiographical"
+            ],
+            "fact": "Prince's character in Purple Rain (1984) was called 'The Kid' — a semi-autobiographical young musician in Minneapolis navigating family conflict, romance with Apollonia, and artistic ambition. The character anchored the entire film's narrative.",
+            "storyHook": "'The Kid.' That was the name. Prince playing a version of himself in Purple Rain — and Apollonia 6 orbiting his story from the very first scene.",
+            "sourceNotes": "Verified: Prince's character in Purple Rain (1984) was named 'The Kid.' Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "Prince died April 21, 2016. The question addresses only his character name in the film — not his death.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Purple Rain (film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Purple_Rain_(film)",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "film",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP053-R3-RES1",
+          "episodeId": "EP053",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Alongside 'Meeting in the Ladies Room' and 'I Miss You,' Klymaxx released which third 1984 charting single — completing a remarkable year of commercial breakthroughs for the all-female band?",
+          "choices": [
+            "A Friend",
+            "Lock My Heart",
+            "The Men All Pause",
+            "Private Party"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-song-the-men-all-pause-klymaxx-1984-third-charting-single-breakthrough-year",
+            "artist": "Klymaxx",
+            "song": "The Men All Pause",
+            "album": "Meeting in the Ladies Room",
+            "year": 1984,
+            "topicTags": [
+              "Klymaxx",
+              "The Men All Pause",
+              "1984",
+              "third single",
+              "charting",
+              "all-female band"
+            ],
+            "fact": "'The Men All Pause' was Klymaxx's third charting single of 1984 — completing a year in which the all-female band placed three different recordings on the R&B chart, a commercial consistency matched by few of their contemporaries.",
+            "storyHook": "Three charting singles in one year. 'Meeting in the Ladies Room.' 'I Miss You.' 'The Men All Pause.' Klymaxx owned 1984 — on their own terms.",
+            "sourceNotes": "Verified: 'The Men All Pause' was a third Klymaxx charting hit from 1984. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Klymaxx – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Klymaxx",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP053-R3-RES2",
+          "episodeId": "EP053",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "The Jets — the Tongan-American siblings who scored multiple pop and R&B hits in the late 1980s — were all members of which family?",
+          "choices": [
+            "The Faleolo family",
+            "The Wolfgramm family",
+            "The Fonoti family",
+            "The Ilaoa family"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep053-artist-the-jets-wolfgramm-family-tongan-american-siblings-minneapolis",
+            "artist": "The Jets",
+            "song": null,
+            "album": null,
+            "year": 1985,
+            "topicTags": [
+              "The Jets",
+              "Wolfgramm family",
+              "Tongan-American",
+              "Minneapolis",
+              "siblings",
+              "biography"
+            ],
+            "fact": "The Jets were the Wolfgramm family — eight Tongan-American siblings from Minneapolis who scored multiple pop and R&B hits in the late 1980s, making them one of the most ethnically distinctive acts in the decade's mainstream pop landscape.",
+            "storyHook": "The Wolfgramm family. Tongan-American. From Minneapolis. Eight siblings who hit #1 on the R&B chart. The Jets were one of the most unlikely commercial success stories of the 1980s.",
+            "sourceNotes": "Verified: The Jets were the Wolfgramm family — Tongan-American siblings from Minneapolis. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Jets (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Jets_(group)",
+                "accessed": "2026-06-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-13",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-15T03:20:37.019323+00:00"
+  }
+}

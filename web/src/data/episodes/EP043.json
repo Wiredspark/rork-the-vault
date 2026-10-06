@@ -1,0 +1,1635 @@
+{
+  "episodeId": "EP043",
+  "title": "Soul Foundations",
+  "theme": "Motown. Stax. Atlantic. The decade that built the template every R&B artist since has borrowed from, whether they knew it or not.",
+  "narrativePurpose": "Test knowledge of the foundational soul records, artists, and industry mechanics of the 1960s — the love songs, the label stories, the personnel behind the hits, and the records that defined what R&B could be before it knew what to call itself.",
+  "toneProgression": "The songs and voices every soul fan knows → label mechanics, chart history, and the personnel behind the hits → session musicians, birth names, and the infrastructure that built the decade",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "8"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-6-8 — the year Marvin Gaye's 'I Heard It Through the Grapevine' spent seven weeks at #1 on the Billboard Hot 100, and Otis Redding's posthumous '(Sittin' On) The Dock of the Bay' became his only chart-topper. Two of the most consequential soul records of the decade, released in the same year."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The love songs and vocal performances that defined 1960s soul. The records everyone knows.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP043-R1-Q1",
+          "episodeId": "EP043",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "'My Girl' — one of the 1960s' most celebrated love songs — was recorded by which Motown vocal group, featuring the debut lead vocal of David Ruffin?",
+          "choices": [
+            "The Miracles",
+            "The Four Tops",
+            "The Temptations",
+            "The Contours"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-song-temptations-my-girl-david-ruffin-debut-lead",
+            "artist": "The Temptations",
+            "song": "My Girl",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "The Temptations",
+              "My Girl",
+              "David Ruffin",
+              "Motown",
+              "1965"
+            ],
+            "fact": "'My Girl' reached #1 on the Hot 100 in March 1965. Written by Smokey Robinson and Ronald White, it was the first Temptations single to feature David Ruffin on lead vocals.",
+            "storyHook": "David Ruffin steps to the mic for the first time. Smokey Robinson hands him the song. The result is one of the most perfect love songs ever recorded.",
+            "sourceNotes": "Verified: 'My Girl' was the first Temptations single with David Ruffin on lead vocals. Sources: Wikipedia https://en.wikipedia.org/wiki/My_Girl_(The_Temptations_song), The Temptations Facebook https://www.facebook.com/TheTemptations/posts/today-in-1964-we-released-our-single-my-girl-and-in-1967-our-single-i-wish-it-wo/9",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "My Girl (The Temptations song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/My_Girl_(The_Temptations_song)",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "Today in 1964, we released our single 'My Girl' – The Temptations",
+                "url": "https://www.facebook.com/TheTemptations/posts/today-in-1964-we-released-our-single-my-girl-and-in-1967-our-single-i-wish-it-wo/9",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "The insanely talented David Ruffin singing 'My Girl' – Instagram reel",
+                "url": "https://www.instagram.com/reel/CpB_r6HOLek/",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "artist",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP043-R1-Q2",
+          "episodeId": "EP043",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Marvin Gaye's recording of 'I Heard It Through the Grapevine' topped the Billboard Hot 100 for seven weeks in 1968. Which Motown act had charted with an earlier version of the same song in 1967?",
+          "choices": [
+            "The Temptations",
+            "Martha & The Vandellas",
+            "The Four Tops",
+            "Gladys Knight & the Pips"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-song-grapevine-gladys-knight-pips-1967-earlier-version",
+            "artist": "Gladys Knight & the Pips / Marvin Gaye",
+            "song": "I Heard It Through the Grapevine",
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Gladys Knight & the Pips",
+              "Marvin Gaye",
+              "I Heard It Through the Grapevine",
+              "Motown",
+              "1967",
+              "1968"
+            ],
+            "fact": "Gladys Knight & the Pips released their version in 1967, reaching #2 on the Hot 100. Marvin Gaye's version had been recorded first but was held back by Berry Gordy for two years.",
+            "storyHook": "Gladys Knight had the hit first. Marvin Gaye's version sat on the shelf. When Gordy finally let it go, it spent seven weeks at number one.",
+            "sourceNotes": "Verified: Gladys Knight & the Pips had a hit version of 'I Heard It Through the Grapevine' in 1967 before Marvin Gaye's version.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Gladys Knight & The Pips – I Heard It Through The Grapevine – Classic Motown",
+                "url": "https://www.facebook.com/ClassicMotown/videos/before-marvin-gayes-iconic-version-took-over-the-charts-it-was-gladys-knight-the/4",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "'I Heard It Through The Grapevine': Gladys Knight Hits No. 1 – uDiscoverMusic",
+                "url": "https://www.udiscovermusic.com/stories/gladys-knight-and-the-pips-i-heard-it-through-the-grapevine-song/",
+                "accessed": "2026-05-28"
+              }
+            ],
+            "sourcesCount": 2
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-28",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP043-R1-Q3",
+          "episodeId": "EP043",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Percy Sledge's 1966 ballad 'When a Man Loves a Woman' — one of soul music's most enduring love songs — was recorded in which Southern state where Sledge was born and raised?",
+          "choices": [
+            "Tennessee",
+            "Georgia",
+            "Alabama",
+            "Mississippi"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-song-percy-sledge-when-a-man-loves-a-woman-alabama-recording",
+            "artist": "Percy Sledge",
+            "song": "When a Man Loves a Woman",
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Percy Sledge",
+              "When a Man Loves a Woman",
+              "Alabama",
+              "Norala Sound Studios",
+              "Sheffield",
+              "1966"
+            ],
+            "fact": "Percy Sledge was from Leighton, Alabama. 'When a Man Loves a Woman' was recorded at Norala Sound Studios in Sheffield, Alabama, produced by Quin Ivy.",
+            "storyHook": "Sheffield, Alabama. A studio called Norala. One of the greatest soul love songs ever made.",
+            "sourceNotes": "Verified: 'When a Man Loves a Woman' was recorded at Norala/Quinvy Recording Studio in Sheffield, Alabama. Sources: Colbert County Tourism brochure https://www.colbertcountytourism.org/wp-content/uploads/2015/11/Muscle_Shoals_Music_2_Brochure.pdf, fan history post https://www.facebook.com/MoiGregorDj/posts/percy-sledge-when-a-man-loves-a-woman-re-recorder-1966when-a-man-loves-a-woman-i/1462",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Muscle Shoals Music – Colbert County Tourism brochure",
+                "url": "https://www.colbertcountytourism.org/wp-content/uploads/2015/11/Muscle_Shoals_Music_2_Brochure.pdf",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "Percy Sledge – 'When a Man Loves a Woman' Norala/Sheffield note",
+                "url": "https://www.facebook.com/MoiGregorDj/posts/percy-sledge-when-a-man-loves-a-woman-re-recorder-1966when-a-man-loves-a-woman-i/1462",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP043-R1-Q4",
+          "episodeId": "EP043",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Before launching his solo R&B career in the late 1950s, Sam Cooke was the lead vocalist of which celebrated gospel group?",
+          "choices": [
+            "The Swan Silvertones",
+            "The Dixie Hummingbirds",
+            "The Pilgrim Travelers",
+            "The Soul Stirrers"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-artist-sam-cooke-soul-stirrers-gospel-lead-vocalist",
+            "artist": "Sam Cooke",
+            "song": null,
+            "album": null,
+            "year": 1956,
+            "topicTags": [
+              "Sam Cooke",
+              "The Soul Stirrers",
+              "gospel",
+              "biography",
+              "1950s"
+            ],
+            "fact": "Sam Cooke led The Soul Stirrers from 1950 to 1956, one of gospel music's most celebrated acts, before crossing over to R&B with 'You Send Me' in 1957.",
+            "storyHook": "He came from the church. The Soul Stirrers gave him the voice. The world gave him the stage.",
+            "sourceNotes": "Verified: Sam Cooke was chosen to replace R. H. Harris as lead singer of the Soul Stirrers. Source: ABKCO artist biography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sam Cooke – ABKCO artist biography",
+                "url": "https://www.abkco.com/artist/sam-cooke/",
+                "accessed": "2026-05-28"
+              }
+            ],
+            "sourcesCount": 1
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-28",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP043-R1-Q5",
+          "episodeId": "EP043",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Aretha Franklin's landmark 1967 recording of 'Respect' — which made her career — was originally written and recorded by which male soul artist?",
+          "choices": [
+            "Sam Cooke",
+            "Solomon Burke",
+            "Wilson Pickett",
+            "Otis Redding"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-song-respect-otis-redding-original-writer-aretha-franklin-cover",
+            "artist": "Aretha Franklin / Otis Redding",
+            "song": "Respect",
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Aretha Franklin",
+              "Otis Redding",
+              "Respect",
+              "Atlantic Records",
+              "1967"
+            ],
+            "fact": "'Respect' was written and first recorded by Otis Redding in 1965. Aretha Franklin transformed it into a feminist anthem at Atlantic Records in 1967.",
+            "storyHook": "Otis Redding wrote it. Aretha Franklin owned it. He reportedly said she took his song.",
+            "sourceNotes": "Verified: 'Respect' was written by Otis Redding and first recorded by him in 1965 on Otis Blue. Aretha Franklin covered it in 1967.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Respect – Otis Redding performance (1965)",
+                "url": "https://www.youtube.com/watch?v=OBWE46yMrlY",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "Otis Blue/Otis Redding Sings Soul – Otis Redding official post",
+                "url": "https://www.facebook.com/otisredding/posts/60-years-ago-on-september-15-1965-otis-redding-and-stax-records-released-otis-bl/1359",
+                "accessed": "2026-05-28"
+              }
+            ],
+            "sourcesCount": 2
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-28",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP043-R1-Q6",
+          "episodeId": "EP043",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Aretha Franklin signed with Atlantic Records in 1967 after spending six years at which major label without achieving a commercial breakthrough?",
+          "choices": [
+            "Columbia Records",
+            "Capitol",
+            "RCA Victor",
+            "Motown"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-artist-aretha-franklin-columbia-records-six-years-no-breakthrough",
+            "artist": "Aretha Franklin",
+            "song": null,
+            "album": null,
+            "year": 1960,
+            "topicTags": [
+              "Aretha Franklin",
+              "Columbia Records",
+              "Atlantic Records",
+              "Jerry Wexler",
+              "1960s"
+            ],
+            "fact": "Franklin recorded for Columbia under producer John Hammond from 1960 to 1966 without a major commercial breakthrough. Atlantic's Jerry Wexler signed her and immediately produced 'I Never Loved a Man the Way I Love You' and 'Respect.'",
+            "storyHook": "Six years at Columbia. Nothing clicked. Jerry Wexler brought her to Atlantic and everything changed.",
+            "sourceNotes": "Verified: Aretha Franklin signed to Columbia Records in 1960, recorded there until 1966 without a major pop breakthrough, then moved to Atlantic where she broke through immediately.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Aretha Franklin – Wikipedia (Columbia and Atlantic years)",
+                "url": "https://en.wikipedia.org/wiki/Aretha_Franklin",
+                "accessed": "2026-05-28"
+              }
+            ],
+            "sourcesCount": 1
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-28",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP043-R1-B1",
+          "episodeId": "EP043",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Sam Cooke wrote 'A Change Is Gonna Come' partly after hearing which Bob Dylan song — which made Cooke feel a Black artist should be writing music that confronted the civil rights era?",
+          "choices": [
+            "The Times They Are a-Changin'",
+            "Like a Rolling Stone",
+            "The Lonesome Death of Hattie Carroll",
+            "Blowin' in the Wind"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — COOKE'S FOLK MUSIC CHALLENGE"
+          },
+          "metadata": {
+            "factKey": "ep043-song-a-change-is-gonna-come-sam-cooke-blowin-in-the-wind-dylan-inspiration",
+            "artist": "Sam Cooke",
+            "song": "A Change Is Gonna Come",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "Sam Cooke",
+              "A Change Is Gonna Come",
+              "Bob Dylan",
+              "Blowin' in the Wind",
+              "civil rights",
+              "1963"
+            ],
+            "fact": "According to Cooke's biographer, hearing Dylan's 'Blowin' in the Wind' in 1963 made Cooke — a major Black star — feel embarrassed that a white folk singer was addressing civil rights while he was not. The experience, combined with the Shreveport motel incident, drove him to write 'A Change Is Gonna Come.'",
+            "storyHook": "A white folk singer wrote the protest record Sam Cooke felt he should have written. Cooke went home and fixed that.",
+            "sourceNotes": "Verified: Cooke's reaction to 'Blowin' in the Wind' documented in 'A Change Is Gonna Come' Wikipedia article — same source used for R2-Q3. Source: Wikipedia https://en.wikipedia.org/wiki/A_Change_Is_Gonna_Come",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "A Change Is Gonna Come – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/A_Change_Is_Gonna_Come",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP043-R1-RES1",
+          "episodeId": "EP043",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Mary Wells' 1964 Motown hit 'My Guy' — her biggest commercial success — reached #1 on the Billboard Hot 100. It was written and produced by which Motown hitmaker?",
+          "choices": [
+            "Smokey Robinson",
+            "Berry Gordy",
+            "Norman Whitfield",
+            "Harvey Fuqua"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-song-mary-wells-my-guy-smokey-robinson-writer-producer",
+            "artist": "Mary Wells",
+            "song": "My Guy",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "Mary Wells",
+              "My Guy",
+              "Smokey Robinson",
+              "Motown",
+              "1964"
+            ],
+            "fact": "'My Guy' was written and produced by Smokey Robinson, reaching #1 in May 1964 and becoming Mary Wells' signature recording.",
+            "storyHook": "Smokey Robinson wrote it. Mary Wells owned it. The only #1 she ever had — and it was enough.",
+            "sourceNotes": "Verified: 'My Guy' is a 1964 hit single by Mary Wells, written and produced by Smokey Robinson.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "My Guy – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/My_Guy",
+                "accessed": "2026-05-28"
+              }
+            ],
+            "sourcesCount": 1
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-28",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP043-R1-RES2",
+          "episodeId": "EP043",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Ben E. King's 1961 ballad 'Stand By Me' — one of soul music's most recorded songs — was co-written by King alongside which legendary songwriting duo?",
+          "choices": [
+            "Pomus and Shuman",
+            "Holland-Dozier-Holland",
+            "Leiber and Stoller",
+            "Goffin and King"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-song-ben-e-king-stand-by-me-leiber-stoller-co-writers",
+            "artist": "Ben E. King",
+            "song": "Stand By Me",
+            "album": null,
+            "year": 1961,
+            "topicTags": [
+              "Ben E. King",
+              "Stand By Me",
+              "Leiber and Stoller",
+              "1961"
+            ],
+            "fact": "'Stand By Me' was co-written by Ben E. King, Jerry Leiber, and Mike Stoller — one of rock and roll's most influential writing partnerships.",
+            "storyHook": "One of the most recorded songs in history. Three writers. An afternoon session that lasted forever.",
+            "sourceNotes": "Verified: 'Stand by Me' was written by Ben E. King along with Jerry Leiber and Mike Stoller.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Stand by Me (Ben E. King song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Stand_by_Me_(Ben_E._King_song)",
+                "accessed": "2026-05-28"
+              }
+            ],
+            "sourcesCount": 1
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-28",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP043-R1-RES3",
+          "episodeId": "EP043",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Supremes' 'Where Did Our Love Go' — their first #1 hit in 1964 — was written and produced by which Motown team?",
+          "choices": [
+            "Ashford and Simpson",
+            "Smokey Robinson and Ronald White",
+            "Holland-Dozier-Holland",
+            "Norman Whitfield and Barrett Strong"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-song-supremes-where-did-our-love-go-holland-dozier-holland-first-number-1",
+            "artist": "The Supremes",
+            "song": "Where Did Our Love Go",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "The Supremes",
+              "Where Did Our Love Go",
+              "Holland-Dozier-Holland",
+              "Motown",
+              "1964"
+            ],
+            "fact": "Written and produced by Holland-Dozier-Holland, 'Where Did Our Love Go' became The Supremes' first #1 on the Billboard Hot 100 in 1964, launching one of Motown's most successful runs.",
+            "storyHook": "Holland-Dozier-Holland handed them the song. The Supremes took it to #1. Five more would follow.",
+            "sourceNotes": "Verified: Holland-Dozier-Holland wrote and produced 'Where Did Our Love Go.' Sources: Wikipedia https://en.wikipedia.org/wiki/Where_Did_Our_Love_Go, Classic Motown https://classic.motown.com/story/supremes-love-go/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Where Did Our Love Go – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Where_Did_Our_Love_Go",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "Supremes – Where Did Our Love Go – Classic Motown",
+                "url": "https://classic.motown.com/story/supremes-love-go/",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP043-R1-RES4",
+          "episodeId": "EP043",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Four Tops' 'Reach Out I'll Be There' reached #1 in 1966. All four members — including lead vocalist Levi Stubbs — grew up together in which city?",
+          "choices": [
+            "Atlanta",
+            "Cleveland",
+            "Chicago",
+            "Detroit"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-artist-four-tops-levi-stubbs-detroit-birthplace",
+            "artist": "Four Tops",
+            "song": "Reach Out I'll Be There",
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Four Tops",
+              "Levi Stubbs",
+              "Detroit",
+              "Reach Out I'll Be There",
+              "1966"
+            ],
+            "fact": "All four members of the Four Tops — Levi Stubbs, Abdul 'Duke' Fakir, Renaldo 'Obie' Benson, and Lawrence Payton — grew up together in Detroit and formed the group there in 1954.",
+            "storyHook": "Four guys from Detroit. Together from childhood. One of Motown's most enduring lineups.",
+            "sourceNotes": "Verified: The Four Tops were formed in Detroit, Michigan in 1953 (as the Four Aims). All four members grew up there.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Four Tops – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Four_Tops",
+                "accessed": "2026-05-28"
+              }
+            ],
+            "sourcesCount": 1
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-28",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The writers, the session players, the label mechanics, and the personal stories behind the records.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP043-R2-Q1",
+          "episodeId": "EP043",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "David Ruffin's debut lead vocal on 'My Girl' marked his arrival as The Temptations' new frontman. He had joined the group in 1963 to replace which departing original member?",
+          "choices": [
+            "Elbridge 'Al' Bryant",
+            "Eddie Kendricks",
+            "Paul Williams",
+            "Melvin Franklin"
+          ],
+          "correctIndex": 0,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-artist-temptations-elbridge-al-bryant-replaced-by-david-ruffin",
+            "artist": "The Temptations",
+            "song": null,
+            "album": null,
+            "year": 1963,
+            "topicTags": [
+              "David Ruffin",
+              "Elbridge Al Bryant",
+              "The Temptations",
+              "Motown",
+              "1963"
+            ],
+            "fact": "Elbridge 'Al' Bryant — a co-founding Temptations member — was fired in late 1963 after repeated conflicts. David Ruffin replaced him and debuted as lead vocalist on 'My Girl.'",
+            "storyHook": "One Temptation exits. Another walks in. The group would never be the same — and that was a very good thing.",
+            "sourceNotes": "Verified: Elbridge 'Al' Bryant was fired and replaced by David Ruffin. Sources: Classic Motown https://classic.motown.com/artist/david-ruffin/, Facebook post on Temptations history https://www.facebook.com/61563402370782/posts/shortly-after-christmas-of-1963the-temptations-co-founder-elbridge-bryant-was-fi/1, The Root https://www.theroot.com/the-story-of-temptations-legend-david-ruffins-ascent-an-2000051196",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "David Ruffin – Classic Motown artist bio",
+                "url": "https://classic.motown.com/artist/david-ruffin/",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "The History Of The Temptations – Al Bryant's firing",
+                "url": "https://www.facebook.com/61563402370782/posts/shortly-after-christmas-of-1963the-temptations-co-founder-elbridge-bryant-was-fi/1",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "The Downfall of Temptations Legend David Ruffin – The Root",
+                "url": "https://www.theroot.com/the-story-of-temptations-legend-david-ruffins-ascent-an-2000051196",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP043-R2-Q2",
+          "episodeId": "EP043",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The unforgettable bass line on The Temptations' 'My Girl' was played by which Motown session musician — the backbone of the Funk Brothers and widely considered one of the greatest bassists in recording history?",
+          "choices": [
+            "Joe Messina",
+            "Bob Babbitt",
+            "Uriel Jones",
+            "James Jamerson"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-artist-james-jamerson-funk-brothers-my-girl-bass-line",
+            "artist": "James Jamerson",
+            "song": "My Girl",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "James Jamerson",
+              "Funk Brothers",
+              "My Girl",
+              "Motown",
+              "bass",
+              "session musician"
+            ],
+            "fact": "James Jamerson played the bass line on 'My Girl.' As the Funk Brothers' primary bassist, he is widely considered the most influential bassist in the history of soul and R&B.",
+            "storyHook": "No one knew his name. Everyone knew his bass line. James Jamerson played on more hits than most people have heard.",
+            "sourceNotes": "Verified: James Jamerson played the bass line on 'My Girl.' He is recognized as the Funk Brothers' key bassist and one of the most influential bassists in R&B history.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Funk Brothers – Classic Motown Artists",
+                "url": "https://classic.motown.com/artist/the-funk-brothers/",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "My Girl – James Jamerson bass line feature",
+                "url": "https://www.facebook.com/groups/1171753651060666/posts/1413968323505863/",
+                "accessed": "2026-05-28"
+              }
+            ],
+            "sourcesCount": 2
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "session",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-28",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP043-R2-Q3",
+          "episodeId": "EP043",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Sam Cooke's 'A Change Is Gonna Come' was partly inspired by his being refused accommodation at a whites-only motel in 1963. That incident took place in which Southern city?",
+          "choices": [
+            "Memphis, Tennessee",
+            "Jackson, Mississippi",
+            "Shreveport, Louisiana",
+            "Birmingham, Alabama"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-song-a-change-is-gonna-come-sam-cooke-shreveport-motel-incident",
+            "artist": "Sam Cooke",
+            "song": "A Change Is Gonna Come",
+            "album": null,
+            "year": 1963,
+            "topicTags": [
+              "Sam Cooke",
+              "A Change Is Gonna Come",
+              "Shreveport",
+              "Louisiana",
+              "civil rights",
+              "motel incident"
+            ],
+            "fact": "On October 8, 1963, Cooke and his entourage were refused at a whites-only Holiday Inn in Shreveport, Louisiana. Combined with hearing Bob Dylan's 'Blowin' in the Wind,' the experience moved him to write 'A Change Is Gonna Come.'",
+            "storyHook": "A Holiday Inn in Shreveport refused Sam Cooke. He went home and wrote one of the most important songs in American music.",
+            "sourceNotes": "Verified: Shreveport, Louisiana motel incident documented as an inspiration. Source: Wikipedia https://en.wikipedia.org/wiki/A_Change_Is_Gonna_Come",
+            "clipCue": "",
+            "hostNote": "The question references the inspiration for the song, not Cooke's death. Low HOST_SENSITIVITY risk — monitor production context.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "A Change Is Gonna Come – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/A_Change_Is_Gonna_Come",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-28",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP043-R2-Q4",
+          "episodeId": "EP043",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Otis Redding's 'I've Been Loving You Too Long' (1965) — one of soul music's most anguished love songs — was co-written by Redding and which soul singer who had previously been the original lead vocalist of The Impressions?",
+          "choices": [
+            "Curtis Mayfield",
+            "Sam Gooden",
+            "Jerry Butler",
+            "Fred Cash"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-song-ive-been-loving-you-too-long-otis-redding-jerry-butler-co-writer",
+            "artist": "Otis Redding",
+            "song": "I've Been Loving You Too Long",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "Otis Redding",
+              "Jerry Butler",
+              "I've Been Loving You Too Long",
+              "The Impressions",
+              "1965",
+              "songwriting"
+            ],
+            "fact": "'I've Been Loving You Too Long' was co-written by Otis Redding and Jerry Butler. Butler had been The Impressions' original lead singer before Curtis Mayfield took over the group.",
+            "storyHook": "Two soul legends in a room. One anguished ballad. Redding and Butler wrote something that still hurts to hear.",
+            "sourceNotes": "Verified: Co-written by Otis Redding and Jerry Butler; Butler was The Impressions' original lead. Sources: Wikipedia https://en.wikipedia.org/wiki/I've_Been_Loving_You_Too_Long, Curtis Mayfield site https://www.curtismayfield.com/impressions.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I've Been Loving You Too Long – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I've_Been_Loving_You_Too_Long",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "The Impressions – Curtis Mayfield site",
+                "url": "https://www.curtismayfield.com/impressions.html",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP043-R2-Q5",
+          "episodeId": "EP043",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Berry Gordy founded Motown Records in 1959 with seed money borrowed from his family's informal lending pool. How much was that initial loan?",
+          "choices": [
+            "$5,000",
+            "$800",
+            "$3,500",
+            "$2,000"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-label-motown-berry-gordy-800-dollar-ber-berry-coop-founding-loan",
+            "artist": "Berry Gordy",
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "Berry Gordy",
+              "Motown",
+              "Ber-Berry Co-op",
+              "founding",
+              "1959",
+              "$800"
+            ],
+            "fact": "Berry Gordy borrowed $800 from the Gordy family's lending pool — known as the 'Ber-Berry Co-op' — to found Tamla Records in 1959, which became Motown Record Corporation.",
+            "storyHook": "$800. A family savings pool. The most important loan in the history of American popular music.",
+            "sourceNotes": "Verified: Berry Gordy took out an $800 loan from the Ber-Berry Co-op to found Tamla Records. Source: Motown Museum Facebook post https://www.facebook.com/MotownMuseum/posts/onthisday-in-1959-detroit-songwriter-berry-gordy-took-out-an-800-loan-from-his-f/101",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "On This Day in 1959 – Berry Gordy's $800 Ber-Berry Co-Op loan – Motown Museum",
+                "url": "https://www.facebook.com/MotownMuseum/posts/onthisday-in-1959-detroit-songwriter-berry-gordy-took-out-an-800-loan-from-his-f/101",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "founding",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP043-R2-B1",
+          "episodeId": "EP043",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The Funk Brothers — Motown's anonymous house band — recorded nearly every major Motown hit of the 1960s at which Detroit facility?",
+          "choices": [
+            "Ford Auditorium",
+            "The Grande Ballroom",
+            "The Graystone Ballroom",
+            "Hitsville U.S.A."
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — MOTOWN'S RECORDING HOME"
+          },
+          "metadata": {
+            "factKey": "ep043-label-motown-funk-brothers-hitsville-usa-studio-a-recording-home",
+            "artist": "Funk Brothers",
+            "song": null,
+            "album": null,
+            "year": 1960,
+            "topicTags": [
+              "Funk Brothers",
+              "Hitsville U.S.A.",
+              "Motown",
+              "Studio A",
+              "Detroit",
+              "session musicians"
+            ],
+            "fact": "The Funk Brothers recorded at Studio A in the building known as 'Hitsville U.S.A.' at 2648 West Grand Boulevard, Detroit — Motown's headquarters and recording studio throughout the 1960s.",
+            "storyHook": "The address was 2648 West Grand Boulevard. The sign out front said Hitsville U.S.A. The music inside changed the world.",
+            "sourceNotes": "Verified: The Funk Brothers created 'the Sound of Young America' in the basement of Hitsville U.S.A., Motown's Detroit HQ and Studio A.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Funk Brothers – Classic Motown Artists",
+                "url": "https://classic.motown.com/artist/the-funk-brothers/",
+                "accessed": "2026-05-28"
+              }
+            ],
+            "sourcesCount": 1
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-28",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP043-R2-RES1",
+          "episodeId": "EP043",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Gladys Knight & the Pips — who charted with 'I Heard It Through the Grapevine' in 1967 — were largely a family group. Most of the Pips were which relation to Gladys Knight?",
+          "choices": [
+            "Her parents",
+            "Her brother and cousins",
+            "Her siblings only",
+            "Her children"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-group-gladys-knight-pips-bubba-knight-eleanor-william-guest-family",
+            "artist": "Gladys Knight & the Pips",
+            "song": null,
+            "album": null,
+            "year": 1952,
+            "topicTags": [
+              "Gladys Knight & the Pips",
+              "Bubba Knight",
+              "Eleanor Guest",
+              "William Guest",
+              "family group"
+            ],
+            "fact": "The Pips included Gladys' brother Bubba Knight and cousins Eleanor and William Guest. The group took the nickname 'Pips' from another cousin, James 'Pip' Woods.",
+            "storyHook": "A family act. Gladys, her brother, and her cousins. The Pips were always more than a backing group.",
+            "sourceNotes": "Verified: Founding members included Gladys and Bubba Knight (siblings) and cousins Eleanor and William Guest. Group name from cousin James 'Pip' Woods. Sources: Wikipedia https://en.wikipedia.org/wiki/Gladys_Knight_%26_the_Pips, Vocal Group Hall of Fame https://vocalgroup.org/inductees/gladys-knight-and-the-pips/, Facebook memorial post https://www.facebook.com/honoringlegends/posts/remembering-william-franklin-guest-of-gladys-knight-the-pips-on-the-date-of-his-/1132159482289561/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Gladys Knight & the Pips – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Gladys_Knight_%26_the_Pips",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "Gladys Knight and the Pips – Vocal Group Hall of Fame",
+                "url": "https://vocalgroup.org/inductees/gladys-knight-and-the-pips/",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "Remembering William Franklin Guest – Honoring Legends",
+                "url": "https://www.facebook.com/honoringlegends/posts/remembering-william-franklin-guest-of-gladys-knight-the-pips-on-the-date-of-his-/1132159482289561/",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP043-R2-RES2",
+          "episodeId": "EP043",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Stax Records' approach differed fundamentally from Motown's assembly-line method. Which of the following best describes how Stax artists typically created their records?",
+          "choices": [
+            "With orchestral arrangements pre-written by outside arrangers",
+            "Using backing tracks recorded in New York and overdubbed in Memphis",
+            "By selecting from a catalog of pre-recorded instrumental tracks",
+            "Spontaneously, live in the studio, without pre-written charts"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-label-stax-spontaneous-live-studio-recording-process",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1960,
+            "topicTags": [
+              "Stax Records",
+              "recording process",
+              "Memphis",
+              "spontaneous",
+              "live recording"
+            ],
+            "fact": "Stax was famous for its spontaneous, live-in-the-studio recording process — musicians and vocalists created arrangements together on the spot, in direct contrast to Motown's structured, written-out production system.",
+            "storyHook": "No charts. No pre-written arrangements. Stax walked in, turned on the tape, and made it up as they went. It worked.",
+            "sourceNotes": "Verified: Stax Records was known for its spontaneous, live-in-the-studio recording method — artists and musicians worked out arrangements together on the floor without pre-written charts.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sam & Dave – Stax Records artist page (on Stax production style)",
+                "url": "https://staxrecords.com/artist/sam-dave/",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "Stax Records was the first interracial record company – Stax video post",
+                "url": "https://www.facebook.com/staxrecords/posts/stax-records-was-the-first-interracial-record-company-dedicated-to-the-developme/1464",
+                "accessed": "2026-05-28"
+              }
+            ],
+            "sourcesCount": 2
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "recording",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-28",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP043-R2-RES3",
+          "episodeId": "EP043",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Atlantic Records producer Jerry Wexler — who signed Aretha Franklin and shaped her breakthrough recordings — is credited with coining which industry term while working at Billboard magazine?",
+          "choices": [
+            "Rhythm and Blues",
+            "Soul",
+            "Gospel",
+            "Funk"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-artist-jerry-wexler-coined-rhythm-and-blues-billboard-magazine",
+            "artist": "Jerry Wexler",
+            "song": null,
+            "album": null,
+            "year": 1949,
+            "topicTags": [
+              "Jerry Wexler",
+              "rhythm and blues",
+              "Billboard",
+              "Atlantic Records",
+              "genre naming"
+            ],
+            "fact": "Before joining Atlantic Records, Jerry Wexler worked at Billboard magazine and is credited with replacing the racially loaded term 'race music' with 'rhythm and blues' — a phrase that defined the genre for decades.",
+            "storyHook": "One journalist, one phrase, one genre named. Jerry Wexler coined 'rhythm and blues' before he was even a producer.",
+            "sourceNotes": "Verified: Jerry Wexler coined 'rhythm and blues' while at Billboard. Source: Wikipedia https://en.wikipedia.org/wiki/Jerry_Wexler",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jerry Wexler – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jerry_Wexler",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival facts, industry decisions, and deeper lineages that only devoted students of the era carry.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP043-R3-Q1",
+          "episodeId": "EP043",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Sam Cooke's 'A Change Is Gonna Come' was released as the B-side to which single in December 1964 — just days after Cooke's death?",
+          "choices": [
+            "Wonderful World",
+            "Shake",
+            "Bring It On Home to Me",
+            "Chain Gang"
+          ],
+          "correctIndex": 1,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-song-a-change-is-gonna-come-b-side-to-shake-december-1964",
+            "artist": "Sam Cooke",
+            "song": "A Change Is Gonna Come",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "Sam Cooke",
+              "A Change Is Gonna Come",
+              "Shake",
+              "B-side",
+              "1964",
+              "RCA Victor"
+            ],
+            "fact": "'A Change Is Gonna Come' was released as the B-side to 'Shake' on December 22, 1964 — eleven days after Sam Cooke was killed on December 11.",
+            "storyHook": "Eleven days after Sam Cooke died, one of the greatest songs ever written arrived as the B-side to a dance record. History filed it correctly.",
+            "sourceNotes": "Verified: 'A Change Is Gonna Come' was the B-side to 'Shake,' released December 22, 1964. Sources: Wikipedia https://en.wikipedia.org/wiki/A_Change_Is_Gonna_Come, Culture Wikia https://culture.fandom.com/wiki/A_Change_Is_Gonna_Come",
+            "clipCue": "",
+            "hostNote": "Sam Cooke's death is referenced in the stem and fact line. HOST_SENSITIVITY: flag for production awareness. The question is archival, not exploitative — monitor tone in live delivery.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "A Change Is Gonna Come – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/A_Change_Is_Gonna_Come",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "A Change Is Gonna Come – Culture Wikia",
+                "url": "https://culture.fandom.com/wiki/A_Change_Is_Gonna_Come",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-28",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP043-R3-Q2",
+          "episodeId": "EP043",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "The Funk Brothers — Motown's largely uncredited house band — were finally brought to mainstream attention by which 2002 documentary film?",
+          "choices": [
+            "Soul Power",
+            "Standing in the Shadows of Motown",
+            "Only the Strong Survive",
+            "Wattstax"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-film-standing-in-the-shadows-of-motown-2002-funk-brothers-documentary",
+            "artist": "Funk Brothers",
+            "song": null,
+            "album": null,
+            "year": 2002,
+            "topicTags": [
+              "Funk Brothers",
+              "Standing in the Shadows of Motown",
+              "documentary",
+              "2002",
+              "Motown"
+            ],
+            "fact": "'Standing in the Shadows of Motown' (2002) documented the Funk Brothers' largely uncredited contribution to Motown's catalog and brought them long-overdue recognition.",
+            "storyHook": "They played on more #1 hits than Elvis, The Beatles, The Rolling Stones, and The Beach Boys combined. Nobody knew their names until 2002.",
+            "sourceNotes": "Verified: 'Standing in the Shadows of Motown' is a 2002 documentary about the Funk Brothers. Source: IMDb https://www.imdb.com/title/tt0314725/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Standing in the Shadows of Motown (2002) – IMDb",
+                "url": "https://www.imdb.com/title/tt0314725/",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "film",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP043-R3-B1",
+          "episodeId": "EP043",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Marvin Gaye's recording of 'I Heard It Through the Grapevine' was completed in 1966 but held back for two years before its release as a single. Which of the following best reflects Berry Gordy's reason for the delay?",
+          "choices": [
+            "The recording had technical problems requiring remixing",
+            "Gordy wanted to release it exclusively on an album first",
+            "Gladys Knight's version had already charted, and Gordy doubted Gaye's arrangement had single potential",
+            "Gaye refused to tour in support of it"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "6",
+            "bonusHint": "DIGIT 3 OF 3 — GRAPEVINE'S DELAYED RELEASE"
+          },
+          "metadata": {
+            "factKey": "ep043-song-grapevine-berry-gordy-delay-gladys-knight-version-already-charted",
+            "artist": "Marvin Gaye",
+            "song": "I Heard It Through the Grapevine",
+            "album": null,
+            "year": 1968,
+            "topicTags": [
+              "Marvin Gaye",
+              "I Heard It Through the Grapevine",
+              "Berry Gordy",
+              "Gladys Knight",
+              "Motown",
+              "delayed release"
+            ],
+            "fact": "Berry Gordy resisted releasing Gaye's recording as a single because Gladys Knight's version had already charted — and he didn't see Gaye's darker, moodier arrangement as obvious commercial material. He eventually relented, and Gaye's version became Motown's biggest single to that point.",
+            "storyHook": "Berry Gordy thought it was too dark. He thought Gladys Knight had already done it. He was wrong on both counts.",
+            "sourceNotes": "Verified: Gordy resisted Gaye's version in part because Knight's version had already charted. Sources: Classic Motown video post https://www.facebook.com/ClassicMotown/videos/before-marvin-gayes-iconic-version-took-over-the-charts-it-was-gladys-knight-the/4, Ethan Hein analysis https://www.ethanhein.com/wp/2022/i-heard-it-through-the-grapevine/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Before Marvin Gaye's iconic version took over the charts… – Classic Motown",
+                "url": "https://www.facebook.com/ClassicMotown/videos/before-marvin-gayes-iconic-version-took-over-the-charts-it-was-gladys-knight-the/4",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "I Heard It Through the Grapevine – analysis",
+                "url": "https://www.ethanhein.com/wp/2022/i-heard-it-through-the-grapevine/",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP043-R3-RES1",
+          "episodeId": "EP043",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "The Impressions' 'People Get Ready' (1965) was released on which Chicago-based label before Curtis Mayfield founded his own imprint?",
+          "choices": [
+            "Chess",
+            "Curtom",
+            "Vee-Jay",
+            "ABC-Paramount"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-song-impressions-people-get-ready-abc-paramount-label-1965",
+            "artist": "The Impressions",
+            "song": "People Get Ready",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "The Impressions",
+              "People Get Ready",
+              "ABC-Paramount",
+              "Curtis Mayfield",
+              "1965"
+            ],
+            "fact": "'People Get Ready' was released on ABC-Paramount Records in 1965. Curtis Mayfield later founded Curtom Records in 1968, after leaving ABC-Paramount.",
+            "storyHook": "Before Curtom, before independence. 'People Get Ready' came out on ABC-Paramount — a corporate label that somehow couldn't contain what Curtis Mayfield was making.",
+            "sourceNotes": "Verified: 'People Get Ready' was released on ABC-Paramount in 1965. Sources: Wikipedia https://en.wikipedia.org/wiki/People_Get_Ready_(The_Impressions_album), YouTube 45 https://www.youtube.com/watch?v=l04yM7-BWbg, Etsy 45 listing https://www.etsy.com/listing/1618636900/the-impressions-people-get-ready-45",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "People Get Ready (The Impressions album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/People_Get_Ready_(The_Impressions_album)",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "'People Get Ready' – The Impressions 45, ABC-Paramount",
+                "url": "https://www.youtube.com/watch?v=l04yM7-BWbg",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "The Impressions – People Get Ready 45 (ABC-Paramount 10622)",
+                "url": "https://www.etsy.com/listing/1618636900/the-impressions-people-get-ready-45",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP043-R3-RES2",
+          "episodeId": "EP043",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "The Supremes scored five consecutive #1 hits on the Billboard Hot 100 between 1964 and 1965. Which of the following was the fifth in that run?",
+          "choices": [
+            "Come See About Me",
+            "Back in My Arms Again",
+            "Where Did Our Love Go",
+            "Stop! In the Name of Love"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep043-song-supremes-five-consecutive-number-1s-back-in-my-arms-again-fifth",
+            "artist": "The Supremes",
+            "song": "Back in My Arms Again",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "The Supremes",
+              "Back in My Arms Again",
+              "five consecutive #1s",
+              "Motown",
+              "1964",
+              "1965"
+            ],
+            "fact": "The Supremes' five consecutive #1 hits were: 'Where Did Our Love Go,' 'Baby Love,' 'Come See About Me,' 'Stop! In the Name of Love,' and 'Back in My Arms Again' — all between August 1964 and June 1965.",
+            "storyHook": "Five in a row. The Supremes didn't just have a hit run. They had one of the most dominant stretches in pop history.",
+            "sourceNotes": "Verified: 'Back in My Arms Again' was the fifth of five consecutive #1s. Sources: Come See About Me Wikipedia https://en.wikipedia.org/wiki/Come_See_About_Me, Rock Hall Instagram https://www.instagram.com/reel/DRP9MBtiajR/, Rock Hall Facebook https://www.facebook.com/rockandrollhalloffame/posts/sixty-years-ago-today-the-supremes-released-their-sixth-studio-album-more-h",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Come See About Me – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Come_See_About_Me",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "The Supremes – Rock & Roll Hall of Fame post on 'More Hits by the Supremes'",
+                "url": "https://www.facebook.com/rockandrollhalloffame/posts/sixty-years-ago-today-the-supremes-released-their-sixth-studio-album-more-h",
+                "accessed": "2026-05-28"
+              },
+              {
+                "title": "61 years ago, Supremes hit #1 with 'Baby Love' – Instagram reel",
+                "url": "https://www.instagram.com/reel/DRP9MBtiajR/",
+                "accessed": "2026-05-28"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-28",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-28T14:54:50.313999+00:00"
+  }
+}

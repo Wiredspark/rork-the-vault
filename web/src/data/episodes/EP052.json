@@ -1,0 +1,1550 @@
+{
+  "episodeId": "EP052",
+  "title": "Ladies of Soul: The Seventies",
+  "theme": "The post-Motown girl group freed from the assembly line — finding new sounds in Philly soul, disco, and funk. Groups that owned their aesthetic, reinvented themselves, and built sounds that outlasted the decade.",
+  "narrativePurpose": "Trace the 1970s girl group arc from Labelle's radical reinvention through the Philadelphia International ecosystem, the Pointer Sisters' genre-defying range, The Emotions' gospel-rooted soul, and Sister Sledge's Chic-produced peak — the year 'We Are Family' crystallized everything the decade was building toward.",
+  "toneProgression": "The hits and the anthems that defined the era → the production machinery, label infrastructure, and the individuals who built the sound → the archival connections hiding inside the decade's most celebrated girl group moments",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "9"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-7-9 — the year Nile Rodgers and Bernard Edwards of Chic produced Sister Sledge's 'We Are Family' and 'He's the Greatest Dancer,' crystallizing the 1970s girl group sound at its most sophisticated and commercially dominant. 1979: the year the decade's girl group story reaches its peak."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The hits and anthems that defined the 1970s girl group era.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP052-R1-Q1",
+          "episodeId": "EP052",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Sister Sledge's 1979 anthem — produced by Nile Rodgers and Bernard Edwards of Chic — became one of disco's most enduring battle cries. What was the song?",
+          "choices": [
+            "Lost in Music",
+            "We Are Family",
+            "He's the Greatest Dancer",
+            "Thinking of You"
+          ],
+          "correctIndex": 1,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-song-we-are-family-sister-sledge-1979-disco-anthem-chic-nile-rodgers-bernard-edwards",
+            "artist": "Sister Sledge",
+            "song": "We Are Family",
+            "album": "We Are Family",
+            "year": 1979,
+            "topicTags": [
+              "Sister Sledge",
+              "We Are Family",
+              "1979",
+              "Chic",
+              "Nile Rodgers",
+              "Bernard Edwards",
+              "disco"
+            ],
+            "fact": "'We Are Family' (1979) was produced by Nile Rodgers and Bernard Edwards of Chic and became one of the defining anthems of both the disco era and the 1970s girl group story — a song that has outlasted every trend it was born inside.",
+            "storyHook": "'We Are Family.' 1979. Nile Rodgers and Bernard Edwards behind the board. Sister Sledge at the mic. The decade's girl group sound at its peak.",
+            "sourceNotes": "Verified: 'We Are Family' produced by Nile Rodgers and Bernard Edwards (Chic). Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sister Sledge – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sister_Sledge",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R1-Q2",
+          "episodeId": "EP052",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Sister Sledge's 'We Are Family' was produced by the duo of Bernard Edwards and which guitarist — both members of the disco group Chic?",
+          "choices": [
+            "Bernard Edwards",
+            "Nicky Chinn",
+            "Nile Rodgers",
+            "Giorgio Moroder"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-artist-nile-rodgers-chic-guitarist-produced-sister-sledge-we-are-family",
+            "artist": "Nile Rodgers",
+            "song": null,
+            "album": null,
+            "year": 1979,
+            "topicTags": [
+              "Nile Rodgers",
+              "Chic",
+              "Sister Sledge",
+              "We Are Family",
+              "producer",
+              "guitarist"
+            ],
+            "fact": "Nile Rodgers and Bernard Edwards — the creative engine of Chic — produced Sister Sledge's landmark 1979 recordings, applying the same sophisticated disco architecture they had built for Chic itself.",
+            "storyHook": "Nile Rodgers. Chic's guitarist. He didn't just produce 'We Are Family' — he built the architecture that made Sister Sledge sound inevitable.",
+            "sourceNotes": "Verified: Nile Rodgers and Bernard Edwards of Chic produced Sister Sledge's 'We Are Family.' Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sister Sledge – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sister_Sledge",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R1-Q3",
+          "episodeId": "EP052",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Emotions reached #1 on both the pop and R&B charts in 1977 with which recording — produced by Maurice White of Earth, Wind & Fire?",
+          "choices": [
+            "Don't Ask My Neighbors",
+            "Best of My Love",
+            "I Don't Wanna Lose Your Love",
+            "Flowers"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-song-best-of-my-love-the-emotions-1977-number-one-hot-100-rb-chart",
+            "artist": "The Emotions",
+            "song": "Best of My Love",
+            "album": null,
+            "year": 1977,
+            "topicTags": [
+              "The Emotions",
+              "Best of My Love",
+              "1977",
+              "Maurice White",
+              "Earth Wind & Fire",
+              "#1",
+              "pop",
+              "R&B"
+            ],
+            "fact": "'Best of My Love' was released June 9, 1977 and topped both the Billboard Hot 100 and the R&B chart — a gospel-rooted Chicago family group's most perfectly realized pop moment, produced by Maurice White with most of Earth, Wind & Fire playing on the track.",
+            "storyHook": "The Emotions. Chicago. Gospel roots. 'Best of My Love.' Number one pop. Number one R&B. Maurice White at the board. 1977.",
+            "sourceNotes": "Verified: 'Best of My Love' topped both Hot 100 and R&B chart in 1977. Sources: Wikipedia https://en.wikipedia.org/wiki/Best_of_My_Love_(The_Emotions_song), Instagram post https://www.instagram.com/p/DZbgKV-m-Qt/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Best of My Love (The Emotions song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Best_of_My_Love_(The_Emotions_song)",
+                "accessed": "2026-06-12"
+              },
+              {
+                "title": "On this day in 1977… Rejoice – Instagram post",
+                "url": "https://www.instagram.com/p/DZbgKV-m-Qt/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R1-Q4",
+          "episodeId": "EP052",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Pointer Sisters stepped entirely outside R&B to win a Grammy Award for Best Country Song with which 1974 recording?",
+          "choices": [
+            "Yes We Can Can",
+            "How Long (Betcha Got a Chick on the Side)",
+            "Fire",
+            "Fairytale"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-song-fairytale-pointer-sisters-grammy-best-country-song-1974-crossover",
+            "artist": "The Pointer Sisters",
+            "song": "Fairytale",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "The Pointer Sisters",
+              "Fairytale",
+              "Grammy",
+              "Best Country Song",
+              "1974",
+              "crossover"
+            ],
+            "fact": "'Fairytale' won the Pointer Sisters the Grammy for Best Country Song — a remarkable crossover for a Black R&B act in a period when country music's racial integration was virtually nonexistent. It was the clearest early signal of the group's refusal to be confined by genre.",
+            "storyHook": "The Pointer Sisters. A Grammy for Best Country Song. 1974. A Black R&B group winning in country music — the genre that least expected them.",
+            "sourceNotes": "Verified: 'Fairytale' won Grammy for Best Country Song. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Pointer Sisters – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Pointer_Sisters",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "award",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R1-Q5",
+          "episodeId": "EP052",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Three Degrees scored their signature international hit in 1974 with which Philadelphia International Records smash — a song that topped charts on both sides of the Atlantic?",
+          "choices": [
+            "TSOP (The Sound of Philadelphia)",
+            "Year of Decision",
+            "Take Good Care of Yourself",
+            "When Will I See You Again"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-song-when-will-i-see-you-again-three-degrees-1974-philadelphia-international-uk-us",
+            "artist": "The Three Degrees",
+            "song": "When Will I See You Again",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "The Three Degrees",
+              "When Will I See You Again",
+              "1974",
+              "Philadelphia International",
+              "UK chart",
+              "international hit"
+            ],
+            "fact": "'When Will I See You Again' reached #1 in the UK and became a Top 5 hit in the US — Philadelphia International's most globally successful girl group moment and a defining piece of sophisticated 1970s urban soul.",
+            "storyHook": "The Three Degrees. Philadelphia. 1974. A song that went to #1 in the UK and Top 5 in the US. Philadelphia International Records had gone international.",
+            "sourceNotes": "Verified: 'When Will I See You Again' was The Three Degrees' international breakout hit in 1974 on Philadelphia International. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "When Will I See You Again – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/When_Will_I_See_You_Again",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R1-Q6",
+          "episodeId": "EP052",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Sister Sledge's 'We Are Family' arrived alongside which other 1979 Chic-produced hit — a propulsive disco showcase released on the same landmark album?",
+          "choices": [
+            "Thinking of You",
+            "He's the Greatest Dancer",
+            "Lost in Music",
+            "Reach Your Peak"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-song-hes-the-greatest-dancer-sister-sledge-1979-chic-produced-companion-hit",
+            "artist": "Sister Sledge",
+            "song": "He's the Greatest Dancer",
+            "album": "We Are Family",
+            "year": 1979,
+            "topicTags": [
+              "Sister Sledge",
+              "He's the Greatest Dancer",
+              "1979",
+              "Chic",
+              "Nile Rodgers",
+              "disco",
+              "We Are Family album"
+            ],
+            "fact": "'He's the Greatest Dancer' was released alongside 'We Are Family' from Sister Sledge's Chic-produced album — a two-sided commercial breakthrough that showcased both the group's range and the Nile Rodgers/Bernard Edwards production partnership at its most inventive.",
+            "storyHook": "Same album. Same year. Same producers. 'He's the Greatest Dancer' and 'We Are Family.' Sister Sledge gave disco two of its most defining floor moments in a single record.",
+            "sourceNotes": "Verified: 'He's the Greatest Dancer' appeared on Sister Sledge's We Are Family album alongside 'We Are Family,' both Chic-produced. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sister Sledge – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sister_Sledge",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R1-B1",
+          "episodeId": "EP052",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Pointer Sisters' 1978 hit 'Fire' was written by which rock legend — who had originally composed the song for Elvis Presley, sending a demo to the King shortly before his death?",
+          "choices": [
+            "Bruce Springsteen",
+            "Jackson Browne",
+            "Bob Seger",
+            "Tom Petty"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — THE ROCK LEGEND WHO WROTE THE POINTER SISTERS' 'FIRE'"
+          },
+          "metadata": {
+            "factKey": "ep052-song-fire-pointer-sisters-1978-bruce-springsteen-writer-composed-for-elvis-presley",
+            "artist": "The Pointer Sisters",
+            "song": "Fire",
+            "album": null,
+            "year": 1978,
+            "topicTags": [
+              "Bruce Springsteen",
+              "Fire",
+              "The Pointer Sisters",
+              "1978",
+              "Elvis Presley",
+              "songwriter"
+            ],
+            "fact": "Bruce Springsteen wrote 'Fire' for Elvis Presley and sent a demo to the King — but Elvis died in August 1977 before recording it. Robert Gordon recorded it first, then the Pointer Sisters turned it into a major hit in 1978.",
+            "storyHook": "Bruce Springsteen wrote 'Fire' for Elvis Presley. Elvis died before he could record it. The Pointer Sisters recorded it instead. 1978. One of rock history's great what-ifs became someone else's hit.",
+            "sourceNotes": "Verified: Bruce Springsteen wrote 'Fire' for Elvis Presley who died before recording it; Robert Gordon recorded first; Pointer Sisters had the hit in 1978. Source: Songfacts https://www.songfacts.com/facts/the-pointer-sisters/fire",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Fire by The Pointer Sisters – Songfacts",
+                "url": "https://www.songfacts.com/facts/the-pointer-sisters/fire",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP052-R1-RES1",
+          "episodeId": "EP052",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Pointer Sisters — whose eclectic range stretched from 1940s retro swing to disco to rock — were born and raised in which California city?",
+          "choices": [
+            "Sacramento",
+            "San Francisco",
+            "Los Angeles",
+            "Oakland"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-artist-pointer-sisters-born-raised-oakland-california-west-oakland-church-of-god",
+            "artist": "The Pointer Sisters",
+            "song": null,
+            "album": null,
+            "year": 1969,
+            "topicTags": [
+              "The Pointer Sisters",
+              "Oakland",
+              "California",
+              "hometown",
+              "West Oakland Church of God",
+              "biography"
+            ],
+            "fact": "The Pointer Sisters were born and raised in Oakland, California, and first sang together in the West Oakland Church of God — where their parents served as ministers. The church provided the vocal and spiritual foundation the sisters carried into every genre they touched.",
+            "storyHook": "The West Oakland Church of God. That's where the Pointer Sisters first sang together. Oakland born, gospel raised — and then they won a Grammy for country music.",
+            "sourceNotes": "Verified: Pointer Sisters born and raised in Oakland; first sang in West Oakland Church of God where their parents were ministers. Source: Soulwalking http://www.soulwalking.co.uk/Pointer%20Sisters.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Pointer Sisters Page – Soulwalking",
+                "url": "http://www.soulwalking.co.uk/Pointer%20Sisters.html",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R1-RES2",
+          "episodeId": "EP052",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Three Degrees and Sister Sledge — two of the decade's most commercially significant girl groups — both came from which American city?",
+          "choices": [
+            "Philadelphia",
+            "Baltimore",
+            "Detroit",
+            "Chicago"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-artist-three-degrees-sister-sledge-both-from-philadelphia-pennsylvania",
+            "artist": "The Three Degrees / Sister Sledge",
+            "song": null,
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "The Three Degrees",
+              "Sister Sledge",
+              "Philadelphia",
+              "Pennsylvania",
+              "origin",
+              "Philly soul"
+            ],
+            "fact": "Both the Three Degrees and Sister Sledge were Philadelphia acts — Sister Sledge formed there in 1965, and the Three Degrees emerged from the same city's vibrant R&B scene, both becoming part of the broader Philadelphia soul ecosystem that defined 1970s R&B.",
+            "storyHook": "The Three Degrees. Sister Sledge. Both from Philadelphia. Two of the decade's defining girl group sounds built in the same city — the city that was running 1970s soul.",
+            "sourceNotes": "Verified: Sister Sledge formed in Philadelphia, Pennsylvania in 1965. Three Degrees also from Philadelphia. Source (Sister Sledge): Wikipedia https://en.wikipedia.org/wiki/Sister_Sledge",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sister Sledge – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sister_Sledge",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R1-RES3",
+          "episodeId": "EP052",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Emotions' 'Best of My Love' (1977) was produced by which founding member of Earth, Wind & Fire — who had known the group from his earlier days as a musician in Chicago?",
+          "choices": [
+            "Verdine White",
+            "Philip Bailey",
+            "Al McKay",
+            "Maurice White"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-producer-maurice-white-earth-wind-fire-produced-emotions-best-of-my-love-chicago",
+            "artist": "The Emotions",
+            "song": "Best of My Love",
+            "album": null,
+            "year": 1977,
+            "topicTags": [
+              "Maurice White",
+              "Earth Wind & Fire",
+              "The Emotions",
+              "Best of My Love",
+              "producer",
+              "Chicago"
+            ],
+            "fact": "Maurice White co-wrote and produced 'Best of My Love' for The Emotions — a connection rooted in his earlier years as a young musician in Chicago, where he had played drums for the group. Most of Earth, Wind & Fire played on the recording.",
+            "storyHook": "Maurice White knew The Emotions from his Chicago days — he'd played drums for them before Earth, Wind & Fire. 'Best of My Love' was a homecoming as much as a production job.",
+            "sourceNotes": "Verified: Maurice White produced 'Best of My Love'; had known The Emotions from Chicago; most of EWF played on it. Source: Stereogum https://stereogum.com/2065158/the-number-ones-the-emotions-best-of-my-love/columns/the-number-ones",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Number Ones: The Emotions' 'Best Of My Love' – Stereogum",
+                "url": "https://stereogum.com/2065158/the-number-ones-the-emotions-best-of-my-love/columns/the-number-ones",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R1-RES4",
+          "episodeId": "EP052",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Philadelphia-based First Choice announced themselves with which 1973 hit — a funky, streetwise record that became one of their most sampled recordings?",
+          "choices": [
+            "Doctor Love",
+            "Let Him Go",
+            "Smarty Pants",
+            "Armed and Extremely Dangerous"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-song-smarty-pants-first-choice-1973-philly-soul-sampled-debut",
+            "artist": "First Choice",
+            "song": "Smarty Pants",
+            "album": "Armed and Extremely Dangerous",
+            "year": 1973,
+            "topicTags": [
+              "First Choice",
+              "Smarty Pants",
+              "1973",
+              "Philadelphia",
+              "Philly Groove",
+              "sampled"
+            ],
+            "fact": "'Smarty Pants' appeared on First Choice's 1973 Philly Groove album Armed and Extremely Dangerous — establishing the group as one of Philly soul's most distinctive girl group voices and becoming one of their most sampled recordings in hip-hop and dance music.",
+            "storyHook": "First Choice. 'Smarty Pants.' 1973. Philadelphia. A record that kept giving — sampled, flipped, and reborn across decades of hip-hop production.",
+            "sourceNotes": "Verified: 'Smarty Pants' was a 1973 hit for First Choice from the Philly Groove album. Source: YouTube upload https://www.youtube.com/watch?v=tXOM-HmcQX8",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "First Choice – 'Smarty Pants' – YouTube upload",
+                "url": "https://www.youtube.com/watch?v=tXOM-HmcQX8",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The production machinery, label infrastructure, and the individuals who built the 1970s girl group sound.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP052-R2-Q1",
+          "episodeId": "EP052",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Chic's production duo — who built the sound of Sister Sledge's 'We Are Family' — consisted of Nile Rodgers and which bassist?",
+          "choices": [
+            "Nathan Watts",
+            "Larry Graham",
+            "Bernard Edwards",
+            "Marcus Miller"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-artist-bernard-edwards-chic-bassist-co-produced-sister-sledge-we-are-family",
+            "artist": "Bernard Edwards",
+            "song": null,
+            "album": null,
+            "year": 1979,
+            "topicTags": [
+              "Bernard Edwards",
+              "Chic",
+              "Sister Sledge",
+              "We Are Family",
+              "bassist",
+              "producer"
+            ],
+            "fact": "Bernard Edwards played bass and co-produced alongside Nile Rodgers in Chic — a partnership that created one of the most distinctive and influential production sounds of the disco era, applied to Sister Sledge with spectacular results.",
+            "storyHook": "Bernard Edwards. Nile Rodgers. Chic. The two of them didn't just produce 'We Are Family' — they wrote it, played it, and built the sound of 1979.",
+            "sourceNotes": "Verified: Bernard Edwards was Chic's bassist and co-producer alongside Nile Rodgers on Sister Sledge's recordings. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Chic (band) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Chic_(band)",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R2-Q2",
+          "episodeId": "EP052",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Pointer Sisters' 'Fairytale' won the Grammy in which category — a remarkable achievement for a Black R&B vocal group in a genre that had rarely recognized them?",
+          "choices": [
+            "Best R&B Song",
+            "Best New Artist",
+            "Best Country Song",
+            "Best Pop Vocal Performance"
+          ],
+          "correctIndex": 2,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-award-fairytale-pointer-sisters-grammy-best-country-song-category-1974",
+            "artist": "The Pointer Sisters",
+            "song": "Fairytale",
+            "album": null,
+            "year": 1975,
+            "topicTags": [
+              "The Pointer Sisters",
+              "Fairytale",
+              "Grammy",
+              "Best Country Song",
+              "1975 ceremony",
+              "crossover"
+            ],
+            "fact": "'Fairytale' won the Grammy for Best Country Song at the 1975 ceremony — making the Pointer Sisters one of the very few Black acts to win in a country category, and signaling a genre-crossing ambition that defined their entire career.",
+            "storyHook": "Best Country Song. The Pointer Sisters. At the Grammys. Country music's most segregated moment was interrupted by four Black women from Oakland — and they had a trophy to prove it.",
+            "sourceNotes": "Verified: 'Fairytale' won Grammy for Best Country Song. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Pointer Sisters – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Pointer_Sisters",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "award",
+            "factType": "award",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R2-Q3",
+          "episodeId": "EP052",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Emotions — whose 'Best of My Love' topped both the pop and R&B charts in 1977 — were a gospel-rooted family group of sisters from which American city?",
+          "choices": [
+            "Chicago",
+            "Detroit",
+            "Philadelphia",
+            "Memphis"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-artist-the-emotions-hometown-chicago-illinois-family-sisters-gospel-roots",
+            "artist": "The Emotions",
+            "song": null,
+            "album": null,
+            "year": 1977,
+            "topicTags": [
+              "The Emotions",
+              "Chicago",
+              "Illinois",
+              "hometown",
+              "gospel",
+              "biography"
+            ],
+            "fact": "The Emotions were from Chicago — the Hutchinson sisters whose gospel upbringing gave them the vocal foundation that Maurice White channeled into some of the decade's most emotionally charged R&B. White had known the group from his own earlier years as a musician in Chicago.",
+            "storyHook": "Chicago. The Hutchinson sisters. Gospel church on one side, soul radio on the other. The Emotions lived in that intersection — and Maurice White understood it.",
+            "sourceNotes": "Verified: The Emotions were from Chicago; Maurice White knew them from his time as a musician there. Source: Stereogum https://stereogum.com/2065158/the-number-ones-the-emotions-best-of-my-love/columns/the-number-ones",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Number Ones: The Emotions' 'Best Of My Love' – Stereogum",
+                "url": "https://stereogum.com/2065158/the-number-ones-the-emotions-best-of-my-love/columns/the-number-ones",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R2-Q4",
+          "episodeId": "EP052",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "In 1974, Labelle made history as the first Black vocal group to perform at which legendary New York institution — appearing in full silver spacesuits that embodied their radical reinvention?",
+          "choices": [
+            "Carnegie Hall",
+            "Lincoln Center",
+            "Metropolitan Opera House",
+            "Radio City Music Hall"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-artist-labelle-first-black-vocal-group-metropolitan-opera-house-1974-silver-costumes",
+            "artist": "Labelle",
+            "song": null,
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "Labelle",
+              "Metropolitan Opera House",
+              "1974",
+              "first Black vocal group",
+              "silver costumes",
+              "Patti LaBelle",
+              "Nona Hendryx",
+              "Sarah Dash"
+            ],
+            "fact": "Labelle performed at the Metropolitan Opera House in 1974 — the first Black vocal group to do so — dressed in the futuristic silver spacesuits designed in collaboration with their British manager Vicki Wickham. The show was a cultural statement as much as a concert, timed to promote Nightbirds and 'Lady Marmalade.'",
+            "storyHook": "The Metropolitan Opera House. 1974. Labelle in silver spacesuits. The first Black vocal group to perform on that stage — and they made sure nobody forgot it.",
+            "sourceNotes": "Verified: Labelle was the first Black vocal group to perform at the Metropolitan Opera House in 1974. Source: Instagram reel https://www.instagram.com/reel/DPedgt1iUpx/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "LaBelle first Black vocal group at the Metropolitan Opera House – Instagram reel",
+                "url": "https://www.instagram.com/reel/DPedgt1iUpx/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R2-Q5",
+          "episodeId": "EP052",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Labelle's landmark 1974 album Nightbirds — which contained 'Lady Marmalade' — was produced by which New Orleans legend, recording at Sea-Saint Studios?",
+          "choices": [
+            "Allen Toussaint",
+            "Dr. John",
+            "Aaron Neville",
+            "Mac Rebennack"
+          ],
+          "correctIndex": 0,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-producer-allen-toussaint-nightbirds-labelle-1974-sea-saint-studios-new-orleans",
+            "artist": "Labelle",
+            "song": null,
+            "album": "Nightbirds",
+            "year": 1974,
+            "topicTags": [
+              "Allen Toussaint",
+              "Labelle",
+              "Nightbirds",
+              "1974",
+              "Sea-Saint Studios",
+              "New Orleans",
+              "Lady Marmalade"
+            ],
+            "fact": "Allen Toussaint produced Nightbirds at Sea-Saint Studios in New Orleans — giving Labelle's futuristic sound an unexpected Southern soul warmth, and producing 'Lady Marmalade' as one of the decade's most indelible recordings.",
+            "storyHook": "Labelle in silver spacesuits. Allen Toussaint in New Orleans. Sea-Saint Studios. The most unlikely pairing of the decade — and it produced 'Lady Marmalade.'",
+            "sourceNotes": "Verified: Allen Toussaint produced Nightbirds at Sea-Saint Studios in New Orleans. Source: Wikipedia https://en.wikipedia.org/wiki/Nightbirds_(Labelle_album)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Nightbirds – Labelle album – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Nightbirds_(Labelle_album)",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R2-B1",
+          "episodeId": "EP052",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Sister Sledge's 'We Are Family' was adopted as the anthem of which 1979 World Series championship baseball team — with captain Willie Stargell personally calling the press box to make it the official song?",
+          "choices": [
+            "Baltimore Orioles",
+            "New York Yankees",
+            "Pittsburgh Pirates",
+            "Cincinnati Reds"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE TEAM THAT MADE 'WE ARE FAMILY' A BATTLE CRY"
+          },
+          "metadata": {
+            "factKey": "ep052-song-we-are-family-sister-sledge-pittsburgh-pirates-1979-world-series-willie-stargell",
+            "artist": "Sister Sledge",
+            "song": "We Are Family",
+            "album": null,
+            "year": 1979,
+            "topicTags": [
+              "Sister Sledge",
+              "We Are Family",
+              "Pittsburgh Pirates",
+              "1979",
+              "World Series",
+              "Willie Stargell",
+              "anthem"
+            ],
+            "fact": "'We Are Family' became the anthem of the 1979 Pittsburgh Pirates — with team captain Willie Stargell personally calling up to the press box to make it the official song. The Pirates rode it to a World Series championship, giving the record a second life far beyond the dance floor.",
+            "storyHook": "Willie Stargell picked up the phone and called the press box. He told them to make 'We Are Family' the team's song. The Pittsburgh Pirates rode it all the way to the 1979 World Series title.",
+            "sourceNotes": "Verified: 'We Are Family' was adopted by the Pittsburgh Pirates as their 1979 World Series anthem; Willie Stargell personally arranged for it to become the official song. Source: YouTube analysis https://www.youtube.com/watch?v=WYuDlIkDyP4",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Song That Won the 1979 World Series – 'We Are Family' analysis",
+                "url": "https://www.youtube.com/watch?v=WYuDlIkDyP4",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP052-R2-RES1",
+          "episodeId": "EP052",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Labelle's transformation from a traditional girl group into a futuristic, politically charged art act was shaped in part by which British manager and stylist?",
+          "choices": [
+            "Andrew Loog Oldham",
+            "Tony Visconti",
+            "Malcolm McLaren",
+            "Vicki Wickham"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-artist-vicki-wickham-labelle-british-manager-stylist-radical-reinvention",
+            "artist": "Labelle",
+            "song": null,
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Vicki Wickham",
+              "Labelle",
+              "manager",
+              "stylist",
+              "reinvention",
+              "British",
+              "Ready Steady Go"
+            ],
+            "fact": "Vicki Wickham — the British television producer who came from the world of UK pop TV — became Labelle's manager and co-architect of their radical reinvention, bringing a transatlantic sensibility that pushed the group beyond anything American soul management was imagining.",
+            "storyHook": "Vicki Wickham. British TV producer. She became Labelle's manager and helped turn them into something that had no name yet. The silver spacesuits were part of her vision.",
+            "sourceNotes": "Verified: Vicki Wickham managed Labelle and helped drive their reinvention. Source: Wikipedia https://en.wikipedia.org/wiki/Vicki_Wickham",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Vicki Wickham – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Vicki_Wickham",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R2-RES2",
+          "episodeId": "EP052",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Sister Sledge released 'We Are Family' and their Chic-produced hits on which Atlantic Records subsidiary label?",
+          "choices": [
+            "East West",
+            "Cotillion Records",
+            "Atco",
+            "Atlantic"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-label-cotillion-records-sister-sledge-atlantic-subsidiary-we-are-family",
+            "artist": "Sister Sledge",
+            "song": null,
+            "album": null,
+            "year": 1979,
+            "topicTags": [
+              "Cotillion Records",
+              "Sister Sledge",
+              "Atlantic Records",
+              "subsidiary label",
+              "We Are Family"
+            ],
+            "fact": "Cotillion Records — an Atlantic Records subsidiary — was Sister Sledge's label home for their commercial peak. The Chic production deal brought Atlantic's infrastructure together with Cotillion's roster for one of the era's most commercially productive partnerships.",
+            "storyHook": "Cotillion Records. An Atlantic subsidiary. Sister Sledge's commercial home. The label that put 'We Are Family' into the world.",
+            "sourceNotes": "Verified: Sister Sledge released We Are Family on Cotillion Records, an Atlantic subsidiary. Source: Wikipedia https://en.wikipedia.org/wiki/Sister_Sledge",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sister Sledge – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sister_Sledge",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R2-RES3",
+          "episodeId": "EP052",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Emotions contributed lead vocals to which 1979 Earth, Wind & Fire recording — a #6 pop hit that became one of the year's most celebrated disco-era collaborations?",
+          "choices": [
+            "Shining Star",
+            "Let's Groove",
+            "Boogie Wonderland",
+            "September"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-song-boogie-wonderland-earth-wind-fire-the-emotions-1979-number-6-collaboration",
+            "artist": "Earth, Wind & Fire featuring The Emotions",
+            "song": "Boogie Wonderland",
+            "album": null,
+            "year": 1979,
+            "topicTags": [
+              "The Emotions",
+              "Earth Wind & Fire",
+              "Boogie Wonderland",
+              "1979",
+              "#6",
+              "collaboration",
+              "disco"
+            ],
+            "fact": "'Boogie Wonderland' was a joint recording by Earth, Wind & Fire featuring The Emotions — reaching #6 on the pop chart in 1979 and cementing the creative partnership between Maurice White and the Hutchinson sisters that had produced 'Best of My Love' two years earlier.",
+            "storyHook": "Earth, Wind & Fire and The Emotions. 'Boogie Wonderland.' 1979. #6 on the pop chart. Two Chicago connections making music that sounded like the whole world was dancing.",
+            "sourceNotes": "Verified: 'Boogie Wonderland' featuring The Emotions reached #6 pop in 1979. Source: Slicethelife https://slicethelife.com/2021/01/07/billboard-1-hits-434-best-of-my-love-the-emotions-august-20-1977/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Billboard #1 Hits: 'Best Of My Love' – slicethelife",
+                "url": "https://slicethelife.com/2021/01/07/billboard-1-hits-434-best-of-my-love-the-emotions-august-20-1977/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival connections hiding inside the decade's most celebrated girl group moments.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP052-R3-Q1",
+          "episodeId": "EP052",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "The Three Degrees provided the lead vocals on 'TSOP (The Sound of Philadelphia)' — a 1974 #1 hit that became the theme song for which long-running music television program?",
+          "choices": [
+            "Midnight Special",
+            "American Bandstand",
+            "Don Kirshner's Rock Concert",
+            "Soul Train"
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-song-tsop-sound-of-philadelphia-three-degrees-lead-vocals-soul-train-theme-1974",
+            "artist": "MFSB featuring The Three Degrees",
+            "song": "TSOP (The Sound of Philadelphia)",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "The Three Degrees",
+              "TSOP",
+              "Soul Train",
+              "Philadelphia International",
+              "MFSB",
+              "1974",
+              "theme song"
+            ],
+            "fact": "'TSOP (The Sound of Philadelphia)' was recorded by MFSB with Three Degrees lead vocals and reached #1 in 1974 — placing a Philadelphia girl group at the opening of every Soul Train episode for years, making their voices the sonic signature of America's most important Black music television show.",
+            "storyHook": "The Three Degrees sang the Soul Train theme. Every time the show opened, it was their voices. Most people heard it a thousand times without ever knowing who was singing.",
+            "sourceNotes": "Verified: The Three Degrees sang lead on TSOP, which became the Soul Train theme song. Source: Wikipedia https://en.wikipedia.org/wiki/TSOP_(The_Sound_of_Philadelphia)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TSOP (The Sound of Philadelphia) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/TSOP_(The_Sound_of_Philadelphia)",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R3-Q2",
+          "episodeId": "EP052",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Before transforming Labelle with futuristic costumes and a radical artistic vision, their British manager Vicki Wickham had produced and written for which groundbreaking UK music television show?",
+          "choices": [
+            "Top of the Pops",
+            "The Old Grey Whistle Test",
+            "Ready Steady Go!",
+            "Juke Box Jury"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-artist-vicki-wickham-ready-steady-go-uk-tv-producer-before-managing-labelle",
+            "artist": "Vicki Wickham / Labelle",
+            "song": null,
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "Vicki Wickham",
+              "Ready Steady Go!",
+              "Labelle",
+              "British television",
+              "producer",
+              "biography"
+            ],
+            "fact": "Vicki Wickham was a producer and writer on Ready Steady Go! — the seminal British pop TV show — before bringing that transatlantic sensibility to Labelle's management. Her background in UK pop culture directly informed the theatrical, internationally aware reinvention she co-designed for the group.",
+            "storyHook": "Ready Steady Go! was where British pop culture crystallized in the 1960s. Vicki Wickham was there producing it — and then she took everything she learned and applied it to Labelle in the 1970s.",
+            "sourceNotes": "Verified: Vicki Wickham was a producer and writer on Ready Steady Go! before managing Labelle. Source: Wikipedia https://en.wikipedia.org/wiki/Vicki_Wickham",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Vicki Wickham – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Vicki_Wickham",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R3-B1",
+          "episodeId": "EP052",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Sister Sledge's 'He's the Greatest Dancer' — one of disco's most vivid floor-level narratives — explicitly name-checks which legendary New York nightclub in its lyrics, alongside Halston, Gucci, and Fiorucci?",
+          "choices": [
+            "Studio 54",
+            "Paradise Garage",
+            "Xenon",
+            "The Loft"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "7",
+            "bonusHint": "DIGIT 3 OF 3 — THE DISCO CLUB IN 'HE'S THE GREATEST DANCER'"
+          },
+          "metadata": {
+            "factKey": "ep052-song-hes-the-greatest-dancer-sister-sledge-studio-54-namedrop-halston-gucci-fiorucci",
+            "artist": "Sister Sledge",
+            "song": "He's the Greatest Dancer",
+            "album": "We Are Family",
+            "year": 1979,
+            "topicTags": [
+              "Sister Sledge",
+              "He's the Greatest Dancer",
+              "Studio 54",
+              "disco",
+              "Halston",
+              "Gucci",
+              "Fiorucci",
+              "lyrics"
+            ],
+            "fact": "'He's the Greatest Dancer' explicitly names Studio 54 in its lyrics — alongside the fashion labels Halston, Gucci, and Fiorucci — making it one of disco's most vivid and fashion-forward snapshots of the late 1970s nightclub world.",
+            "storyHook": "Halston. Gucci. Fiorucci. Studio 54. Sister Sledge put the entire aesthetic of 1979 nightlife into a single verse — and then kept dancing.",
+            "sourceNotes": "Verified: 'He's the Greatest Dancer' explicitly names Studio 54 in its lyrics alongside Halston, Gucci, and Fiorucci. Source: Genius https://genius.com/Sister-sledge-hes-the-greatest-dancer-lyrics",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "He's the Greatest Dancer – lyrics reference – Genius",
+                "url": "https://genius.com/Sister-sledge-hes-the-greatest-dancer-lyrics",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP052-R3-RES1",
+          "episodeId": "EP052",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Before their Grammy-winning country crossover and disco years, the Pointer Sisters introduced themselves with which 1973 breakthrough hit — showcasing a politicized lyric over a retro vocal group aesthetic?",
+          "choices": [
+            "Yes We Can Can",
+            "Cloudburst",
+            "Steam Heat",
+            "Shaky Flat Blues"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-song-yes-we-can-can-pointer-sisters-1973-debut-breakthrough-retro-aesthetic-political",
+            "artist": "The Pointer Sisters",
+            "song": "Yes We Can Can",
+            "album": "The Pointer Sisters",
+            "year": 1973,
+            "topicTags": [
+              "The Pointer Sisters",
+              "Yes We Can Can",
+              "1973",
+              "debut",
+              "breakthrough",
+              "retro",
+              "Andrews Sisters",
+              "political"
+            ],
+            "fact": "'Yes We Can Can' was the Pointer Sisters' early breakthrough hit from their 1973 self-titled debut — a politicized record delivered in a retro Andrews Sisters-influenced vocal style that established them as something genuinely unlike anything else on the soul radio dial.",
+            "storyHook": "'Yes We Can Can.' 1973. A political lyric in an Andrews Sisters arrangement. The Pointer Sisters refused to be what anyone expected — right from the start.",
+            "sourceNotes": "Verified: 'Yes We Can Can' was the Pointer Sisters' early breakthrough hit from their 1973 debut. Source: Soulwalking http://www.soulwalking.co.uk/Pointer%20Sisters.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Pointer Sisters Page – Soulwalking",
+                "url": "http://www.soulwalking.co.uk/Pointer%20Sisters.html",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP052-R3-RES2",
+          "episodeId": "EP052",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "The Pointer Sisters originally performed as a quartet before which sister departed in 1977 to sign with Motown Records as a solo artist?",
+          "choices": [
+            "June Pointer",
+            "Ruth Pointer",
+            "Anita Pointer",
+            "Bonnie Pointer"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep052-artist-bonnie-pointer-departed-pointer-sisters-1977-motown-solo-career",
+            "artist": "The Pointer Sisters",
+            "song": null,
+            "album": null,
+            "year": 1977,
+            "topicTags": [
+              "Bonnie Pointer",
+              "The Pointer Sisters",
+              "1977",
+              "solo career",
+              "Motown Records",
+              "quartet to trio"
+            ],
+            "fact": "Bonnie Pointer left the group in 1977 to sign with Motown Records as a solo artist — leaving Ruth, Anita, and June as the trio that went on to record 'Fire,' 'Slow Hand,' 'Jump (For My Love),' and the group's biggest commercial hits.",
+            "storyHook": "Bonnie Pointer left for Motown in 1977. The remaining three sisters — Ruth, Anita, and June — then recorded every hit the Pointer Sisters are most famous for.",
+            "sourceNotes": "Verified: Bonnie Pointer left the Pointer Sisters in 1977 to sign with Motown as a solo artist; Ruth, Anita, and June continued. Source: Soulwalking http://www.soulwalking.co.uk/Pointer%20Sisters.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Pointer Sisters Page – Soulwalking",
+                "url": "http://www.soulwalking.co.uk/Pointer%20Sisters.html",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-12T15:46:58.724551+00:00"
+  }
+}

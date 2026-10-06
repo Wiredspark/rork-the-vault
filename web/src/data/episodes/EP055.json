@@ -1,0 +1,1531 @@
+{
+  "episodeId": "EP055",
+  "title": "Ladies of Soul: The 2000s",
+  "theme": "The decade of the megastar exit. Destiny's Child becomes the launching pad for Beyoncé's solo career while still operating as a group. Reality television starts manufacturing girl groups from scratch rather than discovering them. By the decade's end, the format itself is in commercial retreat, eclipsed by the solo artists it produced.",
+  "narrativePurpose": "Close the Ladies of Soul series by tracing Destiny's Child's commercial peak and internal turbulence, the emergence of manufactured groups like Danity Kane through reality television, and the late-decade act of Cherish — ending on Destiny Fulfilled, the final studio album before the group's 2005 disbandment.",
+  "toneProgression": "The hits and milestones that defined the era → the formation stories, label infrastructure, and personnel turbulence behind the sound → the archival connections hiding inside the decade's final girl group moments",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 2-0-0-4 — the year Destiny's Child released Destiny Fulfilled, their final studio album before the group's 2005 disbandment. By 2004, Beyoncé was already a solo star; the girl group format itself was entering its commercial decline. 2004 is the moment the decade's — and the series' — arc begins to close."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The hits and milestones that defined the 2000s girl group era.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP055-R1-Q1",
+          "episodeId": "EP055",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Destiny's Child opened the decade with which 2000 single — a double Grammy winner built around the dramatic premise of a woman suspecting her partner of cheating?",
+          "choices": [
+            "No, No, No",
+            "Jumpin', Jumpin'",
+            "Bills, Bills, Bills",
+            "Say My Name"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-song-say-my-name-destinys-child-2000-grammy-number-one",
+            "artist": "Destiny's Child",
+            "song": "Say My Name",
+            "album": "The Writing's on the Wall",
+            "year": 2000,
+            "topicTags": [
+              "Destiny's Child",
+              "Say My Name",
+              "2000",
+              "Grammy",
+              "#1",
+              "The Writing's on the Wall"
+            ],
+            "fact": "'Say My Name' won two Grammy Awards at the 2001 ceremony — Best R&B Performance by a Duo or Group with Vocals and Best R&B Song — and became the most successful single from The Writing's on the Wall, topping the Hot 100 and spending 32 weeks on the chart.",
+            "storyHook": "Two Grammys. #1 on the Hot 100. 32 weeks on the chart. 'Say My Name' opened the decade by announcing Destiny's Child as the group to beat.",
+            "sourceNotes": "Verified: 'Say My Name' won two Grammys at the 2001 ceremony (Best R&B Performance by a Duo or Group with Vocals, Best R&B Song); most successful single from The Writing's on the Wall; topped charts and spent 32 weeks on Hot 100. Sources: Wikipedia https://en.wikipedia.org/wiki/Say_My_Name, Grammy.com https://www.grammy.com/video/destinys-child-say-my-name-grammys-win-acceptance-speech-rewind/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Say My Name – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Say_My_Name",
+                "accessed": "2026-06-17"
+              },
+              {
+                "title": "Destiny's Child 'Say My Name' GRAMMY win – Grammy.com",
+                "url": "https://www.grammy.com/video/destinys-child-say-my-name-grammys-win-acceptance-speech-rewind/",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "award",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R1-Q2",
+          "episodeId": "EP055",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Destiny's Child's 'Independent Women Part I' served as the lead single from the soundtrack of which 2000 action film, spending a then-record-setting eleven weeks at #1?",
+          "choices": [
+            "Emotion",
+            "Independent Women Part I",
+            "Bootylicious",
+            "Survivor"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-song-independent-women-part-1-charlies-angels-eleven-weeks-number-one-record",
+            "artist": "Destiny's Child",
+            "song": "Independent Women Part I",
+            "album": "Charlie's Angels (soundtrack)",
+            "year": 2000,
+            "topicTags": [
+              "Destiny's Child",
+              "Independent Women Part I",
+              "Charlie's Angels",
+              "2000",
+              "11 weeks #1",
+              "record"
+            ],
+            "fact": "'Independent Women Part I' was the lead single from the Charlie's Angels (2000) soundtrack and spent eleven consecutive weeks at #1 on the Hot 100 — at the time, the longest run at #1 by a girl group in chart history.",
+            "storyHook": "Eleven weeks at #1. The longest run any girl group had ever managed. 'Independent Women Part I' wasn't just a hit — it was a record.",
+            "sourceNotes": "Verified: 'Independent Women Part I' spent 11 weeks at #1, the longest-running #1 by a girl group. Source: Instagram chart-history reel https://www.instagram.com/reel/DUPwRGPk_lC/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "#1 Song This Day in History – 'Independent Woman' – Instagram",
+                "url": "https://www.instagram.com/reel/DUPwRGPk_lC/",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R1-Q3",
+          "episodeId": "EP055",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Destiny's Child's 2001 title track — widely interpreted as a response to the group's contentious lineup changes — was called what?",
+          "choices": [
+            "Survivor",
+            "Jumpin', Jumpin'",
+            "Independent Women Part I",
+            "Bootylicious"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-song-survivor-destinys-child-2001-lineup-response-title-track",
+            "artist": "Destiny's Child",
+            "song": "Survivor",
+            "album": "Survivor",
+            "year": 2001,
+            "topicTags": [
+              "Destiny's Child",
+              "Survivor",
+              "2001",
+              "lineup changes",
+              "title track"
+            ],
+            "fact": "'Survivor' (2001) became inseparable from the public narrative around Destiny's Child's lineup turmoil — its lyrics widely read as a direct response to departed members, regardless of the songwriters' stated intent.",
+            "storyHook": "'Survivor.' Every line of that song got read as a message to the members who'd just left the group. Whether that was the intent or not, the public decided what it meant.",
+            "sourceNotes": "Verified: 'Survivor' is widely interpreted as Destiny's Child's response to their 2000 lineup controversy. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Survivor (Destiny's Child song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Survivor_(Destiny%27s_Child_song)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R1-Q4",
+          "episodeId": "EP055",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Which 2001 Destiny's Child hit became so culturally significant that its title was added to the Oxford English Dictionary in 2004?",
+          "choices": [
+            "Survivor",
+            "Independent Women Part I",
+            "Emotion",
+            "Bootylicious"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-song-bootylicious-destinys-child-2001-oxford-english-dictionary-2004",
+            "artist": "Destiny's Child",
+            "song": "Bootylicious",
+            "album": "Survivor",
+            "year": 2001,
+            "topicTags": [
+              "Destiny's Child",
+              "Bootylicious",
+              "2001",
+              "Oxford English Dictionary",
+              "2004",
+              "cultural impact"
+            ],
+            "fact": "'Bootylicious' (2001) became enough of a cultural fixture that the word itself was added to the Oxford English Dictionary in 2004 — citing the Destiny's Child single as the term's catalyst.",
+            "storyHook": "'Bootylicious' isn't just a song title. It's an actual entry in the Oxford English Dictionary, added in 2004, because of this exact record.",
+            "sourceNotes": "Verified: 'Bootylicious' was added to the Oxford English Dictionary in 2004, citing the Destiny's Child single. Source: Oxford English Dictionary https://www.oed.com/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "bootylicious – Oxford English Dictionary entry summary",
+                "url": "https://www.oed.com/",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R1-Q5",
+          "episodeId": "EP055",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "3LW introduced themselves on August 22, 2000 with which debut single — a song about confronting infidelity that reached #23 on the Hot 100?",
+          "choices": [
+            "I Do (Wanna Get Close to You)",
+            "Neva Get Enuf",
+            "No More (Baby I'ma Do Right)",
+            "Playas Gon' Play"
+          ],
+          "correctIndex": 2,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-song-no-more-baby-ima-do-right-3lw-2000-debut-single-chart-23",
+            "artist": "3LW",
+            "song": "No More (Baby I'ma Do Right)",
+            "album": "3LW",
+            "year": 2000,
+            "topicTags": [
+              "3LW",
+              "No More (Baby I'ma Do Right)",
+              "2000",
+              "debut single",
+              "Hot 100"
+            ],
+            "fact": "'No More (Baby I'ma Do Right)' was released August 22, 2000 as 3LW's debut single from their self-titled debut album — reaching #23 on the Hot 100 and charting in the UK and New Zealand as well.",
+            "storyHook": "August 22, 2000. 3LW's first single. #23 on the Hot 100, and a chart entry overseas too — a strong opening statement for a brand-new trio.",
+            "sourceNotes": "Verified: 'No More (Baby I'ma Do Right)' released August 22, 2000 as 3LW's debut single, reached #23 Hot 100, charted in UK and New Zealand. Source: Wikipedia https://en.wikipedia.org/wiki/No_More_(Baby_I'ma_Do_Right)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No More (Baby I'ma Do Right) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_More_(Baby_I'ma_Do_Right)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R1-Q6",
+          "episodeId": "EP055",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "When Destiny's Child reorganized in 2000, which singer — previously a 1999 backup vocalist for Monica — joined as a new permanent member alongside Beyoncé and Kelly Rowland?",
+          "choices": [
+            "Michelle Williams",
+            "Farrah Franklin",
+            "LaTavia Roberson",
+            "LeToya Luckett"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-artist-michelle-williams-monica-backup-singer-1999-joined-destinys-child-2000",
+            "artist": "Michelle Williams",
+            "song": null,
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "Michelle Williams",
+              "Destiny's Child",
+              "Monica",
+              "backup singer",
+              "1999",
+              "2000",
+              "lineup"
+            ],
+            "fact": "Michelle Williams was a backup singer for Monica in 1999 before joining Destiny's Child in 2000 — becoming the group's permanent third member alongside Beyoncé and Kelly Rowland for the remainder of their career.",
+            "storyHook": "A year earlier, she was singing backup for Monica. Michelle Williams joined Destiny's Child in 2000 and stayed until the very end.",
+            "sourceNotes": "Verified: Michelle Williams was Monica's backup singer in 1999 before joining Destiny's Child in 2000. Source: Facebook Motown/soul nostalgia post https://www.facebook.com/groups/susancrebello/posts/4316256338658682/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Michelle Williams was Monica's background singer in 1999… – Facebook post",
+                "url": "https://www.facebook.com/groups/susancrebello/posts/4316256338658682/",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R1-B1",
+          "episodeId": "EP055",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Destiny's Child briefly added a fourth member in early 2000 — a singer who departed the group on July 20, 2000, after six months, reportedly after missing key promotional dates. Who was she?",
+          "choices": [
+            "LaTavia Roberson",
+            "Michelle Williams",
+            "LeToya Luckett",
+            "Farrah Franklin"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "2",
+            "bonusHint": "DIGIT 1 OF 3 — THE MEMBER WHO LASTED SIX MONTHS"
+          },
+          "metadata": {
+            "factKey": "ep055-artist-farrah-franklin-destinys-child-six-months-departed-july-2000",
+            "artist": "Farrah Franklin",
+            "song": null,
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "Farrah Franklin",
+              "Destiny's Child",
+              "2000",
+              "departure",
+              "six months"
+            ],
+            "fact": "Farrah Franklin exited Destiny's Child on July 20, 2000, after just six months with the group. Beyoncé later said Franklin had missed key promotional dates, leading to her dismissal.",
+            "storyHook": "Six months. That's all Farrah Franklin got. July 20, 2000 — gone, after missing the promotional dates the group needed her at.",
+            "sourceNotes": "Verified: Farrah Franklin exited Destiny's Child July 20, 2000 after six months; Beyoncé cited missed promotional dates. Source: Wikipedia https://en.wikipedia.org/wiki/Farrah_Franklin",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Farrah Franklin – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Farrah_Franklin",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP055-R1-RES1",
+          "episodeId": "EP055",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "3LW member Naturi Naughton later became known for acting roles, including playing Lil' Kim in a 2009 biopic and starring as Tasha St. Patrick in the Starz drama 'Power.' Which 3LW member was she?",
+          "choices": [
+            "Jessica Benson",
+            "Naturi Naughton",
+            "Kiely Williams",
+            "Adrienne Bailon"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-artist-naturi-naughton-3lw-acting-career-lil-kim-power-tasha-st-patrick",
+            "artist": "Naturi Naughton",
+            "song": null,
+            "album": null,
+            "year": 2009,
+            "topicTags": [
+              "Naturi Naughton",
+              "3LW",
+              "Notorious",
+              "Lil' Kim",
+              "Power",
+              "Tasha St. Patrick",
+              "acting"
+            ],
+            "fact": "Naturi Naughton transitioned from 3LW into a significant acting career — playing Lil' Kim in the 2009 biopic Notorious and later starring as Tasha St. Patrick in Starz's Power.",
+            "storyHook": "Naturi Naughton sang in 3LW. Then she played Lil' Kim on screen. Then she became Tasha St. Patrick on Power. The girl-group-to-actress pipeline had a real success story.",
+            "sourceNotes": "Verified: Naturi Naughton was a 3LW member who played Lil' Kim in Notorious and Tasha St. Patrick in Power. Source: Wikipedia https://en.wikipedia.org/wiki/Naturi_Naughton",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Naturi Naughton – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Naturi_Naughton",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R1-RES2",
+          "episodeId": "EP055",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Which Destiny's Child member remained with the group through every lineup change, from its earliest incarnation through the final 2005 disbandment?",
+          "choices": [
+            "Beyoncé Knowles",
+            "Michelle Williams",
+            "Kelly Rowland",
+            "LeToya Luckett"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-artist-kelly-rowland-destinys-child-constant-member-entire-history",
+            "artist": "Kelly Rowland",
+            "song": null,
+            "album": null,
+            "year": 2005,
+            "topicTags": [
+              "Kelly Rowland",
+              "Destiny's Child",
+              "constant member",
+              "biography"
+            ],
+            "fact": "Kelly Rowland was a constant presence in Destiny's Child from the group's earliest formation through its 2005 disbandment — alongside Beyoncé, one of only two members to remain for the group's entire history.",
+            "storyHook": "Every lineup change. Every reorganization. Kelly Rowland was there for all of it, from the very beginning to the very end.",
+            "sourceNotes": "Verified: Kelly Rowland remained with Destiny's Child throughout its entire history. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Kelly Rowland – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Kelly_Rowland",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R1-RES3",
+          "episodeId": "EP055",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "3LW member Adrienne Bailon later found mainstream success as a member of The Cheetah Girls and, from 2013 to 2022, as a Daytime Emmy-winning co-host of which talk show?",
+          "choices": [
+            "Kiely Williams",
+            "Jessica Benson",
+            "Adrienne Bailon",
+            "Naturi Naughton"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-artist-adrienne-bailon-3lw-cheetah-girls-the-real-daytime-emmy",
+            "artist": "Adrienne Bailon",
+            "song": null,
+            "album": null,
+            "year": 2018,
+            "topicTags": [
+              "Adrienne Bailon",
+              "3LW",
+              "The Cheetah Girls",
+              "The Real",
+              "Daytime Emmy",
+              "biography"
+            ],
+            "fact": "Adrienne Bailon went on to join The Cheetah Girls and later co-hosted the syndicated daytime talk show 'The Real' from 2013 to 2022 — she and her co-hosts won a Daytime Emmy Award in 2018.",
+            "storyHook": "Adrienne Bailon's post-3LW career took her through The Cheetah Girls and onto a daytime talk show couch — where she and her co-hosts eventually won a Daytime Emmy.",
+            "sourceNotes": "Verified: Adrienne Bailon co-hosted The Real 2013-2022 and won a Daytime Emmy in 2018. Source: Wikipedia https://en.wikipedia.org/wiki/Adrienne_Bailon-Houghton",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Adrienne Bailon-Houghton – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Adrienne_Bailon-Houghton",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R1-RES4",
+          "episodeId": "EP055",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "'Independent Women Part I' served as the lead single for the soundtrack of which 2000 film, starring Drew Barrymore, Cameron Diaz, and Lucy Liu?",
+          "choices": [
+            "Bring It On",
+            "Save the Last Dance",
+            "Coyote Ugly",
+            "Charlie's Angels"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-film-charlies-angels-2000-independent-women-part-1-soundtrack",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "Charlie's Angels",
+              "2000",
+              "Drew Barrymore",
+              "Cameron Diaz",
+              "Lucy Liu",
+              "soundtrack"
+            ],
+            "fact": "Charlie's Angels (2000) — starring Drew Barrymore, Cameron Diaz, and Lucy Liu — featured 'Independent Women Part I' as its soundtrack's lead single, a pairing that drove both the film's marketing and the song's record-setting chart run.",
+            "storyHook": "Three action heroines on screen. One girl group anthem behind them. Charlie's Angels and 'Independent Women Part I' were inseparable in 2000.",
+            "sourceNotes": "Verified: Charlie's Angels (2000) starred Drew Barrymore, Cameron Diaz, and Lucy Liu and featured 'Independent Women Part I' as its lead soundtrack single. Source: Wikipedia (Bring It On context cross-reference) https://en.wikipedia.org/wiki/Bring_It_On_(film)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Charlie's Angels (2000 film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Charlie%27s_Angels_(2000_film)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "film",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The formation stories, label infrastructure, and personnel turbulence behind the 2000s girl group sound.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP055-R2-Q1",
+          "episodeId": "EP055",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Which R&B trio — named after a company belonging to TLC's Lisa 'Left Eye' Lopes, who arranged their demos and got them an audition with Sony Music CEO Tommy Mottola — scored a platinum hit with '808'?",
+          "choices": [
+            "Eden's Crush",
+            "702",
+            "Total",
+            "Blaque"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-artist-blaque-named-after-left-eye-lopes-company-808-platinum-tommy-mottola",
+            "artist": "Blaque",
+            "song": "808",
+            "album": null,
+            "year": 1999,
+            "topicTags": [
+              "Blaque",
+              "Lisa Left Eye Lopes",
+              "808",
+              "Tommy Mottola",
+              "Sony Music",
+              "1996",
+              "platinum"
+            ],
+            "fact": "Blaque — Natina Reed, Shamari DeVoe, and Brandi Williams — was named after a company belonging to TLC's Lisa 'Left Eye' Lopes, who officially formed the group in 1996, arranged their demo recordings, and secured them an audition with Sony Music CEO Tommy Mottola. Their platinum lead single '808' and the international hit 'Bring It All to Me' followed as the decade turned over.",
+            "storyHook": "Blaque's name came directly from Left Eye's own company. She built their demos. She got them in front of Tommy Mottola himself. That's how '808' happened.",
+            "sourceNotes": "Verified: Blaque named after Lisa Lopes's company, formed 1996, Lopes arranged demos and secured Tommy Mottola audition; '808' platinum lead single, 'Bring It All to Me' international hit. Source: Wikipedia https://en.wikipedia.org/wiki/Blaque",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Blaque – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Blaque",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R2-Q2",
+          "episodeId": "EP055",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Blaque appeared on-screen as members of the rival East Compton Clovers cheer squad in which 2000 teen comedy?",
+          "choices": [
+            "Drumline",
+            "Bring It On",
+            "Coach Carter",
+            "Save the Last Dance"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-film-bring-it-on-2000-blaque-east-compton-clovers-cheer-squad",
+            "artist": "Blaque",
+            "song": null,
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "Blaque",
+              "Bring It On",
+              "East Compton Clovers",
+              "2000",
+              "film cameo"
+            ],
+            "fact": "Blaque appeared in Bring It On (2000) as members of the rival East Compton Clovers cheer squad — a film cameo that placed the trio inside one of the era's most quoted teen comedies.",
+            "storyHook": "Blaque wasn't just on the radio in 2000 — they were on screen, cheering for the East Compton Clovers in one of the decade's most rewatched teen comedies.",
+            "sourceNotes": "Verified: Blaque appeared as East Compton Clovers cheer squad members in Bring It On (2000). Source: Wikipedia https://en.wikipedia.org/wiki/Bring_It_On_(film)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bring It On (film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bring_It_On_(film)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R2-Q3",
+          "episodeId": "EP055",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Which girl group was assembled in 2005 through the reality competition show 'Making the Band 3' on MTV, then signed to Bad Boy Records by Sean Combs?",
+          "choices": [
+            "Innosense",
+            "Danity Kane",
+            "The Pussycat Dolls",
+            "Eden's Crush"
+          ],
+          "correctIndex": 1,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-artist-danity-kane-making-the-band-3-mtv-2005-bad-boy-records-sean-combs",
+            "artist": "Danity Kane",
+            "song": null,
+            "album": null,
+            "year": 2005,
+            "topicTags": [
+              "Danity Kane",
+              "Making the Band 3",
+              "MTV",
+              "2005",
+              "Bad Boy Records",
+              "Sean Combs"
+            ],
+            "fact": "Danity Kane was formed on the third season of MTV's 'Making the Band' reality series in 2005 and signed to Bad Boy Records by Sean Combs — one of the decade's clearest examples of manufacturing a girl group through television rather than discovering one organically.",
+            "storyHook": "Danity Kane didn't form in a garage or a church choir. They formed on camera, on MTV, in 2005 — and Sean Combs signed them straight to Bad Boy.",
+            "sourceNotes": "Verified: Danity Kane formed on Making the Band 3 (MTV, 2005), signed to Bad Boy Records by Sean Combs. Source: Wikipedia https://en.wikipedia.org/wiki/Danity_Kane",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Danity Kane – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Danity_Kane",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R2-Q4",
+          "episodeId": "EP055",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "'Making the Band 3' — the reality competition that created Danity Kane — was produced by and built around which entertainment mogul?",
+          "choices": [
+            "Sean Diddy Combs",
+            "Antonio L.A. Reid",
+            "Jermaine Dupri",
+            "Andre Harrell"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-artist-sean-diddy-combs-making-the-band-3-producer-danity-kane",
+            "artist": "Sean Combs",
+            "song": null,
+            "album": null,
+            "year": 2005,
+            "topicTags": [
+              "Sean Combs",
+              "Diddy",
+              "Making the Band 3",
+              "Danity Kane",
+              "Bad Boy",
+              "biography"
+            ],
+            "fact": "Sean 'Diddy' Combs produced and starred in 'Making the Band 3,' using the show to assemble Danity Kane as a fully manufactured group for his Bad Boy Records roster.",
+            "storyHook": "Sean Combs didn't just sign Danity Kane — he built the entire television show that created them, episode by episode, on camera.",
+            "sourceNotes": "Verified: Sean Combs produced Making the Band 3 and assembled Danity Kane for Bad Boy Records. Source: Wikipedia https://en.wikipedia.org/wiki/Danity_Kane",
+            "clipCue": "",
+            "hostNote": "Sean Combs has been subject to significant ongoing federal legal proceedings. The question addresses only his historical role producing 'Making the Band 3' in 2005 — not any subsequent legal matters.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Danity Kane – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Danity_Kane",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP055-R2-Q5",
+          "episodeId": "EP055",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Danity Kane's breakout star and core original member — who went on to significant reality television visibility well beyond the group's run — was which singer?",
+          "choices": [
+            "D. Woods",
+            "Shannon Bex",
+            "Aubrey O'Day",
+            "Dawn Richard"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-artist-aubrey-oday-danity-kane-breakout-star-original-member",
+            "artist": "Aubrey O'Day",
+            "song": null,
+            "album": null,
+            "year": 2005,
+            "topicTags": [
+              "Aubrey O'Day",
+              "Danity Kane",
+              "breakout star",
+              "reality television",
+              "biography"
+            ],
+            "fact": "Aubrey O'Day emerged as Danity Kane's breakout star and was a core member of the group's original lineup, continuing into significant reality television visibility well beyond the group's initial run.",
+            "storyHook": "Aubrey O'Day was the face most people remembered from Danity Kane — and she kept that visibility going long after the group's first run ended.",
+            "sourceNotes": "Verified: Aubrey O'Day was Danity Kane's breakout star and an original member. Source: Wikipedia https://en.wikipedia.org/wiki/Danity_Kane",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Danity Kane – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Danity_Kane",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R2-B1",
+          "episodeId": "EP055",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Danity Kane — assembled on 'Making the Band 3' — was signed to which record label by Sean Combs?",
+          "choices": [
+            "Universal",
+            "Bad Boy Records",
+            "Interscope",
+            "Arista"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 2 OF 3 — DANITY KANE'S RECORD LABEL"
+          },
+          "metadata": {
+            "factKey": "ep055-label-bad-boy-records-danity-kane-sean-combs-signing",
+            "artist": "Danity Kane",
+            "song": null,
+            "album": null,
+            "year": 2005,
+            "topicTags": [
+              "Bad Boy Records",
+              "Danity Kane",
+              "Sean Combs",
+              "label",
+              "Making the Band 3"
+            ],
+            "fact": "Danity Kane was signed to Bad Boy Records by Sean Combs after their formation on 'Making the Band 3' — placing them directly under the same label infrastructure that had defined Bad Boy's roster since the 1990s.",
+            "storyHook": "Bad Boy Records. The same label home that launched Biggie, Faith Evans, and Total a decade earlier — now signing a group built entirely on reality television.",
+            "sourceNotes": "Verified: Danity Kane signed to Bad Boy Records by Sean Combs. Source: Wikipedia https://en.wikipedia.org/wiki/Danity_Kane",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Danity Kane – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Danity_Kane",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP055-R2-RES1",
+          "episodeId": "EP055",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Destiny's Child's final studio album — released in 2004 before the group's 2005 disbandment — was titled what?",
+          "choices": [
+            "8 Days of Christmas",
+            "The Writing's on the Wall",
+            "Destiny Fulfilled",
+            "Survivor"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-album-destiny-fulfilled-2004-final-studio-album-destinys-child",
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": "Destiny Fulfilled",
+            "year": 2004,
+            "topicTags": [
+              "Destiny's Child",
+              "Destiny Fulfilled",
+              "2004",
+              "final album",
+              "hiatus reunion"
+            ],
+            "fact": "'Destiny Fulfilled' (2004) was Destiny's Child's final studio album, released after the group reunited from a hiatus during which all three members pursued solo projects.",
+            "storyHook": "After the hiatus. After the solo albums. Destiny's Child came back together one more time for 'Destiny Fulfilled' — and then it was over.",
+            "sourceNotes": "Verified: Destiny Fulfilled (2004) was Destiny's Child's final studio album. Source: Encyclopaedia Britannica https://www.britannica.com/topic/Destinys-Child",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Destiny's Child – Encyclopaedia Britannica",
+                "url": "https://www.britannica.com/topic/Destinys-Child",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R2-RES2",
+          "episodeId": "EP055",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "The lead single from 'Destiny Fulfilled' (2004) — a major international hit that announced the group's return from hiatus — was which song?",
+          "choices": [
+            "Girl",
+            "Cater 2 U",
+            "Lose My Breath",
+            "Soldier"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-song-lose-my-breath-destiny-fulfilled-2004-lead-single-international-hit",
+            "artist": "Destiny's Child",
+            "song": "Lose My Breath",
+            "album": "Destiny Fulfilled",
+            "year": 2004,
+            "topicTags": [
+              "Lose My Breath",
+              "Destiny Fulfilled",
+              "2004",
+              "lead single",
+              "international hit"
+            ],
+            "fact": "'Lose My Breath' was the lead single from Destiny's Child's final album 'Destiny Fulfilled' (2004) — a percussive, uptempo statement that became a major international hit and announced the group's return from hiatus.",
+            "storyHook": "'Lose My Breath.' The first thing the world heard from Destiny's Child after the hiatus — and it hit just as hard as anything from their earlier run.",
+            "sourceNotes": "Verified: 'Lose My Breath' was the lead single from Destiny Fulfilled and a major international hit. Source: Wikipedia https://en.wikipedia.org/wiki/Lose_My_Breath",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lose My Breath – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lose_My_Breath",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R2-RES3",
+          "episodeId": "EP055",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Destiny's Child officially disbanded after a farewell tour in which year?",
+          "choices": [
+            "2003",
+            "2004",
+            "2006",
+            "2005"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-artist-destinys-child-disbanded-2005-farewell-tour",
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": null,
+            "year": 2005,
+            "topicTags": [
+              "Destiny's Child",
+              "2005",
+              "disbandment",
+              "farewell tour"
+            ],
+            "fact": "Destiny's Child officially disbanded in 2005 following a farewell tour — closing out one of the most commercially dominant girl group careers in pop history.",
+            "storyHook": "2005. The farewell tour ended. Destiny's Child closed the book on one of the biggest girl group runs pop music had ever seen.",
+            "sourceNotes": "Verified: Destiny's Child disbanded in 2005 after a farewell tour. Source: Encyclopaedia Britannica https://www.britannica.com/topic/Destinys-Child",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Destiny's Child – Encyclopaedia Britannica",
+                "url": "https://www.britannica.com/topic/Destinys-Child",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival connections hiding inside the decade's final girl group moments.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP055-R3-Q1",
+          "episodeId": "EP055",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "While Destiny's Child was on hiatus in 2003 so its members could pursue solo projects, Beyoncé released her debut solo single from the album Dangerously in Love. What was it called?",
+          "choices": [
+            "Crazy in Love",
+            "Me, Myself and I",
+            "Naughty Girl",
+            "Baby Boy"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-song-crazy-in-love-beyonce-2003-debut-solo-single-dangerously-in-love",
+            "artist": "Beyoncé",
+            "song": "Crazy in Love",
+            "album": "Dangerously in Love",
+            "year": 2003,
+            "topicTags": [
+              "Beyoncé",
+              "Crazy in Love",
+              "2003",
+              "Dangerously in Love",
+              "debut solo single",
+              "Destiny's Child hiatus"
+            ],
+            "fact": "'Crazy in Love' (2003) was Beyoncé's debut solo single from her album Dangerously in Love, released during a hiatus period in which all three Destiny's Child members pursued individual projects before reuniting for Destiny Fulfilled.",
+            "storyHook": "While Destiny's Child was on hiatus, Beyoncé released 'Crazy in Love.' The decade's biggest solo star was about to emerge from inside the group she was still technically part of.",
+            "sourceNotes": "Verified: 'Crazy in Love' was Beyoncé's debut solo single from Dangerously in Love (2003), released during the Destiny's Child hiatus. Source: Wikipedia https://en.wikipedia.org/wiki/Crazy_in_Love",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Crazy in Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Crazy_in_Love",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R3-Q2",
+          "episodeId": "EP055",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Beyoncé's 'Crazy in Love' (2003) — released while Destiny's Child was on hiatus — featured a now-famous guest verse from which rapper?",
+          "choices": [
+            "Slim Thug",
+            "Sean Paul",
+            "Jay-Z",
+            "Big Boi"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-artist-jay-z-crazy-in-love-guest-verse-2003",
+            "artist": "Jay-Z",
+            "song": "Crazy in Love",
+            "album": "Dangerously in Love",
+            "year": 2003,
+            "topicTags": [
+              "Jay-Z",
+              "Crazy in Love",
+              "Beyoncé",
+              "2003",
+              "guest verse"
+            ],
+            "fact": "Jay-Z's guest verse on 'Crazy in Love' became one of the most quoted moments in 2000s pop — and the beginning of a creative and personal partnership that would extend far beyond the single itself.",
+            "storyHook": "Jay-Z's verse on 'Crazy in Love' wasn't just a cameo. It was the start of something that would define the rest of both of their careers.",
+            "sourceNotes": "Verified: Jay-Z featured on 'Crazy in Love.' Source: Wikipedia https://en.wikipedia.org/wiki/Crazy_in_Love",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Crazy in Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Crazy_in_Love",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R3-B1",
+          "episodeId": "EP055",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Which Atlanta-based girl group scored a 2006 Hot 100 hit with 'Do It to It' featuring Sean P, representing one of the final commercially significant girl group debuts of the decade?",
+          "choices": [
+            "Blaque",
+            "Eden's Crush",
+            "702",
+            "Cherish"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 3 OF 3 — THE GROUP BEHIND 'DO IT TO IT'"
+          },
+          "metadata": {
+            "factKey": "ep055-song-do-it-to-it-cherish-2006-sean-p-hot-100-atlanta",
+            "artist": "Cherish",
+            "song": "Do It to It",
+            "album": null,
+            "year": 2006,
+            "topicTags": [
+              "Cherish",
+              "Do It to It",
+              "2006",
+              "Sean P",
+              "Hot 100",
+              "Atlanta"
+            ],
+            "fact": "'Do It to It' (2006), featuring Sean P, was Cherish's signature hit and a Hot 100 charting single — one of the final commercially significant girl group debuts of the 2000s.",
+            "storyHook": "2006. 'Do It to It.' Cherish closed out the decade's girl group story almost the same way it began — with a hit single and a group built around sisterhood.",
+            "sourceNotes": "Verified: 'Do It to It' (2006) featured Sean P and charted on the Hot 100. Source: Wikipedia https://en.wikipedia.org/wiki/Do_It_to_It",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Do It to It – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Do_It_to_It",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP055-R3-RES1",
+          "episodeId": "EP055",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Cherish — the quartet of sisters Felisha, Fallon, Farrah, and Neosha King, known for their 2006 hit 'Do It to It' — formed in which American city?",
+          "choices": [
+            "Chicago",
+            "Houston",
+            "Memphis",
+            "Atlanta"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-artist-cherish-king-sisters-atlanta-formation-felisha-fallon-farrah-neosha",
+            "artist": "Cherish",
+            "song": null,
+            "album": null,
+            "year": 2005,
+            "topicTags": [
+              "Cherish",
+              "Atlanta",
+              "King sisters",
+              "Felisha",
+              "Fallon",
+              "Farrah",
+              "Neosha",
+              "formation"
+            ],
+            "fact": "Cherish — sisters Felisha, Fallon, Farrah, and Neosha King — formed in Atlanta, placing them within the same broader Southern R&B ecosystem that had produced Xscape, TLC, and Kut Klose in the previous decade.",
+            "storyHook": "Four sisters. The King family. Atlanta. Cherish carried the same Southern R&B lineage that Xscape and TLC had built a decade earlier.",
+            "sourceNotes": "Verified: Cherish is composed of sisters Felisha, Fallon, Farrah, and Neosha King, formed in Atlanta. Source: Wikipedia https://en.wikipedia.org/wiki/Cherish_(group)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cherish (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Cherish_(group)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP055-R3-RES2",
+          "episodeId": "EP055",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Destiny's Child announced an indefinite hiatus in which year, allowing Beyoncé, Kelly Rowland, and Michelle Williams to pursue individual solo projects before reuniting for Destiny Fulfilled?",
+          "choices": [
+            "2002",
+            "2001",
+            "2003",
+            "2000"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep055-artist-destinys-child-hiatus-2002-solo-projects-before-reunion",
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": null,
+            "year": 2002,
+            "topicTags": [
+              "Destiny's Child",
+              "2002",
+              "hiatus",
+              "solo projects",
+              "reunion"
+            ],
+            "fact": "Destiny's Child announced an indefinite hiatus, widely cited as occurring in 2002, after the success of Survivor (2001) — allowing all three members to release solo material before reuniting in 2004 for their final studio album, Destiny Fulfilled.",
+            "storyHook": "After Survivor, after the lineup drama settled, Destiny's Child stepped back so everyone could go solo for a while. 2002 — and then they came back together.",
+            "sourceNotes": "Verified (moderate confidence): Britannica confirms Destiny's Child took a hiatus after Survivor (2001) to pursue solo projects before reuniting for Destiny Fulfilled (2004), but does not explicitly state the year 2002 in the text reviewed — 2002 is the year widely cited across other timelines for the hiatus announcement. Source: Encyclopaedia Britannica https://www.britannica.com/topic/Destinys-Child",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Destiny's Child – Encyclopaedia Britannica",
+                "url": "https://www.britannica.com/topic/Destinys-Child",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": [
+              "VERIFY_FACT"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-17T16:57:20.977610+00:00"
+  }
+}

@@ -1,0 +1,1565 @@
+{
+  "episodeId": "EP059",
+  "title": "Men of Soul: The Nineties",
+  "theme": "New Jack Swing's vocal-group wing maturing into the smoother, Babyface-driven sound that dominated R&B's commercial peak, with Bell Biv DeVoe providing a direct narrative thread back to New Edition's split.",
+  "narrativePurpose": "Trace 1990s male vocal group history through chart records, label infrastructure (Uptown Records, Sean Combs's early career), and production credits — keeping every personnel fact confined to active-career biography per series standard.",
+  "toneProgression": "The hits and chart records that defined the era → the producers, labels, and origin stories behind the sound → the archival pop-culture connections hiding inside this era's legacy",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "6"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-6 — the year Dru Hill, Az Yet, and Blackstreet all broke through, and Boyz II Men were already two years into the chart-record run that began with 'End of the Road.'"
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The hits and chart records that defined 1990s male vocal groups.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP059-R1-Q1",
+          "episodeId": "EP059",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Boyz II Men's 1992 single, recorded for the Boomerang soundtrack, spent 13 consecutive weeks at #1 — breaking a record held since 1956 by an Elvis Presley single. What was it?",
+          "choices": [
+            "End of the Road",
+            "I'll Make Love to You",
+            "On Bended Knee",
+            "Motownphilly"
+          ],
+          "correctIndex": 0,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-song-end-of-the-road-boyz-ii-men-1992-13-weeks-elvis-record",
+            "artist": "Boyz II Men",
+            "song": "End of the Road",
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "Boyz II Men",
+              "End of the Road",
+              "1992",
+              "Boomerang soundtrack",
+              "13 weeks",
+              "chart record"
+            ],
+            "fact": "'End of the Road' (1992), recorded for the Boomerang soundtrack, spent 13 consecutive weeks at #1 on the Hot 100 — breaking the record held since 1956 by Elvis Presley's double-sided single 'Don't Be Cruel'/'Hound Dog,' which had spent 11 weeks at #1.",
+            "storyHook": "13 weeks at #1. A record that had stood since 1956 — Elvis Presley's own — fell to a Boomerang soundtrack cut.",
+            "sourceNotes": "Verified: 'End of the Road' (1992) spent 13 consecutive weeks at #1, breaking Elvis's 'Don't Be Cruel'/'Hound Dog' 11-week record from 1956. Sources: Wikipedia https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song), Songfacts https://www.songfacts.com/facts/boyz-ii-men/end-of-the-road, Dave's Music Database https://davesmusicdatabase.blogspot.com/1992/11/boyz-ii-men-spend-record-breaking-13th.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "End of the Road (Boyz II Men song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "End of the Road – Songfacts",
+                "url": "https://www.songfacts.com/facts/boyz-ii-men/end-of-the-road",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Boyz II Men spend record-breaking 13th week at #1 – Dave's Music Database",
+                "url": "https://davesmusicdatabase.blogspot.com/1992/11/boyz-ii-men-spend-record-breaking-13th.html",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 3,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R1-Q2",
+          "episodeId": "EP059",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Jodeci's 1991 single, the title track of their debut album, became the first of five #1 R&B singles for the group. What was it?",
+          "choices": [
+            "Cry For You",
+            "Come and Talk to Me",
+            "Forever My Lady",
+            "Feenin'"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-song-forever-my-lady-jodeci-1991-first-of-five-number-one-rb",
+            "artist": "Jodeci",
+            "song": "Forever My Lady",
+            "album": "Forever My Lady",
+            "year": 1991,
+            "topicTags": [
+              "Jodeci",
+              "Forever My Lady",
+              "1991",
+              "#1 R&B",
+              "debut album"
+            ],
+            "fact": "'Forever My Lady' (1991), the title track of Jodeci's debut album, became the first of five #1 R&B singles for the group — spending two weeks at #1 on the R&B chart and peaking at #25 on the Hot 100.",
+            "storyHook": "The first of five #1 R&B hits. Jodeci's debut single set the pace for the rest of the decade.",
+            "sourceNotes": "Verified: 'Forever My Lady' (1991), first of five #1 R&B singles, 2 weeks at #1 R&B, #25 Hot 100. Source: Wikipedia https://en.wikipedia.org/wiki/Forever_My_Lady_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Forever My Lady (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Forever_My_Lady_(song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R1-Q3",
+          "episodeId": "EP059",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Dru Hill's 1996 single, from their self-titled debut album, became their first #1 R&B hit, peaking at #4 on the Hot 100 in 1997. What was it?",
+          "choices": [
+            "In My Bed",
+            "5 Steps",
+            "How Deep Is Your Love",
+            "Tell Me"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-song-in-my-bed-dru-hill-1996-first-number-one-rb-1997-peak",
+            "artist": "Dru Hill",
+            "song": "In My Bed",
+            "album": "Dru Hill",
+            "year": 1996,
+            "topicTags": [
+              "Dru Hill",
+              "In My Bed",
+              "1996",
+              "1997",
+              "first #1 R&B",
+              "Baltimore"
+            ],
+            "fact": "'In My Bed' (1996), from Dru Hill's self-titled debut album, became the Baltimore group's first #1 R&B hit, with its Hot 100 run continuing into 1997, where it peaked at #4.",
+            "storyHook": "Their first #1 R&B hit. 'In My Bed' was the moment Dru Hill arrived as a commercial force.",
+            "sourceNotes": "Verified: 'In My Bed' (1996), Dru Hill's first #1 R&B hit, peaked #4 Hot 100 in 1997. Source: Wikipedia https://en.wikipedia.org/wiki/In_My_Bed_(Dru_Hill_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "In My Bed – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/In_My_Bed_(Dru_Hill_song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R1-Q4",
+          "episodeId": "EP059",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Blackstreet's single, featuring Dr. Dre and Queen Pen, knocked 'Macarena' out of #1 in 1996 and won a 1997 Grammy. What was it?",
+          "choices": [
+            "Before I Let You Go",
+            "No Diggity",
+            "Booti Call",
+            "Fix"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-song-no-diggity-blackstreet-dr-dre-queen-pen-1996-macarena-grammy-1997",
+            "artist": "Blackstreet",
+            "song": "No Diggity",
+            "album": null,
+            "year": 1996,
+            "topicTags": [
+              "Blackstreet",
+              "No Diggity",
+              "Dr. Dre",
+              "Queen Pen",
+              "1996",
+              "Macarena",
+              "Grammy 1997"
+            ],
+            "fact": "'No Diggity,' featuring Dr. Dre and Queen Pen and released July 29, 1996, reached #1 on the Hot 100 — knocking 'Macarena' from the top spot and staying there four weeks — and won the 1997 Grammy for Best R&B Performance by a Duo or Group with Vocals.",
+            "storyHook": "It knocked 'Macarena' off #1. Four weeks at the top, and a Grammy the following year. 'No Diggity' was Blackstreet's complete commercial sweep.",
+            "sourceNotes": "Verified: 'No Diggity' (July 29, 1996) featuring Dr. Dre and Queen Pen, #1 Hot 100 (knocked out Macarena, 4 weeks), 1997 Grammy for Best R&B Performance by a Duo or Group with Vocals. Sources: Wikipedia https://en.wikipedia.org/wiki/No_Diggity, Facebook chart history https://www.facebook.com/groups/2022441041261105/posts/3019593968212469/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No Diggity – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_Diggity",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "BLACKSTREET – 'No Diggity' release & chart history – Facebook post",
+                "url": "https://www.facebook.com/groups/2022441041261105/posts/3019593968212469/",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R1-Q5",
+          "episodeId": "EP059",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Az Yet, featuring a guest vocal from Peter Cetera, reached #8 on the Hot 100 with a 1996 cover of which song?",
+          "choices": [
+            "You're the Inspiration",
+            "Glory of Love",
+            "Hard to Say I'm Sorry",
+            "If You Leave Me Now"
+          ],
+          "correctIndex": 2,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-song-hard-to-say-im-sorry-az-yet-1996-peter-cetera-chart-8",
+            "artist": "Az Yet",
+            "song": "Hard to Say I'm Sorry",
+            "album": null,
+            "year": 1996,
+            "topicTags": [
+              "Az Yet",
+              "Hard to Say I'm Sorry",
+              "Peter Cetera",
+              "1996",
+              "1997",
+              "cover"
+            ],
+            "fact": "Az Yet's 1996 cover of 'Hard to Say I'm Sorry,' featuring a guest vocal from Peter Cetera, charted into 1997 and reached #8 on the Hot 100 — one of the more notable R&B reinterpretations of an established pop hit during the decade.",
+            "storyHook": "Az Yet covered it. Peter Cetera himself showed up to sing on it. #8 on the Hot 100, into 1997.",
+            "sourceNotes": "Verified: Az Yet's 'Hard to Say I'm Sorry' (1996) featuring Peter Cetera, #8 Hot 100, charted into 1997. Source: Wikipedia (Az Yet version) https://en.wikipedia.org/wiki/Hard_to_Say_I%27m_Sorry_(Az_Yet_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Hard to Say I'm Sorry – Az Yet version – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hard_to_Say_I%27m_Sorry_(Az_Yet_song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R1-Q6",
+          "episodeId": "EP059",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Bell Biv DeVoe's 1990 debut single peaked at #3 on the Hot 100 and #1 on the Hot Black Singles chart. What was it?",
+          "choices": [
+            "B.B.D. (I Thought It Was Me)?",
+            "Do Me!",
+            "When Will I See You Smile Again?",
+            "Poison"
+          ],
+          "correctIndex": 3,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-song-poison-bell-biv-devoe-1990-chart-peak-3-1",
+            "artist": "Bell Biv DeVoe",
+            "song": "Poison",
+            "album": "Poison",
+            "year": 1990,
+            "topicTags": [
+              "Bell Biv DeVoe",
+              "Poison",
+              "1990",
+              "#3 Hot 100",
+              "#1 R&B",
+              "New Jack Swing"
+            ],
+            "fact": "'Poison' (1990), the title track of Bell Biv DeVoe's debut album, peaked at #3 on the Hot 100 and #1 on the Hot Black Singles chart — a New Jack Swing record that announced the trio as a commercial force separate from New Edition.",
+            "storyHook": "#3 pop, #1 R&B. 'Poison' proved Bell Biv DeVoe could stand entirely on their own, away from New Edition.",
+            "sourceNotes": "Verified: 'Poison' (1990) #3 Hot 100, #1 Hot Black Singles. Source: Wikipedia https://en.wikipedia.org/wiki/Poison_(Bell_Biv_DeVoe_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Poison (Bell Biv DeVoe song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Poison_(Bell_Biv_DeVoe_song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R1-B1",
+          "episodeId": "EP059",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Boyz II Men formed in 1988 at a high school for the creative and performing arts in which American city?",
+          "choices": [
+            "Philadelphia",
+            "New York City",
+            "Detroit",
+            "Atlanta"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — BOYZ II MEN'S HOME CITY"
+          },
+          "metadata": {
+            "factKey": "ep059-artist-boyz-ii-men-philadelphia-1988-creative-performing-arts-high-school",
+            "artist": "Boyz II Men",
+            "song": null,
+            "album": null,
+            "year": 1988,
+            "topicTags": [
+              "Boyz II Men",
+              "Philadelphia",
+              "1988",
+              "high school",
+              "formation"
+            ],
+            "fact": "Boyz II Men formed in 1988 at Philadelphia's High School of the Creative and Performing Arts — originally including Nathan Morris and Marc Nelson as founders, with classmates Wanya Morris, Shawn Stockman, and Michael McCary completing the early lineup.",
+            "storyHook": "Philadelphia, 1988. A performing arts high school. That's where Boyz II Men started — with a fifth member, Marc Nelson, who isn't in the lineup most people remember.",
+            "sourceNotes": "Verified: Boyz II Men formed 1988 at Philadelphia's High School of the Creative and Performing Arts, founded by Nathan Morris and Marc Nelson with classmates Wanya Morris, Shawn Stockman, Michael McCary. Sources: Philadelphia Music Alliance https://www.philadelphiamusicalliance.org/walk-of-fame/boyz-ii-men/, Wikipedia https://en.wikipedia.org/wiki/Boyz_II_Men",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Boyz II Men – Philadelphia Music Alliance Walk of Fame",
+                "url": "https://www.philadelphiamusicalliance.org/walk-of-fame/boyz-ii-men/",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Boyz II Men – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Boyz_II_Men",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP059-R1-RES1",
+          "episodeId": "EP059",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which Jodeci member, brother of K-Ci Hailey, shared lead vocals and harmonies in the group?",
+          "choices": [
+            "DeVante Swing",
+            "Mr. Dalvin",
+            "Al B. Sure!",
+            "JoJo Hailey"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-artist-jojo-hailey-brother-k-ci-shared-lead-vocals-jodeci",
+            "artist": "JoJo Hailey",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "JoJo Hailey",
+              "K-Ci Hailey",
+              "Jodeci",
+              "lead vocals",
+              "brothers"
+            ],
+            "fact": "JoJo Hailey, brother of K-Ci Hailey, shared lead vocals and harmonies with him in Jodeci — with K-Ci often taking the primary lead. The Hailey brothers were one of two sets of siblings in the group, alongside DeVante Swing and Mr. Dalvin DeGrate.",
+            "storyHook": "Jodeci is actually two sets of brothers: K-Ci and JoJo Hailey on vocals, DeVante Swing and Mr. Dalvin DeGrate rounding out the group.",
+            "sourceNotes": "Verified: JoJo Hailey and K-Ci Hailey are brothers, both lead vocalists in Jodeci. Source: Encyclopedia.com https://www.encyclopedia.com/education/news-wires-white-papers-and-books/hailey-jojo-and-k-ci",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Hailey, JoJo and K-Ci – Contemporary Black Biography / Encyclopedia.com",
+                "url": "https://www.encyclopedia.com/education/news-wires-white-papers-and-books/hailey-jojo-and-k-ci",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R1-RES2",
+          "episodeId": "EP059",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Boyz II Men's 1994 single, written and produced by Babyface and released July 26, 1994, spent 14 weeks at #1, tying the all-time record at that point. What was it?",
+          "choices": [
+            "Water Runs Dry",
+            "End of the Road",
+            "Thank You",
+            "I'll Make Love to You"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-song-ill-make-love-to-you-boyz-ii-men-1994-babyface-14-weeks",
+            "artist": "Boyz II Men",
+            "song": "I'll Make Love to You",
+            "album": "II",
+            "year": 1994,
+            "topicTags": [
+              "Boyz II Men",
+              "I'll Make Love to You",
+              "1994",
+              "Babyface",
+              "14 weeks",
+              "chart record"
+            ],
+            "fact": "'I'll Make Love to You,' written and produced by Babyface and released July 26, 1994 as the lead single from II, spent 14 weeks at #1 on the Hot 100 — tying the all-time record at that point and ending as the biggest hit of 1994.",
+            "storyHook": "14 weeks at #1. The biggest single of 1994. Babyface wrote and produced it, and Boyz II Men made it inescapable.",
+            "sourceNotes": "Verified: 'I'll Make Love to You' (July 26, 1994), written/produced by Babyface, lead single from II, 14 weeks at #1, tied all-time record, biggest hit of 1994. Sources: Wikipedia https://en.wikipedia.org/wiki/I%27ll_Make_Love_to_You, Songfacts https://www.songfacts.com/facts/boyz-ii-men/ill-make-love-to-you",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I'll Make Love to You – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I%27ll_Make_Love_to_You",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "I'll Make Love To You – Songfacts",
+                "url": "https://www.songfacts.com/facts/boyz-ii-men/ill-make-love-to-you",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R1-RES3",
+          "episodeId": "EP059",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Boyz II Men's second single from II succeeded 'I'll Make Love to You' at #1 in late 1994 — making them one of the few acts to replace themselves at the top. What was it?",
+          "choices": [
+            "Thank You",
+            "On Bended Knee",
+            "Water Runs Dry",
+            "Vibin'"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-song-on-bended-knee-boyz-ii-men-1994-replaced-themselves-number-one",
+            "artist": "Boyz II Men",
+            "song": "On Bended Knee",
+            "album": "II",
+            "year": 1994,
+            "topicTags": [
+              "Boyz II Men",
+              "On Bended Knee",
+              "1994",
+              "second single",
+              "replaced themselves"
+            ],
+            "fact": "'On Bended Knee' (1994), the second single from II, reached #1 on the Hot 100 in late 1994, succeeding 'I'll Make Love to You' at the top — making Boyz II Men one of the few acts ever to replace themselves at #1.",
+            "storyHook": "Boyz II Men didn't just have two #1 hits in 1994 — one knocked the other one OFF the top spot. They replaced themselves.",
+            "sourceNotes": "Verified: 'On Bended Knee' (1994) succeeded 'I'll Make Love to You' at #1, Boyz II Men replaced themselves at the top. Sources: Wikipedia https://en.wikipedia.org/wiki/On_Bended_Knee, Songfacts (chart context) https://www.songfacts.com/facts/boyz-ii-men/ill-make-love-to-you",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "On Bended Knee – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/On_Bended_Knee",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "I'll Make Love To You – Songfacts (chart context)",
+                "url": "https://www.songfacts.com/facts/boyz-ii-men/ill-make-love-to-you",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R1-RES4",
+          "episodeId": "EP059",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which Jodeci member, brother of DeVante Swing, contributed vocals and production/image support to round out the group?",
+          "choices": [
+            "Mr. Dalvin",
+            "Guy",
+            "Teddy Riley",
+            "Al B. Sure!"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-artist-mr-dalvin-brother-devante-swing-jodeci",
+            "artist": "Mr. Dalvin",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "Mr. Dalvin",
+              "DeVante Swing",
+              "Jodeci",
+              "brothers",
+              "vocals"
+            ],
+            "fact": "Mr. Dalvin DeGrate, brother of DeVante Swing, contributed vocals and production/image support to Jodeci — the second of the group's two sets of brothers, alongside K-Ci and JoJo Hailey.",
+            "storyHook": "DeVante Swing had his own brother in the group too: Mr. Dalvin. Two sets of siblings, one quartet.",
+            "sourceNotes": "Verified: Mr. Dalvin DeGrate and DeVante Swing are brothers; Dalvin contributed vocals and production/image support. Source: Wikipedia https://en.wikipedia.org/wiki/Jodeci",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jodeci – Wikipedia (members section)",
+                "url": "https://en.wikipedia.org/wiki/Jodeci",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The producers, labels, and origin stories behind the 1990s male vocal group sound.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP059-R2-Q1",
+          "episodeId": "EP059",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "In which year did Ricky Bell, Michael Bivins, and Ronnie DeVoe split from New Edition to form Bell Biv DeVoe?",
+          "choices": [
+            "1985",
+            "1992",
+            "1990",
+            "1988"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-artist-bell-biv-devoe-formed-1990-split-new-edition",
+            "artist": "Bell Biv DeVoe",
+            "song": null,
+            "album": null,
+            "year": 1990,
+            "topicTags": [
+              "Bell Biv DeVoe",
+              "1990",
+              "New Edition",
+              "split",
+              "New Jack Swing"
+            ],
+            "fact": "Bell Biv DeVoe formed in 1990 when Ricky Bell, Michael Bivins, and Ronnie DeVoe split from New Edition to pursue a harder-edged New Jack Swing project, scoring an immediate hit with 'Poison.'",
+            "storyHook": "1990. Three New Edition members broke off to do their own thing. 'Poison' proved the gamble paid off immediately.",
+            "sourceNotes": "Verified: Bell Biv DeVoe formed in 1990, splitting from New Edition. Source: Wikipedia https://en.wikipedia.org/wiki/Bell_Biv_DeVoe",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bell Biv DeVoe – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bell_Biv_DeVoe",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R2-Q2",
+          "episodeId": "EP059",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which Jodeci member served as the group's primary producer and chief songwriter across Forever My Lady, Diary of a Mad Band, and The Show, the After Party, the Hotel?",
+          "choices": [
+            "Mr. Dalvin",
+            "JoJo Hailey",
+            "K-Ci Hailey",
+            "DeVante Swing"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-artist-devante-swing-jodeci-primary-producer-chief-songwriter",
+            "artist": "DeVante Swing",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "DeVante Swing",
+              "Jodeci",
+              "producer",
+              "songwriter",
+              "Forever My Lady",
+              "Diary of a Mad Band"
+            ],
+            "fact": "DeVante Swing served as Jodeci's primary producer and chief songwriter across the group's first three albums — Forever My Lady, Diary of a Mad Band, and The Show, the After Party, the Hotel — shaping the bulk of their signature sound.",
+            "storyHook": "Three albums. DeVante Swing's fingerprints are on almost every track across all of them — writing and producing, not just performing.",
+            "sourceNotes": "Verified: DeVante Swing was Jodeci's primary producer/chief songwriter across their first three albums. Source: Encyclopedia.com https://www.encyclopedia.com/education/news-wires-white-papers-and-books/hailey-jojo-and-k-ci",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Hailey, JoJo and K-Ci – Encyclopedia.com (DeVante's production role)",
+                "url": "https://www.encyclopedia.com/education/news-wires-white-papers-and-books/hailey-jojo-and-k-ci",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R2-Q3",
+          "episodeId": "EP059",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jodeci signed with Andre Harrell's label, also home to Mary J. Blige during the same era. Which label?",
+          "choices": [
+            "Uptown Records",
+            "LaFace",
+            "Bad Boy",
+            "Motown"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-label-uptown-records-jodeci-mary-j-blige-andre-harrell",
+            "artist": "Jodeci",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "Uptown Records",
+              "Andre Harrell",
+              "Mary J. Blige",
+              "Jodeci",
+              "label"
+            ],
+            "fact": "Jodeci signed with Andre Harrell's Uptown Records, the same label that launched Mary J. Blige's career during the same period — making Uptown one of the era's most influential R&B label rosters.",
+            "storyHook": "Uptown Records. Andre Harrell's label. Jodeci and Mary J. Blige, building the decade's R&B sound under the same roof.",
+            "sourceNotes": "Verified: Jodeci signed to Andre Harrell's Uptown Records, also home to Mary J. Blige. Sources: Wikipedia https://en.wikipedia.org/wiki/Jodeci, Wikipedia (Mary J. Blige) https://en.wikipedia.org/wiki/Mary_J._Blige",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jodeci – Wikipedia (label section)",
+                "url": "https://en.wikipedia.org/wiki/Jodeci",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Mary J. Blige – Wikipedia (Uptown Records)",
+                "url": "https://en.wikipedia.org/wiki/Mary_J._Blige",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R2-Q4",
+          "episodeId": "EP059",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "'End of the Road' (1992) was co-written and co-produced by which prolific hitmaker, also responsible for hits by Whitney Houston and TLC?",
+          "choices": [
+            "Jimmy Jam and Terry Lewis",
+            "Teddy Riley",
+            "Dallas Austin",
+            "Babyface"
+          ],
+          "correctIndex": 3,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-artist-babyface-cowrote-coproduced-end-of-the-road-with-reid-simmons",
+            "artist": "Babyface",
+            "song": "End of the Road",
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "Babyface",
+              "End of the Road",
+              "L.A. Reid",
+              "Daryl Simmons",
+              "1992",
+              "songwriting"
+            ],
+            "fact": "'End of the Road' (1992) was co-written by Babyface (Kenneth Edmonds), L.A. Reid, and Daryl Simmons, and co-produced by Babyface and L.A. Reid — one of many massive hits Babyface supplied across multiple acts and genres throughout the decade.",
+            "storyHook": "Babyface didn't write 'End of the Road' alone — L.A. Reid and Daryl Simmons share the credit. But Babyface's name is the one that turns up on hit after hit, across act after act, all decade long.",
+            "sourceNotes": "Verified: 'End of the Road' co-written by Babyface, L.A. Reid, and Daryl Simmons; co-produced by Babyface and L.A. Reid. Source: Wikipedia https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "End of the Road – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R2-Q5",
+          "episodeId": "EP059",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Dru Hill, known for 'In My Bed' and 'Tell Me,' formed in which American city?",
+          "choices": [
+            "Washington, D.C.",
+            "Philadelphia",
+            "Atlanta",
+            "Baltimore"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-artist-dru-hill-baltimore-formation",
+            "artist": "Dru Hill",
+            "song": null,
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "Dru Hill",
+              "Baltimore",
+              "Maryland",
+              "formation"
+            ],
+            "fact": "Dru Hill formed in Baltimore, Maryland — a city less central to 1990s R&B's commercial infrastructure than Atlanta, New York, or Philadelphia, but the group's hometown nonetheless.",
+            "storyHook": "Baltimore. Not Atlanta, not New York. Dru Hill built their sound in a city the decade's R&B map usually skipped over.",
+            "sourceNotes": "Verified: Dru Hill formed in Baltimore, Maryland. Source: Wikipedia https://en.wikipedia.org/wiki/Dru_Hill",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dru Hill – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dru_Hill",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R2-B1",
+          "episodeId": "EP059",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Before founding Bad Boy Records in 1993, which future mogul worked as an A&R executive at Uptown Records, developing artists including Mary J. Blige and Jodeci?",
+          "choices": [
+            "Jermaine Dupri",
+            "Sean Combs",
+            "L.A. Reid",
+            "Andre Harrell"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE FUTURE BAD BOY FOUNDER WHO WORKED AT UPTOWN"
+          },
+          "metadata": {
+            "factKey": "ep059-artist-sean-combs-uptown-records-ar-before-bad-boy-1993",
+            "artist": "Sean Combs",
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "Sean Combs",
+              "Uptown Records",
+              "A&R",
+              "Bad Boy Records",
+              "1993",
+              "Mary J. Blige",
+              "Jodeci"
+            ],
+            "fact": "Sean Combs worked as an intern and then A&R executive at Uptown Records in the late 1980s and early 1990s, developing artists including Mary J. Blige and Jodeci, before founding Bad Boy Records in 1993.",
+            "storyHook": "Before Bad Boy existed, Sean Combs was just an A&R guy at Uptown — developing the artists who'd help define the sound he'd later build his own label around.",
+            "sourceNotes": "Verified: Sean Combs was an Uptown Records intern/A&R executive developing Mary J. Blige and Jodeci before founding Bad Boy Records in 1993. Source: Wikipedia https://en.wikipedia.org/wiki/Sean_Combs",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sean Combs – Wikipedia (career section)",
+                "url": "https://en.wikipedia.org/wiki/Sean_Combs",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP059-R2-RES1",
+          "episodeId": "EP059",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which Dru Hill member launched a solo career with a 1999 debut album, followed by the 2000 hit single 'Thong Song'?",
+          "choices": [
+            "Nokio",
+            "Jazz",
+            "Sisqó",
+            "Woody"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-artist-sisqo-dru-hill-solo-career-1999-2000-thong-song",
+            "artist": "Sisqó",
+            "song": null,
+            "album": "Unleash the Dragon",
+            "year": 1999,
+            "topicTags": [
+              "Sisqó",
+              "Dru Hill",
+              "Unleash the Dragon",
+              "1999",
+              "2000",
+              "Thong Song"
+            ],
+            "fact": "Sisqó (Mark Andrews), a member and lead vocalist of Dru Hill, launched a solo career with his 1999 debut album Unleash the Dragon, followed by the major 2000 hit single 'Thong Song.'",
+            "storyHook": "Sisqó went solo right at the turn of the millennium — 1999 debut album, then 'Thong Song' broke through in 2000.",
+            "sourceNotes": "Verified: Sisqó was a Dru Hill member, solo debut Unleash the Dragon (1999), 'Thong Song' (2000). Sources: Wikipedia https://en.wikipedia.org/wiki/Sisq%C3%B3, Wikipedia (Dru Hill) https://en.wikipedia.org/wiki/Dru_Hill",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sisqó – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sisq%C3%B3",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Dru Hill – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dru_Hill",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R2-RES2",
+          "episodeId": "EP059",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Which Boyz II Men member provided the group's distinctive bass vocals, anchoring arrangements alongside Nathan Morris's baritone and Wanya Morris and Shawn Stockman's tenors?",
+          "choices": [
+            "Michael McCary",
+            "Shawn Stockman",
+            "Nathan Morris",
+            "Wanya Morris"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-artist-michael-mccary-bass-vocalist-boyz-ii-men-lineup",
+            "artist": "Michael McCary",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "Michael McCary",
+              "Boyz II Men",
+              "bass vocals",
+              "lineup"
+            ],
+            "fact": "Michael McCary provided Boyz II Men's distinctive bass vocals, anchoring arrangements alongside Nathan Morris's baritone and Wanya Morris and Shawn Stockman's tenors throughout the group's 1990s run.",
+            "storyHook": "Four distinct vocal ranges, one sound. Michael McCary's bass was the foundation underneath everything else.",
+            "sourceNotes": "Verified: Michael McCary was Boyz II Men's bass vocalist; Nathan Morris baritone, Wanya Morris/Shawn Stockman tenors. Source: Wikipedia (members section) https://en.wikipedia.org/wiki/Boyz_II_Men",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Boyz II Men – Wikipedia (members section)",
+                "url": "https://en.wikipedia.org/wiki/Boyz_II_Men",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R2-RES3",
+          "episodeId": "EP059",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Boyz II Men auditioned backstage at a New Edition show for which member, who agreed to manage them and helped get them signed?",
+          "choices": [
+            "Ricky Bell",
+            "Michael Bivins",
+            "Bobby Brown",
+            "Ronnie DeVoe"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-artist-michael-bivins-discovered-boyz-ii-men-backstage-audition",
+            "artist": "Michael Bivins",
+            "song": null,
+            "album": null,
+            "year": 1989,
+            "topicTags": [
+              "Michael Bivins",
+              "Boyz II Men",
+              "New Edition",
+              "backstage audition",
+              "discovery"
+            ],
+            "fact": "Boyz II Men auditioned for Michael Bivins backstage at a New Edition show — impressed, he agreed to manage them and helped get the group signed.",
+            "storyHook": "A backstage hallway. A New Edition show. That's where Michael Bivins first heard Boyz II Men sing.",
+            "sourceNotes": "Verified: Boyz II Men auditioned backstage for Michael Bivins at a New Edition show; he agreed to manage them. Source: Wikipedia (discovery/management) https://en.wikipedia.org/wiki/Boyz_II_Men",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Boyz II Men – Wikipedia (discovery/management)",
+                "url": "https://en.wikipedia.org/wiki/Boyz_II_Men",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival pop-culture connections hiding inside this era's legacy.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP059-R3-Q1",
+          "episodeId": "EP059",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Az Yet's 1996 hit 'Hard to Say I'm Sorry,' featuring Peter Cetera, was originally a 1982 single — written by Cetera and David Foster, with Cetera singing lead — for which band?",
+          "choices": [
+            "Air Supply",
+            "Journey",
+            "Chicago",
+            "Toto"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-song-hard-to-say-im-sorry-chicago-1982-original-cetera-foster",
+            "artist": "Chicago",
+            "song": "Hard to Say I'm Sorry",
+            "album": null,
+            "year": 1982,
+            "topicTags": [
+              "Chicago",
+              "Hard to Say I'm Sorry",
+              "1982",
+              "Peter Cetera",
+              "David Foster"
+            ],
+            "fact": "'Hard to Say I'm Sorry' was originally a 1982 hit for the band Chicago, written by Peter Cetera and David Foster, with Cetera singing lead — making his 1996 guest appearance on Az Yet's cover a direct continuation of his own history with the song.",
+            "storyHook": "Peter Cetera wrote it and sang it first, in 1982, with Chicago. Fourteen years later, Az Yet brought him back to sing it again.",
+            "sourceNotes": "Verified: 'Hard to Say I'm Sorry' (1982) originally by Chicago, written by Peter Cetera and David Foster, Cetera sang lead. Source: Wikipedia https://en.wikipedia.org/wiki/Hard_to_Say_I%27m_Sorry",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Hard to Say I'm Sorry – Chicago song – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hard_to_Say_I%27m_Sorry",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R3-Q2",
+          "episodeId": "EP059",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Which rapper and producer's guest verse on Blackstreet's 'No Diggity' (1996) became one of the most quoted moments in 1990s R&B?",
+          "choices": [
+            "Snoop Dogg",
+            "Ice Cube",
+            "Dr. Dre",
+            "Warren G"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-artist-dr-dre-no-diggity-guest-verse-quoted-moment",
+            "artist": "Dr. Dre",
+            "song": "No Diggity",
+            "album": null,
+            "year": 1996,
+            "topicTags": [
+              "Dr. Dre",
+              "No Diggity",
+              "Blackstreet",
+              "1996",
+              "guest verse"
+            ],
+            "fact": "Dr. Dre's guest verse on Blackstreet's 'No Diggity' (1996), alongside Queen Pen, became one of the most quoted moments in 1990s R&B — a West Coast hip-hop figure crossing seamlessly into a New Jack Swing-rooted vocal group's biggest hit.",
+            "storyHook": "Dr. Dre on a Blackstreet record. It shouldn't have worked as cleanly as it did — but 'No Diggity' became inescapable specifically because it did.",
+            "sourceNotes": "Verified: Dr. Dre featured on 'No Diggity' (1996), alongside Queen Pen. Source: Wikipedia https://en.wikipedia.org/wiki/No_Diggity",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No Diggity – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_Diggity",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R3-B1",
+          "episodeId": "EP059",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Boyz II Men won the Grammy for Best R&B Performance by a Duo or Group with Vocals for 'End of the Road' at the ceremony honoring which year?",
+          "choices": [
+            "1992",
+            "1998",
+            "1996",
+            "1994"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — THE GRAMMY CEREMONY YEAR FOR 'END OF THE ROAD'"
+          },
+          "metadata": {
+            "factKey": "ep059-award-end-of-the-road-grammy-1994-best-rb-performance-duo-group",
+            "artist": "Boyz II Men",
+            "song": "End of the Road",
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "Boyz II Men",
+              "End of the Road",
+              "Grammy",
+              "1994",
+              "Best R&B Performance"
+            ],
+            "fact": "At the 1994 Grammy Awards, 'End of the Road' won Best R&B Performance by a Duo or Group with Vocals as well as Best R&B Song. Boyz II Men would win the same performance category again the following year for 'I'll Make Love to You.'",
+            "storyHook": "1994. 'End of the Road' won two Grammys that night. Boyz II Men would be back at the podium for the same category just one year later.",
+            "sourceNotes": "Verified: 'End of the Road' won Best R&B Performance by a Duo or Group with Vocals and Best R&B Song at the 1994 Grammys; 'I'll Make Love to You' won the same performance category at the 1995 ceremony. Sources: Songfacts https://www.songfacts.com/facts/boyz-ii-men/ill-make-love-to-you, Wikipedia (awards section) https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I'll Make Love to You – Songfacts (Grammy detail)",
+                "url": "https://www.songfacts.com/facts/boyz-ii-men/ill-make-love-to-you",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "End of the Road – Wikipedia (awards section)",
+                "url": "https://en.wikipedia.org/wiki/End_of_the_Road_(Boyz_II_Men_song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "award",
+            "factType": "award",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP059-R3-RES1",
+          "episodeId": "EP059",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Besides Boyz II Men, Michael Bivins also discovered and managed which other early-1990s R&B vocal group?",
+          "choices": [
+            "Another Bad Creation",
+            "Silk",
+            "Az Yet",
+            "Shai"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-artist-michael-bivins-another-bad-creation-discovered-managed",
+            "artist": "Michael Bivins",
+            "song": null,
+            "album": null,
+            "year": 1990,
+            "topicTags": [
+              "Michael Bivins",
+              "Another Bad Creation",
+              "discovery",
+              "management"
+            ],
+            "fact": "Michael Bivins discovered and managed Another Bad Creation in addition to Boyz II Men — establishing him as one of the era's more active talent scouts outside his own performing career with Bell Biv DeVoe.",
+            "storyHook": "Boyz II Men wasn't the only group Michael Bivins built. Another Bad Creation came from the same talent-scouting eye.",
+            "sourceNotes": "Verified: Michael Bivins discovered and managed Another Bad Creation. Source: Wikipedia https://en.wikipedia.org/wiki/Another_Bad_Creation",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Another Bad Creation – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Another_Bad_Creation",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP059-R3-RES2",
+          "episodeId": "EP059",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Blackstreet's 'No Diggity' (1996) built its hook around a sample of which artist's 1971 song 'Grandma's Hands'?",
+          "choices": [
+            "Marvin Gaye",
+            "Bill Withers",
+            "Curtis Mayfield",
+            "Isaac Hayes"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep059-song-no-diggity-bill-withers-grandmas-hands-sample-1971",
+            "artist": "Bill Withers",
+            "song": "Grandma's Hands",
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Bill Withers",
+              "Grandma's Hands",
+              "1971",
+              "No Diggity",
+              "sample"
+            ],
+            "fact": "'No Diggity' built its hook around a sample of Bill Withers's 'Grandma's Hands' (1971) — a deep-catalog soul sample driving one of the decade's biggest crossover hits.",
+            "storyHook": "Bill Withers, 1971. 'Grandma's Hands.' Twenty-five years later, that same groove became the backbone of one of the biggest R&B singles of the 1990s.",
+            "sourceNotes": "Verified: 'No Diggity' samples Bill Withers's 'Grandma's Hands' (1971). Sources: Wikipedia (sample section) https://en.wikipedia.org/wiki/No_Diggity, Facebook sample detail https://www.facebook.com/groups/2022441041261105/posts/3019593968212469/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No Diggity – Wikipedia (sample section)",
+                "url": "https://en.wikipedia.org/wiki/No_Diggity",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "BLACKSTREET – 'No Diggity' – Facebook post (sample detail)",
+                "url": "https://www.facebook.com/groups/2022441041261105/posts/3019593968212469/",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-25T22:44:11.534223+00:00"
+  }
+}

@@ -1,0 +1,1551 @@
+{
+  "episodeId": "EP048",
+  "title": "The Soul Train",
+  "theme": "For over three decades, one show was the essential stage for Black music in America. Soul Train. Don Cornelius built it. A generation of artists defined themselves on it. This episode is about the performances, the artists, and the institution itself.",
+  "narrativePurpose": "Test knowledge of Soul Train's landmark performances, the artists who defined the show, the music behind those moments, and the history of the program that changed American television.",
+  "toneProgression": "The iconic performances and artists everyone knows → the music, songwriting, and production behind them → the archival history of Soul Train itself and the connections that shaped the era",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-7-4 — the year Soul Train hosted landmark performances from Rufus, James Brown, Labelle, and Marvin Gaye in a single season, cementing its place as the essential stage for Black music and culture. 1974: the year Soul Train's golden era peaked."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The artists and performances that defined Soul Train — and the accessible facts that anchor them.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP048-R1-Q1",
+          "episodeId": "EP048",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Stevie Wonder performed 'Superstition' on Soul Train during Season 2 — bringing one of the era's biggest hits to the show during its celebrated chart run. 'Superstition' appeared on which Stevie Wonder album?",
+          "choices": [
+            "Innervisions",
+            "Talking Book",
+            "Songs in the Key of Life",
+            "Fulfillingness' First Finale"
+          ],
+          "correctIndex": 1,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-song-superstition-stevie-wonder-talking-book-soul-train",
+            "artist": "Stevie Wonder",
+            "song": "Superstition",
+            "album": "Talking Book",
+            "year": 1972,
+            "topicTags": [
+              "Stevie Wonder",
+              "Superstition",
+              "Talking Book",
+              "Soul Train",
+              "1972",
+              "1973"
+            ],
+            "fact": "'Superstition' was released on October 24, 1972, as the lead single from Talking Book — Stevie Wonder's fifteenth studio album. His Soul Train performance in Season 2 (1972-1973) came during the song's chart run.",
+            "storyHook": "One of the greatest albums in soul history. One of the greatest TV performances in Soul Train history. Stevie Wonder brought Talking Book to the stage.",
+            "sourceNotes": "Verified: 'Superstition' was released October 24, 1972, as the lead single from Talking Book. Soul Train Season 2 performance confirmed. CORRECTION: draft stem incorrectly stated performance predated release — sourcing confirms it came AFTER the October 1972 release. Sources: Wikipedia https://en.wikipedia.org/wiki/Superstition_(song), Apple Music https://music.apple.com/us/album/talking-book/1440808973",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Superstition (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Superstition_(song)",
+                "accessed": "2026-06-01"
+              },
+              {
+                "title": "Talking Book – Apple Music album notes",
+                "url": "https://music.apple.com/us/album/talking-book/1440808973",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R1-Q2",
+          "episodeId": "EP048",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Jackson 5's Soul Train performance of 'Dancing Machine' in 1973 made pop culture history when a teenage Michael Jackson popularized which robotic dance move on national television?",
+          "choices": [
+            "The Running Man",
+            "The Robot",
+            "The Moonwalk",
+            "The Pop-and-Lock"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-song-dancing-machine-jackson-5-michael-jackson-robot-soul-train-1973",
+            "artist": "The Jackson 5",
+            "song": "Dancing Machine",
+            "album": null,
+            "year": 1973,
+            "topicTags": [
+              "The Jackson 5",
+              "Dancing Machine",
+              "Michael Jackson",
+              "The Robot",
+              "Soul Train",
+              "1973"
+            ],
+            "fact": "Michael Jackson's performance of The Robot during the Jackson 5's Soul Train appearance in 1973 popularized the move on national television — though Jackson did not invent it. The performance became one of the most memorable moments in the show's history.",
+            "storyHook": "One television performance. A teenage Michael Jackson. The Robot became a national phenomenon overnight.",
+            "sourceNotes": "Verified: Michael Jackson popularized The Robot during the Jackson 5's 1973 Soul Train performance of 'Dancing Machine.' Source: Reddit discussion https://www.reddit.com/r/MichaelJackson/comments/1nan354/michael_jackson_created_the_infamous_robot_dance/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Michael Jackson popularized The Robot during Soul Train performance – Reddit discussion",
+                "url": "https://www.reddit.com/r/MichaelJackson/comments/1nan354/michael_jackson_created_the_infamous_robot_dance/",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R1-Q3",
+          "episodeId": "EP048",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Labelle — who performed 'Lady Marmalade' on Soul Train in 1974 — was fronted by which vocalist who became one of R&B's most celebrated solo performers?",
+          "choices": [
+            "Patti LaBelle",
+            "Sarah Dash",
+            "Nona Hendryx",
+            "Cissy Houston"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-group-labelle-patti-labelle-lead-vocalist-lady-marmalade",
+            "artist": "Labelle",
+            "song": "Lady Marmalade",
+            "album": "Nightbirds",
+            "year": 1974,
+            "topicTags": [
+              "Labelle",
+              "Patti LaBelle",
+              "Lady Marmalade",
+              "Soul Train",
+              "1974"
+            ],
+            "fact": "Labelle consisted of Patti LaBelle, Nona Hendryx, and Sarah Dash. Patti LaBelle fronted the group and later launched a celebrated solo career after the group disbanded in 1976.",
+            "storyHook": "Three voices. One stage. Patti LaBelle brought 'Lady Marmalade' to Soul Train and left a memory that never faded.",
+            "sourceNotes": "Verified: Labelle was fronted by Patti LaBelle. Source: Wikipedia https://en.wikipedia.org/wiki/Labelle",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Labelle – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Labelle",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R1-Q4",
+          "episodeId": "EP048",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Soul Train — the groundbreaking R&B variety show that became Black America's essential television stage — was created and hosted by which television personality?",
+          "choices": [
+            "Berry Gordy",
+            "Dick Clark",
+            "Ed Sullivan",
+            "Don Cornelius"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-show-soul-train-don-cornelius-creator-host",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1970,
+            "topicTags": [
+              "Soul Train",
+              "Don Cornelius",
+              "creator",
+              "host",
+              "television"
+            ],
+            "fact": "Don Cornelius created Soul Train, first airing it locally on WCIU-TV in Chicago in August 1970 before taking it to national syndication in October 1971. He hosted the show for over two decades.",
+            "storyHook": "Don Cornelius built the stage. Then he invited everyone worth watching to stand on it.",
+            "sourceNotes": "Verified: Don Cornelius created and hosted Soul Train. Source: Wikipedia https://en.wikipedia.org/wiki/Soul_Train",
+            "clipCue": "",
+            "hostNote": "Don Cornelius died on February 1, 2012. Do not reference his death or personal circumstances in live delivery unless directly asked.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Train – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soul_Train",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R1-Q5",
+          "episodeId": "EP048",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "James Brown — who performed 'The Payback' on Soul Train in 1974 — was known by which honorific that captured his singular influence on American music?",
+          "choices": [
+            "The Godfather of Soul",
+            "The Hardest Working Man in Show Business",
+            "The Big Payback",
+            "The King of Soul"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-artist-james-brown-godfather-of-soul-title-the-payback",
+            "artist": "James Brown",
+            "song": "The Payback",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "James Brown",
+              "The Payback",
+              "Godfather of Soul",
+              "Soul Train",
+              "1974"
+            ],
+            "fact": "'The Godfather of Soul' was James Brown's defining title — reflecting his foundational role in the development of funk, R&B, and soul. His 1974 Soul Train performance of 'The Payback' remains one of the show's most electrifying appearances.",
+            "storyHook": "The Godfather of Soul on the most important soul stage in America. James Brown and Soul Train were a natural pairing.",
+            "sourceNotes": "Verified: James Brown's title is 'The Godfather of Soul.' Source: Wikipedia https://en.wikipedia.org/wiki/James_Brown",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "James Brown – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/James_Brown",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R1-Q6",
+          "episodeId": "EP048",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Al Green's 'Take Me to the River' — performed on Soul Train in 1975 — was later covered by which band, whose 1978 version became a defining record of the new wave era?",
+          "choices": [
+            "The Police",
+            "Talking Heads",
+            "Blondie",
+            "The Cars"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-song-take-me-to-the-river-al-green-talking-heads-1978-cover",
+            "artist": "Al Green / Talking Heads",
+            "song": "Take Me to the River",
+            "album": "More Songs About Buildings and Food",
+            "year": 1978,
+            "topicTags": [
+              "Al Green",
+              "Talking Heads",
+              "Take Me to the River",
+              "Soul Train",
+              "1975",
+              "1978",
+              "new wave",
+              "cover"
+            ],
+            "fact": "Talking Heads recorded 'Take Me to the River' for their 1978 album More Songs About Buildings and Food. Their version became a breakout single and introduced the song to rock and new wave audiences.",
+            "storyHook": "A Memphis soul record from 1974. A New York art-rock band in 1978. Talking Heads heard something in 'Take Me to the River' that transcended genre — and they were right.",
+            "sourceNotes": "Verified: Talking Heads covered 'Take Me to the River' on More Songs About Buildings and Food (1978). Source: Sunny 107.9 https://www.sunny1079.com/talking-heads-release-live-take-me-to-the-river-from-more-songs-about-buildings-and-food-box-set/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Talking Heads release live 'Take Me to the River' from 'More Songs About Buildings and Food' – Sunny 107.9",
+                "url": "https://www.sunny1079.com/talking-heads-release-live-take-me-to-the-river-from-more-songs-about-buildings-and-food-box-set/",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R1-B1",
+          "episodeId": "EP048",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Rick James's 'Super Freak' — performed on Soul Train in 1981 — was the basis for which 1990 hip-hop hit that topped the Billboard Hot 100?",
+          "choices": [
+            "U Can't Touch This",
+            "Gonna Make You Sweat",
+            "Jump",
+            "Ice Ice Baby"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — RICK JAMES'S MOST SAMPLED SONG'S MOST FAMOUS SAMPLER"
+          },
+          "metadata": {
+            "factKey": "ep048-song-super-freak-rick-james-u-cant-touch-this-mc-hammer-sample",
+            "artist": "Rick James / MC Hammer",
+            "song": "Super Freak / U Can't Touch This",
+            "album": null,
+            "year": 1981,
+            "topicTags": [
+              "Rick James",
+              "Super Freak",
+              "MC Hammer",
+              "U Can't Touch This",
+              "Soul Train",
+              "1981",
+              "sample"
+            ],
+            "fact": "MC Hammer's 'U Can't Touch This' (1990) was built on a sample of Rick James's 'Super Freak,' becoming one of the most commercially successful samples in hip-hop history and topping the Billboard Hot 100.",
+            "storyHook": "Rick James performed it on Soul Train in 1981. MC Hammer sampled it in 1990. 'Super Freak' became one of the most recognizable bass lines in American music history.",
+            "sourceNotes": "Verified: 'U Can't Touch This' sampled 'Super Freak.' Source: Wikipedia https://en.wikipedia.org/wiki/U_Can%27t_Touch_This",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "U Can't Touch This – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/U_Can%27t_Touch_This",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP048-R1-RES1",
+          "episodeId": "EP048",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Rufus's 'Tell Me Something Good' — their landmark Soul Train moment in 1974 — was written specifically for the group by which other Soul Train legend?",
+          "choices": [
+            "Bill Withers",
+            "Stevie Wonder",
+            "Marvin Gaye",
+            "Al Green"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-song-tell-me-something-good-rufus-stevie-wonder-wrote-for-group",
+            "artist": "Rufus",
+            "song": "Tell Me Something Good",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "Rufus",
+              "Tell Me Something Good",
+              "Stevie Wonder",
+              "Soul Train",
+              "1974",
+              "songwriter"
+            ],
+            "fact": "'Tell Me Something Good' was written by Stevie Wonder for Rufus — he tailored the song to Chaka Khan's voice after hearing the group and deciding they needed a track built around her power.",
+            "storyHook": "Stevie Wonder heard Rufus. Heard Chaka Khan. Wrote them a song. Then Soul Train made it a national moment.",
+            "sourceNotes": "Verified: 'Tell Me Something Good' was written by Stevie Wonder for Rufus. Sources: Wikipedia https://en.wikipedia.org/wiki/Tell_Me_Something_Good, Wikipedia Chaka Khan article https://en.wikipedia.org/wiki/Chaka_Khan",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tell Me Something Good – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tell_Me_Something_Good",
+                "accessed": "2026-06-01"
+              },
+              {
+                "title": "Chaka Khan – early career with Rufus",
+                "url": "https://en.wikipedia.org/wiki/Chaka_Khan",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R1-RES2",
+          "episodeId": "EP048",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "New Edition's debut 'Candy Girl' — performed on Soul Train in 1983 — was produced by which music executive who later created New Kids on the Block?",
+          "choices": [
+            "Jimmy Jam",
+            "Babyface",
+            "Maurice Starr",
+            "Teddy Riley"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-song-candy-girl-new-edition-maurice-starr-new-kids-on-the-block",
+            "artist": "New Edition",
+            "song": "Candy Girl",
+            "album": null,
+            "year": 1983,
+            "topicTags": [
+              "New Edition",
+              "Candy Girl",
+              "Maurice Starr",
+              "New Kids on the Block",
+              "Soul Train",
+              "1983"
+            ],
+            "fact": "Maurice Starr produced and arranged 'Candy Girl' and shaped New Edition's debut sound. After the group split from him, he applied a similar formula to create New Kids on the Block.",
+            "storyHook": "Maurice Starr built New Edition. New Edition outgrew him. He went back to the drawing board and built New Kids on the Block.",
+            "sourceNotes": "Verified: Maurice Starr produced 'Candy Girl' and later created New Kids on the Block. Source: Shatter The Standards https://www.shatterthestandards.com/p/the-sweet-sounds-of-new-editions",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Sweet Sounds of New Edition's 'Candy Girl' – Shatter The Standards",
+                "url": "https://www.shatterthestandards.com/p/the-sweet-sounds-of-new-editions",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "production",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R1-RES3",
+          "episodeId": "EP048",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Soul Train's host Don Cornelius closed every episode with which iconic sign-off phrase — 'Wishing you love, peace, and ___'?",
+          "choices": [
+            "Soul",
+            "Harmony",
+            "Music",
+            "Joy"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-show-soul-train-don-cornelius-love-peace-and-soul-signoff",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Soul Train",
+              "Don Cornelius",
+              "Love peace and soul",
+              "sign-off",
+              "catchphrase"
+            ],
+            "fact": "'Love, peace, and soul' was Soul Train's famous closing phrase — spoken by Don Cornelius at the end of every episode for over two decades.",
+            "storyHook": "Every episode. Same sign-off. 'Love, peace, and soul.' Don Cornelius said it so many times it became part of the American vocabulary.",
+            "sourceNotes": "Verified: 'Love, peace, and soul' was Soul Train's closing catchphrase. Source: Wikipedia https://en.wikipedia.org/wiki/Soul_Train",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Train – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soul_Train",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "show",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R1-RES4",
+          "episodeId": "EP048",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Zapp & Roger's 'Computer Love' — performed on Soul Train in 1986 — featured Roger Troutman's distinctive vocals created using which electronic voice effects device?",
+          "choices": [
+            "Auto-Tune",
+            "Vocoder",
+            "Megaphone",
+            "Talkbox"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-song-computer-love-zapp-roger-troutman-talkbox-soul-train-1986",
+            "artist": "Zapp & Roger",
+            "song": "Computer Love",
+            "album": null,
+            "year": 1986,
+            "topicTags": [
+              "Zapp & Roger",
+              "Roger Troutman",
+              "Computer Love",
+              "talkbox",
+              "Soul Train",
+              "1986"
+            ],
+            "fact": "Roger Troutman's signature talkbox technique — feeding an instrument's signal through a tube into his mouth while singing — became one of the most recognizable sounds in 1980s funk.",
+            "storyHook": "Roger Troutman and the talkbox. One of the most distinctive sounds in Soul Train history — and in 1980s R&B.",
+            "sourceNotes": "Verified: Roger Troutman used a talkbox on 'Computer Love.' Source: Wikipedia https://en.wikipedia.org/wiki/Roger_Troutman",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Roger Troutman – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Roger_Troutman",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The music, songwriting, and production behind Soul Train's landmark performances.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP048-R2-Q1",
+          "episodeId": "EP048",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Marvin Gaye's 'Let's Get It On' — performed on Soul Train in 1974 — was co-written by which lyricist whose spiritual perspective shaped the song's framing of love and sexuality as inseparable?",
+          "choices": [
+            "Curtis Mayfield",
+            "Barry White",
+            "Ed Townsend",
+            "Al Green"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-song-lets-get-it-on-marvin-gaye-ed-townsend-co-writer-spiritual",
+            "artist": "Marvin Gaye",
+            "song": "Let's Get It On",
+            "album": null,
+            "year": 1973,
+            "topicTags": [
+              "Marvin Gaye",
+              "Let's Get It On",
+              "Ed Townsend",
+              "co-writer",
+              "Soul Train",
+              "1974"
+            ],
+            "fact": "Ed Townsend co-wrote 'Let's Get It On' with Marvin Gaye. Townsend originally wrote the song with a religious theme after leaving rehab, emphasizing the unity of physical and spiritual love.",
+            "storyHook": "A man fresh out of rehab wrote about love, spirituality, and liberation. Marvin Gaye turned it into a cultural event. Ed Townsend made it possible.",
+            "sourceNotes": "Verified: Ed Townsend co-wrote 'Let's Get It On' with Marvin Gaye. Source: Wikipedia https://en.wikipedia.org/wiki/Let%27s_Get_It_On_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Let's Get It On (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Let%27s_Get_It_On_(song)",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R2-Q2",
+          "episodeId": "EP048",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Joe Tex performed 'I Gotcha' on Soul Train in 1972 during the show's first national season. The song was recorded for which independent label associated with Nashville producer Buddy Killen?",
+          "choices": [
+            "Hi Records",
+            "Stax",
+            "Dial Records",
+            "Spring Records"
+          ],
+          "correctIndex": 2,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-song-i-gotcha-joe-tex-dial-records-buddy-killen-nashville",
+            "artist": "Joe Tex",
+            "song": "I Gotcha",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Joe Tex",
+              "I Gotcha",
+              "Dial Records",
+              "Buddy Killen",
+              "Nashville",
+              "Soul Train",
+              "1972"
+            ],
+            "fact": "Joe Tex recorded 'I Gotcha' for Dial Records — a Nashville-based independent label associated with producer Buddy Killen. Killen produced Tex's key run of Southern soul recordings.",
+            "storyHook": "Nashville. Independent. Buddy Killen behind the board. Joe Tex and Dial Records made the kind of soul that didn't need a major label.",
+            "sourceNotes": "Verified: Joe Tex recorded 'I Gotcha' for Dial Records; Buddy Killen is listed as producer. Source: WhoSampled credits https://www.whosampled.com/Joe-Tex/I-Gotcha/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Gotcha by Joe Tex – WhoSampled credits",
+                "url": "https://www.whosampled.com/Joe-Tex/I-Gotcha/",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R2-Q3",
+          "episodeId": "EP048",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Lady Marmalade' — Labelle's soul classic featuring the famous French chorus — was written by which pair of songwriters?",
+          "choices": [
+            "Bob Crewe and Kenny Nolan",
+            "Holland-Dozier-Holland",
+            "Gamble and Huff",
+            "Ashford and Simpson"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-song-lady-marmalade-bob-crewe-kenny-nolan-writers",
+            "artist": "Labelle",
+            "song": "Lady Marmalade",
+            "album": "Nightbirds",
+            "year": 1974,
+            "topicTags": [
+              "Lady Marmalade",
+              "Bob Crewe",
+              "Kenny Nolan",
+              "Labelle",
+              "songwriter",
+              "1974"
+            ],
+            "fact": "'Lady Marmalade' was written by Bob Crewe and Kenny Nolan. The song's Creole-inflected narrative and French chorus were Crewe and Nolan's invention, brought to life by Labelle's extraordinary performance.",
+            "storyHook": "Bob Crewe and Kenny Nolan wrote the song. Allen Toussaint produced it in New Orleans. Labelle performed it on Soul Train. 'Lady Marmalade' belongs to all of them.",
+            "sourceNotes": "Verified: 'Lady Marmalade' was written by Bob Crewe and Kenny Nolan. Source: Wikipedia https://en.wikipedia.org/wiki/Lady_Marmalade",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lady Marmalade – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lady_Marmalade",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R2-Q4",
+          "episodeId": "EP048",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Soul Train first aired locally in Chicago in 1970. In which year did it make its national syndicated debut — beginning its run as the most important Black music television show in America?",
+          "choices": [
+            "1970",
+            "1973",
+            "1971",
+            "1972"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-show-soul-train-national-syndication-debut-1971-october",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Soul Train",
+              "1971",
+              "national syndication",
+              "Don Cornelius",
+              "television history"
+            ],
+            "fact": "Soul Train debuted in national syndication on October 2, 1971 — after a year of local Chicago airings on WCIU-TV beginning in August 1970.",
+            "storyHook": "One year local. Then national. October 2, 1971. Soul Train was everywhere.",
+            "sourceNotes": "Verified: Soul Train debuted in national syndication on October 2, 1971. Source: Wikipedia https://en.wikipedia.org/wiki/Soul_Train",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Train – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soul_Train",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "show",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R2-Q5",
+          "episodeId": "EP048",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Rufus's 'Tell Me Something Good' highlighted the powerhouse vocals of which singer — who became the group's defining voice after joining in the early 1970s?",
+          "choices": [
+            "Dawn Silva",
+            "Betty Davis",
+            "Paulette McWilliams",
+            "Chaka Khan"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-artist-chaka-khan-rufus-tell-me-something-good-lead-vocalist",
+            "artist": "Rufus",
+            "song": "Tell Me Something Good",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "Chaka Khan",
+              "Rufus",
+              "Tell Me Something Good",
+              "Soul Train",
+              "1974",
+              "biography"
+            ],
+            "fact": "Chaka Khan joined Rufus in the early 1970s and became the group's signature voice. Her performance on 'Tell Me Something Good' established her as one of the era's most commanding soul singers.",
+            "storyHook": "Chaka Khan and Rufus. One of the great band-vocalist pairings in 1970s R&B. 'Tell Me Something Good' was the proof.",
+            "sourceNotes": "Verified: Chaka Khan joined Rufus in the early 1970s and sang on 'Tell Me Something Good.' Sources: Wikipedia https://en.wikipedia.org/wiki/Chaka_Khan, Wikipedia https://en.wikipedia.org/wiki/Tell_Me_Something_Good",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Chaka Khan – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Chaka_Khan",
+                "accessed": "2026-06-01"
+              },
+              {
+                "title": "Tell Me Something Good – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tell_Me_Something_Good",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R2-B1",
+          "episodeId": "EP048",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Jackson 5's 'Dancing Machine' — the vehicle for Michael Jackson's Robot performance during their 1973 Soul Train appearance — was released on which label?",
+          "choices": [
+            "Motown Records",
+            "Epic Records",
+            "Atlantic",
+            "CBS"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE JACKSON 5'S LABEL IN 1973"
+          },
+          "metadata": {
+            "factKey": "ep048-song-dancing-machine-jackson-5-motown-records-1973",
+            "artist": "The Jackson 5",
+            "song": "Dancing Machine",
+            "album": null,
+            "year": 1973,
+            "topicTags": [
+              "The Jackson 5",
+              "Dancing Machine",
+              "Motown Records",
+              "1973",
+              "label"
+            ],
+            "fact": "The Jackson 5 were signed to Motown Records from 1968 to 1975. 'Dancing Machine' was recorded during their final years on the label.",
+            "storyHook": "Motown. 1973. The Jackson 5 still had a year and a half left on the label. They used the time well.",
+            "sourceNotes": "Verified: 'Dancing Machine' was released on Motown Records in 1973. Source: Wikipedia https://en.wikipedia.org/wiki/Dancing_Machine",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dancing Machine – Jackson 5 discography entry",
+                "url": "https://en.wikipedia.org/wiki/Dancing_Machine",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP048-R2-RES1",
+          "episodeId": "EP048",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Soul Train featured a famous recurring segment where performers formed two parallel lines and each took turns dancing solo down the center. What was this segment called?",
+          "choices": [
+            "The Soul Train Line",
+            "The Soul Train Shuffle",
+            "The Soul Train Spotlight",
+            "The Soul Train Scramble"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-show-soul-train-line-group-dance-segment",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Soul Train",
+              "Soul Train Line",
+              "dance",
+              "format",
+              "television"
+            ],
+            "fact": "The Soul Train Line — where participants formed two parallel lines and each danced solo down the center — became one of the show's most iconic and widely imitated formats.",
+            "storyHook": "Two lines. One aisle. Every dancer's moment. The Soul Train Line was the show inside the show.",
+            "sourceNotes": "Verified: The Soul Train Line was a recurring dance segment on the show. Source: Wikipedia https://en.wikipedia.org/wiki/Soul_Train",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Train – format description",
+                "url": "https://en.wikipedia.org/wiki/Soul_Train",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "show",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R2-RES2",
+          "episodeId": "EP048",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Cameo's celebrated performance of 'Word Up!' for Soul Train's platform actually took place at which specific annual event — not a regular episode — in 1987?",
+          "choices": [
+            "Soul Train Music Awards",
+            "Soul Train Lady of Soul Awards",
+            "Soul Train Christmas Special",
+            "American Music Awards"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-cameo-word-up-soul-train-music-awards-1987-not-regular-episode",
+            "artist": "Cameo",
+            "song": "Word Up!",
+            "album": null,
+            "year": 1987,
+            "topicTags": [
+              "Cameo",
+              "Word Up!",
+              "Soul Train Music Awards",
+              "1987",
+              "awards"
+            ],
+            "fact": "Cameo performed 'Word Up!' at the 1987 Soul Train Music Awards — a separate annual event from the regular weekly program. The performance is frequently mislabeled online as a standard Soul Train episode.",
+            "storyHook": "Not the show. The awards. Cameo performed 'Word Up!' at the Soul Train Music Awards in 1987 — a distinction that matters if you care about the archive.",
+            "sourceNotes": "Verified: Cameo performed at the 1987 Soul Train Music Awards, not a regular episode. Source: Wikipedia https://en.wikipedia.org/wiki/Soul_Train_Music_Awards",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Train Music Awards – 1987 overview",
+                "url": "https://en.wikipedia.org/wiki/Soul_Train_Music_Awards",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R2-RES3",
+          "episodeId": "EP048",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Al Green's 'Take Me to the River' — performed on Soul Train in 1975 — was co-written by Green alongside which guitarist and Hi Records session musician?",
+          "choices": [
+            "Booker T. Jones",
+            "Mabon Teenie Hodges",
+            "Steve Cropper",
+            "Isaac Hayes"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-song-take-me-to-the-river-al-green-mabon-teenie-hodges-co-writer",
+            "artist": "Al Green",
+            "song": "Take Me to the River",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "Al Green",
+              "Take Me to the River",
+              "Mabon Teenie Hodges",
+              "Hi Records",
+              "Soul Train",
+              "1975",
+              "songwriter"
+            ],
+            "fact": "'Take Me to the River' was co-written by Al Green and Mabon 'Teenie' Hodges — the Hi Records guitarist whose work on Green's recordings was central to the Memphis soul sound of the era.",
+            "storyHook": "Al Green wrote the melody. Teenie Hodges co-wrote the song. Hi Records recorded it. Talking Heads eventually covered it. 'Take Me to the River' traveled far.",
+            "sourceNotes": "Verified: 'Take Me to the River' co-written by Al Green and Mabon 'Teenie' Hodges. Source: Wikipedia https://en.wikipedia.org/wiki/Take_Me_to_the_River",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Take Me to the River – song entry",
+                "url": "https://en.wikipedia.org/wiki/Take_Me_to_the_River",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival stories behind Soul Train's most celebrated moments — and the history of the show itself.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP048-R3-Q1",
+          "episodeId": "EP048",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Stevie Wonder originally composed 'Superstition' for which British rock guitarist — whose own version was released on the album Beck, Bogert & Appice in 1973 — before Wonder released his own version on Talking Book?",
+          "choices": [
+            "Eric Clapton",
+            "Jimmy Page",
+            "Jeff Beck",
+            "Pete Townshend"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-song-superstition-stevie-wonder-jeff-beck-beck-bogert-appice",
+            "artist": "Stevie Wonder / Jeff Beck",
+            "song": "Superstition",
+            "album": "Talking Book / Beck Bogert & Appice",
+            "year": 1972,
+            "topicTags": [
+              "Stevie Wonder",
+              "Superstition",
+              "Jeff Beck",
+              "Beck Bogert Appice",
+              "Talking Book",
+              "songwriting"
+            ],
+            "fact": "Stevie Wonder wrote 'Superstition' for Jeff Beck as part of a collaboration arrangement. Motown pushed Wonder's version out in October 1972 to drive Talking Book sales. Beck's version appeared later on Beck, Bogert & Appice (1973).",
+            "storyHook": "Stevie Wonder wrote it for Jeff Beck. Then Motown released Wonder's version first. Then Beck released his. One song, two visions, and one of them became a landmark.",
+            "sourceNotes": "Verified: 'Superstition' was written for Jeff Beck; his version appeared on Beck, Bogert & Appice (not Rough and Ready — CORRECTED from draft). Sources: Apple Music Talking Book notes https://music.apple.com/us/album/talking-book/1440808973, Wikipedia https://en.wikipedia.org/wiki/Superstition_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Talking Book – Apple Music album notes",
+                "url": "https://music.apple.com/us/album/talking-book/1440808973",
+                "accessed": "2026-06-01"
+              },
+              {
+                "title": "Superstition (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Superstition_(song)",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R3-Q2",
+          "episodeId": "EP048",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Soul Train premiered nationally in 1971 and aired until 2006. Its creator Don Cornelius first launched the local version on WCIU-TV in which American city in August 1970?",
+          "choices": [
+            "Detroit",
+            "Chicago",
+            "Memphis",
+            "Cleveland"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-show-soul-train-chicago-wciu-don-cornelius-1970-local-launch",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1970,
+            "topicTags": [
+              "Soul Train",
+              "Don Cornelius",
+              "Chicago",
+              "WCIU",
+              "1970",
+              "television history"
+            ],
+            "fact": "Don Cornelius first aired Soul Train on WCIU-TV in Chicago in August 1970. After a year of local airings, the show went to national syndication on October 2, 1971.",
+            "storyHook": "Before the nation. Before the legend. Soul Train was a local Chicago show on WCIU. Don Cornelius built something from nothing.",
+            "sourceNotes": "Verified: Soul Train first aired on WCIU-TV in Chicago in August 1970 before national syndication in October 1971. Source: Wikipedia https://en.wikipedia.org/wiki/Soul_Train",
+            "clipCue": "",
+            "hostNote": "Don Cornelius died February 1, 2012. Do not reference his death in live delivery unless directly asked.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Train – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soul_Train",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "show",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R3-B1",
+          "episodeId": "EP048",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Soul Train — which premiered nationally in 1971 — aired its final episode in which year, making it the longest-running first-run syndicated music program in American television history?",
+          "choices": [
+            "2002",
+            "2004",
+            "2008",
+            "2006"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "7",
+            "bonusHint": "DIGIT 3 OF 3 — SOUL TRAIN'S FINAL YEAR"
+          },
+          "metadata": {
+            "factKey": "ep048-show-soul-train-final-episode-2006-longest-running-syndicated",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 2006,
+            "topicTags": [
+              "Soul Train",
+              "2006",
+              "final episode",
+              "television history",
+              "syndication"
+            ],
+            "fact": "Soul Train aired its final episode on March 25, 2006 — ending a run from October 2, 1971 that made it the longest-running first-run syndicated music program in American television history.",
+            "storyHook": "October 2, 1971. March 25, 2006. 35 years. Soul Train was the longest-running first-run syndicated music program in American TV history.",
+            "sourceNotes": "Verified: Soul Train's final episode aired March 25, 2006; confirmed as longest-running first-run syndicated music program. Source: Wikipedia https://en.wikipedia.org/wiki/Soul_Train",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Train – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soul_Train",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "show",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP048-R3-RES1",
+          "episodeId": "EP048",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Joe Tex — who appeared on Soul Train in 1972 — took his stage name from his home state of Texas. What was his birth name?",
+          "choices": [
+            "Joseph Brown",
+            "Joseph Arrington Jr.",
+            "Samuel Green",
+            "Luther Thomas"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-artist-joe-tex-birth-name-joseph-arrington-jr-texas",
+            "artist": "Joe Tex",
+            "song": null,
+            "album": null,
+            "year": 1933,
+            "topicTags": [
+              "Joe Tex",
+              "Joseph Arrington Jr.",
+              "birth name",
+              "biography",
+              "Baytown Texas"
+            ],
+            "fact": "Joe Tex was born Joseph Arrington Jr. — his stage name a tribute to the state of Texas that shaped him.",
+            "storyHook": "Joseph Arrington Jr. from Baytown, Texas. He went by Joe Tex. One of the great names in Southern soul history.",
+            "sourceNotes": "Verified: Joe Tex was born Joseph Arrington Jr. Source: Wikipedia https://en.wikipedia.org/wiki/Joe_Tex",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Joe Tex – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Joe_Tex",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP048-R3-RES2",
+          "episodeId": "EP048",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Labelle's 'Lady Marmalade' appeared on which 1974 album — the group's commercial breakthrough — produced by Allen Toussaint at Sea-Saint Recording Studios in New Orleans?",
+          "choices": [
+            "Pressure Cookin'",
+            "Chameleon",
+            "Phoenix",
+            "Nightbirds"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep048-album-labelle-nightbirds-1974-allen-toussaint-lady-marmalade",
+            "artist": "Labelle",
+            "song": "Lady Marmalade",
+            "album": "Nightbirds",
+            "year": 1974,
+            "topicTags": [
+              "Labelle",
+              "Nightbirds",
+              "Allen Toussaint",
+              "Lady Marmalade",
+              "1974",
+              "New Orleans"
+            ],
+            "fact": "Nightbirds (1974) was produced by Allen Toussaint at Sea-Saint Recording Studios in New Orleans — the combination of New Orleans production and Labelle's avant-garde soul persona made it one of the era's most distinctive albums.",
+            "storyHook": "Allen Toussaint. Sea-Saint Studios. New Orleans. Labelle walked in as an R&B group and walked out with Nightbirds. 'Lady Marmalade' changed everything.",
+            "sourceNotes": "Verified: Nightbirds (1974) produced by Allen Toussaint and contained 'Lady Marmalade.' Sources: Wikipedia https://en.wikipedia.org/wiki/Nightbirds_(Labelle_album), Wikipedia https://en.wikipedia.org/wiki/Lady_Marmalade",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Nightbirds – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Nightbirds_(Labelle_album)",
+                "accessed": "2026-06-01"
+              },
+              {
+                "title": "Lady Marmalade – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lady_Marmalade",
+                "accessed": "2026-06-01"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-01",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-02T04:33:32.098224+00:00"
+  }
+}

@@ -1,0 +1,1541 @@
+{
+  "episodeId": "EP051",
+  "title": "Ladies of Soul: The Sixties",
+  "theme": "The girl group as a commercial and cultural force — from the pre-Motown Brill Building era through Berry Gordy's assembly-line genius and its costs. The groups he promoted, the ones he didn't, and the individuals who paid the price of the system.",
+  "narrativePurpose": "Trace the 1960s girl group arc from the Shirelles' groundbreaking Hot 100 #1 through the Marvelettes' Motown breakthrough, the Supremes' unprecedented chart dominance, and the Vandellas' raw alternative — against the backdrop of the industry machinery that shaped and constrained them all.",
+  "toneProgression": "The hits and the milestones that defined the era → the Motown machinery, personnel, and the human cost of that system → the archival connections hiding inside the decade's most celebrated girl group moments",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-6-4 — the year the Supremes recorded 'Where Did Our Love Go,' launched five consecutive #1 hits, and became the most commercially dominant group in American pop history. 1964: the year the 1960s girl group era announces itself at full volume."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The hits and milestones that defined the 1960s girl group era.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP051-R1-Q1",
+          "episodeId": "EP051",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Which R&B girl group made history as the first to reach #1 on the Billboard Hot 100, with their 1960 recording 'Will You Love Me Tomorrow'?",
+          "choices": [
+            "The Chantels",
+            "The Marvelettes",
+            "The Crystals",
+            "The Shirelles"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-shirelles-will-you-love-me-tomorrow-first-girl-group-hot-100-number-one",
+            "artist": "The Shirelles",
+            "song": "Will You Love Me Tomorrow",
+            "album": null,
+            "year": 1961,
+            "topicTags": [
+              "The Shirelles",
+              "Will You Love Me Tomorrow",
+              "Billboard Hot 100",
+              "first girl group #1",
+              "1960",
+              "1961"
+            ],
+            "fact": "'Will You Love Me Tomorrow' was released in November 1960 and reached #1 on the Billboard Hot 100 on January 30, 1961 — making the Shirelles the first girl group in history to top the national pop chart.",
+            "storyHook": "The Shirelles. January 30, 1961. The first girl group to reach #1 on the Billboard Hot 100. Everything that came after — the Supremes, the Marvelettes, all of it — built on that moment.",
+            "sourceNotes": "Verified: 'Will You Love Me Tomorrow' was the first girl group song to reach #1 on the Billboard Hot 100. Sources: Wikipedia https://en.wikipedia.org/wiki/Will_You_Love_Me_Tomorrow, Slicethelife https://slicethelife.com/2019/12/14/billboard-1-hits-44-will-you-love-me-tomorrow-the-shirelles-january-30-1961/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Will You Love Me Tomorrow – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Will_You_Love_Me_Tomorrow",
+                "accessed": "2026-06-12"
+              },
+              {
+                "title": "Billboard #1 Hits: 'Will You Love Me Tomorrow' – slicethelife",
+                "url": "https://slicethelife.com/2019/12/14/billboard-1-hits-44-will-you-love-me-tomorrow-the-shirelles-january-30-1961/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R1-Q2",
+          "episodeId": "EP051",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Before Berry Gordy gave them their famous name, Diana Ross, Mary Wilson, and Florence Ballard performed together under which group name?",
+          "choices": [
+            "The Melodics",
+            "The Royaltones",
+            "The Primettes",
+            "The Dreamettes"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-supremes-original-name-the-primettes-diana-ross-mary-wilson-florence-ballard",
+            "artist": "The Supremes",
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "The Supremes",
+              "The Primettes",
+              "Diana Ross",
+              "Mary Wilson",
+              "Florence Ballard",
+              "Motown",
+              "origin"
+            ],
+            "fact": "The Supremes began as The Primettes — a sister group to The Primes, who later became The Temptations. Berry Gordy initially rejected them, and when they signed to Motown in 1961 he renamed them the Supremes.",
+            "storyHook": "The Primettes. Before Berry Gordy renamed them. Before the sequined gowns and the eleven #1s. Diana Ross, Mary Wilson, and Florence Ballard — three girls from the Brewster Housing Projects in Detroit.",
+            "sourceNotes": "Verified: The Supremes were originally called The Primettes. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Supremes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Supremes",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R1-Q3",
+          "episodeId": "EP051",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "'Will You Love Me Tomorrow' — the song that made the Shirelles the first girl group to top the pop charts — was co-written by Carole King with which lyricist?",
+          "choices": [
+            "Gerry Goffin",
+            "Barry Mann",
+            "Howard Greenfield",
+            "Neil Diamond"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-song-will-you-love-me-tomorrow-carole-king-gerry-goffin-writers-shirelles",
+            "artist": "The Shirelles",
+            "song": "Will You Love Me Tomorrow",
+            "album": null,
+            "year": 1961,
+            "topicTags": [
+              "Carole King",
+              "Gerry Goffin",
+              "Will You Love Me Tomorrow",
+              "The Shirelles",
+              "Brill Building",
+              "songwriting"
+            ],
+            "fact": "Gerry Goffin and Carole King wrote 'Will You Love Me Tomorrow' — the first #1 from the married Brill Building songwriting team. Their collaboration with the Shirelles was one of the earliest pairings of professional white songwriters with a Black female vocal group.",
+            "storyHook": "Gerry Goffin. Carole King. Their first #1 together. A married songwriting team in a Brill Building cubicle, writing the words that a girl group from Passaic, New Jersey would turn into history.",
+            "sourceNotes": "Verified: 'Will You Love Me Tomorrow' written by Gerry Goffin and Carole King. Sources: Wikipedia https://en.wikipedia.org/wiki/Will_You_Love_Me_Tomorrow, Stereogum https://stereogum.com/1987298/the-number-ones-the-shirelles-will-you-love-me-tomorrow/columns/the-number-ones",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Will You Love Me Tomorrow – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Will_You_Love_Me_Tomorrow",
+                "accessed": "2026-06-12"
+              },
+              {
+                "title": "The Number Ones: The Shirelles' 'Will You Love Me Tomorrow' – Stereogum",
+                "url": "https://stereogum.com/1987298/the-number-ones-the-shirelles-will-you-love-me-tomorrow/columns/the-number-ones",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R1-Q4",
+          "episodeId": "EP051",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Berry Gordy consistently pushed which Supremes member to the forefront as the group's lead voice — a deliberate decision that created lasting tension within the trio?",
+          "choices": [
+            "Diana Ross",
+            "Mary Wilson",
+            "Florence Ballard",
+            "Cindy Birdsong"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-diana-ross-berry-gordy-pushed-as-supremes-lead-voice",
+            "artist": "The Supremes",
+            "song": null,
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "Diana Ross",
+              "Berry Gordy",
+              "The Supremes",
+              "Motown",
+              "lead vocalist",
+              "industry control"
+            ],
+            "fact": "Berry Gordy's decision to promote Diana Ross as the Supremes' primary voice — at the expense of Florence Ballard and Mary Wilson — defined the group's public image and became one of Motown's most contested internal stories.",
+            "storyHook": "Berry Gordy had a plan. Diana Ross was the plan. Mary Wilson and Florence Ballard were part of the picture — just not the center of it.",
+            "sourceNotes": "Verified: Berry Gordy promoted Diana Ross as the Supremes' lead. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Supremes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Supremes",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R1-Q5",
+          "episodeId": "EP051",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Martha Reeves & the Vandellas announced themselves to the world with which 1963 recording — a gospel-charged rocker that earned the group their only Grammy nomination?",
+          "choices": [
+            "Nowhere to Run",
+            "Jimmy Mack",
+            "Dancing in the Street",
+            "Heat Wave"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-song-heat-wave-martha-reeves-vandellas-1963-motown-breakthrough-grammy-nomination",
+            "artist": "Martha Reeves & the Vandellas",
+            "song": "(Love Is Like a) Heat Wave",
+            "album": null,
+            "year": 1963,
+            "topicTags": [
+              "Martha Reeves & the Vandellas",
+              "Heat Wave",
+              "1963",
+              "Motown",
+              "Grammy nomination",
+              "breakthrough"
+            ],
+            "fact": "'(Love Is Like a) Heat Wave' was released July 10, 1963 — reaching #1 on the Billboard R&B chart for four weeks and #4 on the Hot 100. It was the Vandellas' commercial breakthrough and earned the group their only Grammy nomination.",
+            "storyHook": "'Heat Wave.' 1963. Number one R&B for four weeks. The Vandellas' breakthrough — and their only Grammy nomination. Martha Reeves had a different kind of urgency than anything else Motown was releasing.",
+            "sourceNotes": "Verified: 'Heat Wave' was the Vandellas' breakthrough hit, reaching #4 Hot 100 and #1 R&B, and was their only Grammy nomination. Source: YouTube upload description https://www.youtube.com/watch?v=bjPKcbKBT2s",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "HEAT WAVE Martha & The Vandellas – YouTube",
+                "url": "https://www.youtube.com/watch?v=bjPKcbKBT2s",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R1-Q6",
+          "episodeId": "EP051",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Which Motown girl group holds the distinction of giving the label its first #1 hit on the national pop charts — with their 1961 recording 'Please Mr. Postman'?",
+          "choices": [
+            "Martha Reeves & the Vandellas",
+            "The Velvelettes",
+            "The Supremes",
+            "The Marvelettes"
+          ],
+          "correctIndex": 3,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-marvelettes-please-mr-postman-motown-first-number-one-pop-hit-1961",
+            "artist": "The Marvelettes",
+            "song": "Please Mr. Postman",
+            "album": null,
+            "year": 1961,
+            "topicTags": [
+              "The Marvelettes",
+              "Please Mr. Postman",
+              "Motown",
+              "first pop #1",
+              "1961",
+              "Inkster Michigan"
+            ],
+            "fact": "Five young women from Inkster, Michigan — The Marvelettes — delivered Motown its first pop #1 with 'Please Mr. Postman' in 1961. Before the Supremes, before the Four Tops, it was the Marvelettes who proved what Berry Gordy's label could do.",
+            "storyHook": "Before the Supremes. Before the Four Tops. The Marvelettes — five girls from Inkster, Michigan — gave Motown its first #1 on the pop charts. They never got the credit they deserved.",
+            "sourceNotes": "Verified: The Marvelettes gave Motown its first pop #1 with 'Please Mr. Postman' (1961). Source: Classic Motown https://classic.motown.com/story/marvelettes-please-mr-postman/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Marvelettes 'Please Mr. Postman' – Classic Motown",
+                "url": "https://classic.motown.com/story/marvelettes-please-mr-postman/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R1-B1",
+          "episodeId": "EP051",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Supremes' commercial breakthrough in 1964 — the first in their historic run of five consecutive #1 hits — was which song?",
+          "choices": [
+            "Where Did Our Love Go",
+            "Come See About Me",
+            "Stop! In the Name of Love",
+            "Baby Love"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — THE SUPREMES' BREAKTHROUGH SINGLE"
+          },
+          "metadata": {
+            "factKey": "ep051-song-where-did-our-love-go-supremes-august-1964-first-of-five-consecutive-number-ones",
+            "artist": "The Supremes",
+            "song": "Where Did Our Love Go",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "The Supremes",
+              "Where Did Our Love Go",
+              "1964",
+              "Motown",
+              "five consecutive #1s",
+              "breakthrough"
+            ],
+            "fact": "'Where Did Our Love Go' reached #1 in August 1964 — the first in an unprecedented run of five consecutive Supremes chart-toppers. It was followed by 'Baby Love,' 'Come See About Me,' 'Stop! In the Name of Love,' and 'Back in My Arms Again.'",
+            "storyHook": "August 1964. 'Where Did Our Love Go.' Number one. The start of something that had never happened before in American pop music.",
+            "sourceNotes": "Verified: 'Where Did Our Love Go' was the Supremes' first of five consecutive #1 hits in 1964-1965. Source: The Supremes Wiki https://thesupremes.fandom.com/wiki/Where_Did_Our_Love_Go%3F",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Where Did Our Love Go? – The Supremes Wiki",
+                "url": "https://thesupremes.fandom.com/wiki/Where_Did_Our_Love_Go%3F",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP051-R1-RES1",
+          "episodeId": "EP051",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "When Florence Ballard was removed from the Supremes in 1967, which singer replaced her — arriving directly from Patti LaBelle & the Bluebelles?",
+          "choices": [
+            "Jean Terrell",
+            "Lynda Laurence",
+            "Mary Wilson",
+            "Cindy Birdsong"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-cindy-birdsong-replaced-florence-ballard-supremes-1967-from-patti-labelle-bluebelles",
+            "artist": "The Supremes",
+            "song": null,
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Cindy Birdsong",
+              "Florence Ballard",
+              "The Supremes",
+              "Patti LaBelle & the Bluebelles",
+              "1967",
+              "lineup change"
+            ],
+            "fact": "Cindy Birdsong moved from Patti LaBelle & the Bluebelles to the Supremes in 1967 to replace Florence Ballard — a transition that connected two of the 1960s' most significant girl group stories in a single personnel move.",
+            "storyHook": "Cindy Birdsong left one legendary group to join another. Patti LaBelle & the Bluebelles to the Supremes. 1967.",
+            "sourceNotes": "Verified: Cindy Birdsong replaced Florence Ballard in the Supremes in 1967; she had previously been in Patti LaBelle & the Bluebelles. Source: WBSS Media https://wbssmedia.com/artists/detail/3152",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cindy Birdsong – WBSS Media",
+                "url": "https://wbssmedia.com/artists/detail/3152",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R1-RES2",
+          "episodeId": "EP051",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Shirelles — who handed the Brill Building songwriters their first pop #1 — were formed in which New Jersey city?",
+          "choices": [
+            "Passaic",
+            "Newark",
+            "Trenton",
+            "Camden"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-shirelles-hometown-passaic-new-jersey-origin",
+            "artist": "The Shirelles",
+            "song": null,
+            "album": null,
+            "year": 1957,
+            "topicTags": [
+              "The Shirelles",
+              "Passaic",
+              "New Jersey",
+              "origin",
+              "biography"
+            ],
+            "fact": "The Shirelles formed in Passaic, New Jersey — meeting as high school friends before signing with Florence Greenberg's label and becoming the first girl group to top the Billboard Hot 100.",
+            "storyHook": "Passaic, New Jersey. That's where the Shirelles were from. The first girl group to reach #1 on the Hot 100 came from a working-class New Jersey city most people couldn't find on a map.",
+            "sourceNotes": "Verified: The Shirelles' hometown was Passaic, New Jersey. Source: classicbands.com https://www.classicbands.com/shirelles.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Shirelles – classicbands.com profile",
+                "url": "https://www.classicbands.com/shirelles.html",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R1-RES3",
+          "episodeId": "EP051",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Shirelles recorded their groundbreaking run of early 1960s hits for which independent label?",
+          "choices": [
+            "King",
+            "Vee-Jay",
+            "Scepter Records",
+            "Atlantic"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-label-scepter-records-shirelles-independent-label-florence-greenberg",
+            "artist": "The Shirelles",
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "Scepter Records",
+              "The Shirelles",
+              "independent label",
+              "Florence Greenberg",
+              "1960s"
+            ],
+            "fact": "The Shirelles recorded for Scepter Records — founded by Florence Greenberg, one of the few female record executives of the early 1960s. 'Will You Love Me Tomorrow' was released on Scepter and became the label's commercial anchor.",
+            "storyHook": "Scepter Records. An independent label run by a woman in the early 1960s. Florence Greenberg built it around the Shirelles — and it worked.",
+            "sourceNotes": "Verified: The Shirelles recorded for Scepter Records. Source: Slicethelife https://slicethelife.com/2019/12/14/billboard-1-hits-44-will-you-love-me-tomorrow-the-shirelles-january-30-1961/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Billboard #1 Hits: 'Will You Love Me Tomorrow' – slicethelife",
+                "url": "https://slicethelife.com/2019/12/14/billboard-1-hits-44-will-you-love-me-tomorrow-the-shirelles-january-30-1961/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R1-RES4",
+          "episodeId": "EP051",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Martha Reeves & the Vandellas brought which 1964 recording to the Top 10 — a song conceived as a party anthem that later became one of the decade's most politically resonant recordings?",
+          "choices": [
+            "Dancing in the Street",
+            "Nowhere to Run",
+            "Jimmy Mack",
+            "Quicksand"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-song-dancing-in-the-street-martha-reeves-vandellas-1964-top-10-civil-rights-anthem",
+            "artist": "Martha Reeves & the Vandellas",
+            "song": "Dancing in the Street",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "Martha Reeves & the Vandellas",
+              "Dancing in the Street",
+              "1964",
+              "Motown",
+              "civil rights",
+              "Top 10"
+            ],
+            "fact": "'Dancing in the Street' was a Top 10 hit for Martha Reeves & the Vandellas in 1964 and later became widely interpreted as a civil rights-era anthem — though its creators (Marvin Gaye, William 'Mickey' Stevenson, and Ivy Jo Hunter) conceived it as a straightforward summertime party song.",
+            "storyHook": "They wrote it as a party song. The world turned it into something else. 'Dancing in the Street.' 1964.",
+            "sourceNotes": "Verified: 'Dancing in the Street' was a Top 10 hit in 1964 and was later interpreted as a civil rights anthem. Source: Instagram fact post https://www.instagram.com/p/CgJ5Ecqjmua/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "'Dancing in the Street' is written by Marvin Gaye… – Instagram fact post",
+                "url": "https://www.instagram.com/p/CgJ5Ecqjmua/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The Motown machinery, the personnel decisions, and the human cost of the system.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP051-R2-Q1",
+          "episodeId": "EP051",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Martha Reeves's career at Motown began when she was called in to cover a recording session for which artist — an emergency substitution that led directly to her signing with the label?",
+          "choices": [
+            "Tammi Terrell",
+            "Mary Wells",
+            "Brenda Holloway",
+            "Kim Weston"
+          ],
+          "correctIndex": 1,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-martha-reeves-motown-substituted-mary-wells-session-origin-story",
+            "artist": "Martha Reeves",
+            "song": null,
+            "album": null,
+            "year": 1962,
+            "topicTags": [
+              "Martha Reeves",
+              "Mary Wells",
+              "Motown",
+              "secretary",
+              "origin story",
+              "substitute session"
+            ],
+            "fact": "Martha Reeves was working as a Motown secretary when she was called in to cover a session for Mary Wells. Her vocal performance so impressed the producers that she was signed — one of the most consequential emergency substitutions in soul music history.",
+            "storyHook": "Martha Reeves was a secretary at Motown. Mary Wells didn't show up for a session. Martha stepped in. One substitute vocal performance and the Vandellas exist.",
+            "sourceNotes": "Verified: Martha Reeves substituted for Mary Wells at a Motown session that launched her career. Source: Facebook Motown group post https://www.facebook.com/groups/susancrebello/posts/3850737405210580/ (social media source — fact is consistent with standard Motown biographical accounts)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Supremes, Mary Wells, The Marvelettes, Martha Reeves… – Motown discussion post",
+                "url": "https://www.facebook.com/groups/susancrebello/posts/3850737405210580/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R2-Q2",
+          "episodeId": "EP051",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Which original Supremes member was removed from the group in 1967 — a decision orchestrated by Berry Gordy that became one of Motown's most controversial internal stories?",
+          "choices": [
+            "Barbara Martin",
+            "Florence Ballard",
+            "Betty Kelly",
+            "Mary Wilson"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-florence-ballard-removed-supremes-1967-berry-gordy-controversial",
+            "artist": "The Supremes",
+            "song": null,
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Florence Ballard",
+              "The Supremes",
+              "Berry Gordy",
+              "1967",
+              "lineup change",
+              "Motown"
+            ],
+            "fact": "Florence Ballard was removed from the Supremes in 1967 — replaced by Cindy Birdsong. Ballard filed a lawsuit against Motown and Berry Gordy over her exit and the terms of her financial settlement.",
+            "storyHook": "Florence Ballard helped build the Supremes from the Brewster Housing Projects in Detroit. Berry Gordy removed her in 1967. She filed a lawsuit. She lost.",
+            "sourceNotes": "Verified: Florence Ballard was removed from the Supremes in 1967. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "Florence Ballard died February 22, 1976, at age 32, while receiving public assistance. The question addresses only her forced removal from the Supremes in 1967 — not her death. Handle with appropriate care in live delivery.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Florence Ballard – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Florence_Ballard",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP051-R2-Q3",
+          "episodeId": "EP051",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "In which year did 'Please Mr. Postman' reach #1 on the Billboard pop chart — making it the first Motown recording to top the national charts?",
+          "choices": [
+            "1962",
+            "1963",
+            "1960",
+            "1961"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-song-please-mr-postman-marvelettes-1961-number-one-first-motown-pop-chart-topper",
+            "artist": "The Marvelettes",
+            "song": "Please Mr. Postman",
+            "album": null,
+            "year": 1961,
+            "topicTags": [
+              "The Marvelettes",
+              "Please Mr. Postman",
+              "1961",
+              "Motown",
+              "first pop #1",
+              "Billboard Hot 100"
+            ],
+            "fact": "'Please Mr. Postman' entered the Billboard Hot 100 in September 1961 and climbed to #1 by year's end — the first Motown recording to top the national pop chart.",
+            "storyHook": "September 1961. The Marvelettes enter the chart. By December they're at #1. Motown has its first pop chart-topper — and nobody in the industry saw it coming.",
+            "sourceNotes": "Verified: 'Please Mr. Postman' reached #1 in 1961. Source: Classic Motown https://classic.motown.com/story/marvelettes-please-mr-postman/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Marvelettes 'Please Mr. Postman' – Classic Motown",
+                "url": "https://classic.motown.com/story/marvelettes-please-mr-postman/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R2-Q4",
+          "episodeId": "EP051",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The Marvelettes — who delivered Motown its first pop #1 — came from which Michigan city just outside Detroit?",
+          "choices": [
+            "Ypsilanti",
+            "Pontiac",
+            "Inkster",
+            "Flint"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-marvelettes-hometown-inkster-michigan-inkster-high-school",
+            "artist": "The Marvelettes",
+            "song": null,
+            "album": null,
+            "year": 1961,
+            "topicTags": [
+              "The Marvelettes",
+              "Inkster",
+              "Michigan",
+              "hometown",
+              "biography"
+            ],
+            "fact": "The Marvelettes formed in Inkster, Michigan — a working-class suburb of Detroit. The Classic Motown account describes them as 'five high school girls from Inkster' who coalesced into the group that would hand Berry Gordy his first pop #1.",
+            "storyHook": "Five high school girls from Inkster, Michigan. Not Detroit. Not New York. Inkster. And they gave Motown its first number one.",
+            "sourceNotes": "Verified: The Marvelettes were from Inkster, Michigan. Source: Classic Motown https://classic.motown.com/story/marvelettes-please-mr-postman/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Marvelettes 'Please Mr. Postman' – Classic Motown",
+                "url": "https://classic.motown.com/story/marvelettes-please-mr-postman/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R2-Q5",
+          "episodeId": "EP051",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Which singer was The Marvelettes' original lead vocalist — delivering the iconic opening cry on 'Please Mr. Postman'?",
+          "choices": [
+            "Gladys Horton",
+            "Katherine Anderson",
+            "Wanda Young",
+            "Georgeanna Tillman"
+          ],
+          "correctIndex": 0,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-gladys-horton-marvelettes-original-lead-vocalist-please-mr-postman",
+            "artist": "The Marvelettes",
+            "song": "Please Mr. Postman",
+            "album": null,
+            "year": 1961,
+            "topicTags": [
+              "Gladys Horton",
+              "The Marvelettes",
+              "Please Mr. Postman",
+              "lead vocalist",
+              "1961",
+              "Motown"
+            ],
+            "fact": "Gladys Horton sang lead on 'Please Mr. Postman' — her voice delivering the song's iconic opening cry. The formal writing credits go to Brian Holland, Robert Bateman, Freddie Gorman, Georgia Dobbins, and William Garrett; Horton's contribution was her definitive vocal performance.",
+            "storyHook": "Gladys Horton. That voice. 'Wait! Oh yes, wait a minute mister postman.' She's the reason you remember the song — even if her name is the last one you'd remember.",
+            "sourceNotes": "Verified: Gladys Horton was the Marvelettes' original lead vocalist on 'Please Mr. Postman.' NOTE: Sourcing confirmed she was the lead vocalist (not a co-writer). Formal songwriter credits are Brian Holland, Robert Bateman, Freddie Gorman, Georgia Dobbins, and William Garrett. Earlier draft incorrectly stated co-writing — corrected here. Source: Classic Motown https://classic.motown.com/story/marvelettes-please-mr-postman/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Marvelettes 'Please Mr. Postman' – Classic Motown",
+                "url": "https://classic.motown.com/story/marvelettes-please-mr-postman/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R2-B1",
+          "episodeId": "EP051",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Wanda Young — who took over as The Marvelettes' lead vocalist — later married which member of The Miracles?",
+          "choices": [
+            "Pete Moore",
+            "Ronnie White",
+            "Smokey Robinson",
+            "Bobby Rogers"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE MIRACLE WANDA YOUNG MARRIED"
+          },
+          "metadata": {
+            "factKey": "ep051-artist-wanda-young-marvelettes-married-bobby-rogers-the-miracles-motown-family",
+            "artist": "The Marvelettes / The Miracles",
+            "song": null,
+            "album": null,
+            "year": 1963,
+            "topicTags": [
+              "Wanda Young",
+              "Bobby Rogers",
+              "The Marvelettes",
+              "The Miracles",
+              "Motown",
+              "marriage"
+            ],
+            "fact": "Wanda Young married Bobby Rogers of The Miracles — one of several personal connections that wove the Motown family together during the label's golden era, crossing the boundary between the girl group world and the male vocal group roster.",
+            "storyHook": "Wanda Young of the Marvelettes. Bobby Rogers of the Miracles. Two Motown acts, one marriage. The label really was a family.",
+            "sourceNotes": "Verified: Wanda Young (Marvelettes) married Bobby Rogers (Miracles). Source: The Marvelettes Wikipedia https://en.wikipedia.org/wiki/The_Marvelettes",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Marvelettes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Marvelettes",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP051-R2-RES1",
+          "episodeId": "EP051",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Martha Reeves & the Vandellas released which 1967 recording — shelved since 1964 — that became a Top 10 hit and carried fresh resonance during the Vietnam era?",
+          "choices": [
+            "Come and Get These Memories",
+            "In My Lonely Room",
+            "Quicksand",
+            "Jimmy Mack"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-song-jimmy-mack-martha-reeves-vandellas-recorded-1964-released-1967-top-10",
+            "artist": "Martha Reeves & the Vandellas",
+            "song": "Jimmy Mack",
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Martha Reeves & the Vandellas",
+              "Jimmy Mack",
+              "1967",
+              "1964",
+              "Motown",
+              "Vietnam era",
+              "Top 10"
+            ],
+            "fact": "'Jimmy Mack' was recorded in 1964 but shelved by Motown until 1967, when it was released and became a Top 10 hit. Its story of longing for an absent man took on added resonance with audiences during the Vietnam War.",
+            "storyHook": "Recorded in 1964. Released in 1967. By the time 'Jimmy Mack' finally came out, the country had a very different understanding of what it meant to wait for someone to come home.",
+            "sourceNotes": "Verified: 'Jimmy Mack' was recorded in 1964 and released in 1967, becoming a Top 10 hit. Source: Wikipedia https://en.wikipedia.org/wiki/Jimmy_Mack",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jimmy Mack – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jimmy_Mack",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R2-RES2",
+          "episodeId": "EP051",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "When Diana Ross departed the Supremes for her solo career, which singer stepped in as the group's new lead voice?",
+          "choices": [
+            "Susaye Greene",
+            "Scherrie Payne",
+            "Lynda Laurence",
+            "Jean Terrell"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-jean-terrell-replaced-diana-ross-supremes-1970-new-lead-vocalist",
+            "artist": "The Supremes",
+            "song": null,
+            "album": null,
+            "year": 1970,
+            "topicTags": [
+              "Jean Terrell",
+              "Diana Ross",
+              "The Supremes",
+              "1970",
+              "lineup change",
+              "lead vocalist"
+            ],
+            "fact": "Jean Terrell replaced Diana Ross as the Supremes' lead vocalist in 1970 — giving the group a new era that produced several charting singles despite the enormous commercial shadow of Ross's departure.",
+            "storyHook": "Jean Terrell. She took Diana Ross's place at the front of the Supremes in 1970. Nobody could win that comparison — but she made music that deserved more attention than it got.",
+            "sourceNotes": "Verified: Jean Terrell replaced Diana Ross as Supremes lead in 1970. Source: YouTube https://www.youtube.com/watch?v=CXu99yUOPgg",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jean Terrell: The Woman Who Replaced Diana Ross – YouTube",
+                "url": "https://www.youtube.com/watch?v=CXu99yUOPgg",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R2-RES3",
+          "episodeId": "EP051",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Diana Ross officially departed the Supremes for a solo career in which year?",
+          "choices": [
+            "1968",
+            "1971",
+            "1972",
+            "1970"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-diana-ross-left-supremes-1970-solo-career-final-performance",
+            "artist": "The Supremes",
+            "song": null,
+            "album": null,
+            "year": 1970,
+            "topicTags": [
+              "Diana Ross",
+              "The Supremes",
+              "1970",
+              "solo career",
+              "departure"
+            ],
+            "fact": "Diana Ross's final performance with the Supremes was January 14, 1970. She departed to pursue a solo career and was replaced by Jean Terrell — the end of the group's most commercially dominant era.",
+            "storyHook": "January 14, 1970. Diana Ross's final night as a Supreme. The most dominant chapter in girl group history closed with a farewell show.",
+            "sourceNotes": "Verified: Diana Ross left the Supremes in 1970. Standard biographical knowledge.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Supremes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Supremes",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival connections hiding inside the decade's most celebrated girl group moments.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP051-R3-Q1",
+          "episodeId": "EP051",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Martha Reeves & the Vandellas' 'Dancing in the Street' was co-written by which Motown recording artist — alongside producers William 'Mickey' Stevenson and Ivy Jo Hunter?",
+          "choices": [
+            "Stevie Wonder",
+            "Barrett Strong",
+            "Marvin Gaye",
+            "Eddie Holland"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-song-dancing-in-the-street-marvin-gaye-co-writer-mickey-stevenson-ivy-jo-hunter-1964",
+            "artist": "Martha Reeves & the Vandellas",
+            "song": "Dancing in the Street",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "Marvin Gaye",
+              "Dancing in the Street",
+              "Martha Reeves & the Vandellas",
+              "co-writer",
+              "William Mickey Stevenson",
+              "Ivy Jo Hunter",
+              "1964"
+            ],
+            "fact": "Marvin Gaye co-wrote 'Dancing in the Street' alongside William 'Mickey' Stevenson and Ivy Jo Hunter — a collaboration that produced one of the decade's most enduring recordings from the pen of one of Motown's own recording stars.",
+            "storyHook": "The man who recorded 'What's Going On' co-wrote the song about dancing in the street. Marvin Gaye. Most people have heard 'Dancing in the Street' a thousand times and never knew.",
+            "sourceNotes": "Verified: Marvin Gaye co-wrote 'Dancing in the Street' with William 'Mickey' Stevenson and Ivy Jo Hunter. Source: Instagram fact post https://www.instagram.com/p/CgJ5Ecqjmua/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "'Dancing in the Street' is written by Marvin Gaye… – Instagram fact post",
+                "url": "https://www.instagram.com/p/CgJ5Ecqjmua/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R3-Q2",
+          "episodeId": "EP051",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "The Shirelles recorded for Scepter Records — an independent label founded in 1959 by which pioneering female executive, who had previously run the smaller Tiara Records?",
+          "choices": [
+            "Ruth Bowen",
+            "Vivian Carter",
+            "Florence Greenberg",
+            "Sylvia Robinson"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-label-scepter-records-florence-greenberg-founder-1959-tiara-records-shirelles",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "Florence Greenberg",
+              "Scepter Records",
+              "Tiara Records",
+              "The Shirelles",
+              "female executive",
+              "independent label",
+              "1959"
+            ],
+            "fact": "Florence Greenberg sold her earlier Tiara Records and used the proceeds to found Scepter Records in 1959 — building the label around the Shirelles and making it one of the most commercially significant independents of the early 1960s. She was one of the very few women running a record company at the time.",
+            "storyHook": "Florence Greenberg sold one label to start another. Scepter Records. 1959. A woman running an independent label in the early 1960s — and she made it work.",
+            "sourceNotes": "Verified: Florence Greenberg founded Scepter Records in 1959, having previously run Tiara Records. Source: PopBopRocktilUDrop https://kimsloans.wordpress.com/florence-greenberg/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Florence Greenberg – PopBopRocktilUDrop",
+                "url": "https://kimsloans.wordpress.com/florence-greenberg/",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R3-B1",
+          "episodeId": "EP051",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Following 'Where Did Our Love Go' in August 1964, which song became the Supremes' second consecutive #1 hit — continuing what would become a five-song streak?",
+          "choices": [
+            "Back in My Arms Again",
+            "Stop! In the Name of Love",
+            "Come See About Me",
+            "Baby Love"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "6",
+            "bonusHint": "DIGIT 3 OF 3 — THE SUPREMES' SECOND CONSECUTIVE #1"
+          },
+          "metadata": {
+            "factKey": "ep051-song-baby-love-supremes-october-1964-second-consecutive-number-one",
+            "artist": "The Supremes",
+            "song": "Baby Love",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "The Supremes",
+              "Baby Love",
+              "1964",
+              "five consecutive #1s",
+              "October 1964",
+              "Motown"
+            ],
+            "fact": "'Baby Love' reached #1 in October 1964 — the Supremes' second consecutive chart-topper that year. 'Come See About Me' would follow in December, completing a three-peat in 1964 alone before 'Stop! In the Name of Love' and 'Back in My Arms Again' extended the streak into 1965.",
+            "storyHook": "August. October. December. Three #1 hits in the same year. And then two more in 1965. Five consecutive. The Supremes didn't just have a hot year — they had a hot era.",
+            "sourceNotes": "Verified: 'Baby Love' was the Supremes' second consecutive #1 (October 1964), following 'Where Did Our Love Go' (August 1964). Source: The Supremes Wiki https://thesupremes.fandom.com/wiki/Where_Did_Our_Love_Go%3F",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Where Did Our Love Go? – The Supremes Wiki",
+                "url": "https://thesupremes.fandom.com/wiki/Where_Did_Our_Love_Go%3F",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP051-R3-RES1",
+          "episodeId": "EP051",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Cindy Birdsong — who replaced Florence Ballard in the Supremes in 1967 — had previously been a member of which group?",
+          "choices": [
+            "Patti LaBelle & the Bluebelles",
+            "The Three Degrees",
+            "The Crystals",
+            "The Orlons"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-artist-cindy-birdsong-patti-labelle-bluebelles-before-supremes-1967",
+            "artist": "Cindy Birdsong",
+            "song": null,
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Cindy Birdsong",
+              "Patti LaBelle & the Bluebelles",
+              "The Supremes",
+              "1967",
+              "biography"
+            ],
+            "fact": "Cindy Birdsong had been a member of Patti LaBelle & the Bluebelles before Berry Gordy selected her to replace Florence Ballard — a single career move that connected two of the 1960s' most significant girl group stories.",
+            "storyHook": "Cindy Birdsong was in Patti LaBelle & the Bluebelles. Then Berry Gordy called. She joined the Supremes. Two legendary groups. One woman connecting them.",
+            "sourceNotes": "Verified: Cindy Birdsong was a member of Patti LaBelle & the Bluebelles before joining the Supremes. Source: WBSS Media https://wbssmedia.com/artists/detail/3152",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cindy Birdsong – WBSS Media",
+                "url": "https://wbssmedia.com/artists/detail/3152",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP051-R3-RES2",
+          "episodeId": "EP051",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "After 'Where Did Our Love Go' and 'Baby Love' gave the Supremes back-to-back #1 hits in 1964, which song completed a three-peat to close the year?",
+          "choices": [
+            "Stop! In the Name of Love",
+            "Nothing But Heartaches",
+            "Back in My Arms Again",
+            "Come See About Me"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep051-song-come-see-about-me-supremes-december-1964-third-consecutive-number-one",
+            "artist": "The Supremes",
+            "song": "Come See About Me",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "The Supremes",
+              "Come See About Me",
+              "December 1964",
+              "five consecutive #1s",
+              "Motown"
+            ],
+            "fact": "'Come See About Me' reached #1 in December 1964 — the Supremes' third consecutive chart-topper of the year. The streak would reach five with 'Stop! In the Name of Love' and 'Back in My Arms Again' following in early 1965.",
+            "storyHook": "Three #1s in one year. 'Come See About Me' closed out 1964. Two more would follow in 1965. Five consecutive. No American group had done it before.",
+            "sourceNotes": "Verified: 'Come See About Me' reached #1 in December 1964 as the Supremes' third consecutive #1. Source: The Supremes Wiki https://thesupremes.fandom.com/wiki/Where_Did_Our_Love_Go%3F",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Where Did Our Love Go? – The Supremes Wiki",
+                "url": "https://thesupremes.fandom.com/wiki/Where_Did_Our_Love_Go%3F",
+                "accessed": "2026-06-12"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-12",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-12T15:15:50.085687+00:00"
+  }
+}

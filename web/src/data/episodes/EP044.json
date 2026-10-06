@@ -1,0 +1,1547 @@
+{
+  "episodeId": "EP044",
+  "title": "Breakup to Makeup",
+  "theme": "The push-pull of R&B love. From Al Green's fervent plea to stay together to the Stylistics' anguished cycle of breaking apart and finding their way back. Soul music always understood this better than any other genre.",
+  "narrativePurpose": "Test knowledge of the soul and R&B records built around relationships under pressure — the songs about staying, leaving, begging, stepping back, and reuniting — and the producers, labels, and artists who made them.",
+  "toneProgression": "The love songs everyone knows → the writers, producers, and label stories behind the hits → the archival connections that reveal how Philadelphia soul and its peers built the emotional architecture of 1970s R&B",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "3"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-7-3 — the year The Stylistics' 'Break Up to Make Up' crystallized Philadelphia soul's emotional center, Diana Ross pleaded for one more morning in 'Touch Me in the Morning,' and Marvin Gaye invited the world to 'Let's Get It On.' 1973: the year R&B made peace with the push-pull of love."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The love songs and relationship anthems that defined the era. The records everyone knows.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP044-R1-Q1",
+          "episodeId": "EP044",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Al Green's 1972 classic 'Let's Stay Together' — one of soul music's most fervent anti-breakup anthems — was recorded for which Memphis-based label?",
+          "choices": [
+            "Motown",
+            "Stax",
+            "Hi Records",
+            "Atlantic"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-al-green-lets-stay-together-hi-records-memphis",
+            "artist": "Al Green",
+            "song": "Let's Stay Together",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Al Green",
+              "Let's Stay Together",
+              "Hi Records",
+              "Memphis",
+              "1972"
+            ],
+            "fact": "'Let's Stay Together' was produced and recorded by Willie Mitchell for Hi Records. It reached #1 on the Billboard Hot 100 in early 1972.",
+            "storyHook": "Memphis. Hi Records. Willie Mitchell behind the board. Al Green asking you not to go.",
+            "sourceNotes": "Verified: 'Let's Stay Together' was released on Hi Records. Sources: Wikipedia https://en.wikipedia.org/wiki/Let%27s_Stay_Together_(Al_Green_song), Wikipedia album page https://en.wikipedia.org/wiki/Let%27s_Stay_Together_(Al_Green_album)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Let's Stay Together (Al Green song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Let%27s_Stay_Together_(Al_Green_song)",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "Let's Stay Together (Al Green album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Let%27s_Stay_Together_(Al_Green_album)",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R1-Q2",
+          "episodeId": "EP044",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Harold Melvin & the Blue Notes' 1972 classic 'If You Don't Know Me By Now' — despite the group's name — featured lead vocals from which singer?",
+          "choices": [
+            "Harold Melvin",
+            "Teddy Pendergrass",
+            "Bobby Blue Bland",
+            "Lloyd Parks"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-harold-melvin-blue-notes-if-you-dont-know-me-teddy-pendergrass-lead",
+            "artist": "Harold Melvin & the Blue Notes",
+            "song": "If You Don't Know Me By Now",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Harold Melvin & the Blue Notes",
+              "Teddy Pendergrass",
+              "If You Don't Know Me By Now",
+              "Philadelphia International",
+              "1972"
+            ],
+            "fact": "Despite the group's name, Harold Melvin did not sing lead. Teddy Pendergrass was the featured vocalist on their biggest hits including 'If You Don't Know Me By Now.'",
+            "storyHook": "The group was named after a man who didn't sing lead. Teddy Pendergrass carried the weight — and everyone in the room felt it.",
+            "sourceNotes": "Verified: Teddy Pendergrass sang lead on 'If You Don't Know Me By Now.' Source: Facebook video https://www.facebook.com/vintageaaeverything/videos/harold-melvin-the-blue-notes-ft-teddy-pendergrassif-you-dont-know-me-by-now1",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Harold Melvin & The Blue Notes ft. Teddy Pendergrass – 'If You Don't Know Me By Now'",
+                "url": "https://www.facebook.com/vintageaaeverything/videos/harold-melvin-the-blue-notes-ft-teddy-pendergrassif-you-dont-know-me-by-now1",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R1-Q3",
+          "episodeId": "EP044",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Stylistics — whose 'Break Up to Make Up' became a Philadelphia soul landmark in 1973 — were signed to which label during their commercial peak?",
+          "choices": [
+            "Philadelphia International",
+            "Atlantic",
+            "Avco",
+            "Columbia"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-stylistics-break-up-to-make-up-avco-records-label",
+            "artist": "The Stylistics",
+            "song": "Break Up to Make Up",
+            "album": null,
+            "year": 1973,
+            "topicTags": [
+              "The Stylistics",
+              "Break Up to Make Up",
+              "Avco Records",
+              "Philadelphia soul",
+              "1973"
+            ],
+            "fact": "The Stylistics were signed to Avco Records (also known as Avco Embassy) during their early 1970s commercial peak — releasing 'Betcha by Golly Wow,' 'Break Up to Make Up,' and 'You Make Me Feel Brand New' on the label.",
+            "storyHook": "Not Philadelphia International. Not Atlantic. Avco Records. The Stylistics built one of the decade's great catalogs on a smaller label.",
+            "sourceNotes": "Verified: 'Break Up to Make Up' was released on Avco Records Corp. Source: Spotify track metadata https://open.spotify.com/track/5Vgx4jtn7Xf7KEIogHIcCZ",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Break Up To Make Up – The Stylistics (Spotify track metadata)",
+                "url": "https://open.spotify.com/track/5Vgx4jtn7Xf7KEIogHIcCZ",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R1-Q4",
+          "episodeId": "EP044",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Spinners' 1972 hit 'I'll Be Around' — a song about gracefully stepping back from a relationship — was produced by which architect of the Philadelphia soft soul sound?",
+          "choices": [
+            "Norman Whitfield",
+            "Kenny Gamble",
+            "Thom Bell",
+            "Leon Huff"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-spinners-ill-be-around-thom-bell-producer",
+            "artist": "The Spinners",
+            "song": "I'll Be Around",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "The Spinners",
+              "I'll Be Around",
+              "Thom Bell",
+              "Atlantic Records",
+              "Philadelphia soul",
+              "1972"
+            ],
+            "fact": "Thom Bell wrote and produced 'I'll Be Around,' transforming The Spinners after they signed to Atlantic Records. The song reached #3 on the Billboard Hot 100.",
+            "storyHook": "Thom Bell saw something in The Spinners that Motown had missed. 'I'll Be Around' proved him right.",
+            "sourceNotes": "Verified: 'I'll Be Around' produced by Thom Bell. Source: Wikipedia https://en.wikipedia.org/wiki/I%27ll_Be_Around_(The_Spinners_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I'll Be Around (The Spinners song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I%27ll_Be_Around_(The_Spinners_song)",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "production",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R1-Q5",
+          "episodeId": "EP044",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The O'Jays — one of Philadelphia International's signature acts — took their group name in honor of which Cleveland disc jockey who championed their early career?",
+          "choices": [
+            "Frankie Crocker",
+            "Alan Freed",
+            "Eddie O'Jay",
+            "Jocko Henderson"
+          ],
+          "correctIndex": 2,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-group-ojays-named-after-eddie-ojay-cleveland-dj",
+            "artist": "The O'Jays",
+            "song": null,
+            "album": null,
+            "year": 1963,
+            "topicTags": [
+              "The O'Jays",
+              "Eddie O'Jay",
+              "Cleveland",
+              "DJ",
+              "group name",
+              "Philadelphia International"
+            ],
+            "fact": "By 1963, the group renamed themselves The O'Jays as a tribute to Cleveland radio DJ Eddie O'Jay, who had championed their early career and served as a mentor.",
+            "storyHook": "A Cleveland DJ gave them his name. They gave it back to him every time someone played 'Back Stabbers.'",
+            "sourceNotes": "Verified: The O'Jays named themselves after Eddie O'Jay. Source: The O'Jays official Facebook band history post https://www.facebook.com/themightyojays/posts/the-year-was-1958-in-the-small-town-of-canton-ohio-we-hadnt-settled-into-the-nam/1",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The O'Jays – band history post",
+                "url": "https://www.facebook.com/themightyojays/posts/the-year-was-1958-in-the-small-town-of-canton-ohio-we-hadnt-settled-into-the-nam/1",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R1-Q6",
+          "episodeId": "EP044",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Diana Ross's 1973 farewell ballad 'Touch Me in the Morning' — which reached #1 on the Billboard Hot 100 — was co-written by which prolific songwriter and producer?",
+          "choices": [
+            "Ashford and Simpson",
+            "Kenny Gamble",
+            "Thom Bell",
+            "Michael Masser"
+          ],
+          "correctIndex": 3,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-diana-ross-touch-me-in-the-morning-michael-masser-co-writer",
+            "artist": "Diana Ross",
+            "song": "Touch Me in the Morning",
+            "album": null,
+            "year": 1973,
+            "topicTags": [
+              "Diana Ross",
+              "Touch Me in the Morning",
+              "Michael Masser",
+              "Ronald Miller",
+              "1973"
+            ],
+            "fact": "'Touch Me in the Morning' was written by Michael Masser and Ronald Miller and produced by Masser and Tom Baird. It became Diana Ross's second solo #1 on the Hot 100 in 1973.",
+            "storyHook": "A song about accepting the end. Diana Ross, Michael Masser, Ronald Miller — and a goodbye so graceful it reached number one.",
+            "sourceNotes": "Verified: 'Touch Me in the Morning' written by Ronald Miller and Michael Masser. Source: Wikipedia https://en.wikipedia.org/wiki/Touch_Me_in_the_Morning_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Touch Me in the Morning (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Touch_Me_in_the_Morning_(song)",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R1-B1",
+          "episodeId": "EP044",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Philadelphia International Records' house orchestra — MFSB — played on nearly every PIR recording. What did MFSB stand for?",
+          "choices": [
+            "Music Funk Soul Brotherhood",
+            "Mother Father Sister Brother",
+            "Motown Family Sound Band",
+            "Memphis Funk Soul Band"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — MFSB STANDS FOR"
+          },
+          "metadata": {
+            "factKey": "ep044-group-mfsb-mother-father-sister-brother-philadelphia-international",
+            "artist": "MFSB",
+            "song": null,
+            "album": null,
+            "year": 1970,
+            "topicTags": [
+              "MFSB",
+              "Mother Father Sister Brother",
+              "Philadelphia International Records",
+              "Kenny Gamble",
+              "Leon Huff"
+            ],
+            "fact": "Per Gamble and Huff, MFSB stood for 'Mother Father Sister Brother' — the family-oriented name reflecting the tight-knit community of Philadelphia International's house musicians.",
+            "storyHook": "A house band with a family name. MFSB played on every hit and never got the credit they deserved.",
+            "sourceNotes": "Verified: MFSB stands for Mother Father Sister Brother. Source: Facebook band profile https://www.facebook.com/manhattan.funk/posts/mfsb-mother-father-sister-brother-collectif-embl%C3%A9matique-de-musiciens-de-stud",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "MFSB (Mother Father Sister Brother) – band profile",
+                "url": "https://www.facebook.com/manhattan.funk/posts/mfsb-mother-father-sister-brother-collectif-embl%C3%A9matique-de-musiciens-de-stud",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP044-R1-RES1",
+          "episodeId": "EP044",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Al Green's run of early 1970s soul classics — including 'Let's Stay Together' — were co-written and produced by which Hi Records figure who shaped the entire sound of Green's peak era?",
+          "choices": [
+            "Chips Moman",
+            "Don Davis",
+            "Willie Mitchell",
+            "Jim Stewart"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-al-green-lets-stay-together-willie-mitchell-co-writer-producer",
+            "artist": "Al Green",
+            "song": "Let's Stay Together",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Al Green",
+              "Willie Mitchell",
+              "Hi Records",
+              "Let's Stay Together",
+              "Memphis"
+            ],
+            "fact": "Willie Mitchell co-wrote 'Let's Stay Together' with Al Green and Al Jackson Jr. and produced the entire record. He shaped Al Green's sound throughout the early 1970s.",
+            "storyHook": "Without Willie Mitchell, there's no 'Let's Stay Together.' Without 'Let's Stay Together,' there's a hole in the 1970s.",
+            "sourceNotes": "Verified: Willie Mitchell co-wrote and produced 'Let's Stay Together.' Sources: Wikipedia https://en.wikipedia.org/wiki/Let%27s_Stay_Together_(Al_Green_song), Facebook note https://www.facebook.com/AlessioRomaofficial/posts/lets-stay-together-is-a-1971-song-written-by-willie-mitchell-and-al-jackson-j",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Let's Stay Together (Al Green song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Let%27s_Stay_Together_(Al_Green_song)",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "'Let's Stay Together' is a 1971 song written by Willie Mitchell and Al Jackson Jr. – Facebook note",
+                "url": "https://www.facebook.com/AlessioRomaofficial/posts/lets-stay-together-is-a-1971-song-written-by-willie-mitchell-and-al-jackson-j",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "production",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R1-RES2",
+          "episodeId": "EP044",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Roberta Flack's 1972 hit 'The First Time Ever I Saw Your Face' reached #1 on the Billboard Hot 100 after being featured on the soundtrack of which Clint Eastwood film?",
+          "choices": [
+            "The Enforcer",
+            "Play Misty for Me",
+            "High Plains Drifter",
+            "Dirty Harry"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-roberta-flack-first-time-ever-i-saw-your-face-play-misty-for-me-eastwood",
+            "artist": "Roberta Flack",
+            "song": "The First Time Ever I Saw Your Face",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Roberta Flack",
+              "The First Time Ever I Saw Your Face",
+              "Play Misty for Me",
+              "Clint Eastwood",
+              "1972"
+            ],
+            "fact": "'The First Time Ever I Saw Your Face' was featured in Clint Eastwood's 1971 directorial debut 'Play Misty for Me,' which brought the song to mainstream attention and helped propel it to #1 in 1972.",
+            "storyHook": "An old folk song. A Clint Eastwood film. And one of the most intimate performances in the history of recorded music.",
+            "sourceNotes": "Verified: Featured in Clint Eastwood's 'Play Misty for Me.' Source: Roberta Flack official Facebook post https://www.facebook.com/robertaflackmusic/posts/the-unmistakable-song-that-accompanied-clinteastwood-s-directorial-debut-in-197",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Roberta Flack – post on 'The First Time Ever I Saw Your Face'",
+                "url": "https://www.facebook.com/robertaflackmusic/posts/the-unmistakable-song-that-accompanied-clinteastwood-s-directorial-debut-in-197",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R1-RES3",
+          "episodeId": "EP044",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Barry White — whose deep bass-baritone voice and orchestral arrangements made him the defining sound of romantic soul in the 1970s — grew up in which Los Angeles neighborhood?",
+          "choices": [
+            "Watts",
+            "East LA",
+            "Baldwin Hills",
+            "Compton"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-artist-barry-white-grew-up-watts-los-angeles",
+            "artist": "Barry White",
+            "song": null,
+            "album": null,
+            "year": 1944,
+            "topicTags": [
+              "Barry White",
+              "Watts",
+              "Los Angeles",
+              "biography"
+            ],
+            "fact": "Barry White grew up in the Watts neighborhood of South Central Los Angeles — an experience that shaped his early musical life.",
+            "storyHook": "Watts gave Barry White his foundation. He turned it into one of the most distinctive sounds in the history of R&B.",
+            "sourceNotes": "Verified: Barry White grew up in Watts, Los Angeles. Source: Wikipedia https://en.wikipedia.org/wiki/Barry_White",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Barry White – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Barry_White",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R1-RES4",
+          "episodeId": "EP044",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Barry White's female vocal trio Love Unlimited — whom he produced and managed — had their biggest hit with which 1972 R&B recording?",
+          "choices": [
+            "Stormy Weather",
+            "I Can't Stand the Rain",
+            "Whatcha See Is Whatcha Get",
+            "Walking in the Rain (with the One I Love)"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-love-unlimited-walking-in-the-rain-barry-white-biggest-hit",
+            "artist": "Love Unlimited",
+            "song": "Walking in the Rain (with the One I Love)",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Love Unlimited",
+              "Walking in the Rain",
+              "Barry White",
+              "1972"
+            ],
+            "fact": "'Walking in the Rain (with the One I Love)' was Love Unlimited's breakthrough hit, reaching the US Top 20 in 1972 and establishing Barry White as a force in R&B production.",
+            "storyHook": "Before Barry White became 'Barry White,' Love Unlimited gave him his first #. Walking in the rain never sounded so luxurious.",
+            "sourceNotes": "Verified: 'Walking in the Rain (with the One I Love)' was Love Unlimited's biggest hit. Source: YouTube performance clip https://www.youtube.com/watch?v=r8bjivqlwkU",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Love Unlimited – performance clip and bio",
+                "url": "https://www.youtube.com/watch?v=r8bjivqlwkU",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The writers, producers, label mechanics, and personnel behind the relationship records.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP044-R2-Q1",
+          "episodeId": "EP044",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Harold Melvin & the Blue Notes' 'Don't Leave Me This Way' (1975) was later covered by which artist, whose 1977 disco version became a #1 hit on the Billboard Hot 100?",
+          "choices": [
+            "Diana Ross",
+            "Gloria Gaynor",
+            "Donna Summer",
+            "Thelma Houston"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-dont-leave-me-this-way-thelma-houston-1977-number-1-cover",
+            "artist": "Thelma Houston",
+            "song": "Don't Leave Me This Way",
+            "album": null,
+            "year": 1977,
+            "topicTags": [
+              "Thelma Houston",
+              "Don't Leave Me This Way",
+              "Harold Melvin & the Blue Notes",
+              "disco",
+              "1977",
+              "Hot 100"
+            ],
+            "fact": "Thelma Houston's 1977 disco recording of 'Don't Leave Me This Way' became a #1 hit on the Billboard Hot 100 and one of the era's defining disco records.",
+            "storyHook": "Harold Melvin made it a soul ballad. Thelma Houston made it a dance floor classic. The song survived both — brilliantly.",
+            "sourceNotes": "Verified: Thelma Houston's version of 'Don't Leave Me This Way' reached #1 on the Billboard Hot 100 in 1977. Source: Billboard chart history https://www.billboard.com/artist/thelma-houston/chart-history/hsi/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Don't Leave Me This Way – Thelma Houston chart history (Billboard)",
+                "url": "https://www.billboard.com/artist/thelma-houston/chart-history/hsi/",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R2-Q2",
+          "episodeId": "EP044",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Spinners spent years at Motown without mainstream success. During their Motown tenure, their 1970 single 'It's a Shame' was written and produced by which artist?",
+          "choices": [
+            "Marvin Gaye",
+            "Smokey Robinson",
+            "Berry Gordy",
+            "Stevie Wonder"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-spinners-its-a-shame-stevie-wonder-motown-writer-producer",
+            "artist": "The Spinners",
+            "song": "It's a Shame",
+            "album": null,
+            "year": 1970,
+            "topicTags": [
+              "The Spinners",
+              "It's a Shame",
+              "Stevie Wonder",
+              "Motown",
+              "1970"
+            ],
+            "fact": "Stevie Wonder wrote and produced 'It's a Shame' for The Spinners in 1970 during their Motown tenure. Despite the song's success, the group moved to Atlantic Records shortly after, where Thom Bell transformed them.",
+            "storyHook": "Stevie Wonder wrote them a hit at Motown. Then they left — and got even bigger at Atlantic.",
+            "sourceNotes": "Verified: 'It's a Shame' was written and produced by Stevie Wonder for The Spinners. Source: Wikipedia https://en.wikipedia.org/wiki/I%27ll_Be_Around_(The_Spinners_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I'll Be Around (The Spinners song) – Wikipedia (Spinners history section)",
+                "url": "https://en.wikipedia.org/wiki/I%27ll_Be_Around_(The_Spinners_song)",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "It's a Shame – The Spinners Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/It%27s_a_Shame_(The_Spinners_song)",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "production",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R2-Q3",
+          "episodeId": "EP044",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Philadelphia International Records — home of Harold Melvin & the Blue Notes, The O'Jays, and MFSB — was distributed by which major label, giving Gamble and Huff national commercial reach?",
+          "choices": [
+            "CBS Records",
+            "Warner Bros.",
+            "RCA",
+            "Capitol"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-label-philadelphia-international-records-cbs-records-distribution",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Philadelphia International Records",
+              "CBS Records",
+              "Kenny Gamble",
+              "Leon Huff",
+              "distribution",
+              "1971"
+            ],
+            "fact": "Philadelphia International Records was distributed by CBS Records (Columbia), a partnership that gave Gamble and Huff's operation the national infrastructure to turn Philadelphia soul into a commercial powerhouse.",
+            "storyHook": "Gamble and Huff had the sound. CBS had the reach. Together they built Philadelphia International into one of the most important labels in R&B history.",
+            "sourceNotes": "Verified: Philadelphia International Records was distributed by CBS Records. Source: Wikipedia https://en.wikipedia.org/wiki/Philadelphia_International_Records",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Philadelphia International Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Philadelphia_International_Records",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R2-Q4",
+          "episodeId": "EP044",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Let's Stay Together' was co-written by Al Green and Willie Mitchell alongside which drummer — also known for his work as a member of Booker T. & the MGs?",
+          "choices": [
+            "Al Jackson Jr.",
+            "Roger Hawkins",
+            "Isaac Hayes",
+            "Clyde Stubblefield"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-lets-stay-together-al-jackson-jr-co-writer-booker-t-mgs",
+            "artist": "Al Green",
+            "song": "Let's Stay Together",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Al Jackson Jr.",
+              "Let's Stay Together",
+              "Al Green",
+              "Willie Mitchell",
+              "Booker T. & the MGs",
+              "Hi Records"
+            ],
+            "fact": "Al Jackson Jr. co-wrote 'Let's Stay Together' with Al Green and Willie Mitchell. Jackson was Hi Records' house drummer and also the drummer for Booker T. & the MGs.",
+            "storyHook": "The drummer for Booker T. & the MGs co-wrote one of Al Green's greatest songs. Al Jackson Jr. was everywhere the music mattered.",
+            "sourceNotes": "Verified: Al Jackson Jr. is listed as a co-writer of 'Let's Stay Together.' Source: Wikipedia https://en.wikipedia.org/wiki/Let%27s_Stay_Together_(Al_Green_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Let's Stay Together (Al Green song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Let%27s_Stay_Together_(Al_Green_song)",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R2-Q5",
+          "episodeId": "EP044",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Stylistics' distinctive sound was built around the soaring lead vocals of which singer, whose high falsetto became one of the most recognizable voices in Philadelphia soul?",
+          "choices": [
+            "Russell Thompkins Jr.",
+            "James Smith",
+            "Airrion Love",
+            "Herb Murrell"
+          ],
+          "correctIndex": 0,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-artist-russell-thompkins-jr-stylistics-lead-vocalist-falsetto",
+            "artist": "The Stylistics",
+            "song": null,
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Russell Thompkins Jr.",
+              "The Stylistics",
+              "falsetto",
+              "Philadelphia soul",
+              "lead vocalist"
+            ],
+            "fact": "Russell Thompkins Jr.'s high falsetto lead vocal was the defining sound of The Stylistics throughout their commercial peak in the early 1970s.",
+            "storyHook": "One of the highest, most recognizable voices in soul music history. Russell Thompkins Jr. made 'Break Up to Make Up' sound like it hurt — because it did.",
+            "sourceNotes": "Verified: Russell Thompkins Jr. was the Stylistics' lead vocalist. Source: Wikipedia https://en.wikipedia.org/wiki/The_Stylistics",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Stylistics – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Stylistics",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R2-B1",
+          "episodeId": "EP044",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "MFSB's 'TSOP (The Sound of Philadelphia)' — which hit #1 on the Billboard Hot 100 in 1974 — served as the theme song for which iconic weekly TV program?",
+          "choices": [
+            "Soul Train",
+            "American Bandstand",
+            "In Concert",
+            "The Midnight Special"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — PHILADELPHIA SOUL'S TV HOME"
+          },
+          "metadata": {
+            "factKey": "ep044-song-mfsb-tsop-sound-of-philadelphia-soul-train-theme",
+            "artist": "MFSB",
+            "song": "TSOP (The Sound of Philadelphia)",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "MFSB",
+              "TSOP",
+              "Soul Train",
+              "Philadelphia International",
+              "1974",
+              "Hot 100"
+            ],
+            "fact": "'TSOP (The Sound of Philadelphia)' served as the theme song for Soul Train, Don Cornelius's iconic TV show. It reached #1 on the Billboard Hot 100 in 1974.",
+            "storyHook": "Every Saturday morning, TSOP told you it was time. Soul Train was on. The most important music show in Black America.",
+            "sourceNotes": "Verified: 'TSOP' was the Soul Train theme and reached #1. Source: Wikipedia https://en.wikipedia.org/wiki/TSOP_(The_Sound_of_Philadelphia)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TSOP (The Sound of Philadelphia) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/TSOP_(The_Sound_of_Philadelphia)",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP044-R2-RES1",
+          "episodeId": "EP044",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "MFSB's 'TSOP (The Sound of Philadelphia)' featured lead vocals from which Philadelphia International female trio?",
+          "choices": [
+            "The Pointer Sisters",
+            "Labelle",
+            "The Three Degrees",
+            "First Choice"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-tsop-three-degrees-vocals-philadelphia-international",
+            "artist": "MFSB feat. The Three Degrees",
+            "song": "TSOP (The Sound of Philadelphia)",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "MFSB",
+              "The Three Degrees",
+              "TSOP",
+              "Philadelphia International",
+              "vocals"
+            ],
+            "fact": "The Three Degrees provided the lead vocals on 'TSOP,' including the famous 'Soul Train' chant — another example of Philadelphia International's tight internal ecosystem.",
+            "storyHook": "MFSB supplied the groove. The Three Degrees supplied the voice. Philadelphia International supplied everything else.",
+            "sourceNotes": "Verified: The Three Degrees provided vocals on 'TSOP.' Source: Wikipedia https://en.wikipedia.org/wiki/TSOP_(The_Sound_of_Philadelphia)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TSOP (The Sound of Philadelphia) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/TSOP_(The_Sound_of_Philadelphia)",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R2-RES2",
+          "episodeId": "EP044",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Before producing The Stylistics and The Spinners, Thom Bell first developed his signature lush orchestral soft soul sound working with which late-1960s Philadelphia vocal group?",
+          "choices": [
+            "The Intruders",
+            "The Delfonics",
+            "The Spinners",
+            "The Dramatics"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-artist-thom-bell-delfonics-early-philadelphia-soul-production",
+            "artist": "The Delfonics",
+            "song": null,
+            "album": null,
+            "year": 1968,
+            "topicTags": [
+              "Thom Bell",
+              "The Delfonics",
+              "Philadelphia soul",
+              "production",
+              "late 1960s"
+            ],
+            "fact": "Thom Bell established his signature sound producing The Delfonics in the late 1960s — the lush orchestral arrangements and falsetto-driven vocals he pioneered there became the template for his Stylistics and Spinners work.",
+            "storyHook": "The Delfonics came first. Everything Thom Bell would do with The Stylistics and The Spinners started with them.",
+            "sourceNotes": "Verified: Thom Bell developed his Philadelphia soft soul sound producing The Delfonics. Source: Ace Records liner notes https://acerecords.co.uk/keep-on-pushingpeople-get-ready",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Keep On Pushing / People Get Ready – notes on Thom Bell's contemporaries",
+                "url": "https://acerecords.co.uk/keep-on-pushingpeople-get-ready",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "The Delfonics – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Delfonics",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "production",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R2-RES3",
+          "episodeId": "EP044",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Teddy Pendergrass launched his solo career in 1977 after leaving Harold Melvin & the Blue Notes. His first five solo studio albums all achieved which milestone on the Billboard R&B albums chart?",
+          "choices": [
+            "Top 10",
+            "Top 5",
+            "Top 3",
+            "Reached #1"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-artist-teddy-pendergrass-five-solo-number-1-rb-albums",
+            "artist": "Teddy Pendergrass",
+            "song": null,
+            "album": null,
+            "year": 1977,
+            "topicTags": [
+              "Teddy Pendergrass",
+              "solo career",
+              "R&B albums chart",
+              "#1",
+              "Billboard"
+            ],
+            "fact": "All five of Teddy Pendergrass's first solo studio albums reached #1 on the Billboard R&B albums chart — one of the most dominant chart runs in the format's history.",
+            "storyHook": "Five solo albums. Five number ones on the R&B chart. Teddy Pendergrass didn't just leave Harold Melvin — he left and immediately became a phenomenon.",
+            "sourceNotes": "Verified: Teddy Pendergrass's first five solo albums all reached #1 on the R&B albums chart. Source: Billboard chart history https://www.billboard.com/artist/teddy-pendergrass/chart-history/blp/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Teddy Pendergrass – R&B albums chart history (Billboard)",
+                "url": "https://www.billboard.com/artist/teddy-pendergrass/chart-history/blp/",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival connections, songwriter lineages, and industry decisions that only devoted students of the era know.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP044-R3-Q1",
+          "episodeId": "EP044",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Linda Creed — who co-wrote 'Break Up to Make Up' and 'You Make Me Feel Brand New' with Thom Bell — also wrote the lyrics to which song that became a #1 hit for Whitney Houston in 1986?",
+          "choices": [
+            "Greatest Love of All",
+            "I Wanna Dance with Somebody",
+            "Saving All My Love for You",
+            "How Will I Know"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-linda-creed-greatest-love-of-all-whitney-houston-thom-bell-connection",
+            "artist": "Linda Creed / Whitney Houston",
+            "song": "Greatest Love of All",
+            "album": null,
+            "year": 1986,
+            "topicTags": [
+              "Linda Creed",
+              "Greatest Love of All",
+              "Whitney Houston",
+              "Thom Bell",
+              "Michael Masser",
+              "1986"
+            ],
+            "fact": "Linda Creed wrote the lyrics to 'Greatest Love of All' — originally recorded by George Benson in 1977 for the Muhammad Ali biopic 'The Greatest.' Whitney Houston's 1986 cover became a #1 hit. Creed died of breast cancer the same year at age 37.",
+            "storyHook": "The woman who co-wrote 'Break Up to Make Up' also wrote the lyrics to one of Whitney Houston's signature songs. Linda Creed's reach extended further than most people ever knew.",
+            "sourceNotes": "Verified: Linda Creed wrote lyrics to 'Greatest Love of All'; Whitney Houston's version reached #1 in 1986. Sources: Greatest Love of All Wikipedia https://en.wikipedia.org/wiki/The_Greatest_Love_of_All, Billboard chart history https://www.billboard.com/artist/whitney-houston/chart-history/hsi/",
+            "clipCue": "",
+            "hostNote": "Linda Creed's death from breast cancer is noted in the fact line — flagged HOST_SENSITIVITY for production tone awareness. The question itself is archival, not exploitative.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Greatest Love of All – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Greatest_Love_of_All",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "Whitney Houston – Greatest Love of All chart history (Billboard)",
+                "url": "https://www.billboard.com/artist/whitney-houston/chart-history/hsi/",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-29",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP044-R3-Q2",
+          "episodeId": "EP044",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Peaches & Herb's 1978 comeback hit 'Reunited' — one of R&B's most jubilant return-to-love anthems — was co-written and produced by which hitmaker who had previously worked with The Jackson 5 at Motown?",
+          "choices": [
+            "Thom Bell",
+            "Freddie Perren",
+            "Quincy Jones",
+            "Leon Huff"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-peaches-herb-reunited-freddie-perren-producer-jackson-5-motown",
+            "artist": "Peaches & Herb",
+            "song": "Reunited",
+            "album": null,
+            "year": 1978,
+            "topicTags": [
+              "Peaches & Herb",
+              "Reunited",
+              "Freddie Perren",
+              "Jackson 5",
+              "Motown",
+              "1978"
+            ],
+            "fact": "'Reunited' was co-written and produced by Freddie Perren, who had previously co-written 'I'll Be There,' 'The Love You Save,' and other Jackson 5 hits during his Motown tenure.",
+            "storyHook": "Freddie Perren wrote Jackson 5 hits for Motown. Then he wrote 'Reunited' for Peaches & Herb. The man could do tender and triumphant with equal ease.",
+            "sourceNotes": "Verified: Freddie Perren co-wrote and produced 'Reunited'; his Jackson 5/Motown connection is documented. Sources: Wikipedia https://en.wikipedia.org/wiki/Reunited_(Peaches_%26_Herb_song), Wikipedia https://en.wikipedia.org/wiki/Freddie_Perren",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Reunited – Peaches & Herb song credits – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Reunited_(Peaches_%26_Herb_song)",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "Freddie Perren – producer biography – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Freddie_Perren",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "production",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R3-B1",
+          "episodeId": "EP044",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Linda Creed and Michael Masser wrote 'Greatest Love of All' for a 1977 biographical film. That film depicted the life of which subject?",
+          "choices": [
+            "Sugar Ray Robinson",
+            "Jackie Robinson",
+            "Muhammad Ali",
+            "Diana Ross"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "7",
+            "bonusHint": "DIGIT 3 OF 3 — THE GREATEST LOVE'S GREATEST SUBJECT"
+          },
+          "metadata": {
+            "factKey": "ep044-song-greatest-love-of-all-the-greatest-1977-film-muhammad-ali",
+            "artist": "Linda Creed / Michael Masser",
+            "song": "Greatest Love of All",
+            "album": null,
+            "year": 1977,
+            "topicTags": [
+              "Greatest Love of All",
+              "Muhammad Ali",
+              "The Greatest",
+              "1977",
+              "Linda Creed",
+              "Michael Masser",
+              "George Benson"
+            ],
+            "fact": "'Greatest Love of All' was written for 'The Greatest' (1977), a biographical film about Muhammad Ali in which Ali portrayed himself. George Benson's recording was used on the soundtrack; Whitney Houston's 1986 cover became the definitive pop version.",
+            "storyHook": "A song about inner strength, written for the most famous fighter in the world. Muhammad Ali starred in the film. Linda Creed wrote the words. Whitney Houston made it immortal.",
+            "sourceNotes": "Verified: 'Greatest Love of All' written for 'The Greatest' (1977), a Muhammad Ali biopic. Source: Wikipedia https://en.wikipedia.org/wiki/The_Greatest_(1977_film)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Greatest (1977 film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Greatest_(1977_film)",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP044-R3-RES1",
+          "episodeId": "EP044",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "The Manhattans' 1976 ballad 'Kiss and Say Goodbye' — their only #1 hit on the Billboard Hot 100 — was written by which member of the group, who also delivered its memorable spoken-word introduction?",
+          "choices": [
+            "Gerald Alston",
+            "Richard Taylor",
+            "Edward Bivins",
+            "Winfred Blue Lovett"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-song-manhattans-kiss-and-say-goodbye-winfred-blue-lovett-writer-spoken-intro",
+            "artist": "The Manhattans",
+            "song": "Kiss and Say Goodbye",
+            "album": null,
+            "year": 1976,
+            "topicTags": [
+              "The Manhattans",
+              "Kiss and Say Goodbye",
+              "Winfred Blue Lovett",
+              "1976",
+              "Hot 100"
+            ],
+            "fact": "Winfred 'Blue' Lovett wrote 'Kiss and Say Goodbye' and delivered its iconic spoken-word opening. The bass singer's world-weary voice became one of R&B's most recognizable introductions.",
+            "storyHook": "He wrote the song. He spoke the intro. Winfred 'Blue' Lovett's voice on 'Kiss and Say Goodbye' is one of the great opening moments in soul music.",
+            "sourceNotes": "Verified: Winfred 'Blue' Lovett wrote 'Kiss and Say Goodbye' and sang the spoken intro. Source: Kiss and Say Goodbye Wikipedia https://en.wikipedia.org/wiki/Kiss_and_Say_Goodbye",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Kiss and Say Goodbye – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Kiss_and_Say_Goodbye",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP044-R3-RES2",
+          "episodeId": "EP044",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Peaches & Herb's comeback album '2 Hot!' — which contained both 'Reunited' and 'Shake Your Groove Thing' — was released on which label in 1978?",
+          "choices": [
+            "RCA",
+            "Columbia",
+            "Atlantic",
+            "Polydor"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep044-album-peaches-herb-2-hot-polydor-records-1978",
+            "artist": "Peaches & Herb",
+            "song": null,
+            "album": "2 Hot!",
+            "year": 1978,
+            "topicTags": [
+              "Peaches & Herb",
+              "2 Hot!",
+              "Polydor Records",
+              "Reunited",
+              "Shake Your Groove Thing",
+              "1978"
+            ],
+            "fact": "'2 Hot!' was released on Polydor Records in 1978, containing both 'Reunited' and 'Shake Your Groove Thing' — a double-hit album that marked one of the era's most successful comebacks.",
+            "storyHook": "Polydor. 1978. Two massive hits on one album. Peaches & Herb didn't just come back — they came back with everything.",
+            "sourceNotes": "Verified: '2 Hot!' was released on Polydor Records in 1978. Source: Wikipedia https://en.wikipedia.org/wiki/2_Hot!",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "2 Hot! – Peaches & Herb album – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/2_Hot!",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-29T19:35:06.853136+00:00"
+  }
+}

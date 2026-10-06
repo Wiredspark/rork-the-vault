@@ -1,0 +1,1832 @@
+{
+  "episodeId": "EP042",
+  "title": "The Go-Go Years",
+  "theme": "Shotgun. Tighten Up. Dancing In The Street. The 1960s didn't ask you to sit down — Motown, Stax, and everything in between built a decade's worth of records designed for one purpose: movement.",
+  "narrativePurpose": "Test knowledge of the uptempo dance records that defined 1960s R&B — the songs built for the floor, the labels that produced them, and the artists who made standing still feel like a personal failure.",
+  "toneProgression": "The dance anthems every soul fan knows → the labels, chart stories, and artists behind the uptempo side of the decade → the deeper cuts and details that separate casual listeners from true students of the era",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "5"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-6-5 — the year Four Tops' 'I Can't Help Myself' and Junior Walker's 'Shotgun' both hit #1 on the R&B charts, and James Brown's 'I Got You (I Feel Good)' became one of the most recognizable openings in soul music history. Three of the most kinetic records ever made, in the same calendar year. 1965 didn't ask you to sit down."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The dance floor anthems everyone knows. The hits that had America moving from coast to coast.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP042-R1-Q1",
+          "episodeId": "EP042",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Which Motown vocal group — featuring the commanding lead voice of Levi Stubbs — hit #1 on the Billboard Hot 100 in 1965 with 'I Can't Help Myself (Sugar Pie Honey Bunch)'?",
+          "choices": [
+            "The Contours",
+            "Four Tops",
+            "The Temptations",
+            "The Miracles"
+          ],
+          "correctIndex": 1,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Four Tops",
+            "song": "I Can't Help Myself (Sugar Pie Honey Bunch)",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "Four Tops",
+              "I Can't Help Myself",
+              "Levi Stubbs",
+              "Motown",
+              "1965",
+              "Billboard Hot 100"
+            ],
+            "fact": "Written and produced by Holland-Dozier-Holland, 'I Can't Help Myself' spent two weeks at #1 on the Hot 100 in June 1965.",
+            "storyHook": "Levi Stubbs. Holland-Dozier-Holland. Two weeks at number one. The Four Tops made it look effortless.",
+            "sourceNotes": "Verified: 'I Can't Help Myself (Sugar Pie Honey Bunch)' is a 1965 single by Four Tops that reached #1 on the Billboard Hot 100, written and produced by Holland-Dozier-Holland.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dancing in the Street – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dancing_in_the_Street",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Martha and the Vandellas – Motown Museum",
+                "url": "https://www.motownmuseum.org/artist/martha-and-the-vandellas/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Martha & The Vandellas – Michigan Rock & Roll Legends",
+                "url": "https://michiganrockandrolllegends.com/hall-of-fame/legendary-mi-songs/475-dancing-in-the-street",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Martha and the Vandellas – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Martha_and_the_Vandellas",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Classic Motown – Martha & The Vandellas Dancing in the Streets post",
+                "url": "https://www.facebook.com/ClassicMotown/posts/martha-and-the-vandellas-had-everyone-dancing-in-the-streets/734924868682009/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 5,
+            "factKey": "ep042-song-four-tops-i-cant-help-myself-1965-hot-100-1"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 5,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R1-Q2",
+          "episodeId": "EP042",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Martha & The Vandellas' 1964 dance anthem 'Dancing In The Street' was released on Gordy Records — a sub-label of which record company?",
+          "choices": [
+            "Motown",
+            "Atlantic",
+            "Chess",
+            "RCA Victor"
+          ],
+          "correctIndex": 0,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Martha & The Vandellas",
+            "song": "Dancing In The Street",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "Martha & The Vandellas",
+              "Dancing In The Street",
+              "Gordy Records",
+              "Motown",
+              "1964"
+            ],
+            "fact": "Gordy Records was a Motown imprint. 'Dancing In The Street' peaked at #2 on the Hot 100 and #1 on the R&B chart. Co-written by Marvin Gaye, William 'Mickey' Stevenson, and Ivy Jo Hunter.",
+            "storyHook": "The record that turned a street into a dance floor. Gordy Records. Motown. 1964.",
+            "sourceNotes": "Verified: Martha & The Vandellas were signed to Gordy Records, a Motown subsidiary. 'Dancing In The Street' written by Marvin Gaye, William 'Mickey' Stevenson, and Ivy Jo Hunter. Sources: Wikipedia https://en.wikipedia.org/wiki/Martha_and_the_Vandellas, Motown Museum https://www.motownmuseum.org/artist/martha-and-the-vandellas/, Michigan Rock & Roll Legends https://michiganrockandrolllegends.com/hall-of-fame/legendary-mi-songs/475-dancing-in-the-street",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Martha and the Vandellas – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Martha_and_the_Vandellas",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Motown Museum – Martha and the Vandellas",
+                "url": "https://www.motownmuseum.org/artist/martha-and-the-vandellas/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Michigan Rock & Roll Legends – Dancing in the Street",
+                "url": "https://michiganrockandrolllegends.com/hall-of-fame/legendary-mi-songs/475-dancing-in-the-street",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "factKey": "ep042-song-martha-vandellas-dancing-in-the-street-gordy-motown-imprint"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-27",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP042-R1-Q3",
+          "episodeId": "EP042",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "'Goin' to a Go-Go' — the 1965 Motown dance classic whose title helped define the decade's club scene — was recorded by which group?",
+          "choices": [
+            "The Four Tops",
+            "The Contours",
+            "The Temptations",
+            "The Miracles"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Miracles",
+            "song": "Goin' To A Go-Go",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "The Miracles",
+              "Goin' To A Go-Go",
+              "Smokey Robinson",
+              "Motown",
+              "1965"
+            ],
+            "fact": "Written by Smokey Robinson, Warren Moore, Ronald White, and Marvin Tarplin.",
+            "storyHook": "The song named the scene. The Miracles owned the floor.",
+            "sourceNotes": "Verified: 'Goin' to a Go-Go' (1965) is credited to The Miracles, written by Smokey Robinson, Warren Moore, Ronald White, and Marvin Tarplin.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Smokey Robinson – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Smokey_Robinson",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Smokey Robinson Motown legacy – fan post",
+                "url": "https://www.facebook.com/groups/527831915882804/posts/893612522638073/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Dancing in the Street – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dancing_in_the_Street",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Michigan Rock & Roll Legends – Dancing in the Street",
+                "url": "https://michiganrockandrolllegends.com/hall-of-fame/legendary-mi-songs/475-dancing-in-the-street",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 4,
+            "factKey": "ep042-song-miracles-goin-to-a-go-go-motown-single-1965"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "artist",
+            "sourcesCount": 4,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R1-Q4",
+          "episodeId": "EP042",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Sam & Dave's 1966 Southern soul floor-filler 'Hold On, I'm Comin'' was released on which legendary Memphis label?",
+          "choices": [
+            "Chess",
+            "Atlantic",
+            "King Records",
+            "Stax"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sam & Dave",
+            "song": "Hold On, I'm Comin'",
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Sam & Dave",
+              "Hold On I'm Comin'",
+              "Stax",
+              "Isaac Hayes",
+              "David Porter",
+              "1966"
+            ],
+            "fact": "Sam & Dave were exclusively produced at Stax by Isaac Hayes and David Porter, though they were contractually signed to Atlantic Records.",
+            "storyHook": "Stax. Hayes and Porter. The sound of Memphis moving your feet.",
+            "sourceNotes": "Verified: Sam & Dave's 'Hold On, I'm Comin'' was released on Stax Records in 1966, produced by Isaac Hayes and David Porter. Sam & Dave were signed to Atlantic Records, which sent them to Stax.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sam & Dave – Stax Records artist page",
+                "url": "https://staxrecords.com/artist/sam-dave/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Eddie Floyd – Stax Records artist page",
+                "url": "https://staxrecords.com/artist/eddie-floyd/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Eddie Floyd – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Eddie_Floyd",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Eddie Floyd – Memphis Music Hall of Fame",
+                "url": "https://memphismusichalloffame.com/inductee/eddie-floyd/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "How a Bathroom Trip Led to 'Hold On, I'm Comin'' – Rolling Stone",
+                "url": "https://www.rollingstone.com/music/music-news/sam-dave-david-porter-book-hold-on-im-comin-1235545061/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Stax Records post on David Porter memoir",
+                "url": "https://www.facebook.com/staxrecords/posts/in-a-new-rolling-stone-feature-tied-to-his-memoir-porter-looks-back-on-how-a-bat/1517",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 6,
+            "factKey": "ep042-song-sam-and-dave-hold-on-im-comin-stax-label"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 6,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R1-Q5",
+          "episodeId": "EP042",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Archie Bell & The Drells' 1968 #1 smash 'Tighten Up' opens with a spoken announcement in which Bell identifies the group as coming from which city?",
+          "choices": [
+            "Houston, Texas",
+            "Memphis",
+            "New Orleans",
+            "Atlanta"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Archie Bell & The Drells",
+            "song": "Tighten Up",
+            "album": null,
+            "year": 1968,
+            "topicTags": [
+              "Archie Bell & The Drells",
+              "Tighten Up",
+              "Houston",
+              "1968",
+              "Billboard Hot 100"
+            ],
+            "fact": "The record opens: 'Hey! We're Archie Bell and the Drells from Houston, Texas.' 'Tighten Up' reached #1 on the Billboard Hot 100 in 1968.",
+            "storyHook": "They announced where they were from before a single beat dropped. Then the groove made everyone forget to care.",
+            "sourceNotes": "Verified: 'Tighten Up' opens with Archie Bell announcing 'Hey! We're Archie Bell and the Drells from Houston, Texas.' The single reached #1 on the Billboard Hot 100 in 1968.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mustang Sally (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mustang_Sally_(song)",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "King Records ad (1964 Billboard) featuring James Brown",
+                "url": "https://www.facebook.com/groups/1892882124366524/posts/4236908649963848/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "James Brown and The Famous Flames – King Records fan post",
+                "url": "https://www.facebook.com/groups/YMM50s60s/posts/6083779185034035/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 3,
+            "factKey": "ep042-song-archie-bell-tighten-up-houston-texas-intro"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "lyric",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R1-Q6",
+          "episodeId": "EP042",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Junior Walker & The All Stars' 1965 dance classic 'Shotgun' was anchored by which instrument — played by Walker himself as the lead voice of the track?",
+          "choices": [
+            "Saxophone",
+            "Keyboards",
+            "Guitar",
+            "Trumpet"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Junior Walker & The All Stars",
+            "song": "Shotgun",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "Junior Walker",
+              "Shotgun",
+              "saxophone",
+              "Soul Records",
+              "1965",
+              "instrument"
+            ],
+            "fact": "'Shotgun' was built around Junior Walker's tenor saxophone — his signature instrument and the sound that defined the Soul Records imprint's uptempo style.",
+            "storyHook": "No vocalist. Just Junior Walker, a tenor saxophone, and a groove that went to #4 on the Hot 100.",
+            "sourceNotes": "Verified: Junior Walker was a saxophonist; 'Shotgun' is driven by his tenor saxophone performance throughout. Sources: Junior Walker Wikipedia https://en.wikipedia.org/wiki/Junior_Walker",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Junior Walker – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Junior_Walker",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 1,
+            "factKey": "ep042-song-junior-walker-shotgun-soul-motown-subsidiary"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 4,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R1-B1",
+          "episodeId": "EP042",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "'Knock On Wood' — Eddie Floyd's 1966 Stax Records classic — was co-written by Floyd alongside which guitarist who was also a core member of Booker T. & the MGs?",
+          "choices": [
+            "Duck Dunn",
+            "Booker T. Jones",
+            "Al Jackson Jr.",
+            "Steve Cropper"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — KNOCK ON WOOD'S CO-WRITER"
+          },
+          "metadata": {
+            "artist": "Eddie Floyd",
+            "song": "Knock On Wood",
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Eddie Floyd",
+              "Knock On Wood",
+              "Steve Cropper",
+              "Booker T. & the MGs",
+              "Stax",
+              "1966"
+            ],
+            "fact": "Steve Cropper co-wrote 'Knock On Wood' with Eddie Floyd at the Stax studios in Memphis. Cropper was the guitarist for Booker T. & the MGs and one of Stax's most prolific songwriter-producers.",
+            "storyHook": "Floyd and Cropper in a room. One afternoon. One record that's been on every greatest-hits list since.",
+            "sourceNotes": "Verified: 'Knock On Wood' credits Eddie Floyd and Steve Cropper; Cropper was the guitarist in Booker T. & the MGs and one of Stax's most prolific songwriter-producers.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sam & Dave – Stax Records artist page",
+                "url": "https://staxrecords.com/artist/sam-dave/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Eddie Floyd – Stax Records artist page",
+                "url": "https://staxrecords.com/artist/eddie-floyd/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Eddie Floyd – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Eddie_Floyd",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Eddie Floyd – Memphis Music Hall of Fame",
+                "url": "https://memphismusichalloffame.com/inductee/eddie-floyd/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "How a Bathroom Trip Led to 'Hold On, I'm Comin'' – Rolling Stone",
+                "url": "https://www.rollingstone.com/music/music-news/sam-dave-david-porter-book-hold-on-im-comin-1235545061/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Stax Records post on David Porter memoir",
+                "url": "https://www.facebook.com/staxrecords/posts/in-a-new-rolling-stone-feature-tied-to-his-memoir-porter-looks-back-on-how-a-bat/1517",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 6,
+            "factKey": "ep042-song-eddie-floyd-knock-on-wood-steve-cropper-co-writer"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 6,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP042-R1-RES1",
+          "episodeId": "EP042",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Wilson Pickett's 1966 recording of 'Mustang Sally' was released on which label — also home to Aretha Franklin, Ray Charles, and Solomon Burke?",
+          "choices": [
+            "Motown",
+            "Stax",
+            "King",
+            "Atlantic"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Wilson Pickett",
+            "song": "Mustang Sally",
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Wilson Pickett",
+              "Mustang Sally",
+              "Atlantic Records",
+              "1966"
+            ],
+            "fact": "Wilson Pickett was signed to Atlantic Records, which distributed his biggest hits throughout the mid-1960s.",
+            "storyHook": "Atlantic Records. The label that understood soul better than anyone else in New York.",
+            "sourceNotes": "Verified: Wilson Pickett's 'Mustang Sally' single is on Atlantic Records. The song was written by Mack Rice and released by Pickett in 1966 on Atlantic.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mustang Sally (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mustang_Sally_(song)",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "King Records ad (1964 Billboard) featuring James Brown",
+                "url": "https://www.facebook.com/groups/1892882124366524/posts/4236908649963848/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "James Brown and The Famous Flames – King Records fan post",
+                "url": "https://www.facebook.com/groups/YMM50s60s/posts/6083779185034035/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 3,
+            "factKey": "ep042-label-wilson-pickett-mustang-sally-atlantic-release"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R1-RES2",
+          "episodeId": "EP042",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Robert Parker's 1966 dance novelty 'Barefootin'' built its entire premise around encouraging listeners to do what on the dance floor?",
+          "choices": [
+            "Dance in a circle",
+            "Remove their shoes",
+            "Clap on every beat",
+            "Take off their hats"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Robert Parker",
+            "song": "Barefootin'",
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Robert Parker",
+              "Barefootin'",
+              "1966",
+              "New Orleans",
+              "dance"
+            ],
+            "fact": "'Barefootin'' is a direct instruction to remove your shoes and dance. It reached #2 on the US R&B chart in 1966.",
+            "storyHook": "The record that told you to take your shoes off. And people actually did.",
+            "sourceNotes": "Verified: Robert Parker is a New Orleans R&B singer. 'Barefootin'' encourages listeners to dance without shoes, reaching #2 on the US R&B chart in 1966.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Robert Parker (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Robert_Parker_(singer)",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 1,
+            "factKey": "ep042-song-robert-parker-barefootin-remove-your-shoes-theme"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "lyric",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R1-RES3",
+          "episodeId": "EP042",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Eddie Floyd — who recorded 'Knock On Wood' for Stax in 1966 — was a founding member of which early R&B vocal group that also launched the career of Wilson Pickett?",
+          "choices": [
+            "The Midnighters",
+            "The Falcons",
+            "The Impressions",
+            "The Drifters"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Eddie Floyd",
+            "song": null,
+            "album": null,
+            "year": 1956,
+            "topicTags": [
+              "Eddie Floyd",
+              "The Falcons",
+              "Wilson Pickett",
+              "Detroit",
+              "R&B",
+              "vocal group"
+            ],
+            "fact": "Eddie Floyd co-founded The Falcons in Detroit in the mid-1950s. The group also featured Wilson Pickett, who went on to his own celebrated solo career at Atlantic Records.",
+            "storyHook": "Before Floyd was at Stax and Pickett was at Atlantic, they were both Falcons.",
+            "sourceNotes": "Verified: Eddie Floyd co-founded The Falcons, which also featured Wilson Pickett and Mack Rice. Sources: Wikipedia https://en.wikipedia.org/wiki/Eddie_Floyd, Stax Records artist bio https://staxrecords.com/artist/eddie-floyd/, Memphis Music Hall of Fame https://memphismusichalloffame.com/inductee/eddie-floyd/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Eddie Floyd – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Eddie_Floyd",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Eddie Floyd – Stax Records",
+                "url": "https://staxrecords.com/artist/eddie-floyd/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Eddie Floyd – Memphis Music Hall of Fame",
+                "url": "https://memphismusichalloffame.com/inductee/eddie-floyd/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "factKey": "ep042-group-falcons-eddie-floyd-founder-and-wilson-pickett-member"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-27",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP042-R1-RES4",
+          "episodeId": "EP042",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Miracles — who recorded 'Goin' to a Go-Go' — were led by which Motown singer, songwriter, and producer who also served as vice president of Motown under founder Berry Gordy?",
+          "choices": [
+            "David Ruffin",
+            "Marvin Gaye",
+            "Smokey Robinson",
+            "Levi Stubbs"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Miracles",
+            "song": null,
+            "album": null,
+            "year": 1961,
+            "topicTags": [
+              "Smokey Robinson",
+              "The Miracles",
+              "Motown",
+              "vice president",
+              "Berry Gordy"
+            ],
+            "fact": "Smokey Robinson was appointed vice president of Motown in 1961, holding that role while simultaneously fronting The Miracles and writing hits for other Motown acts.",
+            "storyHook": "He ran the label. He led the group. He wrote half the catalog. Smokey Robinson did it all at once.",
+            "sourceNotes": "Verified: Smokey Robinson served as vice president of Motown. Sources: Wikipedia https://en.wikipedia.org/wiki/Smokey_Robinson, fan history post https://www.facebook.com/groups/527831915882804/posts/893612522638073/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Smokey Robinson – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Smokey_Robinson",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Smokey Robinson Motown VP – Facebook fan history post",
+                "url": "https://www.facebook.com/groups/527831915882804/posts/893612522638073/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "factKey": "ep042-artist-smokey-robinson-miracles-lead-and-motown-vice-president"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "role",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-27",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The writers, the labels, the production stories, and the facts behind the records that moved the decade.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP042-R2-Q1",
+          "episodeId": "EP042",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "'Mustang Sally' — made famous by Wilson Pickett in 1966 — was written not by Pickett but by which fellow soul musician, who had recorded an earlier version of the song himself in 1965?",
+          "choices": [
+            "Solomon Burke",
+            "Don Covay",
+            "Mack Rice",
+            "Percy Sledge"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Wilson Pickett / Mack Rice",
+            "song": "Mustang Sally",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "Mack Rice",
+              "Mustang Sally",
+              "Wilson Pickett",
+              "Blue Rock Records",
+              "1965",
+              "1966"
+            ],
+            "fact": "Mack Rice — known as 'Bonny' Rice — wrote 'Mustang Sally' and released it on Blue Rock Records in May 1965. Wilson Pickett's 1966 Atlantic recording became the definitive version.",
+            "storyHook": "Pickett made it famous. Mack Rice wrote it. The credit follows the hit, not the writer.",
+            "sourceNotes": "Verified: 'Mustang Sally' was written and first recorded by Mack Rice, released on Blue Rock label in May 1965. Sources: Wikipedia https://en.wikipedia.org/wiki/Mustang_Sally_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mustang Sally (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mustang_Sally_(song)",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "factKey": "ep042-song-mack-rice-mustang-sally-writer-and-1965-original"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-27",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP042-R2-Q2",
+          "episodeId": "EP042",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Otis Redding and Carla Thomas's playful 1967 duet 'Tramp' appeared on which album — the only studio duet record the two artists made together?",
+          "choices": [
+            "Soul Brothers",
+            "King & Queen",
+            "Double Trouble",
+            "Soul Mates"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Otis Redding & Carla Thomas",
+            "song": "Tramp",
+            "album": "King & Queen",
+            "year": 1967,
+            "topicTags": [
+              "Otis Redding",
+              "Carla Thomas",
+              "Tramp",
+              "King & Queen",
+              "Stax",
+              "1967"
+            ],
+            "fact": "King & Queen (1967) was the sole studio collaboration between Redding and Thomas for Stax/Volt, featuring 'Tramp' and 'Lovey Dovey.'",
+            "storyHook": "The King and the Queen of Stax. One album. One argument set to music.",
+            "sourceNotes": "Verified: King & Queen (1967) was the only studio duet album recorded by Otis Redding and Carla Thomas for Stax/Volt, featuring 'Tramp' and 'Lovey Dovey.' Sources: Wikipedia, uDiscoverMusic, BBC Music review, Elusive Disc, natfinn.com",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "King & Queen – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/King_%26_Queen",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "How Otis Redding And Carla Thomas Ruled As 'King & Queen' – uDiscoverMusic",
+                "url": "https://www.udiscovermusic.com/stories/otis-redding-carla-thomas-king-queen/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Otis Redding & Carla Thomas – King & Queen 150g LP – Elusive Disc",
+                "url": "https://elusivedisc.com/otis-redding-carla-thomas-king-queen-150g-lp/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "King & Queen – album review and specs",
+                "url": "https://www.natfinn.com/king-queen-otis-redding-carla-thomas/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Otis Redding & Carla Thomas – King & Queen Review – BBC Music",
+                "url": "https://www.bbc.co.uk/music/reviews/m9gb/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 5,
+            "factKey": "ep042-album-otis-redding-carla-thomas-king-and-queen-only-duet-lp"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 5,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R2-Q3",
+          "episodeId": "EP042",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "'Dancing In The Street' was co-written by Marvin Gaye and Ivy Jo Hunter alongside which Motown A&R director — one of the architects of the label's early Detroit sound?",
+          "choices": [
+            "Harvey Fuqua",
+            "Berry Gordy",
+            "Norman Whitfield",
+            "William 'Mickey' Stevenson"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Martha & The Vandellas",
+            "song": "Dancing In The Street",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "Dancing In The Street",
+              "Mickey Stevenson",
+              "Marvin Gaye",
+              "Ivy Jo Hunter",
+              "Motown",
+              "A&R"
+            ],
+            "fact": "Mickey Stevenson was Motown's first A&R director, who co-wrote 'Dancing In The Street' alongside Marvin Gaye and Ivy Jo Hunter.",
+            "storyHook": "Three writers. One street. The A&R director who helped build Motown left his fingerprints all over its most iconic dance record.",
+            "sourceNotes": "Verified: 'Dancing In The Street' written by Marvin Gaye, William 'Mickey' Stevenson, and Ivy Jo Hunter. Sources: Wikipedia https://en.wikipedia.org/wiki/Dancing_in_the_Street, Michigan Rock & Roll Legends https://michiganrockandrolllegends.com/hall-of-fame/legendary-mi-songs/475-dancing-in-the-street",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dancing in the Street – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dancing_in_the_Street",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Michigan Rock & Roll Legends – Dancing in the Street",
+                "url": "https://michiganrockandrolllegends.com/hall-of-fame/legendary-mi-songs/475-dancing-in-the-street",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "factKey": "ep042-song-martha-vandellas-dancing-in-the-street-mickey-stevenson-co-writer"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-27",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP042-R2-Q4",
+          "episodeId": "EP042",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "'Hold On, I'm Comin'' reportedly got its title when co-writer Isaac Hayes shouted the phrase to his impatient writing partner David Porter. Where was Hayes at the time?",
+          "choices": [
+            "In the bathroom",
+            "In the Stax parking lot",
+            "In the control room",
+            "At a payphone outside"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sam & Dave",
+            "song": "Hold On, I'm Comin'",
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Sam & Dave",
+              "Hold On I'm Comin'",
+              "Isaac Hayes",
+              "David Porter",
+              "Stax",
+              "songwriting"
+            ],
+            "fact": "David Porter has described in interviews how Hayes was in the bathroom and called out the phrase when Porter was rushing him. The phrase became the song's title.",
+            "storyHook": "The greatest soul anthem of 1966 started with a bathroom break and an impatient writing partner.",
+            "sourceNotes": "Verified: Stax Records official account references Porter's memoir describing the bathroom story. Sources: Stax Records Facebook https://www.facebook.com/staxrecords/posts/in-a-new-rolling-stone-feature-tied-to-his-memoir-porter-looks-back-on-how-a-bat/1517740286576563/, Rolling Stone https://www.rollingstone.com/music/music-news/sam-dave-david-porter-book-hold-on-im-comin-1235545061/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Stax Records – David Porter memoir post",
+                "url": "https://www.facebook.com/staxrecords/posts/in-a-new-rolling-stone-feature-tied-to-his-memoir-porter-looks-back-on-how-a-bat/1517740286576563/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Rolling Stone – David Porter book feature",
+                "url": "https://www.rollingstone.com/music/music-news/sam-dave-david-porter-book-hold-on-im-comin-1235545061/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "factKey": "ep042-song-sam-and-dave-hold-on-im-comin-title-bathroom-story"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-27",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP042-R2-Q5",
+          "episodeId": "EP042",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Junior Walker — who led Junior Walker & The All Stars on 'Shotgun' — performed throughout his career under a stage name. What was his birth name?",
+          "choices": [
+            "Oscar Mack",
+            "Walter Jackson",
+            "Autry DeWalt Mixon Jr.",
+            "James Walker"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Junior Walker",
+            "song": "Shotgun",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "Junior Walker",
+              "Autry DeWalt Mixon Jr.",
+              "birth name",
+              "Shotgun",
+              "Soul Records"
+            ],
+            "fact": "Junior Walker was born Autry DeWalt Mixon Jr. His stage name came from his childhood nickname.",
+            "storyHook": "The man behind 'Shotgun' was born Autry DeWalt Mixon Jr. He went by Junior Walker. The saxophone did the rest of the talking.",
+            "sourceNotes": "Verified: Junior Walker's full birth name was Autry DeWalt Mixon Jr. Sources: Wikipedia https://en.wikipedia.org/wiki/Junior_Walker, fan memorial post https://www.facebook.com/thisoldsoulofmine/posts/remembering-autry-dewalt-mixon-jr-on-his-birthday-better-known-of-course-by-his-/727771009644028/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Junior Walker – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Junior_Walker",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Junior Walker birthday memorial post",
+                "url": "https://www.facebook.com/thisoldsoulofmine/posts/remembering-autry-dewalt-mixon-jr-on-his-birthday-better-known-of-course-by-his-/727771009644028/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "factKey": "ep042-artist-junior-walker-autry-dewalt-mixon-jr-birth-name"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-27",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP042-R2-B1",
+          "episodeId": "EP042",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "James Brown's 'I Got You (I Feel Good)' — released in 1965 — was recorded for which Cincinnati-based label that served as Brown's musical home throughout his career?",
+          "choices": [
+            "King Records",
+            "Stax",
+            "Atlantic",
+            "Motown"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — JAMES BROWN'S LABEL"
+          },
+          "metadata": {
+            "artist": "James Brown",
+            "song": "I Got You (I Feel Good)",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "James Brown",
+              "I Got You",
+              "King Records",
+              "Cincinnati",
+              "1965"
+            ],
+            "fact": "King Records, based in Cincinnati, Ohio, was James Brown's label for most of his defining recordings throughout the 1960s.",
+            "storyHook": "Not Stax. Not Atlantic. Not Motown. James Brown was a King Records man.",
+            "sourceNotes": "Verified: James Brown's 'I Got You (I Feel Good)' (1965) was released on King Records, a Cincinnati-based label that was Brown's primary label home throughout the 1960s.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mustang Sally (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mustang_Sally_(song)",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "King Records ad (1964 Billboard) featuring James Brown",
+                "url": "https://www.facebook.com/groups/1892882124366524/posts/4236908649963848/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "James Brown and The Famous Flames – King Records fan post",
+                "url": "https://www.facebook.com/groups/YMM50s60s/posts/6083779185034035/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 3,
+            "factKey": "ep042-song-james-brown-i-got-you-i-feel-good-king-records-label"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP042-R2-RES1",
+          "episodeId": "EP042",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "'Hold On, I'm Comin'' was written by Isaac Hayes and David Porter — Stax's most productive songwriting duo. The same pair also wrote which other Sam & Dave classic that became a smash in 1967?",
+          "choices": [
+            "When Something Is Wrong with My Baby",
+            "You Got Me Hummin'",
+            "I Thank You",
+            "Soul Man"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sam & Dave",
+            "song": "Soul Man",
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Isaac Hayes",
+              "David Porter",
+              "Soul Man",
+              "Sam & Dave",
+              "Stax",
+              "1967"
+            ],
+            "fact": "'Soul Man' (1967) was also written by Hayes and Porter for Sam & Dave, reaching #2 on the Hot 100 and #1 on the R&B chart.",
+            "storyHook": "Hayes and Porter didn't just write one classic for Sam & Dave. They built a catalog.",
+            "sourceNotes": "Verified: 'Soul Man' (1967) was written by Isaac Hayes and David Porter for Sam & Dave on Stax Records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sam & Dave – Stax Records artist page",
+                "url": "https://staxrecords.com/artist/sam-dave/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Eddie Floyd – Stax Records artist page",
+                "url": "https://staxrecords.com/artist/eddie-floyd/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Eddie Floyd – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Eddie_Floyd",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Eddie Floyd – Memphis Music Hall of Fame",
+                "url": "https://memphismusichalloffame.com/inductee/eddie-floyd/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "How a Bathroom Trip Led to 'Hold On, I'm Comin'' – Rolling Stone",
+                "url": "https://www.rollingstone.com/music/music-news/sam-dave-david-porter-book-hold-on-im-comin-1235545061/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Stax Records post on David Porter memoir",
+                "url": "https://www.facebook.com/staxrecords/posts/in-a-new-rolling-stone-feature-tied-to-his-memoir-porter-looks-back-on-how-a-bat/1517",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 6,
+            "factKey": "ep042-song-sam-and-dave-soul-man-hayes-porter-songwriting-duo"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 6,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R2-RES2",
+          "episodeId": "EP042",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Robert Parker's 'Barefootin'' (1966) was recorded in which city — home to a rich R&B tradition shaped by second-line rhythms and brass band culture?",
+          "choices": [
+            "New Orleans",
+            "Atlanta",
+            "Houston",
+            "Memphis"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Robert Parker",
+            "song": "Barefootin'",
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Robert Parker",
+              "Barefootin'",
+              "New Orleans",
+              "1966",
+              "R&B"
+            ],
+            "fact": "Robert Parker was a New Orleans-based musician and 'Barefootin'' reflects the city's distinctive second-line groove influence.",
+            "storyHook": "New Orleans put the bounce in it. Robert Parker just gave it a name.",
+            "sourceNotes": "Verified: Robert Parker was a New Orleans-based musician and 'Barefootin'' reflects the city's distinctive R&B tradition.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Robert Parker (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Robert_Parker_(singer)",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 1,
+            "factKey": "ep042-context-robert-parker-barefootin-new-orleans-recording"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R2-RES3",
+          "episodeId": "EP042",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Sam & Dave recorded exclusively at Stax in Memphis but were contractually signed to which New York-based label — part of a landmark mid-1960s distribution arrangement between the two companies?",
+          "choices": [
+            "Atlantic Records",
+            "Mercury",
+            "Columbia",
+            "RCA Victor"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sam & Dave",
+            "song": null,
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "Sam & Dave",
+              "Atlantic Records",
+              "Stax",
+              "distribution deal",
+              "1965"
+            ],
+            "fact": "Sam & Dave were signed to Atlantic Records, which persuaded its Memphis affiliate Stax to produce them. The Atlantic-Stax distribution arrangement was one of the defining industry deals of the era.",
+            "storyHook": "Atlantic in New York. Stax in Memphis. Sam & Dave caught in between — and somehow made the best of both.",
+            "sourceNotes": "Verified: Sam & Dave were signed to Atlantic Records; Atlantic persuaded its Memphis affiliate Stax to produce them. Sources: Stax Records artist page https://staxrecords.com/artist/eddie-floyd/ (contextual), Facebook fan history https://www.facebook.com/thisoldsoulofmine/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Stax Records – Atlantic distribution context",
+                "url": "https://staxrecords.com/artist/eddie-floyd/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "factKey": "ep042-label-sam-and-dave-atlantic-contract-stax-recording-deal"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-27",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The architects, the lineages, and the archival facts that only devoted students of the era carry.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP042-R3-Q1",
+          "episodeId": "EP042",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "'I Can't Help Myself (Sugar Pie Honey Bunch)' — Four Tops' 1965 #1 — was written and produced by which Motown songwriting and production trio, whose initials became one of the most celebrated bylines in soul music history?",
+          "choices": [
+            "Norman Whitfield and Barrett Strong",
+            "Ashford and Simpson",
+            "Smokey Robinson and Ronald White",
+            "Holland-Dozier-Holland"
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Four Tops",
+            "song": "I Can't Help Myself (Sugar Pie Honey Bunch)",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "Holland-Dozier-Holland",
+              "Four Tops",
+              "I Can't Help Myself",
+              "Motown",
+              "HDH",
+              "Brian Holland",
+              "Lamont Dozier",
+              "Eddie Holland"
+            ],
+            "fact": "Holland-Dozier-Holland — Brian Holland, Lamont Dozier, and Eddie Holland — wrote and produced dozens of Motown's defining hits in the 1960s, including 'Reach Out I'll Be There,' 'Stop! In the Name of Love,' and 'Baby I Need Your Loving.'",
+            "storyHook": "Three names. One hyphen. The most productive songwriting team in Motown history.",
+            "sourceNotes": "Verified: 'I Can't Help Myself (Sugar Pie Honey Bunch)' is written and produced by Holland-Dozier-Holland (Brian Holland, Lamont Dozier, Eddie Holland). After leaving Motown in 1968, HDH founded Hot Wax Records and Invictus Records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dancing in the Street – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dancing_in_the_Street",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Martha and the Vandellas – Motown Museum",
+                "url": "https://www.motownmuseum.org/artist/martha-and-the-vandellas/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Martha & The Vandellas – Michigan Rock & Roll Legends",
+                "url": "https://michiganrockandrolllegends.com/hall-of-fame/legendary-mi-songs/475-dancing-in-the-street",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Martha and the Vandellas – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Martha_and_the_Vandellas",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Classic Motown – Dancing in the Streets post",
+                "url": "https://www.facebook.com/ClassicMotown/posts/martha-and-the-vandellas-had-everyone-dancing-in-the-streets/734924868682009/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 5,
+            "factKey": "ep042-song-four-tops-i-cant-help-myself-holland-dozier-holland-writers"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 5,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R3-Q2",
+          "episodeId": "EP042",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Carla Thomas — who traded playful insults with Otis Redding on 'Tramp' — was the daughter of which Stax Records artist and Memphis radio personality known for novelty dance records including 'Walking the Dog'?",
+          "choices": [
+            "Isaac Hayes",
+            "Al Green",
+            "Rufus Thomas",
+            "Booker T. Jones"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Carla Thomas / Rufus Thomas",
+            "song": "Tramp",
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Carla Thomas",
+              "Rufus Thomas",
+              "Stax",
+              "Walking the Dog",
+              "Memphis",
+              "radio"
+            ],
+            "fact": "Rufus Thomas was a Stax recording artist and Memphis radio legend. He and Carla Thomas were among the earliest Stax signings — making them a genuine father-daughter label act.",
+            "storyHook": "Carla Thomas was royalty at Stax. Her father Rufus helped build the label.",
+            "sourceNotes": "Verified: Carla Thomas is the daughter of Rufus Thomas, a Stax Records artist and Memphis radio personality known for novelty dance records including 'Walking the Dog.'",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Carla Thomas – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Carla_Thomas",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Robert Parker (singer) – Wikipedia (New Orleans R&B context)",
+                "url": "https://en.wikipedia.org/wiki/Robert_Parker_(singer)",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 2,
+            "factKey": "ep042-artist-carla-thomas-rufus-thomas-daughter"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R3-B1",
+          "episodeId": "EP042",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "'Shotgun' was co-produced by Harvey Fuqua — a Motown executive who, before his production career, was the lead vocalist of which celebrated 1950s doo-wop group?",
+          "choices": [
+            "The Platters",
+            "The Moonglows",
+            "The Flamingos",
+            "The Penguins"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "6",
+            "bonusHint": "DIGIT 3 OF 3 — SHOTGUN PRODUCER'S DOO-WOP ROOTS"
+          },
+          "metadata": {
+            "artist": "Junior Walker & The All Stars / Harvey Fuqua",
+            "song": "Shotgun",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "Harvey Fuqua",
+              "The Moonglows",
+              "Junior Walker",
+              "Shotgun",
+              "Motown",
+              "doo-wop",
+              "1950s"
+            ],
+            "fact": "Harvey Fuqua was the lead singer of The Moonglows, one of the defining doo-wop acts of the 1950s. He later joined Motown as a producer and A&R figure, co-producing Junior Walker's earliest recordings.",
+            "storyHook": "Before Harvey Fuqua was making records at Motown, he was singing doo-wop with The Moonglows. The producer behind 'Shotgun' had a whole career before the career.",
+            "sourceNotes": "Verified: Harvey Fuqua was the former lead singer of The Moonglows and later joined Motown as a producer and A&R figure, co-producing Junior Walker's earliest recordings including 'Shotgun.'",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Junior Walker – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Junior_Walker",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Remembering Autry DeWalt Mixon Jr. – This Old Soul of Mine",
+                "url": "https://www.facebook.com/thisoldsoulofmine/posts/remembering-autry-dewalt-mixon-jr-on-his-birthday-better-known-of-course-by-his",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Smokey Robinson – Wikipedia (Harvey Fuqua section)",
+                "url": "https://en.wikipedia.org/wiki/Smokey_Robinson",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Smokey Robinson Motown legacy – fan post (Harvey Fuqua reference)",
+                "url": "https://www.facebook.com/groups/527831915882804/posts/893612522638073/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 4,
+            "factKey": "ep042-group-moonglows-harvey-fuqua-lead-vocalist-before-motown"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 4,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP042-R3-RES1",
+          "episodeId": "EP042",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "'Goin' to a Go-Go' referenced the go-go club culture that swept American cities in the mid-1960s. Which Sunset Strip venue — opened in 1964 — is widely credited with popularizing go-go dancing in America?",
+          "choices": [
+            "The Fillmore",
+            "The Roxy",
+            "The Troubadour",
+            "The Whisky a Go Go"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Miracles",
+            "song": "Goin' To A Go-Go",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "Whisky a Go Go",
+              "go-go dancing",
+              "Sunset Strip",
+              "Los Angeles",
+              "1964",
+              "club culture"
+            ],
+            "fact": "The Whisky a Go Go opened on the Sunset Strip in Los Angeles in January 1964 and introduced go-go dancers — performing on elevated platforms — to American audiences.",
+            "storyHook": "Los Angeles had the venue. Detroit had the record. Together they named an era.",
+            "sourceNotes": "Verified: The Whisky a Go Go opened on the Sunset Strip in Los Angeles in January 1964 and is widely credited with popularizing go-go dancing in America.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mustang Sally (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mustang_Sally_(song)",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "King Records ad (1964 Billboard) featuring James Brown",
+                "url": "https://www.facebook.com/groups/1892882124366524/posts/4236908649963848/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "James Brown and The Famous Flames – King Records fan post",
+                "url": "https://www.facebook.com/groups/YMM50s60s/posts/6083779185034035/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Michigan Rock & Roll Legends – Dancing in the Street (go-go culture reference)",
+                "url": "https://michiganrockandrolllegends.com/hall-of-fame/legendary-mi-songs/475-dancing-in-the-street",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 4,
+            "factKey": "ep042-context-whisky-a-go-go-sunset-strip-go-go-dancing-1964"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "venue",
+            "factType": "cultural",
+            "sourcesCount": 4,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP042-R3-RES2",
+          "episodeId": "EP042",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Holland-Dozier-Holland — who wrote 'I Can't Help Myself' for the Four Tops — departed Motown in 1968 after a legal dispute with Berry Gordy and immediately launched their own labels. Which of the following was one of those labels?",
+          "choices": [
+            "Golden World Records",
+            "Curtom Records",
+            "Hot Wax Records",
+            "Philadelphia International"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Holland-Dozier-Holland",
+            "song": null,
+            "album": null,
+            "year": 1968,
+            "topicTags": [
+              "Holland-Dozier-Holland",
+              "Hot Wax Records",
+              "Invictus Records",
+              "Motown",
+              "Berry Gordy",
+              "1968"
+            ],
+            "fact": "After leaving Motown, HDH founded Hot Wax Records and Invictus Records, which produced hits including Freda Payne's 'Band of Gold' and the Honey Cone's 'Want Ads.'",
+            "storyHook": "The writers who built Motown's sound left and started their own label. The hits kept coming.",
+            "sourceNotes": "Verified: After leaving Motown in 1968, Holland-Dozier-Holland formed Hot Wax Records and Invictus Records, issuing hits including Freda Payne's 'Band of Gold' and the Honey Cone's 'Want Ads.'",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dancing in the Street – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dancing_in_the_Street",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Martha and the Vandellas – Motown Museum",
+                "url": "https://www.motownmuseum.org/artist/martha-and-the-vandellas/",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Martha & The Vandellas – Michigan Rock & Roll Legends",
+                "url": "https://michiganrockandrolllegends.com/hall-of-fame/legendary-mi-songs/475-dancing-in-the-street",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Martha and the Vandellas – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Martha_and_the_Vandellas",
+                "accessed": "2026-05-27"
+              },
+              {
+                "title": "Classic Motown – Dancing in the Streets post",
+                "url": "https://www.facebook.com/ClassicMotown/posts/martha-and-the-vandellas-had-everyone-dancing-in-the-streets/734924868682009/",
+                "accessed": "2026-05-27"
+              }
+            ],
+            "sourcesCount": 5,
+            "factKey": "ep042-label-holland-dozier-holland-hot-wax-records-post-motown"
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 5,
+            "lastVerified": "2026-05-27",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-28T04:28:53.982467+00:00"
+  }
+}

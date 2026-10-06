@@ -1,0 +1,1342 @@
+{
+  "episodeId": "EP041",
+  "title": "Gone, But Not Forgotten",
+  "theme": "Aaliyah. Left Eye. Nate Dogg. Luther. Whitney. R&B's losses are not small — and the records they left behind refuse to be quiet about it.",
+  "narrativePurpose": "Test knowledge of R&B artists who passed before their time — their defining records, chart milestones, career arcs, and the cultural weight they carried while they were here.",
+  "toneProgression": "The songs and voices every fan recognizes → deeper album cuts, career turning points, and industry milestones → the facts and details only devoted fans kept close",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "1"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 2-0-0-1 — the year R&B lost Aaliyah on August 25th and Left Eye on April 25th, four months apart. Two of the most vital creative forces in the genre, gone in the same calendar year. The music stayed."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The artists and records everyone knows. The hits that defined their legacies while they were here — and define them still.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP041-R1-Q1",
+          "episodeId": "EP041",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Whitney Houston's 1990 third studio album — which produced the hit 'All the Man That I Need' — was titled what?",
+          "choices": [
+            "The Preacher's Wife",
+            "Just Whitney",
+            "I'm Your Baby Tonight",
+            "My Love Is Your Love"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "All the Man That I Need",
+            "album": "I'm Your Baby Tonight",
+            "year": 1990,
+            "topicTags": [
+              "Whitney Houston",
+              "I'm Your Baby Tonight",
+              "All the Man That I Need",
+              "1990",
+              "Arista Records"
+            ],
+            "fact": "I'm Your Baby Tonight (1990) was Whitney Houston's third studio album. 'All the Man That I Need' reached #1 on the Billboard Hot 100 in 1991.",
+            "storyHook": "Three albums in. Still going to number one. Whitney Houston made it look effortless.",
+            "sourceNotes": "Verified: I'm Your Baby Tonight is Whitney Houston's third studio album (released November 1990). 'All the Man That I Need' was released December 4, 1990 as the album's second single. Sources: Wikipedia https://en.wikipedia.org/wiki/I%27m_Your_Baby_Tonight, Whitney Houston official site https://www.whitneyhouston.com/news/whitney-houstons-all-the-man-that-i-need-was-released-in-december-1990/, Spotify https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I'm Your Baby Tonight – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I%27m_Your_Baby_Tonight",
+                "accessed": "2026-05-26"
+              },
+              {
+                "title": "Whitney Houston's 'All The Man That I Need' Was Released In December 1990 – Official Site",
+                "url": "https://www.whitneyhouston.com/news/whitney-houstons-all-the-man-that-i-need-was-released-in-december-1990/",
+                "accessed": "2026-05-26"
+              },
+              {
+                "title": "All The Man That I Need – Spotify track page",
+                "url": "https://open.spotify.com/track/07M76e7IXxYdnC1BBiJxEX",
+                "accessed": "2026-05-26"
+              }
+            ],
+            "sourcesCount": 3
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-26",
+            "flags": [],
+            "factCheckStatus": "verified"
+          }
+        },
+        {
+          "id": "EP041-R1-Q2",
+          "episodeId": "EP041",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Aaliyah's 2001 self-titled album was introduced to the public with which lead single, also featuring rapper Timbaland?",
+          "choices": [
+            "I Care 4 U",
+            "Rock the Boat",
+            "We Need a Resolution",
+            "More Than a Woman"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": "We Need a Resolution",
+            "album": "Aaliyah",
+            "year": 2001,
+            "topicTags": [
+              "Aaliyah",
+              "We Need a Resolution",
+              "Timbaland",
+              "self-titled album",
+              "2001",
+              "Blackground Records"
+            ],
+            "fact": "'We Need a Resolution' — featuring Timbaland — was released as the lead single from Aaliyah's self-titled 2001 album, the last studio album released in her lifetime.",
+            "storyHook": "The last album she made. The first single from it. 'We Need a Resolution' opened a door she wouldn't get to walk through.",
+            "sourceNotes": "Verified: 'We Need a Resolution' features a rap verse by Timbaland and was released April 13, 2001 as the lead single from Aaliyah's self-titled 2001 album. Sources: Aaliyah Wiki https://aaliyahdanahaughton.fandom.com/wiki/We_Need_a_Resolution, Aaliyah official Facebook https://www.facebook.com/AaliyahHaughton/posts/%EF%B8%8Fon-this-day-25-years-ago-aaliyah-released-the-lead-single-we-need-a-reso",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "We Need a Resolution – Aaliyah Wiki",
+                "url": "https://aaliyahdanahaughton.fandom.com/wiki/We_Need_a_Resolution",
+                "accessed": "2026-05-26"
+              },
+              {
+                "title": "On this day 25 years ago, Aaliyah released the lead single 'We Need a Resolution' – Facebook",
+                "url": "https://www.facebook.com/AaliyahHaughton/posts/%EF%B8%8Fon-this-day-25-years-ago-aaliyah-released-the-lead-single-we-need-a-reso",
+                "accessed": "2026-05-26"
+              }
+            ],
+            "sourcesCount": 2
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-26",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP041-R1-Q3",
+          "episodeId": "EP041",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Marvin Gaye's 1973 album — his follow-up to What's Going On — explored themes of sexuality and sensuality. It was titled what?",
+          "choices": [
+            "Midnight Love",
+            "Here, My Dear",
+            "Let's Get It On",
+            "I Want You"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Marvin Gaye",
+            "song": null,
+            "album": "Let's Get It On",
+            "year": 1973,
+            "topicTags": [
+              "Marvin Gaye",
+              "Let's Get It On",
+              "Motown",
+              "1973",
+              "sexuality",
+              "soul"
+            ],
+            "fact": "Let's Get It On reached #2 on the Billboard Hot 100 in 1973. Its title track became one of the most recognizable songs in soul history, and the album cemented Gaye's transformation from Motown hitmaker to singular artistic voice.",
+            "storyHook": "After he finished saving the world on What's Going On, Marvin Gaye had other things on his mind.",
+            "sourceNotes": "Verified: Let's Get It On (1973) is Marvin Gaye's follow-up to What's Going On, framed around themes of sexuality and sensuality. Sources: Motown classic feature https://classic.motown.com/story/marvin-gaye-gets-it-on/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Let's Get It On – classic Motown feature",
+                "url": "https://classic.motown.com/story/marvin-gaye-gets-it-on/",
+                "accessed": "2026-05-26"
+              }
+            ],
+            "sourcesCount": 1
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP041-R1-Q4",
+          "episodeId": "EP041",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Before launching his solo career, Luther Vandross spent years as one of the most in-demand session vocalists in New York. His 1981 debut solo album was titled what?",
+          "choices": [
+            "Power of Love",
+            "Give Me the Reason",
+            "Never Too Much",
+            "Any Love"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Luther Vandross",
+            "song": null,
+            "album": "Never Too Much",
+            "year": 1981,
+            "topicTags": [
+              "Luther Vandross",
+              "Never Too Much",
+              "debut album",
+              "R&B albums chart",
+              "1981",
+              "Epic Records"
+            ],
+            "fact": "Luther Vandross had already sung on hundreds of records, jingles, and background sessions before Never Too Much. The album debuted at #1 on the R&B albums chart and established him as a solo force immediately.",
+            "storyHook": "He'd been singing on everyone else's records for years. Then he made one of his own.",
+            "sourceNotes": "Verified: Never Too Much (1981) is Luther Vandross' debut solo album and topped the R&B albums chart. Sources: Wikipedia https://en.wikipedia.org/wiki/Never_Too_Much_(album)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Never Too Much (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Never_Too_Much_(album)",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP041-R1-Q5",
+          "episodeId": "EP041",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "TLC's 'No Scrubs' — which reached #1 on the Billboard Hot 100 in 1999 — appeared on which TLC album?",
+          "choices": [
+            "Ooooooohhh... On the TLC Tip",
+            "3D",
+            "CrazySexyCool",
+            "FanMail"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "No Scrubs",
+            "album": "FanMail",
+            "year": 1999,
+            "topicTags": [
+              "TLC",
+              "Left Eye",
+              "Lisa Lopes",
+              "No Scrubs",
+              "FanMail",
+              "Billboard Hot 100",
+              "1999"
+            ],
+            "fact": "'No Scrubs' reached #1 on the Billboard Hot 100 in 1999 and became one of TLC's signature records. FanMail was their third studio album and their final record with all three members.",
+            "storyHook": "Their last album with all three of them. 'No Scrubs' led the way.",
+            "sourceNotes": "Verified: 'No Scrubs' is the lead single from TLC's third studio album FanMail (1999). Sources: Wikipedia https://en.wikipedia.org/wiki/No_Scrubs",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "No Scrubs – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/No_Scrubs",
+                "accessed": "2026-05-26"
+              }
+            ],
+            "sourcesCount": 1
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP041-R1-Q6",
+          "episodeId": "EP041",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Nate Dogg's 2001 solo studio album was titled what?",
+          "choices": [
+            "Music & Me",
+            "G-Funk Classics Vol. 2",
+            "Dogg Food",
+            "Regulate"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Dr. Dre feat. Nate Dogg",
+            "song": null,
+            "album": "Music & Me",
+            "year": 2001,
+            "topicTags": [
+              "Nate Dogg",
+              "Music & Me",
+              "solo debut",
+              "Reprise Records",
+              "2001",
+              "West Coast"
+            ],
+            "fact": "Music & Me (2001) is Nate Dogg's second and final studio album on Reprise Records. His debut was G-Funk Classics, Vol. 1 & 2 (1998). Music & Me showcased the hook-singing style that had made him the most sought-after voice on West Coast hip-hop and R&B records throughout the late 1990s.",
+            "storyHook": "The man who sang everyone else's hooks finally got to make his own album.",
+            "sourceNotes": "Verified: Music & Me is the second and final studio album by Nate Dogg, released December 4, 2001. Sources: Wikipedia https://en.wikipedia.org/wiki/Music_%26_Me_(Nate_Dogg_album)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Music & Me (Nate Dogg album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Music_%26_Me_(Nate_Dogg_album)",
+                "accessed": "2026-05-26"
+              }
+            ],
+            "sourcesCount": 1
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP041-R1-BONUS",
+          "episodeId": "EP041",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Aaliyah's 2001 hit 'Try Again' — later included on her posthumous self-titled album — originally appeared on the soundtrack to which film?",
+          "choices": [
+            "Queen of the Damned",
+            "Ali",
+            "The Wash",
+            "Romeo Must Die"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "2",
+            "bonusHint": "DIGIT 1 OF 3 — AALIYAH'S ROMEO MUST DIE SINGLE"
+          },
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": "Try Again",
+            "album": "Romeo Must Die (Soundtrack)",
+            "year": 2000,
+            "topicTags": [
+              "Aaliyah",
+              "Try Again",
+              "Romeo Must Die",
+              "Timbaland",
+              "soundtrack",
+              "2000"
+            ],
+            "fact": "'Try Again' first appeared on the Romeo Must Die soundtrack (2000), produced by Timbaland. It was later included on her posthumous self-titled album released in 2001.",
+            "storyHook": "The song that introduced the world to what Aaliyah and Timbaland could do together — and then ended up on something even bigger.",
+            "sourceNotes": "Verified: 'Try Again' first appeared on the Romeo Must Die soundtrack (2000), then on her later self-titled album. Sources: Wikipedia https://en.wikipedia.org/wiki/Try_Again_(Aaliyah_song)",
+            "clipCue": "",
+            "hostNote": "This question references Aaliyah's posthumous album. Frame it matter-of-factly — the focus is the film, not her passing.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Try Again (Aaliyah song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Try_Again_(Aaliyah_song)",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP041-R1-RES1",
+          "episodeId": "EP041",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Barry White's Love Unlimited Orchestra reached #1 on the Billboard Hot 100 in 1974 with which instrumental track?",
+          "choices": [
+            "Rhapsody in White",
+            "Love's Theme",
+            "Satin Soul",
+            "My Sweet Summer Suite"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Love Unlimited Orchestra",
+            "song": "Love's Theme",
+            "album": "Rhapsody in White",
+            "year": 1974,
+            "topicTags": [
+              "Barry White",
+              "Love Unlimited Orchestra",
+              "Love's Theme",
+              "instrumental",
+              "Billboard Hot 100",
+              "1974"
+            ],
+            "fact": "'Love's Theme' by the Love Unlimited Orchestra hit #1 on the Hot 100 in 1974 — a rare instrumental chart-topper in the R&B era.",
+            "storyHook": "No vocals. No lyrics. Just Barry White's orchestra, a string arrangement, and the top of the chart.",
+            "sourceNotes": "Verified: 'Love's Theme' by the Love Unlimited Orchestra hit #1 on the Hot 100 in 1974. Sources: Wikipedia https://en.wikipedia.org/wiki/Love%27s_Theme",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Love's Theme – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Love%27s_Theme",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP041-R1-RES2",
+          "episodeId": "EP041",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Sam Cooke's 1960 hit — depicting prison laborers breaking rocks — reached #2 on the Billboard Hot 100. It was titled what?",
+          "choices": [
+            "Wonderful World",
+            "Chain Gang",
+            "Twistin' the Night Away",
+            "Bring It On Home to Me"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sam Cooke",
+            "song": "Chain Gang",
+            "album": null,
+            "year": 1960,
+            "topicTags": [
+              "Sam Cooke",
+              "Chain Gang",
+              "1960",
+              "Billboard Hot 100",
+              "RCA Victor"
+            ],
+            "fact": "'Chain Gang' reached #2 on the Billboard Hot 100 in 1960, becoming one of Sam Cooke's defining early hits and demonstrating his crossover appeal on both pop and R&B charts.",
+            "storyHook": "Sam Cooke made prison labor into a pop record. It almost went to number one.",
+            "sourceNotes": "Verified: 'Chain Gang' (1960) is a Sam Cooke single about prisoners on a chain gang; it reached #2 on the Billboard Hot 100. Sources: Wikipedia https://en.wikipedia.org/wiki/Chain_Gang_(Sam_Cooke_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Chain Gang (Sam Cooke song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Chain_Gang_(Sam_Cooke_song)",
+                "accessed": "2026-05-26"
+              }
+            ],
+            "sourcesCount": 1
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Career turning points, industry history, and the facts that separate casual listeners from devoted fans.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP041-R2-Q1",
+          "episodeId": "EP041",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Gerald Levert — son of O'Jays co-founder Eddie Levert — first rose to prominence as the lead vocalist of which R&B group?",
+          "choices": [
+            "Troop",
+            "Portrait",
+            "LeVert",
+            "LSG"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Gerald Levert",
+            "song": "Casanova",
+            "album": "The Big Throwdown",
+            "year": 1987,
+            "topicTags": [
+              "Gerald Levert",
+              "LeVert",
+              "Eddie Levert",
+              "O'Jays",
+              "Casanova",
+              "Atlantic Records",
+              "1987"
+            ],
+            "fact": "LeVert — Gerald, his brother Sean, and Marc Gordon — reached #1 on the R&B chart with 'Casanova' in 1987. Gerald later co-founded the supergroup LSG with Keith Sweat and Johnny Gill.",
+            "storyHook": "The son of a legend who became one himself. But he did it first with his brother.",
+            "sourceNotes": "Verified: Gerald Levert first gained fame as lead singer of LeVert, the trio with his brother Sean and Marc Gordon, scoring the R&B #1 'Casanova.' Sources: Wikipedia https://en.wikipedia.org/wiki/Gerald_Levert",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Gerald Levert – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Gerald_Levert",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP041-R2-Q2",
+          "episodeId": "EP041",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Phyllis Hyman's most celebrated studio album — featuring her signature track 'Old Friend' — was released in 1986 and titled what?",
+          "choices": [
+            "Goddess of Love",
+            "Prime of My Life",
+            "Somewhere in My Lifetime",
+            "Living All Alone"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Phyllis Hyman",
+            "song": "Old Friend",
+            "album": "Living All Alone",
+            "year": 1986,
+            "topicTags": [
+              "Phyllis Hyman",
+              "Living All Alone",
+              "Old Friend",
+              "Philadelphia International Records",
+              "1986"
+            ],
+            "fact": "Living All Alone (1986) is widely considered Phyllis Hyman's artistic peak. 'Old Friend' became her signature ballad — a meditation on nostalgia and loss that showcased the full depth of her instrument.",
+            "storyHook": "One of the most powerful voices in R&B. One album that showed exactly what she was capable of. Not enough people heard it.",
+            "sourceNotes": "Verified: Living All Alone is Phyllis Hyman's 1986 studio album on Philadelphia International Records. 'Old Friend' was the first single released from the album and became her signature song. Sources: Wikipedia https://en.wikipedia.org/wiki/Living_All_Alone, YouTube Music playlist https://music.youtube.com/playlist?list=OLAK5uy_lLTg5QcRC_8q9O6BCgChICXDHDbh9e170, R&B Slow Jams Facebook group https://www.facebook.com/groups/RandBSlowJamsOldandNew/posts/7428417427203702/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Living All Alone – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Living_All_Alone",
+                "accessed": "2026-05-26"
+              },
+              {
+                "title": "Living All Alone – full album – YouTube Music",
+                "url": "https://music.youtube.com/playlist?list=OLAK5uy_lLTg5QcRC_8q9O6BCgChICXDHDbh9e170",
+                "accessed": "2026-05-26"
+              },
+              {
+                "title": "'Old Friend' was the first single released from the 'Living All Alone' album – R&B Slow Jams group",
+                "url": "https://www.facebook.com/groups/RandBSlowJamsOldandNew/posts/7428417427203702/",
+                "accessed": "2026-05-26"
+              }
+            ],
+            "sourcesCount": 3
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP041-R2-Q3",
+          "episodeId": "EP041",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Marvin Gaye's 1978 double album 'Here, My Dear' was unusual — its proceeds were contractually designated to go to whom?",
+          "choices": [
+            "Anna Gordy Gaye — as part of their divorce settlement",
+            "His mother, Alberta Gay",
+            "A Motown charitable fund",
+            "Berry Gordy"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Marvin Gaye",
+            "song": null,
+            "album": "Here, My Dear",
+            "year": 1978,
+            "topicTags": [
+              "Marvin Gaye",
+              "Here My Dear",
+              "Anna Gordy Gaye",
+              "divorce settlement",
+              "Motown",
+              "double album",
+              "1978"
+            ],
+            "fact": "Anna Gordy Gaye negotiated a divorce settlement in which Marvin's next album proceeds would satisfy his obligations. He responded by recording an extraordinarily candid double album about the marriage. She later sued claiming defamation — unsuccessfully.",
+            "storyHook": "A divorce settlement became a double album. A double album became one of the most painfully honest records Marvin Gaye ever made.",
+            "sourceNotes": "Verified: The album was created as part of Marvin Gaye's divorce settlement with Anna Gordy Gaye, who was to receive proceeds from the project. Sources: Wikipedia https://en.wikipedia.org/wiki/Here,_My_Dear",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Here, My Dear – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Here,_My_Dear",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP041-R2-Q4",
+          "episodeId": "EP041",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Before his solo breakthrough, Luther Vandross sang background vocals on which landmark 1975 David Bowie album?",
+          "choices": [
+            "Heroes",
+            "Young Americans",
+            "Station to Station",
+            "Let's Dance"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Luther Vandross",
+            "song": null,
+            "album": "Young Americans",
+            "year": 1975,
+            "topicTags": [
+              "Luther Vandross",
+              "David Bowie",
+              "Young Americans",
+              "background vocals",
+              "vocal arrangement",
+              "1975",
+              "Fame",
+              "John Lennon"
+            ],
+            "fact": "Luther Vandross sang and arranged background vocals on Young Americans — including on 'Fame,' co-written with John Lennon. Official posts from the Luther Vandross estate note the syncopated backing vocal arrangement was added at his suggestion.",
+            "storyHook": "Before 'Never Too Much,' there was Young Americans. Before the solo career, there was the session work.",
+            "sourceNotes": "Verified: Luther Vandross is credited with backing vocals and vocal arrangements on Young Americans (1975). Sources: Wikipedia https://en.wikipedia.org/wiki/Young_Americans, Luther Vandross official Facebook https://www.facebook.com/luthervandross/posts/as-we-celebrate-the-50th-anniversary-of-david-bowies-1975-album-young-americans-/1",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Young Americans – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Young_Americans",
+                "accessed": "2026-05-26"
+              },
+              {
+                "title": "Luther Vandross – Young Americans 50th anniversary post",
+                "url": "https://www.facebook.com/luthervandross/posts/as-we-celebrate-the-50th-anniversary-of-david-bowies-1975-album-young-americans-/1",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "session",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP041-R2-Q5",
+          "episodeId": "EP041",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Whitney Houston's 'I Have Nothing' — from The Bodyguard soundtrack, and nominated for the Best Original Song Oscar in 1994 — was produced and co-written by which artist?",
+          "choices": [
+            "Jimmy Jam",
+            "Narada Michael Walden",
+            "David Foster",
+            "Babyface"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "I Have Nothing",
+            "album": "The Bodyguard (Original Soundtrack Album)",
+            "year": 1992,
+            "topicTags": [
+              "Whitney Houston",
+              "I Have Nothing",
+              "David Foster",
+              "Linda Thompson",
+              "The Bodyguard",
+              "Oscar nomination",
+              "1992"
+            ],
+            "fact": "'I Have Nothing' was co-written by David Foster and Linda Thompson and produced by David Foster. It was nominated for the Academy Award for Best Original Song at the 66th ceremony in 1994.",
+            "storyHook": "David Foster, a power ballad, and Whitney Houston. The formula worked every time they used it.",
+            "sourceNotes": "Verified: 'I Have Nothing' was co-written by David Foster and Linda Thompson, produced by David Foster, and nominated for Best Original Song Oscar in 1994. Sources: Wikipedia https://en.wikipedia.org/wiki/I_Have_Nothing",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Have Nothing – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Have_Nothing",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP041-R2-BONUS",
+          "episodeId": "EP041",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Minnie Riperton — known for her extraordinary five-octave vocal range — reached #1 on the Billboard Hot 100 in 1975 with which song?",
+          "choices": [
+            "Stay in Love",
+            "Lovin' You",
+            "Inside My Love",
+            "Les Fleurs"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 2 OF 3 — MINNIE RIPERTON'S FIVE-OCTAVE HIT"
+          },
+          "metadata": {
+            "artist": "Minnie Riperton",
+            "song": "Lovin' You",
+            "album": "Perfect Angel",
+            "year": 1974,
+            "topicTags": [
+              "Minnie Riperton",
+              "Lovin' You",
+              "Perfect Angel",
+              "five-octave range",
+              "Billboard Hot 100",
+              "1975",
+              "Epic Records"
+            ],
+            "fact": "'Lovin' You' was produced by Stevie Wonder and appeared on Minnie Riperton's 1974 album Perfect Angel. It reached #1 on the Billboard Hot 100 in April 1975. Riperton died of breast cancer in July 1979, aged 31.",
+            "storyHook": "Five octaves. One note everyone remembers. Minnie Riperton made it look like breathing.",
+            "sourceNotes": "Verified: Minnie Riperton is widely cited as having an approximately five-octave vocal range. 'Lovin' You' reached #1 on the Billboard Hot 100 in 1975 — the only one of the four choices to do so. Sources: Wikipedia https://en.wikipedia.org/wiki/Lovin%27_You_(Minnie_Riperton_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lovin' You (Minnie Riperton song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lovin%27_You_(Minnie_Riperton_song)",
+                "accessed": "2026-05-26"
+              }
+            ],
+            "sourcesCount": 1
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP041-R2-RES1",
+          "episodeId": "EP041",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Heavy D — born Dwight Arrington Myers — was the frontman and rapper of which group?",
+          "choices": [
+            "Heavy D & The Crew",
+            "The Heavyweights",
+            "Heavy D & The Boyz",
+            "Heavy D & Uptown"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Heavy D",
+            "song": null,
+            "album": null,
+            "year": 1987,
+            "topicTags": [
+              "Heavy D",
+              "Heavy D & The Boyz",
+              "Dwight Myers",
+              "Uptown Records",
+              "hip-hop soul"
+            ],
+            "fact": "Heavy D & The Boyz were a pioneering hip-hop soul group signed to Uptown Records, blending rap with melodic R&B production and paving the way for the new jack swing movement.",
+            "storyHook": "Dwight Myers walked into every room as the heaviest man in hip-hop. He filled it.",
+            "sourceNotes": "Verified: Heavy D was frontman and rapper for Heavy D & The Boyz. Sources: Wikipedia https://en.wikipedia.org/wiki/Heavy_D_%26_the_Boyz",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Heavy D & the Boyz – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Heavy_D_%26_the_Boyz",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP041-R2-RES2",
+          "episodeId": "EP041",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Donna Summer's 'Last Dance' won the Academy Award for Best Original Song in 1979. It appeared on the soundtrack to which film?",
+          "choices": [
+            "Saturday Night Fever",
+            "Thank God It's Friday",
+            "Grease",
+            "Car Wash"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Donna Summer",
+            "song": "Last Dance",
+            "album": "Thank God It's Friday (Soundtrack)",
+            "year": 1978,
+            "topicTags": [
+              "Donna Summer",
+              "Last Dance",
+              "Thank God It's Friday",
+              "Academy Award",
+              "Best Original Song",
+              "1979",
+              "Casablanca Records"
+            ],
+            "fact": "'Last Dance' was written for and appeared in the 1978 film Thank God It's Friday. It won the Oscar for Best Original Song at the 51st Academy Awards in 1979.",
+            "storyHook": "A disco film nobody remembers won an Oscar nobody forgets — because Donna Summer sang the song.",
+            "sourceNotes": "Verified: 'Last Dance' was written for and appears in the 1978 film Thank God It's Friday and won the 1979 Oscar for Best Original Song. Sources: Wikipedia https://en.wikipedia.org/wiki/Last_Dance_(Donna_Summer_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Last Dance (Donna Summer song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Last_Dance_(Donna_Summer_song)",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "award",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival level. The founders, the independent moves, and the decisions that shaped what R&B became.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP041-R3-Q1",
+          "episodeId": "EP041",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Sam Cooke co-founded his own record label in 1959 — making him one of the first Black artists to own and control his music. That label was named what?",
+          "choices": [
+            "Soul Records",
+            "Keen Records",
+            "SAR Records",
+            "Cooke's Corner"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sam Cooke",
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "Sam Cooke",
+              "SAR Records",
+              "J.W. Alexander",
+              "independent label",
+              "The Valentinos",
+              "Bobby Womack",
+              "1959"
+            ],
+            "fact": "SAR Records — co-founded with manager J.W. Alexander — signed Bobby Womack's family group The Valentinos and gave Cooke direct control over his publishing and artist development. The label dissolved after Cooke's death in 1964.",
+            "storyHook": "Sam Cooke didn't just make the records. He owned the company.",
+            "sourceNotes": "Verified: In 1959 Sam Cooke co-founded SAR Records (Sam & Alex Records) with J.W. Alexander, signing groups like The Valentinos. Sources: Instagram reel https://www.instagram.com/reel/C2z56ZquhuU/?hl=en, Wikipedia https://en.wikipedia.org/wiki/SAR_Records",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "SAR Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/SAR_Records",
+                "accessed": "2026-05-26"
+              },
+              {
+                "title": "Sam Cooke's SAR Records label – Instagram reel",
+                "url": "https://www.instagram.com/reel/C2z56ZquhuU/?hl=en",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP041-R3-Q2",
+          "episodeId": "EP041",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Otis Redding co-wrote '(Sittin' On) The Dock of the Bay' — his only #1 hit — with which Stax Records guitarist, completing the recording just days before Redding's death in December 1967?",
+          "choices": [
+            "Steve Cropper",
+            "Al Jackson Jr.",
+            "Duck Dunn",
+            "Booker T. Jones"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Otis Redding",
+            "song": "(Sittin' On) The Dock of the Bay",
+            "album": "The Dock of the Bay",
+            "year": 1968,
+            "topicTags": [
+              "Otis Redding",
+              "Steve Cropper",
+              "The Dock of the Bay",
+              "Stax Records",
+              "posthumous",
+              "1967",
+              "1968",
+              "Billboard Hot 100"
+            ],
+            "fact": "Redding recorded the song on December 7, 1967. He died in a plane crash on December 10. Released posthumously in January 1968, '(Sittin' On) The Dock of the Bay' became his first and only #1 hit on the Billboard Hot 100.",
+            "storyHook": "Three days after recording it, Otis Redding was gone. The song spent weeks at number one without him.",
+            "sourceNotes": "Verified: '(Sittin' On) The Dock of the Bay' was co-written by Otis Redding and Steve Cropper, and Redding recorded it in 1967 shortly before his death. Sources: Facebook tribute post https://www.facebook.com/glencampbellofficial/posts/remembering-steve-cropper-co-writer-of-sittin-on-the-dock-of-the-bay-with-ot",
+            "clipCue": "",
+            "hostNote": "The question stem mentions Redding's death. This is factually integral. Deliver calmly and move forward.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Remembering Steve Cropper – '(Sittin' On) The Dock of the Bay' post",
+                "url": "https://www.facebook.com/glencampbellofficial/posts/remembering-steve-cropper-co-writer-of-sittin-on-the-dock-of-the-bay-with-ot",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP041-R3-BONUS",
+          "episodeId": "EP041",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Luther Vandross won four Grammy Awards in a single night in 2004 — including Record of the Year — for his recording of which song?",
+          "choices": [
+            "Never Too Much",
+            "Dance with My Father",
+            "Here and Now",
+            "A House Is Not a Home"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 3 OF 3 — LUTHER'S 2004 GRAMMY SWEEP"
+          },
+          "metadata": {
+            "artist": "Luther Vandross",
+            "song": "Dance with My Father",
+            "album": "Dance with My Father",
+            "year": 2003,
+            "topicTags": [
+              "Luther Vandross",
+              "Dance with My Father",
+              "Grammy Award",
+              "Record of the Year",
+              "Song of the Year",
+              "Richard Marx",
+              "2004"
+            ],
+            "fact": "Luther won four Grammys in 2004 — Record of the Year, Song of the Year (with co-writer Richard Marx), Best Male R&B Vocal Performance, and Best R&B Album — for Dance with My Father. He was too ill to attend the ceremony.",
+            "storyHook": "He was too ill to attend the ceremony. The Grammys sent someone to collect his four awards anyway.",
+            "sourceNotes": "Verified: Luther Vandross won four Grammys in 2004 including Record of the Year for 'Dance with My Father,' co-written with Richard Marx. Sources: Richard Marx Facebook https://www.facebook.com/richardmarxmusic/posts/fbf-performing-dance-with-my-father-with-c%C3%A9line-dion-at-the-2004-grammys-lu, Luther Vandross official page https://www.facebook.com/luthervandross/posts/richard-marx-performs-his-rendition-of-dance-with-my-father-a-song-he-co-wrote-w/7",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Richard Marx – 'Dance With My Father' Grammy recollection",
+                "url": "https://www.facebook.com/richardmarxmusic/posts/fbf-performing-dance-with-my-father-with-c%C3%A9line-dion-at-the-2004-grammys-lu",
+                "accessed": "2026-05-26"
+              },
+              {
+                "title": "Luther Vandross page – 'Dance With My Father' Grammy note",
+                "url": "https://www.facebook.com/luthervandross/posts/richard-marx-performs-his-rendition-of-dance-with-my-father-a-song-he-co-wrote-w/7",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "award",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-26",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP041-R3-RES1",
+          "episodeId": "EP041",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Whitney Houston's final studio album, released in 2009, was titled what?",
+          "choices": [
+            "I Look to You",
+            "Just Whitney",
+            "One Wish",
+            "My Love Is Your Love"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": null,
+            "album": "I Look to You",
+            "year": 2009,
+            "topicTags": [
+              "Whitney Houston",
+              "I Look to You",
+              "final album",
+              "2009",
+              "Arista Records"
+            ],
+            "fact": "I Look to You (2009) is Whitney Houston's seventh and final studio album. It debuted at #1 on the Billboard 200.",
+            "storyHook": "Her seventh album. Her last. Released in 2009. She didn't know it yet.",
+            "sourceNotes": "Verified: I Look to You (2009) is listed as Whitney Houston's seventh and final studio album. Sources: Wikipedia https://en.wikipedia.org/wiki/I_Look_to_You",
+            "clipCue": "",
+            "hostNote": "The word 'final' is present in the question. The framing is neutral — no adjustment needed.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Look to You – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Look_to_You",
+                "accessed": "2026-05-26"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-26",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-27T03:36:41.106545+00:00"
+  }
+}

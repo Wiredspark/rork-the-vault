@@ -1,0 +1,1552 @@
+{
+  "episodeId": "EP054",
+  "title": "Ladies of Soul: The Nineties",
+  "theme": "The decade when girl groups stopped being anybody's project and started being forces of nature in their own right. New Jill Swing through the LaFace/Bad Boy/So So Def infrastructure and out the other side — vocal groups with real creative authorship, even when male producers and label heads built the machinery around them.",
+  "narrativePurpose": "Trace the 1990s girl group arc from SWV and TLC's commercial dominance through the Atlanta R&B ecosystem (Xscape, Kut Klose), the Bad Boy and Motown late-decade signings (Total, 702), and the formative years of Destiny's Child — the year CrazySexyCool put TLC at the absolute peak of the decade's girl group story.",
+  "toneProgression": "The hits and milestones that defined the era → the formation stories, label infrastructure, and personnel decisions behind the sound → the archival connections hiding inside the decade's most celebrated girl group moments",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "5"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-5 — the year TLC's CrazySexyCool is in full commercial bloom, 'Waterfalls' dominates the summer, and the album's eventual diamond certification makes TLC the best-selling American female group of all time. 1995: the decade's girl group story at its absolute peak."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The hits and milestones that defined the 1990s girl group era.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP054-R1-Q1",
+          "episodeId": "EP054",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "SWV announced themselves as a commercial force with which 1993 single — a sultry R&B ballad that became one of the decade's defining vocal performances?",
+          "choices": [
+            "Right Here",
+            "I'm So Into You",
+            "You're the One",
+            "Weak"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-song-weak-swv-1993-number-one-hot-100-rb-breakthrough",
+            "artist": "SWV",
+            "song": "Weak",
+            "album": "It's About Time",
+            "year": 1993,
+            "topicTags": [
+              "SWV",
+              "Weak",
+              "1993",
+              "#1 Hot 100",
+              "#1 R&B",
+              "breakthrough"
+            ],
+            "fact": "'Weak' was released as a single in April 1993 from SWV's 1992 debut album It's About Time. It topped the Billboard Hot 100 for two weeks in July 1993 and also reached #1 on the R&B chart — a double chart-topper that made SWV's harmonies inescapable.",
+            "storyHook": "'Weak.' Two weeks at #1 on the Hot 100. Also #1 R&B. SWV's harmonies were inescapable in the summer of 1993.",
+            "sourceNotes": "Verified: 'Weak' reached #1 on both the Hot 100 and R&B charts in 1993, from the 1992 album It's About Time. Sources: Wikipedia https://en.wikipedia.org/wiki/Weak_(SWV_song), WBSS Media https://wbssmedia.com/artists/detail/4290",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Weak (SWV song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Weak_(SWV_song)",
+                "accessed": "2026-06-17"
+              },
+              {
+                "title": "SWV – WBSS Media artist bio",
+                "url": "https://wbssmedia.com/artists/detail/4290",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R1-Q2",
+          "episodeId": "EP054",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "TLC's most enduring 1995 hit — from the diamond-certified album CrazySexyCool — addressed drug addiction and HIV/AIDS awareness over a hip-hop-inflected groove and spent seven weeks at #1. What was the song?",
+          "choices": [
+            "Diggin' on You",
+            "Creep",
+            "Waterfalls",
+            "Red Light Special"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-song-waterfalls-tlc-1995-number-one-seven-weeks-crazysexycool",
+            "artist": "TLC",
+            "song": "Waterfalls",
+            "album": "CrazySexyCool",
+            "year": 1995,
+            "topicTags": [
+              "TLC",
+              "Waterfalls",
+              "1995",
+              "CrazySexyCool",
+              "#1 Hot 100",
+              "social awareness"
+            ],
+            "fact": "'Waterfalls' (1995) reached #1 on the Billboard Hot 100 and stayed there for seven weeks — TLC's most socially conscious major hit, pairing a message about addiction and AIDS awareness with one of the era's most unforgettable music videos.",
+            "storyHook": "Seven weeks at #1. 'Waterfalls.' A song about addiction and AIDS awareness became one of 1995's biggest pop hits — TLC made a message record into a chart monster.",
+            "sourceNotes": "Verified: 'Waterfalls' reached #1 on the Hot 100 for seven weeks in 1995. Source: Wikipedia https://en.wikipedia.org/wiki/Waterfalls_(TLC_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Waterfalls (TLC song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Waterfalls_(TLC_song)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R1-Q3",
+          "episodeId": "EP054",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Atlanta trio Xscape — featuring future songwriter Kandi Burruss — introduced themselves with which August 1993 debut single, produced by Jermaine Dupri's So So Def?",
+          "choices": [
+            "The Arms of the One Who Loves You",
+            "Just Kickin' It",
+            "Who Can I Run To",
+            "Understanding"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-song-just-kickin-it-xscape-1993-debut-single-so-so-def",
+            "artist": "Xscape",
+            "song": "Just Kickin' It",
+            "album": "Hummin' Comin' at 'Cha",
+            "year": 1993,
+            "topicTags": [
+              "Xscape",
+              "Just Kickin' It",
+              "1993",
+              "So So Def",
+              "Jermaine Dupri",
+              "debut single"
+            ],
+            "fact": "'Just Kickin' It' was released in August 1993 as Xscape's debut single from their album Hummin' Comin' at 'Cha — a So So Def production that announced Jermaine Dupri's Atlanta imprint as a serious force in girl group R&B.",
+            "storyHook": "August 1993. Xscape's first single. So So Def's first major girl group statement. Atlanta R&B had arrived.",
+            "sourceNotes": "Verified: 'Just Kickin' It' was Xscape's debut single, released August 1993 from Hummin' Comin' at 'Cha. Source: Wikipedia https://en.wikipedia.org/wiki/Just_Kickin'_It",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Just Kickin' It – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Just_Kickin'_It",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R1-Q4",
+          "episodeId": "EP054",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Bad Boy trio Total scored a hit with which 1995 single — featuring a guest verse from The Notorious B.I.G. — that peaked at #13 on the Hot 100 and #3 on the R&B/Hip-Hop chart?",
+          "choices": [
+            "Kissin' You",
+            "Can't You See",
+            "No One Else",
+            "Trippin'"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-song-cant-you-see-total-1995-notorious-big-feature-chart-peak",
+            "artist": "Total",
+            "song": "Can't You See",
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "Total",
+              "Can't You See",
+              "1995",
+              "The Notorious B.I.G.",
+              "Bad Boy",
+              "chart"
+            ],
+            "fact": "'Can't You See' (1995) featured a guest verse from The Notorious B.I.G. and reached #13 on the Hot 100 and #3 on the R&B/Hip-Hop chart — one of Bad Boy Entertainment's earliest girl group successes.",
+            "storyHook": "Total. Biggie on the hook. 'Can't You See.' #13 pop, #3 R&B. Bad Boy's girl group arm was already paying off in 1995.",
+            "sourceNotes": "Verified: 'Can't You See' featured The Notorious B.I.G. and peaked at #13 Hot 100, #3 R&B/Hip-Hop. Sources: Wikipedia https://en.wikipedia.org/wiki/Can't_You_See_(Total_song), Wikipedia https://en.wikipedia.org/wiki/Total_(group)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Can't You See (Total song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Can't_You_See_(Total_song)",
+                "accessed": "2026-06-17"
+              },
+              {
+                "title": "Total (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Total_(group)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R1-Q5",
+          "episodeId": "EP054",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "702 scored their signature hit in 1999 with 'Where My Girls At?' — released on which legendary label, a surprising home for a late-1990s R&B trio?",
+          "choices": [
+            "Arista",
+            "LaFace",
+            "Bad Boy",
+            "Motown Records"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-song-where-my-girls-at-702-1999-motown-records-label",
+            "artist": "702",
+            "song": "Where My Girls At?",
+            "album": null,
+            "year": 1999,
+            "topicTags": [
+              "702",
+              "Where My Girls At?",
+              "1999",
+              "Motown Records",
+              "label"
+            ],
+            "fact": "702's 'Where My Girls At?' (1999) was released on Motown Records — a notable late-decade signing for the historic label, well outside its classic-era roster but still commercially potent.",
+            "storyHook": "Motown. 1999. A trio nobody would have guessed belonged on that label — and they made it work with one of the catchiest hooks of the year.",
+            "sourceNotes": "Verified: 'Where My Girls At?' was released on Motown Records in 1999. Source: Spotify rights metadata https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Where My Girls At – 702 – Spotify",
+                "url": "https://open.spotify.com/track/4VSyH8AkIt3kaR5xIPFVVi",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R1-Q6",
+          "episodeId": "EP054",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "SWV's 'Right Here/Human Nature' remix — which hit #1 R&B — built its hook around a sample of which Michael Jackson classic?",
+          "choices": [
+            "Human Nature",
+            "Billie Jean",
+            "Rock with You",
+            "The Way You Make Me Feel"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-song-right-here-human-nature-swv-michael-jackson-sample-number-one-rb",
+            "artist": "SWV",
+            "song": "Right Here/Human Nature",
+            "album": "It's About Time",
+            "year": 1993,
+            "topicTags": [
+              "SWV",
+              "Right Here",
+              "Human Nature",
+              "Michael Jackson",
+              "sample",
+              "#1 R&B"
+            ],
+            "fact": "SWV's 'Right Here (Human Nature Remix)' sampled Michael Jackson's 1982 classic 'Human Nature' and reached #1 on the R&B chart — a recontextualization that turned a Thriller-era ballad into one of the early 1990s' most distinctive R&B hits.",
+            "storyHook": "Michael Jackson's 'Human Nature' from 1982. SWV flipped it into a #1 R&B hit a decade later — proof that the right sample never goes out of style.",
+            "sourceNotes": "Verified: SWV's 'Right Here/Human Nature' remix sampled Michael Jackson's 'Human Nature' and hit #1 R&B. Sources: WBSS Media https://wbssmedia.com/artists/detail/4290, Yahoo Finance repost https://finance.yahoo.com/news/swv-michael-jackson-clearing-sample-230055126.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "SWV – WBSS Media artist bio",
+                "url": "https://wbssmedia.com/artists/detail/4290",
+                "accessed": "2026-06-17"
+              },
+              {
+                "title": "SWV on Michael Jackson clearing the sample – Yahoo/finance repost",
+                "url": "https://finance.yahoo.com/news/swv-michael-jackson-clearing-sample-230055126.html",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R1-B1",
+          "episodeId": "EP054",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Before becoming Destiny's Child, Beyoncé and the group's other founding members performed under which earlier group name in Houston?",
+          "choices": [
+            "Borderline",
+            "Girl's Tyme",
+            "The Dolls",
+            "Something Fresh"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — DESTINY'S CHILD'S EARLIER GROUP NAME"
+          },
+          "metadata": {
+            "factKey": "ep054-artist-girls-tyme-destinys-child-original-name-houston-star-search-1992",
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "Girl's Tyme",
+              "Destiny's Child",
+              "Houston",
+              "Star Search",
+              "1992",
+              "origin"
+            ],
+            "fact": "Destiny's Child was originally named Girl's Tyme and came together in Houston in the early 1990s as a six-member group. In 1992, they debuted on the television talent show Star Search.",
+            "storyHook": "Girl's Tyme. Houston. Six members. Star Search, 1992. The earliest version of what would become one of the biggest girl groups in pop history.",
+            "sourceNotes": "Verified: Destiny's Child was originally named Girl's Tyme, formed in Houston, and debuted on Star Search in 1992. Source: Encyclopaedia Britannica https://www.britannica.com/topic/Destinys-Child",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Destiny's Child – Encyclopaedia Britannica",
+                "url": "https://www.britannica.com/topic/Destinys-Child",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP054-R1-RES1",
+          "episodeId": "EP054",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "TLC's name was originally derived from the first initials of three members' names — including one who departed before the group's major-label debut. Which three names gave TLC its original initials?",
+          "choices": [
+            "Tionne, Latifah, and Crystal",
+            "Tionne, Lisa, and Chilli",
+            "Tionne, Lisa, and Crystal",
+            "Tracy, Lisa, and Crystal"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-artist-tlc-name-origin-tionne-lisa-crystal-jones-2nd-nature-pebbles",
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "TLC",
+              "Crystal Jones",
+              "Tionne Watkins",
+              "Lisa Lopes",
+              "2nd Nature",
+              "Pebbles",
+              "name origin"
+            ],
+            "fact": "TLC's name was originally derived from the first initials of Tionne Watkins, Lisa Lopes, and Crystal Jones — assembled as 2nd Nature before being renamed TLC by Perri 'Pebbles' Reid. After Crystal Jones departed and Rozonda 'Chilli' Thomas joined in April 1991, the initials were retroactively reinterpreted to fit T-Boz, Left Eye, and Chilli.",
+            "storyHook": "TLC didn't start as T-Boz, Left Eye, and Chilli. It started as Tionne, Lisa, and Crystal. The name stuck — the third member didn't.",
+            "sourceNotes": "Verified: TLC's name originally derived from Tionne, Lisa, and Crystal Jones (group originally called 2nd Nature, renamed by Pebbles); Crystal departed and Chilli joined April 1991, initials reinterpreted. Source: Kiddle (child-friendly TLC history) https://kids.kiddle.co/TLC_(group)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TLC (group) – Kiddle",
+                "url": "https://kids.kiddle.co/TLC_(group)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R1-RES2",
+          "episodeId": "EP054",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Which Xscape member went on to become one of R&B's most prolific and successful songwriters, eventually co-writing hits for TLC and other major artists?",
+          "choices": [
+            "LaTocha Scott",
+            "Tameka Tiny Cottle",
+            "Kandi Burruss",
+            "Tamika Scott"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-artist-kandi-burruss-xscape-songwriter-career-tlc-other-artists",
+            "artist": "Kandi Burruss",
+            "song": null,
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "Kandi Burruss",
+              "Xscape",
+              "songwriter",
+              "TLC",
+              "biography"
+            ],
+            "fact": "Kandi Burruss of Xscape became one of the most successful songwriters in R&B after the group's run as recording artists — co-writing hits for other artists, most famously TLC's 'No Scrubs.'",
+            "storyHook": "Kandi Burruss sang in Xscape. Then she became one of the most successful songwriters in R&B — writing hits for the very artists she used to share charts with.",
+            "sourceNotes": "Verified: Kandi Burruss became a prolific songwriter after Xscape, co-writing hits including TLC's 'No Scrubs.' Source: People https://people.com/kandi-burruss-tlc-no-scrubs-gift-that-keeps-on-giving-11701124",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Kandi Burruss Calls 'No Scrubs' the TLC Hit She Wrote – People",
+                "url": "https://people.com/kandi-burruss-tlc-no-scrubs-gift-that-keeps-on-giving-11701124",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R1-RES3",
+          "episodeId": "EP054",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brownstone scored their breakthrough hit with which October 1994 single, released on MJJ Music and Epic Records?",
+          "choices": [
+            "Grapevyne",
+            "Pass the Lovin'",
+            "5 Miles to Empty",
+            "If You Love Me"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-song-if-you-love-me-brownstone-1994-mjj-music-epic-breakthrough",
+            "artist": "Brownstone",
+            "song": "If You Love Me",
+            "album": "From the Bottom Up",
+            "year": 1994,
+            "topicTags": [
+              "Brownstone",
+              "If You Love Me",
+              "1994",
+              "MJJ Music",
+              "Epic Records",
+              "breakthrough"
+            ],
+            "fact": "'If You Love Me' was released October 24, 1994 on MJJ Music and Epic Records as the second single from Brownstone's debut album From the Bottom Up (1995) — and became the trio's breakthrough hit.",
+            "storyHook": "'If You Love Me.' October 1994. The single that made Brownstone's smooth harmonies impossible to ignore.",
+            "sourceNotes": "Verified: 'If You Love Me' released Oct 24, 1994 on MJJ Music and Epic Records, second single from From the Bottom Up. Source: Wikipedia https://en.wikipedia.org/wiki/If_You_Love_Me_(Brownstone_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "If You Love Me (Brownstone song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/If_You_Love_Me_(Brownstone_song)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R1-RES4",
+          "episodeId": "EP054",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Jade scored their breakthrough single in November 1992 with which release on Giant Records?",
+          "choices": [
+            "I Got It Goin' On",
+            "One Woman",
+            "Don't Walk Away",
+            "Every Day of the Week"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-song-dont-walk-away-jade-1992-giant-records-breakthrough",
+            "artist": "Jade",
+            "song": "Don't Walk Away",
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "Jade",
+              "Don't Walk Away",
+              "1992",
+              "Giant Records",
+              "breakthrough"
+            ],
+            "fact": "'Don't Walk Away' was released in November 1992 by Giant Records as Jade's breakthrough single — establishing the trio as part of the wave of early-1990s girl groups working in a polished R&B style.",
+            "storyHook": "November 1992. 'Don't Walk Away.' The single that put Jade on the map, courtesy of Giant Records.",
+            "sourceNotes": "Verified: 'Don't Walk Away' released November 1992 by Giant Records, Jade's breakthrough single. Source: Facebook post https://www.facebook.com/groups/408902916375965/posts/1574574816475430/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jade – 'Don't Walk Away' (1992) – Facebook post",
+                "url": "https://www.facebook.com/groups/408902916375965/posts/1574574816475430/",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The formation stories, label infrastructure, and personnel decisions behind the 1990s girl group sound.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP054-R2-Q1",
+          "episodeId": "EP054",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Atlanta trio Kut Klose scored their only Billboard Hot 100 entry — peaking at #34 in 1995 — with which single from their debut album Surrender?",
+          "choices": [
+            "Get Up On It",
+            "Sho' Nuff",
+            "Surrender",
+            "I Like"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-song-i-like-kut-klose-1995-elektra-only-hot-100-entry",
+            "artist": "Kut Klose",
+            "song": "I Like",
+            "album": "Surrender",
+            "year": 1995,
+            "topicTags": [
+              "Kut Klose",
+              "I Like",
+              "1995",
+              "Elektra",
+              "Surrender",
+              "Hot 100"
+            ],
+            "fact": "'I Like' was released February 7, 1995 on Elektra as the first single from Kut Klose's debut album Surrender — it became their only entry on the Billboard Hot 100, peaking at #34.",
+            "storyHook": "Kut Klose. One Hot 100 entry, ever. 'I Like' peaked at #34 in 1995 — a single shot that placed them in the same Atlanta R&B conversation as Xscape and TLC.",
+            "sourceNotes": "Verified: 'I Like' was Kut Klose's only Hot 100 entry, peaking #34, released Feb 7 1995 on Elektra from the album Surrender. Source: Wikipedia https://en.wikipedia.org/wiki/I_Like_(Kut_Klose_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Like (Kut Klose song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Like_(Kut_Klose_song)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R2-Q2",
+          "episodeId": "EP054",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "SWV — whose name stands for 'Sisters With Voices' — formed in 1988 in which American city?",
+          "choices": [
+            "New York City",
+            "Philadelphia",
+            "Atlanta",
+            "Detroit"
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-artist-swv-formed-1988-new-york-city-origin",
+            "artist": "SWV",
+            "song": null,
+            "album": null,
+            "year": 1988,
+            "topicTags": [
+              "SWV",
+              "New York City",
+              "1988",
+              "formation",
+              "origin"
+            ],
+            "fact": "SWV formed in 1988 in New York City — Cheryl 'Coko' Gamble, Tamara 'Taj' Johnson, and Leanne 'Lelee' Lyons bringing a New York R&B sensibility that distinguished them from the Atlanta-centered groups that would soon dominate the genre.",
+            "storyHook": "1988. New York City. Three voices that would define an R&B sound the South hadn't claimed yet.",
+            "sourceNotes": "Verified: SWV formed in 1988 in New York City. Sources: WBSS Media https://wbssmedia.com/artists/detail/4290, Facebook post https://www.facebook.com/groups/goldenblastsfromthepast/posts/9051394161582766/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "SWV – WBSS Media artist bio",
+                "url": "https://wbssmedia.com/artists/detail/4290",
+                "accessed": "2026-06-17"
+              },
+              {
+                "title": "SWV (Sisters With Voices)… formed in 1988 in New York City – Facebook post",
+                "url": "https://www.facebook.com/groups/goldenblastsfromthepast/posts/9051394161582766/",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R2-Q3",
+          "episodeId": "EP054",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "TLC originally performed as a quartet before becoming the trio audiences know today — which founding member departed before the group's debut album was released?",
+          "choices": [
+            "Tionne Watkins",
+            "Rozonda Thomas",
+            "Crystal Jones",
+            "Lisa Lopes"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-artist-crystal-jones-departed-tlc-before-debut-album-chilli-replacement",
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "Crystal Jones",
+              "TLC",
+              "lineup change",
+              "Rozonda Thomas",
+              "Chilli",
+              "1991"
+            ],
+            "fact": "Crystal Jones was an original member of the group that became TLC before departing in 1991, prior to the release of their 1992 debut album. Rozonda 'Chilli' Thomas joined that April to complete the trio lineup that became famous.",
+            "storyHook": "Crystal Jones helped build the group. She was gone before the world ever heard the name TLC on the radio. Chilli took her place in April 1991.",
+            "sourceNotes": "Verified: Crystal Jones departed before TLC's debut album; Chilli joined April 1991. Source: Kiddle https://kids.kiddle.co/TLC_(group)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TLC (group) – Kiddle",
+                "url": "https://kids.kiddle.co/TLC_(group)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R2-Q4",
+          "episodeId": "EP054",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Destiny's Child's early career was shaped significantly by which manager — also the father of one of the group's members and of singer Solange Knowles?",
+          "choices": [
+            "Mathew Knowles",
+            "Antonio L.A. Reid",
+            "Andre Harrell",
+            "Vincent Herbert"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-artist-mathew-knowles-managed-destinys-child-father-beyonce-solange",
+            "artist": "Mathew Knowles",
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "Mathew Knowles",
+              "Destiny's Child",
+              "manager",
+              "Beyoncé",
+              "Solange Knowles",
+              "biography"
+            ],
+            "fact": "Mathew Knowles — best known for managing Destiny's Child — is the father of Beyoncé and also once managed the solo careers of both Beyoncé and Solange Knowles.",
+            "storyHook": "Mathew Knowles managed Destiny's Child through their formative years — and the group's most famous member happened to be his own daughter.",
+            "sourceNotes": "Verified: Mathew Knowles managed Destiny's Child and is the father of Beyoncé and Solange Knowles. Source: Wikipedia https://en.wikipedia.org/wiki/Mathew_Knowles",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mathew Knowles – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mathew_Knowles",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R2-Q5",
+          "episodeId": "EP054",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Total — the trio behind 'Can't You See' and 'No One Else' — were one of the signature acts of which record label during its mid-1990s commercial peak?",
+          "choices": [
+            "LaFace",
+            "Bad Boy Entertainment",
+            "Uptown",
+            "So So Def"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-artist-total-signature-act-bad-boy-records-mid-1990s",
+            "artist": "Total",
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "Total",
+              "Bad Boy Entertainment",
+              "Bad Boy Records",
+              "1990s",
+              "signature act"
+            ],
+            "fact": "Total was one of the signature acts of the Bad Boy Records imprint during the mid-1990s — one of Puff Daddy's earliest and most successful girl group signings.",
+            "storyHook": "Total wasn't just on Bad Boy. They were one of its defining acts — right alongside Biggie and Faith Evans in the label's earliest, most explosive run.",
+            "sourceNotes": "Verified: Total was a signature act of Bad Boy Records during the mid-1990s. Source: Wikipedia https://en.wikipedia.org/wiki/Total_(group)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Total (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Total_(group)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R2-B1",
+          "episodeId": "EP054",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "TLC recorded their entire catalog for which Atlanta-based boutique label, co-founded by L.A. Reid and Babyface?",
+          "choices": [
+            "Bad Boy",
+            "LaFace Records",
+            "Uptown",
+            "So So Def"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — TLC'S ATLANTA RECORD LABEL"
+          },
+          "metadata": {
+            "factKey": "ep054-label-laface-records-tlc-atlanta-la-reid-babyface",
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "LaFace Records",
+              "TLC",
+              "Atlanta",
+              "L.A. Reid",
+              "Babyface",
+              "label"
+            ],
+            "fact": "TLC released their entire catalog through LaFace Records — the Atlanta boutique imprint co-founded by L.A. Reid and Babyface, distributed through Arista.",
+            "storyHook": "TLC. LaFace Records. Atlanta. The same label that built Usher and Toni Braxton gave the world TLC's entire catalog, from Ooooooohhh... On the TLC Tip through FanMail.",
+            "sourceNotes": "Verified: TLC's catalog was released through LaFace Records. Sources: Wikipedia https://en.wikipedia.org/wiki/TLC_(group), Wikipedia https://en.wikipedia.org/wiki/LaFace_Records",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TLC (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/TLC_(group)",
+                "accessed": "2026-06-17"
+              },
+              {
+                "title": "LaFace Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/LaFace_Records",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP054-R2-RES1",
+          "episodeId": "EP054",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "In 2000, Destiny's Child experienced a contentious lineup change when which two original members were replaced, leaving Beyoncé and Kelly Rowland as the group's core?",
+          "choices": [
+            "Kelendria Rowland and Michelle Williams",
+            "LaTavia Roberson and Farrah Franklin",
+            "LaTavia Roberson and LeToya Luckett",
+            "Farrah Franklin and Michelle Williams"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-artist-latavia-roberson-letoya-luckett-replaced-destinys-child-2000",
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "LaTavia Roberson",
+              "LeToya Luckett",
+              "Destiny's Child",
+              "2000",
+              "lineup change",
+              "controversy"
+            ],
+            "fact": "LaTavia Roberson and LeToya Luckett were replaced in 2000 — a contentious and highly publicized lineup change that left Beyoncé and Kelly Rowland as the group's only original remaining members heading into their commercial peak.",
+            "storyHook": "2000. The lineup change that made headlines. LaTavia Roberson and LeToya Luckett were out — and Destiny's Child was about to become bigger than ever.",
+            "sourceNotes": "Verified: LaTavia Roberson and LeToya Luckett were replaced in Destiny's Child in 2000. Sources: Reddit discussion https://www.reddit.com/r/popheads/comments/rmdopf/what_were_the_fans_thoughtsposition_after/, Britannica https://www.britannica.com/topic/Destinys-Child",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Destiny's Child lineup change discussion – r/popheads",
+                "url": "https://www.reddit.com/r/popheads/comments/rmdopf/what_were_the_fans_thoughtsposition_after/",
+                "accessed": "2026-06-17"
+              },
+              {
+                "title": "Destiny's Child – Encyclopaedia Britannica",
+                "url": "https://www.britannica.com/topic/Destinys-Child",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R2-RES2",
+          "episodeId": "EP054",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Xscape — the Atlanta quartet behind 'Just Kickin' It' and 'Who Can I Run To' — officially disbanded in which year, before reforming in 2017?",
+          "choices": [
+            "1999",
+            "1998",
+            "1996",
+            "2000"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-artist-xscape-disbanded-2000-reformed-2017",
+            "artist": "Xscape",
+            "song": null,
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "Xscape",
+              "2000",
+              "disbandment",
+              "2017",
+              "reunion"
+            ],
+            "fact": "Xscape disbanded in 2000 to pursue solo projects, with Kandi Burruss going on to a prolific songwriting career — the group later reformed in 2017.",
+            "storyHook": "Xscape disbanded in 2000. Seventeen years later, in 2017, they got back together. Kandi Burruss never really left the business in between.",
+            "sourceNotes": "Verified: Xscape disbanded in 2000 and reformed in 2017. Source: Wikipedia https://en.wikipedia.org/wiki/Xscape_(group)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Xscape (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Xscape_(group)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R2-RES3",
+          "episodeId": "EP054",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Brownstone — known for 'If You Love Me' — recorded for which label, an imprint connected to one of pop music's most famous artists?",
+          "choices": [
+            "So So Def",
+            "MJJ Music",
+            "LaFace",
+            "Bad Boy"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-label-mjj-music-brownstone-michael-jackson-epic-records",
+            "artist": "Brownstone",
+            "song": null,
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "MJJ Music",
+              "Brownstone",
+              "Michael Jackson",
+              "Epic Records",
+              "label"
+            ],
+            "fact": "Brownstone recorded for MJJ Music — Michael Jackson's imprint, operating in conjunction with Epic Records — an unexpected but well-documented label home for one of the era's smoother R&B trios.",
+            "storyHook": "Brownstone's records came out on Michael Jackson's own label. Most fans of 'If You Love Me' have no idea.",
+            "sourceNotes": "Verified: Brownstone recorded for MJJ Music in conjunction with Epic Records. Sources: Instagram https://www.instagram.com/p/DWlIcgvDqME/, Wikipedia https://en.wikipedia.org/wiki/If_You_Love_Me_(Brownstone_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Signed to Michael Jackson's MJJ Music label – Brownstone – Instagram",
+                "url": "https://www.instagram.com/p/DWlIcgvDqME/",
+                "accessed": "2026-06-17"
+              },
+              {
+                "title": "If You Love Me (Brownstone song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/If_You_Love_Me_(Brownstone_song)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival connections hiding inside the decade's most celebrated girl group moments.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP054-R3-Q1",
+          "episodeId": "EP054",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "After Xscape's run as a recording group, Kandi Burruss co-wrote which massive 1999 hit for TLC — a sharp, minimalist track that became one of the decade's most quotable singles?",
+          "choices": [
+            "Silly Ho",
+            "Unpretty",
+            "Girl Talk",
+            "No Scrubs"
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-song-no-scrubs-tlc-kandi-burruss-cowriter-1999",
+            "artist": "TLC",
+            "song": "No Scrubs",
+            "album": "FanMail",
+            "year": 1999,
+            "topicTags": [
+              "Kandi Burruss",
+              "No Scrubs",
+              "TLC",
+              "1999",
+              "songwriting"
+            ],
+            "fact": "Kandi Burruss co-wrote TLC's 'No Scrubs' (1999) — one of the most successful songwriting credits of her post-Xscape career, and a song that became a cultural touchstone well beyond its chart performance.",
+            "storyHook": "'No Scrubs.' 1999. Kandi Burruss wrote it. The former Xscape member had moved from the stage to the songwriting room — and the results were everywhere.",
+            "sourceNotes": "Verified: Kandi Burruss co-wrote TLC's 'No Scrubs' (1999). Source: People https://people.com/kandi-burruss-tlc-no-scrubs-gift-that-keeps-on-giving-11701124",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Kandi Burruss Calls 'No Scrubs' the TLC Hit She Wrote – People",
+                "url": "https://people.com/kandi-burruss-tlc-no-scrubs-gift-that-keeps-on-giving-11701124",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R3-Q2",
+          "episodeId": "EP054",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "SWV's name is an abbreviation for which phrase, reflecting the trio's vocal-forward identity?",
+          "choices": [
+            "Sisters With Voices",
+            "Soulful Women's Voices",
+            "Singing With Vibrance",
+            "Sound With Vision"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-artist-swv-sisters-with-voices-name-meaning",
+            "artist": "SWV",
+            "song": null,
+            "album": null,
+            "year": 1988,
+            "topicTags": [
+              "SWV",
+              "Sisters With Voices",
+              "name meaning",
+              "biography"
+            ],
+            "fact": "SWV stands for 'Sisters With Voices' — a name that announced the group's core identity as a vocal-driven act from the very start of their career.",
+            "storyHook": "Sisters With Voices. That's what SWV stands for. The name was the mission statement.",
+            "sourceNotes": "Verified: SWV stands for 'Sisters With Voices.' Source: WBSS Media https://wbssmedia.com/artists/detail/4290",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "SWV – WBSS Media artist bio",
+                "url": "https://wbssmedia.com/artists/detail/4290",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R3-B1",
+          "episodeId": "EP054",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Destiny's Child — before their global breakthrough — formed and first came together in which American city?",
+          "choices": [
+            "Atlanta",
+            "Houston, Texas",
+            "Memphis",
+            "New Orleans"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — DESTINY'S CHILD'S HOMETOWN"
+          },
+          "metadata": {
+            "factKey": "ep054-artist-destinys-child-houston-texas-hometown-origin",
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": null,
+            "year": 1990,
+            "topicTags": [
+              "Destiny's Child",
+              "Houston",
+              "Texas",
+              "hometown",
+              "origin"
+            ],
+            "fact": "Destiny's Child — originally Girl's Tyme — came together in Houston, Texas in the early 1990s, the city that would remain central to the group's identity throughout their career.",
+            "storyHook": "Houston, Texas. That's where it started. Girl's Tyme, then Destiny's Child — the city never stopped being part of the story.",
+            "sourceNotes": "Verified: Destiny's Child formed in Houston. Source: Encyclopaedia Britannica https://www.britannica.com/topic/Destinys-Child",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Destiny's Child – Encyclopaedia Britannica",
+                "url": "https://www.britannica.com/topic/Destinys-Child",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP054-R3-RES1",
+          "episodeId": "EP054",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Jade — known for their breakthrough single 'Don't Walk Away' — recorded for which label, a Warner-affiliated imprint?",
+          "choices": [
+            "So So Def",
+            "Giant Records",
+            "MJJ Music",
+            "Bad Boy"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-label-giant-records-jade-warner-affiliated",
+            "artist": "Jade",
+            "song": null,
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "Jade",
+              "Giant Records",
+              "Warner",
+              "label"
+            ],
+            "fact": "Jade recorded for Giant Records, a Warner-affiliated label — placing them in a different corner of the industry's infrastructure than the Atlanta- and New York-centered groups dominating the era.",
+            "storyHook": "Giant Records. A Warner imprint. Jade's home base — distinct from the Atlanta and New York machinery driving most of their contemporaries.",
+            "sourceNotes": "Verified: Jade recorded for Giant Records, a Warner-affiliated label. Source: Facebook post https://www.facebook.com/groups/408902916375965/posts/1574574816475430/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jade – 'Don't Walk Away' (1992) – Facebook post",
+                "url": "https://www.facebook.com/groups/408902916375965/posts/1574574816475430/",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP054-R3-RES2",
+          "episodeId": "EP054",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "TLC's 1992 debut album carried which deliberately unconventional title?",
+          "choices": [
+            "3D",
+            "FanMail",
+            "Ooooooohhh... On the TLC Tip",
+            "CrazySexyCool"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep054-album-ooooooohhh-on-the-tlc-tip-1992-debut",
+            "artist": "TLC",
+            "song": null,
+            "album": "Ooooooohhh... On the TLC Tip",
+            "year": 1992,
+            "topicTags": [
+              "TLC",
+              "Ooooooohhh On the TLC Tip",
+              "1992",
+              "debut album"
+            ],
+            "fact": "TLC's 1992 debut album was titled 'Ooooooohhh... On the TLC Tip' — an attention-grabbing, deliberately playful title that announced the group's personality well before 'Waterfalls' or CrazySexyCool made them household names.",
+            "storyHook": "'Ooooooohhh... On the TLC Tip.' That's the actual title of TLC's debut album. Long before CrazySexyCool, they were already announcing exactly who they were.",
+            "sourceNotes": "Verified: TLC's 1992 debut album is titled 'Ooooooohhh... On the TLC Tip.' Source: Wikipedia https://en.wikipedia.org/wiki/TLC_(group)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TLC (group) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/TLC_(group)",
+                "accessed": "2026-06-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-17",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-17T06:54:20.829181+00:00"
+  }
+}

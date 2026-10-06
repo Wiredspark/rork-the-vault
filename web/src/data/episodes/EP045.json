@@ -1,0 +1,1562 @@
+{
+  "episodeId": "EP045",
+  "title": "Broken Trust",
+  "theme": "Cheating. Catching. Confronting. R&B has never shied away from infidelity — from Billy Paul's unapologetic affair to Destiny's Child's precision trap. The songs that exposed what happens when trust breaks down.",
+  "narrativePurpose": "Test knowledge of the R&B catalog built around infidelity — the songs that caught cheaters, confronted betrayal, and turned personal devastation into some of the most commercially and artistically significant recordings of the past five decades.",
+  "toneProgression": "The infidelity anthems everyone knows → the producers, labels, and personal stories behind the recordings → the archival connections and creative genealogy that link decades of broken-trust R&B",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "0"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 2-0-0-0 — the year Destiny's Child's 'Say My Name' and Toni Braxton's 'He Wasn't Man Enough' were among the defining sounds of R&B, both confronting betrayal directly. The year 2000: when R&B stopped making excuses for cheaters."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The infidelity anthems everyone knows — the songs that caught cheaters and made betrayal sound like a number one record.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP045-R1-Q1",
+          "episodeId": "EP045",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Destiny's Child's 'Say My Name' (2000) — in which catching a cheating partner is built into the chorus itself — appeared on which album?",
+          "choices": [
+            "Destiny's Child",
+            "B'Day",
+            "The Writing's on the Wall",
+            "Survivor"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-song-destinys-child-say-my-name-the-writings-on-the-wall-album",
+            "artist": "Destiny's Child",
+            "song": "Say My Name",
+            "album": "The Writing's on the Wall",
+            "year": 2000,
+            "topicTags": [
+              "Destiny's Child",
+              "Say My Name",
+              "The Writing's on the Wall",
+              "2000",
+              "infidelity"
+            ],
+            "fact": "'Say My Name' was the third single from Destiny's Child's second studio album 'The Writing's on the Wall,' released on July 27, 1999.",
+            "storyHook": "The writing was literally on the wall. Destiny's Child built the trap into the song itself — if he won't say your name, you know why.",
+            "sourceNotes": "Verified: 'Say My Name' appeared on The Writing's on the Wall (1999). Sources: Wikipedia https://en.wikipedia.org/wiki/The_Writing%27s_on_the_Wall, Apple Music https://music.apple.com/us/album/the-writings-on-the-wall/266809606, Grammy.com https://www.grammy.com/news/destinys-child-the-writings-on-the-wall-say-my-name-25th-anniversary/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Writing's on the Wall – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Writing%27s_on_the_Wall",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "Destiny's Child – The Writing's On the Wall – Apple Music",
+                "url": "https://music.apple.com/us/album/the-writings-on-the-wall/266809606",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "5 Reasons Why 'The Writing's On The Wall' Is Destiny's Child's Definitive Album – GRAMMY.com",
+                "url": "https://www.grammy.com/news/destinys-child-the-writings-on-the-wall-say-my-name-25th-anniversary/",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "album",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R1-Q2",
+          "episodeId": "EP045",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Toni Braxton's confrontational 2000 single 'He Wasn't Man Enough' was released on which Atlanta-based label — also home to TLC and Usher?",
+          "choices": [
+            "Bad Boy",
+            "LaFace Records",
+            "Jive",
+            "So So Def"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-song-toni-braxton-he-wasnt-man-enough-laface-records",
+            "artist": "Toni Braxton",
+            "song": "He Wasn't Man Enough",
+            "album": "The Heat",
+            "year": 2000,
+            "topicTags": [
+              "Toni Braxton",
+              "He Wasn't Man Enough",
+              "LaFace Records",
+              "2000",
+              "infidelity"
+            ],
+            "fact": "'He Wasn't Man Enough' was released by LaFace Records on February 29, 2000, as the lead single from Braxton's third studio album 'The Heat.'",
+            "storyHook": "LaFace Records. February 2000. Toni Braxton made it clear she wasn't staying.",
+            "sourceNotes": "Verified: 'He Wasn't Man Enough' was released by LaFace Records in 2000. Source: Wikipedia https://en.wikipedia.org/wiki/He_Wasn%27t_Man_Enough",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "He Wasn't Man Enough – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/He_Wasn%27t_Man_Enough",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R1-Q3",
+          "episodeId": "EP045",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Billy Paul's 1972 soul classic 'Me and Mrs. Jones' — a candid portrait of an extramarital affair at a regular café meeting — was written and produced primarily by which Philadelphia soul duo?",
+          "choices": [
+            "Kenny Gamble and Leon Huff",
+            "Thom Bell and Linda Creed",
+            "Holland-Dozier-Holland",
+            "Jimmy Jam and Terry Lewis"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-song-billy-paul-me-and-mrs-jones-gamble-huff-writers-producers",
+            "artist": "Billy Paul",
+            "song": "Me and Mrs. Jones",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Billy Paul",
+              "Me and Mrs. Jones",
+              "Kenny Gamble",
+              "Leon Huff",
+              "Philadelphia International",
+              "1972"
+            ],
+            "fact": "'Me and Mrs. Jones' was written by Kenny Gamble, Leon Huff, and Cary Gilbert, and produced by Gamble and Huff for Philadelphia International Records.",
+            "storyHook": "Gamble and Huff made the sounds of Philadelphia. Billy Paul made the most unashamed affair song in soul history.",
+            "sourceNotes": "Verified: 'Me and Mrs. Jones' written by Kenny Gamble, Leon Huff, and Cary Gilbert. Source: Facebook song summary post https://www.facebook.com/RobertLevEy2/posts/me-and-mrs-jones-is-a-1972-soul-song-written-by-kenny-gamble-leon-huff-and-cary-/816",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Me and Mrs. Jones – song summary",
+                "url": "https://www.facebook.com/RobertLevEy2/posts/me-and-mrs-jones-is-a-1972-soul-song-written-by-kenny-gamble-leon-huff-and-cary-/816",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R1-Q4",
+          "episodeId": "EP045",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "TLC's 1994 hit 'Creep' — in which the narrator justifies a secret relationship because her partner is also unfaithful — was produced by which Atlanta-based hitmaker who shaped TLC's early sound?",
+          "choices": [
+            "L.A. Reid",
+            "Jermaine Dupri",
+            "Babyface",
+            "Dallas Austin"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-song-tlc-creep-dallas-austin-producer",
+            "artist": "TLC",
+            "song": "Creep",
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "TLC",
+              "Creep",
+              "Dallas Austin",
+              "Atlanta",
+              "1994",
+              "infidelity"
+            ],
+            "fact": "Dallas Austin wrote and produced 'Creep' and was a key architect of TLC's early commercial sound throughout the early 1990s.",
+            "storyHook": "Dallas Austin built TLC's sound. 'Creep' turned it into one of the decade's most frank conversations about infidelity.",
+            "sourceNotes": "Verified: Dallas Austin produced 'Creep.' Source: YouTube interview https://www.youtube.com/watch?v=Ti7gqTkSSTc",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dallas Austin recalls creating the beat to TLC's 'Creep'",
+                "url": "https://www.youtube.com/watch?v=Ti7gqTkSSTc",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "production",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R1-Q5",
+          "episodeId": "EP045",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brandy and Monica's 1998 duet 'The Boy Is Mine' — a confrontation between two women over the same man — became one of the longest-running #1 hits on the Billboard Hot 100. How many consecutive weeks did it spend at the top?",
+          "choices": [
+            "15 weeks",
+            "13 weeks",
+            "11 weeks",
+            "9 weeks"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-song-brandy-monica-the-boy-is-mine-13-weeks-number-1",
+            "artist": "Brandy and Monica",
+            "song": "The Boy Is Mine",
+            "album": null,
+            "year": 1998,
+            "topicTags": [
+              "Brandy",
+              "Monica",
+              "The Boy Is Mine",
+              "1998",
+              "Billboard Hot 100",
+              "13 weeks"
+            ],
+            "fact": "'The Boy Is Mine' spent 13 consecutive weeks at #1 on the Billboard Hot 100 — at the time the third-longest-running #1 in US chart history.",
+            "storyHook": "Thirteen weeks. Two women. One man who wasn't worth either of them.",
+            "sourceNotes": "Verified: 'The Boy Is Mine' spent 13 consecutive weeks at #1 on the Billboard Hot 100. Sources: Wikipedia https://en.wikipedia.org/wiki/The_Boy_Is_Mine_(Brandy_and_Monica_song), Instagram reel https://www.instagram.com/reel/DX6tZ-qo4xa/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Boy Is Mine (Brandy and Monica song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Boy_Is_Mine_(Brandy_and_Monica_song)",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "28 years ago, Brandy and Monica released 'The Boy Is Mine' – Instagram reel",
+                "url": "https://www.instagram.com/reel/DX6tZ-qo4xa/",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R1-Q6",
+          "episodeId": "EP045",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The O'Jays' 1972 album 'Back Stabbers' — anchored by its infidelity-themed title track — also contained which song that became the group's first and only #1 on the Billboard Hot 100?",
+          "choices": [
+            "992 Arguments",
+            "For the Love of Money",
+            "Love Train",
+            "Put Your Hands Together"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-song-ojays-love-train-back-stabbers-album-first-hot-100-number-1",
+            "artist": "The O'Jays",
+            "song": "Love Train",
+            "album": "Back Stabbers",
+            "year": 1973,
+            "topicTags": [
+              "The O'Jays",
+              "Love Train",
+              "Back Stabbers",
+              "Philadelphia International",
+              "1972",
+              "1973",
+              "Hot 100"
+            ],
+            "fact": "'Love Train' — from the Back Stabbers album — reached #1 on both the R&B Singles and Hot 100 charts and was The O'Jays' first and only #1 on the US pop chart.",
+            "storyHook": "The same album that called out back stabbers also produced a message of universal love. The O'Jays contained multitudes.",
+            "sourceNotes": "Verified: 'Love Train' was on the Back Stabbers album and was The O'Jays' first and only Hot 100 #1. Source: Wikipedia https://en.wikipedia.org/wiki/Love_Train",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Love Train – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Love_Train",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R1-B1",
+          "episodeId": "EP045",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Kelis's furious 1999 debut single 'Caught Out There' — featuring the repeatedly screamed 'I hate you so much right now' — was produced by which duo whose experimental sound defined late-1990s R&B?",
+          "choices": [
+            "Timbaland and Missy Elliott",
+            "The Neptunes",
+            "Jimmy Jam and Terry Lewis",
+            "Darkchild"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "2",
+            "bonusHint": "DIGIT 1 OF 3 — KELIS'S PRODUCERS"
+          },
+          "metadata": {
+            "factKey": "ep045-song-kelis-caught-out-there-the-neptunes-producers",
+            "artist": "Kelis",
+            "song": "Caught Out There",
+            "album": "Kaleidoscope",
+            "year": 1999,
+            "topicTags": [
+              "Kelis",
+              "Caught Out There",
+              "The Neptunes",
+              "Pharrell Williams",
+              "Chad Hugo",
+              "1999"
+            ],
+            "fact": "'Caught Out There' was produced by The Neptunes (Pharrell Williams and Chad Hugo), whose alien-textured arrangements gave Kelis's debut album 'Kaleidoscope' its distinctive sound.",
+            "storyHook": "The Neptunes built the world 'Caught Out There' lives in. Kelis burned it down.",
+            "sourceNotes": "Verified: 'Caught Out There' was produced by The Neptunes. Sources: Dork https://readdork.com/track/kelis-caught-out-there-the-neptunes-extended-mix-1999, Albumism https://albumism.com/features/kelis-debut-album-kaleidoscope-turns-20-anniversary-retrospective",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Caught Out There (The Neptunes Extended Mix) – track listing",
+                "url": "https://readdork.com/track/kelis-caught-out-there-the-neptunes-extended-mix-1999",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "Revisiting Kelis' Debut Album 'Kaleidoscope' – Albumism",
+                "url": "https://albumism.com/features/kelis-debut-album-kaleidoscope-turns-20-anniversary-retrospective",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "production",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP045-R1-RES1",
+          "episodeId": "EP045",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Babyface — who co-wrote and produced 'The Boy Is Mine' — received his famous nickname from which funk legend who noticed his youthful appearance during an early collaboration?",
+          "choices": [
+            "George Clinton",
+            "James Brown",
+            "Bootsy Collins",
+            "Prince"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-artist-babyface-bootsy-collins-nickname-origin",
+            "artist": "Babyface",
+            "song": null,
+            "album": null,
+            "year": 1984,
+            "topicTags": [
+              "Babyface",
+              "Kenneth Edmonds",
+              "Bootsy Collins",
+              "nickname",
+              "biography"
+            ],
+            "fact": "Bootsy Collins gave Kenneth Edmonds the nickname 'Babyface,' noting how young he looked during their early musical collaboration.",
+            "storyHook": "Bootsy Collins looked at Kenneth Edmonds and gave him a name that would follow him through decades of hits. Babyface was born.",
+            "sourceNotes": "Verified: Bootsy Collins gave Babyface his stage name. Source: YouTube short https://www.youtube.com/shorts/VEzPb-q19C4",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bootsy Collins gave Kenneth Edmonds aka Babyface his stage name – clip",
+                "url": "https://www.youtube.com/shorts/VEzPb-q19C4",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R1-RES2",
+          "episodeId": "EP045",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Kelis's 1999 debut album — which introduced 'Caught Out There' — was titled what?",
+          "choices": [
+            "Flesh Tone",
+            "Kaleidoscope",
+            "Tasty",
+            "Wanderland"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-album-kelis-kaleidoscope-1999-debut",
+            "artist": "Kelis",
+            "song": null,
+            "album": "Kaleidoscope",
+            "year": 1999,
+            "topicTags": [
+              "Kelis",
+              "Kaleidoscope",
+              "1999",
+              "debut album",
+              "Neptunes"
+            ],
+            "fact": "'Kaleidoscope' was released on December 7, 1999, as Kelis's debut album — featuring 'Caught Out There' and produced almost entirely by The Neptunes.",
+            "storyHook": "December 1999. The Neptunes. Kelis. And one of the most original debut albums in R&B history.",
+            "sourceNotes": "Verified: 'Kaleidoscope' was Kelis's debut album, released December 7, 1999. Source: Albumism https://albumism.com/features/kelis-debut-album-kaleidoscope-turns-20-anniversary-retrospective",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Revisiting Kelis' Debut Album 'Kaleidoscope' – Albumism",
+                "url": "https://albumism.com/features/kelis-debut-album-kaleidoscope-turns-20-anniversary-retrospective",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R1-RES3",
+          "episodeId": "EP045",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Usher's 'Confessions' (2004) — built entirely around a man's infidelity — debuted at #1 on the Billboard 200 and sold over one million copies in its first week. It was released on which label?",
+          "choices": [
+            "Def Jam",
+            "Interscope",
+            "Jive",
+            "Arista"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-album-usher-confessions-arista-laface-records-2004",
+            "artist": "Usher",
+            "song": null,
+            "album": "Confessions",
+            "year": 2004,
+            "topicTags": [
+              "Usher",
+              "Confessions",
+              "Arista Records",
+              "LaFace",
+              "2004",
+              "infidelity"
+            ],
+            "fact": "'Confessions' was released through LaFace Records, a division of Arista Records, on March 23, 2004, debuting at #1 on the Billboard 200.",
+            "storyHook": "Arista. LaFace. Usher. And a confession so detailed it became one of the most successful R&B albums in history.",
+            "sourceNotes": "Verified: 'Confessions' released by Arista Records in 2004. Sources: Wikipedia https://en.wikipedia.org/wiki/Confessions_(Usher_album), label history post https://www.facebook.com/TimelessFeedfb/posts/la-reid-signed-a-teenage-boy-named-usher-in-1993then-watched-him-humiliate-himse/9",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Confessions (Usher album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Confessions_(Usher_album)",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "LA Reid signed a teenage boy named Usher… – label history post",
+                "url": "https://www.facebook.com/TimelessFeedfb/posts/la-reid-signed-a-teenage-boy-named-usher-in-1993then-watched-him-humiliate-himse/9",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R1-RES4",
+          "episodeId": "EP045",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brandy and Monica's 'The Boy Is Mine' was also the title of Monica's second studio album. That album was released in which year?",
+          "choices": [
+            "2001",
+            "1998",
+            "1996",
+            "2000"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-album-monica-the-boy-is-mine-1998-release-year",
+            "artist": "Monica",
+            "song": null,
+            "album": "The Boy Is Mine",
+            "year": 1998,
+            "topicTags": [
+              "Monica",
+              "The Boy Is Mine",
+              "1998",
+              "album",
+              "Arista Records"
+            ],
+            "fact": "Monica's second studio album 'The Boy Is Mine' was released on July 14, 1998, by Arista Records — named after the chart-dominating duet with Brandy.",
+            "storyHook": "She named the whole album after the duet. Monica wasn't sharing the title any more than she was sharing the man.",
+            "sourceNotes": "Verified: Monica's 'The Boy Is Mine' album was released July 14, 1998. Sources: Wikipedia https://en.wikipedia.org/wiki/The_Boy_Is_Mine_(album), Spotify https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Boy Is Mine (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Boy_Is_Mine_(album)",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "The Boy Is Mine – Album by Monica – Spotify",
+                "url": "https://open.spotify.com/album/6mIyViyBHV4eoQqI4JZByh",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The producers, labels, personnel decisions, and personal stories behind the infidelity records.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP045-R2-Q1",
+          "episodeId": "EP045",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Most Philadelphia International Records sessions — including 'Me and Mrs. Jones' and 'Back Stabbers' — were recorded at which Philadelphia studio that became the sonic home of 1970s soul?",
+          "choices": [
+            "Sigma Sound Studios",
+            "Electric Lady Studios",
+            "Sun Studio",
+            "Criteria Recording Studios"
+          ],
+          "correctIndex": 0,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-label-philadelphia-international-sigma-sound-studios-recording-home",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1970,
+            "topicTags": [
+              "Sigma Sound Studios",
+              "Philadelphia International Records",
+              "Philadelphia soul",
+              "recording studio"
+            ],
+            "fact": "Sigma Sound Studios, founded in 1968 by Joe Tarsia, was the home of 'The Philly Sound' — where MFSB and countless PIR artists recorded their defining work.",
+            "storyHook": "Sigma Sound Studios. Every signature riff, every lush string arrangement, every Philadelphia International hit. It started in that room.",
+            "sourceNotes": "Verified: Sigma Sound Studios was the primary recording facility for Philadelphia International Records. Source: PhillySound.org https://www.phillysound.org/sigma-sound-studios",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sigma Sound Studios – PhillySound.org",
+                "url": "https://www.phillysound.org/sigma-sound-studios",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "recording",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R2-Q2",
+          "episodeId": "EP045",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Destiny's Child's 'Say My Name' was recorded by the original four-member lineup — but two members left before the music video was filmed. LeToya Luckett and LaTavia Roberson were replaced by which two singers?",
+          "choices": [
+            "LeToya Luckett and Beyoncé",
+            "Tamar Braxton and Solange Knowles",
+            "Trina and Syleena Johnson",
+            "Michelle Williams and Farrah Franklin"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-group-destinys-child-say-my-name-michelle-williams-farrah-franklin-replaced-lineup",
+            "artist": "Destiny's Child",
+            "song": "Say My Name",
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "Destiny's Child",
+              "Say My Name",
+              "Michelle Williams",
+              "Farrah Franklin",
+              "LeToya Luckett",
+              "LaTavia Roberson",
+              "lineup change"
+            ],
+            "fact": "Michelle Williams and Farrah Franklin replaced Luckett and Roberson. The public discrepancy between the album credits and the music video made the lineup change immediately controversial.",
+            "storyHook": "The credits said one thing. The video showed another. Destiny's Child had replaced two members mid-hit.",
+            "sourceNotes": "Verified: LeToya Luckett and LaTavia Roberson were replaced by Michelle Williams and Farrah Franklin. Sources: TikTok commentary https://www.tiktok.com/@teiganish/video/7214476300709383429, Facebook post on single history https://www.facebook.com/EricAlperPR/posts/destinys-childs-say-my-name-released-in-1999-as-the-third-single-from-the-writin/1294",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Farrah Franklin tries to prove she was the secret sauce… – TikTok commentary",
+                "url": "https://www.tiktok.com/@teiganish/video/7214476300709383429",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "Destiny's Child's 'Say My Name' – single history",
+                "url": "https://www.facebook.com/EricAlperPR/posts/destinys-childs-say-my-name-released-in-1999-as-the-third-single-from-the-writin/1294",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R2-Q3",
+          "episodeId": "EP045",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "TLC's T-Boz (Tionne Watkins) performed and recorded throughout TLC's commercial peak while managing which chronic illness — one she has publicly discussed and advocated about throughout her career?",
+          "choices": [
+            "Multiple Sclerosis",
+            "Fibromyalgia",
+            "Lupus",
+            "Sickle Cell Disease"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-artist-tboz-tionne-watkins-sickle-cell-disease-tlc",
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": 1990,
+            "topicTags": [
+              "T-Boz",
+              "Tionne Watkins",
+              "TLC",
+              "sickle cell disease",
+              "health advocacy"
+            ],
+            "fact": "T-Boz has openly discussed living with sickle cell disease since childhood and has been a public advocate for awareness of the condition throughout her career.",
+            "storyHook": "T-Boz was recording and touring at the height of TLC's career while managing sickle cell disease — a fact she has shared publicly for decades.",
+            "sourceNotes": "Verified: T-Boz has sickle cell disease and has been a healthcare advocate. Source: REVOLT TV https://www.revolt.tv/article/tboz-opens-up-sickle-cell-healthcare-advocacy-prep",
+            "clipCue": "",
+            "hostNote": "T-Boz has publicly disclosed her sickle cell disease and actively advocates about it. HOST_SENSITIVITY: medical condition of a living person — publicly disclosed and advocated by subject; low risk.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "T-Boz opens up about sickle cell and being a healthcare advocate – REVOLT",
+                "url": "https://www.revolt.tv/article/tboz-opens-up-sickle-cell-healthcare-advocacy-prep",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP045-R2-Q4",
+          "episodeId": "EP045",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Monica — Brandy's counterpart on 'The Boy Is Mine' — was signed to which label, a Dallas Austin–founded imprint distributed through Arista, during her commercial peak?",
+          "choices": [
+            "Rowdy Records",
+            "Def Jam",
+            "Interscope",
+            "Arista"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-artist-monica-rowdy-records-dallas-austin-arista-imprint",
+            "artist": "Monica",
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "Monica",
+              "Rowdy Records",
+              "Dallas Austin",
+              "Arista",
+              "label"
+            ],
+            "fact": "Producer Dallas Austin offered Monica a record deal with Rowdy Records — his Arista-distributed imprint — which released her debut album 'Miss Thang' and her breakthrough recordings.",
+            "storyHook": "Dallas Austin built the label. Monica filled it with hits. Rowdy Records was the launchpad for one of the 1990s' most important R&B voices.",
+            "sourceNotes": "Verified: Monica was signed to Rowdy Records, Dallas Austin's Arista-distributed imprint. Source: Wikipedia https://en.wikipedia.org/wiki/Miss_Thang",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Miss Thang – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Miss_Thang",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R2-Q5",
+          "episodeId": "EP045",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Usher's 'Confessions Part II' (2004) — the album's most explicit admission of infidelity — was co-written and produced by which Atlanta-based hitmaker who was also Usher's longtime collaborator and label executive?",
+          "choices": [
+            "Timbaland",
+            "Jermaine Dupri",
+            "Lil Jon",
+            "Dallas Austin"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-song-usher-confessions-part-ii-jermaine-dupri-producer-writer",
+            "artist": "Usher",
+            "song": "Confessions Part II",
+            "album": "Confessions",
+            "year": 2004,
+            "topicTags": [
+              "Usher",
+              "Confessions Part II",
+              "Jermaine Dupri",
+              "So So Def",
+              "2004",
+              "infidelity"
+            ],
+            "fact": "'Confessions Part II' was written by Usher, Bryan-Michael Cox, and Jermaine Dupri, who also produced the track. Dupri was central to Usher's commercial peak as head of So So Def Recordings.",
+            "storyHook": "Jermaine Dupri co-wrote the confession. Usher had to deliver it. Only one of them had something to explain.",
+            "sourceNotes": "Verified: 'Confessions Part II' written by Usher, Bryan-Michael Cox, and Jermaine Dupri; produced by Dupri. Source: Wikipedia https://en.wikipedia.org/wiki/Confessions_Part_II",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Confessions Part II – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Confessions_Part_II",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "production",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R2-B1",
+          "episodeId": "EP045",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Kelis — who raged about infidelity in 'Caught Out There' — grew up in which New York City borough?",
+          "choices": [
+            "The Bronx",
+            "Brooklyn",
+            "Queens",
+            "Manhattan"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 2 OF 3 — KELIS'S HOMETOWN BOROUGH"
+          },
+          "metadata": {
+            "factKey": "ep045-artist-kelis-grew-up-harlem-manhattan-new-york",
+            "artist": "Kelis",
+            "song": null,
+            "album": null,
+            "year": 1979,
+            "topicTags": [
+              "Kelis",
+              "Harlem",
+              "Manhattan",
+              "New York",
+              "biography"
+            ],
+            "fact": "Kelis Rogers grew up in the Harlem neighborhood of Manhattan — an upbringing that informed her eclectic musical identity.",
+            "storyHook": "Harlem gave the world Kelis Rogers. The Neptunes gave her the sound. The result was one of the most original debut singles in late-1990s R&B.",
+            "sourceNotes": "Verified: Kelis grew up in Harlem, Manhattan. Source: michaelvalentinestudio.com biography https://www.michaelvalentinestudio.com/soul_other/kelis/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Kelis – biography",
+                "url": "https://www.michaelvalentinestudio.com/soul_other/kelis/",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP045-R2-RES1",
+          "episodeId": "EP045",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "TLC's Left Eye performed under that stage name throughout her career. What was her birth name?",
+          "choices": [
+            "Lisa Lopes",
+            "Crystal Jones",
+            "Tionne Watkins",
+            "Rozonda Thomas"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-artist-left-eye-tlc-birth-name-lisa-lopes",
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Left Eye",
+              "Lisa Lopes",
+              "TLC",
+              "birth name",
+              "biography"
+            ],
+            "fact": "Left Eye's birth name was Lisa Nicole Lopes (May 27, 1971 – April 25, 2002). Tionne Watkins is T-Boz and Rozonda Thomas is Chilli.",
+            "storyHook": "Left Eye. Lisa Nicole Lopes. One of the most distinctive performers in 1990s R&B, known by a stage name that never quite contained her.",
+            "sourceNotes": "Verified: Left Eye's birth name was Lisa Nicole Lopes. Source: Instagram biographical post https://www.instagram.com/p/DXmff5RAS64/",
+            "clipCue": "",
+            "hostNote": "Lisa Lopes died in a car accident in Honduras on April 25, 2002. The question does not reference her death; flag if live context warrants it.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lisa Nicole Lopes (Left Eye) – biographical post",
+                "url": "https://www.instagram.com/p/DXmff5RAS64/",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R2-RES2",
+          "episodeId": "EP045",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "The Neptunes — who produced Kelis's 'Caught Out There' — consisted of Pharrell Williams and which other producer, whose multi-instrumental contributions gave the duo their distinctive sonic texture?",
+          "choices": [
+            "Scott Storch",
+            "Chad Hugo",
+            "Timbaland",
+            "Just Blaze"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-group-the-neptunes-pharrell-williams-chad-hugo",
+            "artist": "The Neptunes",
+            "song": null,
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "The Neptunes",
+              "Pharrell Williams",
+              "Chad Hugo",
+              "producers",
+              "biography"
+            ],
+            "fact": "The Neptunes were Pharrell Williams and Chad Hugo. Hugo's multi-instrumental skills contributed the unconventional sonic textures that defined their late-1990s and early-2000s productions.",
+            "storyHook": "Two producers. Two completely different skill sets. Pharrell and Chad Hugo became one of the most influential production teams in R&B history.",
+            "sourceNotes": "Verified: The Neptunes consist of Pharrell Williams and Chad Hugo. Source: Wikipedia https://en.wikipedia.org/wiki/The_Neptunes",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Neptunes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Neptunes",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R2-RES3",
+          "episodeId": "EP045",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Me and Mrs. Jones' by Billy Paul reached #1 on the Billboard Hot 100 in which year?",
+          "choices": [
+            "1972",
+            "1971",
+            "1970",
+            "1973"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-song-billy-paul-me-and-mrs-jones-1972-number-1-hot-100",
+            "artist": "Billy Paul",
+            "song": "Me and Mrs. Jones",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Billy Paul",
+              "Me and Mrs. Jones",
+              "1972",
+              "Billboard Hot 100",
+              "chart"
+            ],
+            "fact": "'Me and Mrs. Jones' reached #1 on the Billboard Hot 100 in December 1972, spending three weeks at the top.",
+            "storyHook": "December 1972. Three weeks at #1. Billy Paul made an affair sound like the most dignified thing in the world.",
+            "sourceNotes": "Verified: 'Me and Mrs. Jones' reached #1 on the Hot 100 in 1972 with a three-week run. Source: Facebook song summary post https://www.facebook.com/RobertLevEy2/posts/me-and-mrs-jones-is-a-1972-soul-song-written-by-kenny-gamble-leon-huff-and-cary-/816",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Me and Mrs. Jones – chart history summary",
+                "url": "https://www.facebook.com/RobertLevEy2/posts/me-and-mrs-jones-is-a-1972-soul-song-written-by-kenny-gamble-leon-huff-and-cary-/816",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The producer genealogies, personal histories, and archival connections that link decades of broken-trust R&B.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP045-R3-Q1",
+          "episodeId": "EP045",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "'Say My Name' was produced by Rodney Jerkins, one of the late 1990s' most in-demand producers. That same producer had previously produced which Whitney Houston infidelity anthem — which won the Grammy for Best R&B Song in 2000?",
+          "choices": [
+            "It's Not Right But It's Okay",
+            "My Love Is Your Love",
+            "Exhale (Shoop Shoop)",
+            "I'm Every Woman"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-song-rodney-jerkins-darkchild-whitney-houston-its-not-right-but-its-okay-grammy",
+            "artist": "Whitney Houston",
+            "song": "It's Not Right But It's Okay",
+            "album": "My Love Is Your Love",
+            "year": 1998,
+            "topicTags": [
+              "Rodney Jerkins",
+              "Darkchild",
+              "Whitney Houston",
+              "It's Not Right But It's Okay",
+              "Grammy",
+              "1998",
+              "infidelity"
+            ],
+            "fact": "Rodney Jerkins produced Whitney Houston's 'It's Not Right But It's Okay' (1998) — a woman's furious response to discovering her partner's infidelity. The song won the Grammy Award for Best R&B Song at the 2000 ceremony.",
+            "storyHook": "The same producer who caught the cheater in 'Say My Name' also helped Whitney Houston tell her cheating partner exactly where he could go.",
+            "sourceNotes": "Verified: Rodney Jerkins produced 'It's Not Right But It's Okay'; the song won Best R&B Song at the 2000 Grammys. Source: Wikipedia https://en.wikipedia.org/wiki/It%27s_Not_Right_but_It%27s_Okay",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "It's Not Right but It's Okay – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/It%27s_Not_Right_but_It%27s_Okay",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "production",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R3-Q2",
+          "episodeId": "EP045",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "TLC's 'Creep' was released during a turbulent period for Left Eye. Her volatile relationship with which Atlanta Falcons wide receiver culminated in a 1994 arson incident that made international headlines?",
+          "choices": [
+            "Deion Sanders",
+            "Andre Rison",
+            "Michael Irvin",
+            "Jerry Rice"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-artist-left-eye-lisa-lopes-andre-rison-atlanta-falcons-1994-arson",
+            "artist": "TLC",
+            "song": "Creep",
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "Left Eye",
+              "Lisa Lopes",
+              "Andre Rison",
+              "Atlanta Falcons",
+              "1994",
+              "arson"
+            ],
+            "fact": "Left Eye's relationship with Atlanta Falcons wide receiver Andre Rison was intensely publicized. In June 1994, she set fire to his Atlanta mansion — resulting in criminal charges — while TLC was at the height of their commercial success.",
+            "storyHook": "The year 'Creep' was everywhere, Left Eye was in the news for something else entirely. Her relationship with Andre Rison gave 1994 one of its most dramatic stories.",
+            "sourceNotes": "Verified: Left Eye had a relationship with Andre Rison and was involved in the 1994 fire at his mansion — a widely documented public record. Sources: REVOLT TV https://www.revolt.tv/article/tboz-opens-up-sickle-cell-healthcare-advocacy-prep, Lisa Lopes Wikipedia https://en.wikipedia.org/wiki/Lisa_Lopes",
+            "clipCue": "",
+            "hostNote": "This question references a documented criminal incident involving a deceased artist. HOST_SENSITIVITY: handle with care in live delivery. The question is factual and historically documented.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "T-Boz interview touching on TLC era – REVOLT TV",
+                "url": "https://www.revolt.tv/article/tboz-opens-up-sickle-cell-healthcare-advocacy-prep",
+                "accessed": "2026-05-29"
+              },
+              {
+                "title": "Lisa Lopes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lisa_Lopes",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-29",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP045-R3-B1",
+          "episodeId": "EP045",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Rodney Jerkins — the producer behind both 'Say My Name' and 'It's Not Right But It's Okay' — worked under which professional alias throughout his most commercially dominant period?",
+          "choices": [
+            "Darkchild",
+            "The Underdogs",
+            "Tricky",
+            "Timbo"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 3 OF 3 — SAY MY NAME'S PRODUCER'S ALIAS"
+          },
+          "metadata": {
+            "factKey": "ep045-artist-rodney-jerkins-darkchild-producer-alias",
+            "artist": "Rodney Jerkins",
+            "song": null,
+            "album": null,
+            "year": 1997,
+            "topicTags": [
+              "Rodney Jerkins",
+              "Darkchild",
+              "producer alias",
+              "1990s",
+              "2000s"
+            ],
+            "fact": "Rodney Jerkins worked as 'Darkchild' throughout his most commercially dominant period — his productions were often identifiable by the spoken 'Darkchild' producer tag at the start of recordings.",
+            "storyHook": "The name on the record said Darkchild. The sound said 'this is going to number one.' Rodney Jerkins ran the late-1990s R&B landscape.",
+            "sourceNotes": "Verified: Rodney Jerkins = Darkchild, confirmed by credits on 'He Wasn't Man Enough' and other productions. Source: Wikipedia https://en.wikipedia.org/wiki/He_Wasn%27t_Man_Enough",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "He Wasn't Man Enough – credits (Rodney 'Darkchild' Jerkins) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/He_Wasn%27t_Man_Enough",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP045-R3-RES1",
+          "episodeId": "EP045",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Kelis's debut album 'Kaleidoscope' (1999) — which introduced 'Caught Out There' — was released on which label?",
+          "choices": [
+            "Interscope",
+            "DreamWorks",
+            "Virgin Records",
+            "Elektra"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-album-kelis-kaleidoscope-virgin-records-1999",
+            "artist": "Kelis",
+            "song": null,
+            "album": "Kaleidoscope",
+            "year": 1999,
+            "topicTags": [
+              "Kelis",
+              "Kaleidoscope",
+              "Virgin Records",
+              "1999",
+              "label"
+            ],
+            "fact": "'Kaleidoscope' was released on Virgin Records in December 1999, with Kelis having signed to the label and built her debut album with The Neptunes.",
+            "storyHook": "Virgin Records. The Neptunes. Kelis. And a debut album that sounded like nothing else in 1999.",
+            "sourceNotes": "Verified: 'Kaleidoscope' was released on Virgin Records. Source: Albumism https://albumism.com/features/kelis-debut-album-kaleidoscope-turns-20-anniversary-retrospective",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Revisiting Kelis' Debut Album 'Kaleidoscope' – Albumism",
+                "url": "https://albumism.com/features/kelis-debut-album-kaleidoscope-turns-20-anniversary-retrospective",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP045-R3-RES2",
+          "episodeId": "EP045",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Whitney Houston's 'It's Not Right But It's Okay' — produced by Rodney Jerkins and her most prominent infidelity-themed recording — appeared on which 1998 album?",
+          "choices": [
+            "Just Whitney",
+            "I Look to You",
+            "My Love Is Your Love",
+            "The Bodyguard Soundtrack"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep045-song-whitney-houston-its-not-right-but-its-okay-my-love-is-your-love-album",
+            "artist": "Whitney Houston",
+            "song": "It's Not Right But It's Okay",
+            "album": "My Love Is Your Love",
+            "year": 1998,
+            "topicTags": [
+              "Whitney Houston",
+              "It's Not Right But It's Okay",
+              "My Love Is Your Love",
+              "1998",
+              "Rodney Jerkins"
+            ],
+            "fact": "'My Love Is Your Love' (1998) was Whitney Houston's first studio album of original material in eight years and contained 'It's Not Right But It's Okay,' her most direct confrontation of infidelity on record.",
+            "storyHook": "Eight years between albums. Whitney Houston came back in 1998 and the first thing she did was tell a cheating partner exactly where to go.",
+            "sourceNotes": "Verified: 'It's Not Right But It's Okay' appeared on 'My Love Is Your Love' (1998). Source: Wikipedia https://en.wikipedia.org/wiki/My_Love_Is_Your_Love",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "My Love Is Your Love – Whitney Houston album – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/My_Love_Is_Your_Love",
+                "accessed": "2026-05-29"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-29",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-29T20:04:42.636730+00:00"
+  }
+}

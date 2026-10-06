@@ -1,0 +1,1538 @@
+{
+  "episodeId": "EP056",
+  "title": "Men of Soul: The Sixties",
+  "theme": "Six vocal groups, six different paths through the decade — Chicago soul (Impressions), Stax's Memphis grit (Sam & Dave), the revolving-door business model that was the Drifters, the Chess Records stalwarts who barely changed lineup for decades (Dells), Motown's most stable act (Four Tops), and a one-classic-song crossover story (Contours) that found a second life decades later.",
+  "narrativePurpose": "Open the Men of Soul series by tracing 1960s male vocal group history through formation stories, label infrastructure, and lineup mechanics — deliberately routing around the death-centered personnel stories that dominate trivia about this era in favor of active-career biography, chart facts, and clean pop-culture crossovers.",
+  "toneProgression": "The hits and group history that defined the era → the business mechanics, songwriting teams, and label infrastructure behind the sound → the archival pop-culture connections hiding inside this era's legacy",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "5"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-6-5 — the year Four Tops released 'I Can't Help Myself' and 'It's the Same Old Song,' and the Impressions released 'People Get Ready.' 1965: a peak year of activity across this episode's cast."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The hits and group history that defined 1960s male vocal groups.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP056-R1-Q1",
+          "episodeId": "EP056",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Impressions, led by Curtis Mayfield, released which 1965 single — later inducted into the National Recording Registry for its significance to the Civil Rights Movement?",
+          "choices": [
+            "Keep On Pushing",
+            "People Get Ready",
+            "We're a Winner",
+            "Gypsy Woman"
+          ],
+          "correctIndex": 1,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-song-people-get-ready-impressions-1965-civil-rights-loc",
+            "artist": "The Impressions",
+            "song": "People Get Ready",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "The Impressions",
+              "People Get Ready",
+              "1965",
+              "Curtis Mayfield",
+              "Civil Rights Movement"
+            ],
+            "fact": "'People Get Ready' (1965), written by Curtis Mayfield, became one of the most significant musical touchstones of the Civil Rights era — the Library of Congress's National Recording Registry essay describes its gospel-inflected call as awakening a sense of purpose across genres.",
+            "storyHook": "'People Get Ready.' 1965. Curtis Mayfield wrote a soul single that became a movement anthem — and the Library of Congress later said as much, in writing.",
+            "sourceNotes": "Verified: 'People Get Ready' (1965), written by Curtis Mayfield, recognized for its Civil Rights significance. Sources: Wikipedia https://en.wikipedia.org/wiki/People_Get_Ready, Library of Congress essay https://www.loc.gov/static/programs/national-recording-preservation-board/documents/PeopleGetReady.pdf",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "People Get Ready – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/People_Get_Ready",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "People Get Ready—The Impressions (1965) – Library of Congress essay",
+                "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/PeopleGetReady.pdf",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R1-Q2",
+          "episodeId": "EP056",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Stax duo Sam & Dave scored a 1967 hit, written and produced by Isaac Hayes and David Porter, that reached #2 on the Hot 100 and #1 R&B. What was the song?",
+          "choices": [
+            "Hold On, I'm Comin'",
+            "Soul Man",
+            "You Don't Know Like I Know",
+            "I Thank You"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-song-soul-man-sam-dave-1967-hayes-porter-chart-peak",
+            "artist": "Sam & Dave",
+            "song": "Soul Man",
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Sam & Dave",
+              "Soul Man",
+              "1967",
+              "Isaac Hayes",
+              "David Porter",
+              "chart"
+            ],
+            "fact": "'Soul Man' (1967), written and produced by Isaac Hayes and David Porter, reached #2 on the Billboard Hot 100 and #1 on the R&B chart — and later found a second life through The Blues Brothers.",
+            "storyHook": "#2 pop. #1 R&B. 'Soul Man' was Sam & Dave's commercial peak — and Isaac Hayes and David Porter's songwriting peak too.",
+            "sourceNotes": "Verified: 'Soul Man' (1967) reached #2 Hot 100, #1 R&B, written/produced by Hayes/Porter. Source: Wikipedia https://en.wikipedia.org/wiki/Soul_Man_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Man (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soul_Man_(song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R1-Q3",
+          "episodeId": "EP056",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Four Tops released which single on August 18, 1966 — a recording that topped both the Billboard Hot 100 and the UK Singles Chart?",
+          "choices": [
+            "It's the Same Old Song",
+            "Bernadette",
+            "Baby I Need Your Loving",
+            "Reach Out I'll Be There"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-song-reach-out-ill-be-there-four-tops-1966-number-one-hot-100-uk",
+            "artist": "Four Tops",
+            "song": "Reach Out I'll Be There",
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Four Tops",
+              "Reach Out I'll Be There",
+              "1966",
+              "#1 Hot 100",
+              "UK Singles Chart"
+            ],
+            "fact": "'Reach Out I'll Be There,' released August 18, 1966, topped both the Billboard Hot 100 and the UK Singles Chart — Levi Stubbs's urgent lead vocal driving one of the era's most dramatic soul productions.",
+            "storyHook": "August 18, 1966. 'Reach Out I'll Be There' topped the charts on both sides of the Atlantic — a rare transatlantic sweep for a Motown single.",
+            "sourceNotes": "Verified: 'Reach Out I'll Be There' released Aug 18, 1966, #1 Hot 100 and UK Singles Chart. Source: Wikipedia https://en.wikipedia.org/wiki/Reach_Out_I'll_Be_There",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Reach Out I'll Be There – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Reach_Out_I'll_Be_There",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R1-Q4",
+          "episodeId": "EP056",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Contours' 1962 hit 'Do You Love Me,' originally a #3 Hot 100 single on Motown's Gordy label, found a massive second life decades later thanks to its use in which 1987 film?",
+          "choices": [
+            "Footloose",
+            "Flashdance",
+            "Dirty Dancing",
+            "Risky Business"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-song-do-you-love-me-contours-1962-dirty-dancing-1988-reentry",
+            "artist": "The Contours",
+            "song": "Do You Love Me",
+            "album": null,
+            "year": 1962,
+            "topicTags": [
+              "The Contours",
+              "Do You Love Me",
+              "1962",
+              "Gordy Records",
+              "Dirty Dancing",
+              "chart re-entry"
+            ],
+            "fact": "'Do You Love Me' (1962), released on Motown's Gordy label, originally reached #3 on the Hot 100 — then returned to the chart at #11 in 1988 after its prominent placement in Dirty Dancing (1987), a rare full commercial second wind a generation later.",
+            "storyHook": "#3 in 1962. #11 again in 1988 — twenty-six years later, thanks to Dirty Dancing. 'Do You Love Me' is one of the only songs from this era to chart twice, decades apart.",
+            "sourceNotes": "Verified: 'Do You Love Me' (1962) on Gordy label, #3 Hot 100 originally, #11 in 1988 after Dirty Dancing (1987) placement. Source: Wikipedia https://en.wikipedia.org/wiki/Do_You_Love_Me",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Do You Love Me – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Do_You_Love_Me",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R1-Q5",
+          "episodeId": "EP056",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Drifters' 1964 hit 'Under the Boardwalk,' released on Atlantic, was written by which songwriting pair?",
+          "choices": [
+            "Jerry Leiber and Mike Stoller",
+            "Arthur Resnick and Kenny Young",
+            "Gerry Goffin and Carole King",
+            "Barry Mann and Cynthia Weil"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-song-under-the-boardwalk-drifters-1964-resnick-young-atlantic",
+            "artist": "The Drifters",
+            "song": "Under the Boardwalk",
+            "album": null,
+            "year": 1964,
+            "topicTags": [
+              "The Drifters",
+              "Under the Boardwalk",
+              "1964",
+              "Arthur Resnick",
+              "Kenny Young",
+              "Atlantic Records"
+            ],
+            "fact": "'Under the Boardwalk' (1964), released on Atlantic, was written by Arthur Resnick and Kenny Young — one of several outside songwriting teams the Drifters relied on throughout the decade as their lineup shifted under manager George Treadwell.",
+            "storyHook": "'Under the Boardwalk.' 1964. Arthur Resnick and Kenny Young wrote it — outside writers supplying material to a group whose actual membership was constantly in motion.",
+            "sourceNotes": "Verified: 'Under the Boardwalk' (1964) written by Arthur Resnick and Kenny Young, released on Atlantic. Sources: Wikipedia https://en.wikipedia.org/wiki/Under_the_Boardwalk, credit listing https://www.youtube.com/watch?v=DhVd1ebwvN0",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Under the Boardwalk – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Under_the_Boardwalk",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "The Drifters – 'Under the Boardwalk' – credit listing",
+                "url": "https://www.youtube.com/watch?v=DhVd1ebwvN0",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R1-Q6",
+          "episodeId": "EP056",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Curtis Mayfield became the Impressions' lead singer and primary songwriter after which founding member departed for a solo career in 1960?",
+          "choices": [
+            "Sam Gooden",
+            "Arthur Brooks",
+            "Fred Cash",
+            "Jerry Butler"
+          ],
+          "correctIndex": 3,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-artist-jerry-butler-left-impressions-1960-curtis-mayfield-promoted",
+            "artist": "Jerry Butler",
+            "song": null,
+            "album": null,
+            "year": 1960,
+            "topicTags": [
+              "Jerry Butler",
+              "The Impressions",
+              "1960",
+              "Curtis Mayfield",
+              "departure"
+            ],
+            "fact": "Jerry Butler was the Impressions' original lead singer before departing for a solo career in 1960 — two years after the group's 1958 formation — opening the door for Curtis Mayfield to take over as lead vocalist and the group's primary songwriting force.",
+            "storyHook": "1960. Jerry Butler left for a solo career. Curtis Mayfield stepped up — and spent the next decade turning the Impressions into one of soul's most important groups.",
+            "sourceNotes": "Verified: Jerry Butler left the Impressions in 1960 for a solo career; Curtis Mayfield became lead. Source: Wikipedia (Impressions background) https://en.wikipedia.org/wiki/People_Get_Ready",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "People Get Ready – Wikipedia (Impressions background)",
+                "url": "https://en.wikipedia.org/wiki/People_Get_Ready",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R1-B1",
+          "episodeId": "EP056",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Four Tops formed in 1953 in which American city — keeping the same four original members, Levi Stubbs, Abdul Duke Fakir, Renaldo Obie Benson, and Lawrence Payton, together for decades?",
+          "choices": [
+            "Detroit",
+            "Chicago",
+            "Philadelphia",
+            "Memphis"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — FOUR TOPS' HOME CITY"
+          },
+          "metadata": {
+            "factKey": "ep056-artist-four-tops-detroit-1953-original-four-members",
+            "artist": "Four Tops",
+            "song": null,
+            "album": null,
+            "year": 1953,
+            "topicTags": [
+              "Four Tops",
+              "Detroit",
+              "1953",
+              "Levi Stubbs",
+              "Duke Fakir",
+              "Obie Benson",
+              "Lawrence Payton"
+            ],
+            "fact": "Four Tops formed in Detroit in 1953 — Levi Stubbs, Abdul 'Duke' Fakir, Renaldo 'Obie' Benson, and Lawrence Payton kept the same four-member lineup together for decades, a rarity in the genre.",
+            "storyHook": "Detroit. 1953. Four guys. The same four guys, for decades — almost no other vocal group of the era can say that.",
+            "sourceNotes": "Verified (moderate confidence — two independent secondary sources, no primary English Wikipedia citation provided in this pass): Four Tops formed in Detroit in 1953 with Stubbs, Fakir, Benson, and Payton. Sources: JazzRockSoul profile https://jazzrocksoul.com/artists/four-tops/, Czech Wikipedia https://cs.wikipedia.org/wiki/Four_Tops",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Four Tops – JazzRockSoul profile",
+                "url": "https://jazzrocksoul.com/artists/four-tops/",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Four Tops – Wikipedie (Czech)",
+                "url": "https://cs.wikipedia.org/wiki/Four_Tops",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP056-R1-RES1",
+          "episodeId": "EP056",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Four Tops' 1965 hit 'I Can't Help Myself' carried which parenthetical subtitle — and topped the R&B chart for nine weeks while also hitting #1 on the Hot 100 for two non-consecutive weeks?",
+          "choices": [
+            "(Hold On Tight)",
+            "(My Sweet Baby)",
+            "(Stay With Me)",
+            "(Sugar Pie, Honey Bunch)"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-song-i-cant-help-myself-sugar-pie-honey-bunch-1965-nine-weeks-rb-number-one",
+            "artist": "Four Tops",
+            "song": "I Can't Help Myself (Sugar Pie, Honey Bunch)",
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "Four Tops",
+              "I Can't Help Myself",
+              "Sugar Pie Honey Bunch",
+              "1965",
+              "chart"
+            ],
+            "fact": "'I Can't Help Myself (Sugar Pie, Honey Bunch)' (1965) topped the Billboard R&B chart for nine weeks and also reached #1 on the Hot 100 for two non-consecutive weeks in June 1965 — one of Four Tops' biggest commercial peaks of the decade.",
+            "storyHook": "Nine weeks at #1 R&B. Two separate weeks at #1 pop. 'Sugar Pie, Honey Bunch' wasn't just a hit — it dominated two charts at once.",
+            "sourceNotes": "Verified: 'I Can't Help Myself (Sugar Pie Honey Bunch)' (1965) — 9 weeks R&B #1, 2 non-consecutive weeks Hot 100 #1 in June 1965. Source: Wikipedia https://en.wikipedia.org/wiki/I_Can't_Help_Myself_(Sugar_Pie_Honey_Bunch)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Can't Help Myself (Sugar Pie Honey Bunch) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Can't_Help_Myself_(Sugar_Pie_Honey_Bunch)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R1-RES2",
+          "episodeId": "EP056",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Sam & Dave's 'Hold On, I'm Comin'' (1966) reportedly got its title from which off-the-cuff moment during its writing session?",
+          "choices": [
+            "David Porter shouting the phrase from a bathroom while Isaac Hayes waited",
+            "A studio engineer calling out to start recording",
+            "A line improvised by Sam Moore during a live performance",
+            "A phrase borrowed from a gospel record"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-song-hold-on-im-comin-title-origin-david-porter-bathroom-anecdote",
+            "artist": "Sam & Dave",
+            "song": "Hold On, I'm Comin'",
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Sam & Dave",
+              "Hold On I'm Comin'",
+              "1966",
+              "Isaac Hayes",
+              "David Porter",
+              "origin story"
+            ],
+            "fact": "'Hold On, I'm Comin'' (1966) reportedly took its title from David Porter shouting the phrase from a studio bathroom to Isaac Hayes, who was waiting to finish writing the song with him — a widely repeated anecdote in Stax retrospectives, though it is anecdotal rather than forensically documented.",
+            "storyHook": "The story goes: David Porter was stuck in the bathroom, shouted 'Hold on, I'm comin'!' to Isaac Hayes — and a title was born. Widely told. Not airtight.",
+            "sourceNotes": "Verified with caveat: this origin story is widely repeated in Stax retrospectives but explicitly described as anecdotal rather than forensically documented. Source: Wikipedia (Hayes/Porter collaboration context) https://en.wikipedia.org/wiki/Soul_Man_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Man (song) – Wikipedia (Hayes/Porter collaboration context)",
+                "url": "https://en.wikipedia.org/wiki/Soul_Man_(song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": [
+              "VERIFY_FACT"
+            ]
+          }
+        },
+        {
+          "id": "EP056-R1-RES3",
+          "episodeId": "EP056",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Sam & Dave were formally signed to Atlantic Records, but recorded their classic 1965-1968 catalog at which Memphis label, under producer Jim Stewart and writers Isaac Hayes and David Porter?",
+          "choices": [
+            "Stax Records",
+            "Sun Records",
+            "Hi Records",
+            "Goldwax Records"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-artist-sam-dave-atlantic-stax-arrangement-1965-1968-jim-stewart",
+            "artist": "Sam & Dave",
+            "song": null,
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "Sam & Dave",
+              "Atlantic Records",
+              "Stax Records",
+              "Jim Stewart",
+              "Memphis"
+            ],
+            "fact": "Sam & Dave were formally signed to Atlantic Records, but their classic 1965-1968 hits were recorded at Stax Records in Memphis under producer Jim Stewart, with Isaac Hayes and David Porter as the in-house writing team — an unusual arrangement that placed their biggest hits inside Stax's production system.",
+            "storyHook": "Atlantic owned the contract. Stax owned the sound. Sam & Dave's biggest records came out of that exact tension.",
+            "sourceNotes": "Verified: Sam & Dave signed to Atlantic, recorded 1965-1968 hits at Stax under Jim Stewart with Hayes/Porter. Source: Wikipedia https://en.wikipedia.org/wiki/Soul_Man_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Man (song) – Wikipedia (Sam & Dave section)",
+                "url": "https://en.wikipedia.org/wiki/Soul_Man_(song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R1-RES4",
+          "episodeId": "EP056",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Which Impressions member rejoined the group in 1960, alongside Sam Gooden, and remained a harmony anchor through Curtis Mayfield's entire run as lead singer?",
+          "choices": [
+            "Arthur Brooks",
+            "Lowman Pauling",
+            "Richard Brooks",
+            "Fred Cash"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-artist-fred-cash-rejoined-impressions-1960-harmony-anchor",
+            "artist": "Fred Cash",
+            "song": null,
+            "album": null,
+            "year": 1960,
+            "topicTags": [
+              "Fred Cash",
+              "The Impressions",
+              "1960",
+              "Sam Gooden",
+              "harmony vocals"
+            ],
+            "fact": "Fred Cash rejoined the Impressions in 1960, alongside Sam Gooden — the two providing harmony vocal continuity through Curtis Mayfield's entire run as lead singer and songwriter, and into the group's later incarnations.",
+            "storyHook": "Fred Cash rejoined in 1960. From that point on, alongside Sam Gooden, he was a constant — through every Curtis Mayfield era hit that followed.",
+            "sourceNotes": "Verified: Fred Cash rejoined the Impressions in 1960, alongside Sam Gooden, providing harmony continuity through Mayfield's tenure. Source: Library of Congress essay (Impressions lineup context) https://www.loc.gov/static/programs/national-recording-preservation-board/documents/PeopleGetReady.pdf",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "People Get Ready – Library of Congress essay (Impressions lineup context)",
+                "url": "https://www.loc.gov/static/programs/national-recording-preservation-board/documents/PeopleGetReady.pdf",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The business mechanics, songwriting teams, and label infrastructure behind 1960s male vocal groups.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP056-R2-Q1",
+          "episodeId": "EP056",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Sam & Dave's run of hits — including 'Hold On, I'm Comin'',' 'Soul Man,' and 'I Thank You' — were written and produced by which Stax songwriting duo?",
+          "choices": [
+            "Eddie Floyd and Steve Cropper",
+            "Otis Redding and Jerry Wexler",
+            "Isaac Hayes and David Porter",
+            "Booker T. Jones and William Bell"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-artist-isaac-hayes-david-porter-sam-dave-core-writing-team",
+            "artist": "Sam & Dave",
+            "song": null,
+            "album": null,
+            "year": 1966,
+            "topicTags": [
+              "Isaac Hayes",
+              "David Porter",
+              "Sam & Dave",
+              "Stax",
+              "songwriting"
+            ],
+            "fact": "Isaac Hayes and David Porter wrote and produced the bulk of Sam & Dave's classic catalog — 'Hold On, I'm Comin',' 'Soul Man,' and 'I Thank You' among them — establishing themselves as Stax's core writing team for the duo.",
+            "storyHook": "Hayes and Porter. Every Sam & Dave hit you can name probably came out of that writing room.",
+            "sourceNotes": "Verified: Isaac Hayes and David Porter wrote/produced Sam & Dave's core hits including Hold On I'm Comin', Soul Man, I Thank You. Source: Wikipedia https://en.wikipedia.org/wiki/Soul_Man_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Man (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soul_Man_(song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R2-Q2",
+          "episodeId": "EP056",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The Drifters' name and trademark were owned not by any group member but by which manager, who hired and fired members at will?",
+          "choices": [
+            "George Treadwell",
+            "Jerry Wexler",
+            "Berry Gordy",
+            "Phil Spector"
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-artist-george-treadwell-owned-drifters-name-trademark",
+            "artist": "The Drifters",
+            "song": null,
+            "album": null,
+            "year": 1958,
+            "topicTags": [
+              "George Treadwell",
+              "The Drifters",
+              "manager",
+              "trademark"
+            ],
+            "fact": "Manager George Treadwell owned the Drifters' name and trademark outright, hiring and firing members at will — an unusual arrangement that produced one of the most fluid lineups in pop music history while the brand itself stayed constant.",
+            "storyHook": "George Treadwell owned the name 'The Drifters' the way a company owns a logo. The members were almost interchangeable to the business — only the name mattered.",
+            "sourceNotes": "Verified: George Treadwell owned the Drifters' name and trademark, hired/fired members at will. Source: Wikipedia https://en.wikipedia.org/wiki/The_Drifters",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Drifters – group profile (manager section)",
+                "url": "https://en.wikipedia.org/wiki/The_Drifters",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R2-Q3",
+          "episodeId": "EP056",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Before departing in 1960 to launch a solo career that produced 'Stand By Me,' Ben E. King had sung lead on 'There Goes My Baby' and 'Save the Last Dance for Me' with which group?",
+          "choices": [
+            "The Platters",
+            "The Flamingos",
+            "The Drifters",
+            "The Coasters"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-artist-ben-e-king-drifters-1958-1960-stand-by-me-departure",
+            "artist": "Ben E. King",
+            "song": null,
+            "album": null,
+            "year": 1960,
+            "topicTags": [
+              "Ben E. King",
+              "The Drifters",
+              "1958-1960",
+              "Stand By Me",
+              "departure"
+            ],
+            "fact": "Ben E. King was the Drifters' lead singer from 1958 to 1960, singing lead on 'There Goes My Baby' and 'Save the Last Dance for Me,' before leaving in 1960 for a solo career that produced 'Stand By Me' (1961) — one of the most successful post-Drifters solo runs of any member.",
+            "storyHook": "Ben E. King sang lead on some of the Drifters' biggest records — then left in 1960 and wrote his own legacy with 'Stand By Me.'",
+            "sourceNotes": "Verified: Ben E. King with the Drifters 1958-1960, lead on 'There Goes My Baby' and 'Save the Last Dance for Me,' left 1960, 'Stand By Me' 1961. Source: Wikipedia https://en.wikipedia.org/wiki/Ben_E._King",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ben E. King – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ben_E._King",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R2-Q4",
+          "episodeId": "EP056",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The Dells are notable in R&B history for which remarkable distinction, after some early lineup adjustments settled?",
+          "choices": [
+            "They kept the same five members together for decades, a rarity in the genre",
+            "They were the first vocal group to write all their own material",
+            "They were the only vocal group to chart with every single release",
+            "They performed without a credited lead singer"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-artist-dells-stable-five-member-lineup-decades-after-early-adjustments",
+            "artist": "The Dells",
+            "song": null,
+            "album": null,
+            "year": 1960,
+            "topicTags": [
+              "The Dells",
+              "lineup stability",
+              "five members",
+              "R&B history"
+            ],
+            "fact": "After some early lineup adjustments, the Dells kept the same five members together for decades — a stability often cited as one of the longest-lasting lineups in R&B history.",
+            "storyHook": "After the early shuffling settled, the Dells found their five — and kept them, for decades. Almost no other group in the genre can say the same.",
+            "sourceNotes": "Verified: The Dells maintained the same five-member lineup for decades after early adjustments, often cited as one of the longest-lasting R&B lineups. Source: Wikipedia https://en.wikipedia.org/wiki/The_Dells",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Dells – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Dells",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R2-Q5",
+          "episodeId": "EP056",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Which Four Tops member's powerful, urgent lead vocal — heard on 'Baby I Need Your Loving,' 'I Can't Help Myself,' 'Reach Out I'll Be There,' and 'Bernadette' — became the group's signature sound?",
+          "choices": [
+            "Lawrence Payton",
+            "Renaldo Obie Benson",
+            "Abdul Duke Fakir",
+            "Levi Stubbs"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-artist-levi-stubbs-four-tops-lead-vocal-signature-sound",
+            "artist": "Levi Stubbs",
+            "song": null,
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "Levi Stubbs",
+              "Four Tops",
+              "lead vocal",
+              "signature sound"
+            ],
+            "fact": "Levi Stubbs's powerful, almost desperate lead vocal delivery became Four Tops' signature sound — driving 'Baby I Need Your Loving,' 'I Can't Help Myself,' 'Reach Out I'll Be There,' and 'Bernadette' to their dramatic peaks.",
+            "storyHook": "Every Four Tops hit you can name has the same voice underneath it: Levi Stubbs, pushing every note to its breaking point.",
+            "sourceNotes": "Verified: Levi Stubbs was Four Tops' lead vocalist on their key 1960s hits. Sources: Wikipedia https://en.wikipedia.org/wiki/I_Can't_Help_Myself_(Sugar_Pie_Honey_Bunch), JazzRockSoul profile https://jazzrocksoul.com/artists/four-tops/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Can't Help Myself (Sugar Pie Honey Bunch) – Wikipedia (personnel section)",
+                "url": "https://en.wikipedia.org/wiki/I_Can't_Help_Myself_(Sugar_Pie_Honey_Bunch)",
+                "accessed": "2026-06-25"
+              },
+              {
+                "title": "Four Tops – JazzRockSoul profile",
+                "url": "https://jazzrocksoul.com/artists/four-tops/",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R2-B1",
+          "episodeId": "EP056",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The Dells recorded much of their classic 1960s and early-1970s material in Chicago for which label group, including its Cadet subsidiary?",
+          "choices": [
+            "Chess Records",
+            "Motown",
+            "Atlantic",
+            "Stax"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE DELLS' RECORD LABEL HOME"
+          },
+          "metadata": {
+            "factKey": "ep056-label-chess-records-cadet-dells-chicago-1960s-1970s",
+            "artist": "The Dells",
+            "song": null,
+            "album": null,
+            "year": 1965,
+            "topicTags": [
+              "Chess Records",
+              "Cadet",
+              "The Dells",
+              "Chicago",
+              "label"
+            ],
+            "fact": "The Dells recorded much of their classic material for Chess Records and its Cadet subsidiary in Chicago throughout the 1960s and into the early 1970s.",
+            "storyHook": "Chess Records. Chicago. The Dells built their entire 1960s and early-1970s catalog inside that one label's walls.",
+            "sourceNotes": "Verified: The Dells recorded for Chess Records/Cadet in Chicago through the 1960s and early 1970s. Source: Wikipedia https://en.wikipedia.org/wiki/The_Dells",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Dells – Wikipedia (Chess/Cadet paragraph)",
+                "url": "https://en.wikipedia.org/wiki/The_Dells",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP056-R2-RES1",
+          "episodeId": "EP056",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The Drifters' 1962 hit 'Up on the Roof' was written by which Brill Building songwriting duo?",
+          "choices": [
+            "Mann and Weil",
+            "Bacharach and David",
+            "Gerry Goffin and Carole King",
+            "Leiber and Stoller"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-song-up-on-the-roof-drifters-1962-goffin-king",
+            "artist": "The Drifters",
+            "song": "Up on the Roof",
+            "album": null,
+            "year": 1962,
+            "topicTags": [
+              "The Drifters",
+              "Up on the Roof",
+              "1962",
+              "Gerry Goffin",
+              "Carole King",
+              "Brill Building"
+            ],
+            "fact": "'Up on the Roof' (1962) was written by Gerry Goffin and Carole King — part of the Brill Building songwriting machine that supplied the Drifters with material throughout their many lineup changes.",
+            "storyHook": "'Up on the Roof.' Goffin and King wrote it. The Drifters' members kept changing — the Brill Building songwriters were the real constant.",
+            "sourceNotes": "Verified: 'Up on the Roof' (1962) written by Gerry Goffin and Carole King. Source: Wikipedia https://en.wikipedia.org/wiki/Up_on_the_Roof_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Up on the Roof – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Up_on_the_Roof_(song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R2-RES2",
+          "episodeId": "EP056",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The Dells' 1968 extended re-recording of which 1965 ballad became a much bigger hit, reaching #1 R&B, than the original version?",
+          "choices": [
+            "Always Together",
+            "Stay in My Corner",
+            "There Is",
+            "Wear It on Our Face"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-song-stay-in-my-corner-dells-1965-1968-rerecording-number-one-rb",
+            "artist": "The Dells",
+            "song": "Stay in My Corner",
+            "album": null,
+            "year": 1968,
+            "topicTags": [
+              "The Dells",
+              "Stay in My Corner",
+              "1965",
+              "1968",
+              "re-recording",
+              "#1 R&B"
+            ],
+            "fact": "'Stay in My Corner' was originally recorded in 1965, but the Dells' extended 1968 re-recording became the much bigger hit — reaching #1 on the R&B chart.",
+            "storyHook": "Same song, three years apart, two very different outcomes. The 1968 version of 'Stay in My Corner' is the one that actually topped the chart.",
+            "sourceNotes": "Verified: 'Stay in My Corner' originally 1965, 1968 extended re-recording reached #1 R&B. Source: Wikipedia https://en.wikipedia.org/wiki/The_Dells",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Dells – Wikipedia ('Stay in My Corner')",
+                "url": "https://en.wikipedia.org/wiki/The_Dells",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R2-RES3",
+          "episodeId": "EP056",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The Drifters' 1963 hit 'On Broadway' was co-written by Jerry Leiber and Mike Stoller along with which other Brill Building songwriting duo?",
+          "choices": [
+            "Ashford and Simpson",
+            "Bacharach and David",
+            "Goffin and King",
+            "Mann and Weil"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-song-on-broadway-drifters-1963-leiber-stoller-mann-weil-four-way-credit",
+            "artist": "The Drifters",
+            "song": "On Broadway",
+            "album": null,
+            "year": 1963,
+            "topicTags": [
+              "The Drifters",
+              "On Broadway",
+              "1963",
+              "Leiber",
+              "Stoller",
+              "Mann",
+              "Weil",
+              "Brill Building"
+            ],
+            "fact": "'On Broadway' (1963) was co-written by Jerry Leiber and Mike Stoller along with Barry Mann and Cynthia Weil — a rare four-way songwriting collaboration between two of the Brill Building's top teams.",
+            "storyHook": "Four songwriters on one Drifters single. Leiber and Stoller, plus Mann and Weil — two of the Brill Building's best teams, combining on 'On Broadway.'",
+            "sourceNotes": "Verified: 'On Broadway' (1963) co-written by Leiber/Stoller and Mann/Weil, four-way credit. Source: Wikipedia https://en.wikipedia.org/wiki/On_Broadway",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "On Broadway – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/On_Broadway",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival pop-culture connections hiding inside this era's legacy.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP056-R3-Q1",
+          "episodeId": "EP056",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Decades after his Four Tops heyday, Levi Stubbs provided the voice for which menacing character in a 1986 film?",
+          "choices": [
+            "Ursula in The Little Mermaid",
+            "Jafar in Aladdin",
+            "Audrey II in Little Shop of Horrors",
+            "The Beast in Beauty and the Beast"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-artist-levi-stubbs-audrey-ii-little-shop-of-horrors-1986",
+            "artist": "Levi Stubbs",
+            "song": null,
+            "album": null,
+            "year": 1986,
+            "topicTags": [
+              "Levi Stubbs",
+              "Audrey II",
+              "Little Shop of Horrors",
+              "1986",
+              "voice acting"
+            ],
+            "fact": "Levi Stubbs voiced Audrey II, the carnivorous plant, in the 1986 film adaptation of Little Shop of Horrors — an unexpected second act for one of Motown's most recognizable voices.",
+            "storyHook": "Levi Stubbs. The voice of Four Tops. Also, decades later, the voice of a man-eating plant in Little Shop of Horrors.",
+            "sourceNotes": "Verified: Levi Stubbs voiced Audrey II in Little Shop of Horrors (1986). Source: Wikipedia https://en.wikipedia.org/wiki/Little_Shop_of_Horrors_(film)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Little Shop of Horrors (1986 film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Little_Shop_of_Horrors_(film)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R3-Q2",
+          "episodeId": "EP056",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "The Contours' 'Do You Love Me' (1962) was written by which Motown founder?",
+          "choices": [
+            "Smokey Robinson",
+            "Berry Gordy",
+            "Norman Whitfield",
+            "William Mickey Stevenson"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-song-do-you-love-me-berry-gordy-writer-contours-1962",
+            "artist": "The Contours",
+            "song": "Do You Love Me",
+            "album": null,
+            "year": 1962,
+            "topicTags": [
+              "The Contours",
+              "Do You Love Me",
+              "1962",
+              "Berry Gordy",
+              "songwriting"
+            ],
+            "fact": "'Do You Love Me' (1962) was written by Berry Gordy — one of the Motown founder's own songwriting credits, decades before the song found a second commercial life through Dirty Dancing. Production credit is sometimes shared with Motown's in-house team in various accounts; the writing credit is the more firmly documented claim.",
+            "storyHook": "Berry Gordy wrote 'Do You Love Me' himself — one of the rare times the man running the whole label put his own name directly on a song.",
+            "sourceNotes": "Verified with caveat: Berry Gordy is confirmed as writer of 'Do You Love Me'; production credit varies across sources between Gordy and Motown's in-house team, so this fact line leads with the writing credit rather than asserting a settled producer claim. Source: Wikipedia https://en.wikipedia.org/wiki/Do_You_Love_Me",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Do You Love Me – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Do_You_Love_Me",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": [
+              "VERIFY_FACT"
+            ]
+          }
+        },
+        {
+          "id": "EP056-R3-B1",
+          "episodeId": "EP056",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "'Do You Love Me' returned to the Billboard charts at #11 in 1988 — over a quarter-century after its original release — thanks to its placement in which previous year's hit film?",
+          "choices": [
+            "Flashdance (1983)",
+            "Top Gun (1986)",
+            "Footloose (1984)",
+            "Dirty Dancing (1987)"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "6",
+            "bonusHint": "DIGIT 3 OF 3 — THE FILM THAT REVIVED 'DO YOU LOVE ME'"
+          },
+          "metadata": {
+            "factKey": "ep056-film-dirty-dancing-1987-do-you-love-me-1988-chart-reentry",
+            "artist": "The Contours",
+            "song": "Do You Love Me",
+            "album": null,
+            "year": 1988,
+            "topicTags": [
+              "Dirty Dancing",
+              "1987",
+              "Do You Love Me",
+              "1988",
+              "chart re-entry"
+            ],
+            "fact": "'Do You Love Me' returned to the Billboard Hot 100 at #11 in 1988 — more than a quarter-century after its 1962 original — after its prominent placement in Dirty Dancing (1987).",
+            "storyHook": "Twenty-six years after its first chart run, 'Do You Love Me' was back — at #11, thanks to one movie scene.",
+            "sourceNotes": "Verified: 'Do You Love Me' reentered the Hot 100 at #11 in 1988 following Dirty Dancing (1987). Source: Wikipedia https://en.wikipedia.org/wiki/Do_You_Love_Me",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Do You Love Me – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Do_You_Love_Me",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP056-R3-RES1",
+          "episodeId": "EP056",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Sam & Dave's 'Soul Man' found a second life decades later as a signature recording for which comedy duo and their 1980 film?",
+          "choices": [
+            "The Blues Brothers",
+            "Cheech and Chong",
+            "Abbott and Costello",
+            "Wayne and Garth"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-song-soul-man-blues-brothers-1980-revival-belushi-aykroyd",
+            "artist": "Sam & Dave",
+            "song": "Soul Man",
+            "album": null,
+            "year": 1980,
+            "topicTags": [
+              "Soul Man",
+              "The Blues Brothers",
+              "John Belushi",
+              "Dan Aykroyd",
+              "1980"
+            ],
+            "fact": "'Soul Man' became a signature recording for The Blues Brothers — John Belushi and Dan Aykroyd recorded and performed it in character, making it a centerpiece of their musical comedy act and 1980 film.",
+            "storyHook": "John Belushi and Dan Aykroyd took 'Soul Man' and made it their own signature — introducing Sam & Dave's original to an entirely new audience.",
+            "sourceNotes": "Verified: 'Soul Man' became a signature Blues Brothers recording, performed by Belushi/Aykroyd, featured in their 1980 film. Source: Wikipedia https://en.wikipedia.org/wiki/Soul_Man_(song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Soul Man (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Soul_Man_(song)",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP056-R3-RES2",
+          "episodeId": "EP056",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "The Dells' decades-long musical journey was among the inspirations for which 1991 Robert Townsend film about a fictional R&B vocal group?",
+          "choices": [
+            "The Temptations (miniseries)",
+            "Cadillac Records",
+            "The Five Heartbeats",
+            "Dreamgirls"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep056-film-the-five-heartbeats-1991-dells-inspiration-among-groups",
+            "artist": "The Dells",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "The Five Heartbeats",
+              "1991",
+              "The Dells",
+              "Robert Townsend",
+              "inspiration"
+            ],
+            "fact": "The Five Heartbeats (1991), directed by and starring Robert Townsend, was inspired by the lives of the Dells and other R&B vocal groups — a composite drawn from multiple real histories rather than a direct biopic of any single act.",
+            "storyHook": "The Five Heartbeats isn't the Dells' story exactly — it's pieced together from the Dells and other groups like them. Still, their fingerprints are all over it.",
+            "sourceNotes": "Verified: The Five Heartbeats (1991) was inspired by the Dells and other R&B vocal groups, not a direct biopic of the Dells alone. Source: Wikipedia https://en.wikipedia.org/wiki/The_Five_Heartbeats",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Five Heartbeats – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Five_Heartbeats",
+                "accessed": "2026-06-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "film",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-06-25",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-06-25T15:03:36.998708+00:00"
+  }
+}

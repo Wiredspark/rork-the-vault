@@ -1,0 +1,1592 @@
+{
+  "episodeId": "EP046",
+  "title": "Made It Their Own",
+  "theme": "The R&B tradition of taking a song and making it more definitive than the original. From Dolly Parton to Whitney Houston. From Roberta Flack to The Fugees. From Stevie Wonder to Jodeci. The cover that becomes the version everyone remembers.",
+  "narrativePurpose": "Test knowledge of the R&B and soul catalog of covers and remakes — the original recordings, the artists who transformed them, and the behind-the-scenes stories that explain how one version eclipses another.",
+  "toneProgression": "The iconic covers everyone knows → the originals, albums, and producers behind the recordings → the archival stories that reveal why certain covers happened and what they cost",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-4 — the year Jodeci's 'Lately,' Mary J. Blige's 'I'm Goin' Down,' and Aaliyah's 'At Your Best (You Are Love)' were all released — three of the decade's most beloved R&B covers emerging in the same twelve months. 1994: the year R&B proved the original doesn't always have the last word."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The iconic covers everyone knows — and the originals they surpassed.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP046-R1-Q1",
+          "episodeId": "EP046",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Whitney Houston's 'I Will Always Love You' — one of the best-selling singles of all time — was originally written and recorded by which country legend?",
+          "choices": [
+            "Linda Ronstadt",
+            "Porter Wagoner",
+            "Elvis Presley",
+            "Dolly Parton"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-i-will-always-love-you-dolly-parton-original-writer",
+            "artist": "Dolly Parton / Whitney Houston",
+            "song": "I Will Always Love You",
+            "album": null,
+            "year": 1973,
+            "topicTags": [
+              "Dolly Parton",
+              "Whitney Houston",
+              "I Will Always Love You",
+              "cover",
+              "1973",
+              "1992"
+            ],
+            "fact": "Dolly Parton wrote and recorded 'I Will Always Love You' in 1973 as a farewell to her mentor Porter Wagoner. Whitney Houston's 1992 version for The Bodyguard became the best-selling single by a female artist.",
+            "storyHook": "Dolly Parton wrote a goodbye. Whitney Houston turned it into one of the most powerful vocal performances in recording history.",
+            "sourceNotes": "Verified: Dolly Parton wrote and originally recorded 'I Will Always Love You.' Source: Wikipedia https://en.wikipedia.org/wiki/I_Will_Always_Love_You",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Will Always Love You – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Will_Always_Love_You",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R1-Q2",
+          "episodeId": "EP046",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The Fugees' landmark cover of 'Killing Me Softly With His Song' (1996) appeared on which album?",
+          "choices": [
+            "Unplugged 2.0",
+            "Blunted on Reality",
+            "The Carnival",
+            "The Score"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-fugees-killing-me-softly-the-score-album",
+            "artist": "The Fugees",
+            "song": "Killing Me Softly With His Song",
+            "album": "The Score",
+            "year": 1996,
+            "topicTags": [
+              "The Fugees",
+              "Killing Me Softly",
+              "The Score",
+              "1996",
+              "cover"
+            ],
+            "fact": "'Killing Me Softly' was the lead single from The Fugees' second and final studio album The Score (1996) — one of the best-selling rap albums of all time.",
+            "storyHook": "The Fugees took Roberta Flack's 1973 recording and made it into something entirely their own. The Score did the same for hip-hop.",
+            "sourceNotes": "Verified: 'Killing Me Softly' appeared on The Fugees' album The Score. Source: Wikipedia https://en.wikipedia.org/wiki/The_Score_(album)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Score (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Score_(album)",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R1-Q3",
+          "episodeId": "EP046",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Jodeci's 1993 smash 'Lately' — one of the most celebrated R&B covers of the decade — was originally written and recorded by which artist in 1980?",
+          "choices": [
+            "Luther Vandross",
+            "Marvin Gaye",
+            "Ray Charles",
+            "Stevie Wonder"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-lately-stevie-wonder-original-writer-jodeci-cover",
+            "artist": "Stevie Wonder / Jodeci",
+            "song": "Lately",
+            "album": "Hotter Than July",
+            "year": 1980,
+            "topicTags": [
+              "Stevie Wonder",
+              "Jodeci",
+              "Lately",
+              "cover",
+              "1980",
+              "1993"
+            ],
+            "fact": "'Lately' was written and originally recorded by Stevie Wonder for his 1980 album Hotter Than July. Jodeci's 1993 cover became one of the era's signature performances.",
+            "storyHook": "Stevie Wonder wrote it in 1980. Jodeci made an entirely new generation feel it.",
+            "sourceNotes": "Verified: 'Lately' was written and recorded by Stevie Wonder on Hotter Than July (1980). Source: Wikipedia https://en.wikipedia.org/wiki/Lately_(Stevie_Wonder_song)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lately (Stevie Wonder song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lately_(Stevie_Wonder_song)",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "songwriting",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R1-Q4",
+          "episodeId": "EP046",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mary J. Blige's 1994 recording of 'I'm Goin' Down' was a cover of the original recorded by which group in 1976?",
+          "choices": [
+            "The Chi-Lites",
+            "The Emotions",
+            "The Pointer Sisters",
+            "Rose Royce"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-im-goin-down-rose-royce-1976-original-mary-j-blige-cover",
+            "artist": "Rose Royce / Mary J. Blige",
+            "song": "I'm Goin' Down",
+            "album": "Car Wash (soundtrack)",
+            "year": 1976,
+            "topicTags": [
+              "Rose Royce",
+              "Mary J. Blige",
+              "I'm Goin' Down",
+              "Car Wash",
+              "cover",
+              "1976",
+              "1994"
+            ],
+            "fact": "'I'm Going Down' was written and produced by Norman Whitfield and performed by Rose Royce in 1976 for the Car Wash film soundtrack. Mary J. Blige's cover appeared on her 1994 album My Life.",
+            "storyHook": "Norman Whitfield wrote it for a car wash movie in 1976. Mary J. Blige made it sound like the heaviest song she'd ever recorded.",
+            "sourceNotes": "Verified: 'I'm Going Down' was a 1976 Rose Royce recording from the Car Wash soundtrack. Sources: Wikiwand https://www.wikiwand.com/en/articles/I'm_Going_Down_(Rose_Royce_song), Wikipedia https://en.wikipedia.org/wiki/Car_Wash_(soundtrack)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I'm Going Down (Rose Royce song) – Wikiwand",
+                "url": "https://www.wikiwand.com/en/articles/I%27m_Going_Down_(Rose_Royce_song)",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "Car Wash (soundtrack) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Car_Wash_(soundtrack)",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R1-Q5",
+          "episodeId": "EP046",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Aaliyah's 1994 recording of 'At Your Best (You Are Love)' was a cover of a 1976 soul classic originally recorded by which group?",
+          "choices": [
+            "Rufus and Chaka Khan",
+            "Earth, Wind & Fire",
+            "The Temptations",
+            "The Isley Brothers"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-at-your-best-you-are-love-isley-brothers-1976-original-aaliyah",
+            "artist": "The Isley Brothers / Aaliyah",
+            "song": "At Your Best (You Are Love)",
+            "album": "Harvest for the World",
+            "year": 1976,
+            "topicTags": [
+              "The Isley Brothers",
+              "Aaliyah",
+              "At Your Best You Are Love",
+              "cover",
+              "1976",
+              "1994",
+              "Harvest for the World"
+            ],
+            "fact": "'(At Your Best) You Are Love' was originally recorded by The Isley Brothers on their 1976 album Harvest for the World. Aaliyah's 1994 cover appeared on her debut album.",
+            "storyHook": "The Isley Brothers wrote it as a love song in 1976. Aaliyah sang it at 15 and made it sound timeless.",
+            "sourceNotes": "Verified: '(At Your Best) You Are Love' was originally by The Isley Brothers on Harvest for the World (1976). Sources: Wikipedia https://en.wikipedia.org/wiki/(At_Your_Best)_You_Are_Love, Spotify https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "(At Your Best) You Are Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/(At_Your_Best)_You_Are_Love",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "(At Your Best) You Are Love – Spotify track (Isley Brothers)",
+                "url": "https://open.spotify.com/track/0Ph6AkM04RCD60P4OFJsXr",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R1-Q6",
+          "episodeId": "EP046",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Aretha Franklin's recording of 'Giving Him Something He Can Feel' — later covered by En Vogue in 1992 — first appeared on the soundtrack of which 1976 film?",
+          "choices": [
+            "Sparkle",
+            "Mahogany",
+            "Cooley High",
+            "Lady Sings the Blues"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-giving-him-something-he-can-feel-sparkle-1976-aretha-franklin-en-vogue",
+            "artist": "Aretha Franklin / En Vogue",
+            "song": "Giving Him Something He Can Feel",
+            "album": "Sparkle (soundtrack)",
+            "year": 1976,
+            "topicTags": [
+              "Aretha Franklin",
+              "En Vogue",
+              "Giving Him Something He Can Feel",
+              "Sparkle",
+              "Curtis Mayfield",
+              "cover",
+              "1976",
+              "1992"
+            ],
+            "fact": "'Giving Him Something He Can Feel' (also known as 'Something He Can Feel') was composed by Curtis Mayfield for the 1976 film Sparkle, directed by Sam O'Steen. Aretha Franklin recorded it for the soundtrack. En Vogue's 1992 cover appeared on their album Funky Divas.",
+            "storyHook": "Curtis Mayfield wrote it for a 1976 film. Aretha Franklin recorded it. En Vogue brought it back sixteen years later and a whole new generation heard it for the first time.",
+            "sourceNotes": "Verified: 'Giving Him Something He Can Feel' was composed by Curtis Mayfield for the 1976 film Sparkle, directed by Sam O'Steen. Sources: Dailymotion song notes https://www.dailymotion.com/video/x8fcp7g, Wikipedia https://en.wikipedia.org/wiki/Sparkle_(1976_film)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Something He Can Feel – Sparkle (1976) song notes",
+                "url": "https://www.dailymotion.com/video/x8fcp7g",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "Sparkle (1976 film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sparkle_(1976_film)",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R1-B1",
+          "episodeId": "EP046",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Lauryn Hill's reggae-influenced cover of 'Can't Take My Eyes Off You' — originally a 1967 Frankie Valli hit — appeared on which landmark 1998 album?",
+          "choices": [
+            "Unplugged 2.0",
+            "The Score",
+            "The Carnival",
+            "The Miseducation of Lauryn Hill"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — LAURYN'S LANDMARK ALBUM"
+          },
+          "metadata": {
+            "factKey": "ep046-song-lauryn-hill-cant-take-my-eyes-off-you-miseducation-album",
+            "artist": "Lauryn Hill",
+            "song": "Can't Take My Eyes Off You",
+            "album": "The Miseducation of Lauryn Hill",
+            "year": 1998,
+            "topicTags": [
+              "Lauryn Hill",
+              "Can't Take My Eyes Off You",
+              "The Miseducation of Lauryn Hill",
+              "Frankie Valli",
+              "cover",
+              "1998"
+            ],
+            "fact": "Lauryn Hill's reggae-tinged cover of 'Can't Take My Eyes Off You' appeared on The Miseducation of Lauryn Hill (1998) — one of the most critically acclaimed R&B albums of the decade.",
+            "storyHook": "Frankie Valli recorded it as a lush pop ballad in 1967. Lauryn Hill transformed it into a reggae groove in 1998 and made it feel completely natural.",
+            "sourceNotes": "Verified: Lauryn Hill's cover of 'Can't Take My Eyes Off You' appeared on The Miseducation of Lauryn Hill (1998). Source: Wikipedia https://en.wikipedia.org/wiki/The_Miseducation_of_Lauryn_Hill",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Miseducation of Lauryn Hill – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Miseducation_of_Lauryn_Hill",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP046-R1-RES1",
+          "episodeId": "EP046",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mary J. Blige also covered 'Sweet Thing' — a beloved 1975 ballad originally recorded by Rufus featuring which vocalist?",
+          "choices": [
+            "Patti LaBelle",
+            "Diana Ross",
+            "Chaka Khan",
+            "Gladys Knight"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-sweet-thing-rufus-chaka-khan-original-mary-j-blige-cover",
+            "artist": "Rufus feat. Chaka Khan / Mary J. Blige",
+            "song": "Sweet Thing",
+            "album": "What's the 411?",
+            "year": 1975,
+            "topicTags": [
+              "Rufus",
+              "Chaka Khan",
+              "Mary J. Blige",
+              "Sweet Thing",
+              "cover",
+              "1975",
+              "1992"
+            ],
+            "fact": "'Sweet Thing' was recorded by Rufus featuring Chaka Khan in 1975. Mary J. Blige's cover appeared on her 1992 debut album What's the 411?",
+            "storyHook": "Chaka Khan made 'Sweet Thing' a standard. Mary J. Blige made it her own on the very first album she ever released.",
+            "sourceNotes": "Verified: 'Sweet Thing' originally recorded by Rufus featuring Chaka Khan; Mary J. Blige's cover on What's the 411? (1992). Sources: Wikipedia https://en.wikipedia.org/wiki/What%27s_the_411%3F, Spotify https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "What's the 411? – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/What%27s_the_411%3F",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "Sweet Thing – Mary J. Blige (Spotify track, What's the 411?)",
+                "url": "https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R1-RES2",
+          "episodeId": "EP046",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Lauryn Hill's cover of 'Can't Take My Eyes Off You' transformed the original from a lush pop ballad into a reggae-flavored track. The original 1967 hit was performed by which artist?",
+          "choices": [
+            "Johnny Mathis",
+            "Andy Williams",
+            "Frankie Valli",
+            "Bobby Darin"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-cant-take-my-eyes-off-you-frankie-valli-original-lauryn-hill",
+            "artist": "Frankie Valli / Lauryn Hill",
+            "song": "Can't Take My Eyes Off You",
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Frankie Valli",
+              "Lauryn Hill",
+              "Can't Take My Eyes Off You",
+              "original",
+              "1967",
+              "cover"
+            ],
+            "fact": "'Can't Take My Eyes Off You' was a 1967 hit for Frankie Valli, written by Bob Crewe and Bob Gaudio. Lauryn Hill's 1998 reggae-inflected cover gave it a completely different sonic identity.",
+            "storyHook": "Frankie Valli. 1967. Bob Crewe and Bob Gaudio wrote it as pure pop. Lauryn Hill heard something in it nobody else had.",
+            "sourceNotes": "Verified: 'Can't Take My Eyes Off You' was a 1967 Frankie Valli hit. Source: Wikipedia https://en.wikipedia.org/wiki/Can%27t_Take_My_Eyes_Off_You",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Can't Take My Eyes Off You – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Can%27t_Take_My_Eyes_Off_You",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R1-RES3",
+          "episodeId": "EP046",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "On Jodeci's cover of 'Lately,' the lead vocal was performed by which member of the group?",
+          "choices": [
+            "Mr. Dalvin",
+            "JoJo",
+            "K-Ci Hailey",
+            "DeVante Swing"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-jodeci-lately-k-ci-hailey-lead-vocal",
+            "artist": "Jodeci",
+            "song": "Lately",
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "Jodeci",
+              "K-Ci Hailey",
+              "Lately",
+              "lead vocal",
+              "1993"
+            ],
+            "fact": "K-Ci Hailey — known as the lead singer of Jodeci — sang lead on the group's cover of 'Lately.' His falsetto became as associated with the song as Stevie Wonder's original.",
+            "storyHook": "K-Ci sang lead on 'Lately.' That's all anyone needs to know about why the cover worked.",
+            "sourceNotes": "Verified: K-Ci Hailey is the lead singer of Jodeci and sang lead on 'Lately.' Sources: Wikipedia https://en.wikipedia.org/wiki/K-Ci, Rock on the Net http://www.rockonthenet.com/artists-j/jodeci_main.htm",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "K-Ci – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/K-Ci",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "Jodeci / K-Ci & JoJo – Rock on the Net artist profile",
+                "url": "http://www.rockonthenet.com/artists-j/jodeci_main.htm",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R1-RES4",
+          "episodeId": "EP046",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Xscape's 1995 remake of 'Who Can I Run To' became the group's biggest commercial hit. The original was recorded in 1979 by which female vocal group?",
+          "choices": [
+            "The Jones Girls",
+            "The Pointer Sisters",
+            "The Emotions",
+            "The Three Degrees"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-who-can-i-run-to-jones-girls-1979-xscape-cover",
+            "artist": "The Jones Girls / Xscape",
+            "song": "Who Can I Run To",
+            "album": null,
+            "year": 1979,
+            "topicTags": [
+              "The Jones Girls",
+              "Xscape",
+              "Who Can I Run To",
+              "cover",
+              "1979",
+              "1995"
+            ],
+            "fact": "'Who Can I Run To' was originally recorded by The Jones Girls in 1979. Xscape's 1995 cover spent one week at #1 on the US R&B Singles chart and reached #8 on the Billboard Hot 100.",
+            "storyHook": "The Jones Girls recorded it in 1979. Xscape made it their signature sixteen years later. The song waited patiently for its moment.",
+            "sourceNotes": "Verified: 'Who Can I Run To' originally by The Jones Girls (1979); Xscape's cover reached #8 on the Hot 100. Source: YouTube overview https://www.youtube.com/watch?v=x7sY4hQTzGg",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Who Can I Run To – Jones Girls original and Xscape cover overview",
+                "url": "https://www.youtube.com/watch?v=x7sY4hQTzGg",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The originals, albums, and producers behind the covers — and the stories that made them happen.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP046-R2-Q1",
+          "episodeId": "EP046",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Dolly Parton wrote 'I Will Always Love You' as a personal farewell to which Grand Ole Opry star — her mentor and TV show host — when she decided to leave his variety program?",
+          "choices": [
+            "Kris Kristofferson",
+            "Glen Campbell",
+            "Porter Wagoner",
+            "Buck Owens"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-i-will-always-love-you-dolly-parton-porter-wagoner-farewell",
+            "artist": "Dolly Parton",
+            "song": "I Will Always Love You",
+            "album": null,
+            "year": 1973,
+            "topicTags": [
+              "Dolly Parton",
+              "Porter Wagoner",
+              "I Will Always Love You",
+              "farewell",
+              "1973",
+              "biography"
+            ],
+            "fact": "Dolly Parton wrote 'I Will Always Love You' as her 'goodbye song to Porter' — a farewell to Porter Wagoner when she decided to leave his syndicated TV show and pursue a solo career.",
+            "storyHook": "It wasn't a love song. It was a resignation letter. Dolly Parton wrote one of the most beautiful goodbyes in music history to her boss.",
+            "sourceNotes": "Verified: Dolly Parton wrote 'I Will Always Love You' as a farewell to Porter Wagoner. Source: Parade https://parade.com/news/dolly-parton-heartbreaking-goodbye-man-never-stopped-loving-porter-wagoner-i-will-always-love-you",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dolly Parton's Heartbreaking Goodbye to Porter Wagoner – Parade",
+                "url": "https://parade.com/news/dolly-parton-heartbreaking-goodbye-man-never-stopped-loving-porter-wagoner-i-will-always-love-you",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R2-Q2",
+          "episodeId": "EP046",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Killing Me Softly With His Song' was not written by Roberta Flack. The song was inspired by a concert that songwriter Lori Lieberman attended — specifically moved by the performance of which folk artist?",
+          "choices": [
+            "Don McLean",
+            "Jackson Browne",
+            "James Taylor",
+            "Joni Mitchell"
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-killing-me-softly-don-mclean-concert-inspiration-lori-lieberman",
+            "artist": "Lori Lieberman / Roberta Flack / The Fugees",
+            "song": "Killing Me Softly With His Song",
+            "album": null,
+            "year": 1971,
+            "topicTags": [
+              "Killing Me Softly",
+              "Don McLean",
+              "Lori Lieberman",
+              "concert inspiration",
+              "Empty Chairs",
+              "songwriting origin"
+            ],
+            "fact": "Lori Lieberman wrote the original version in 1971 after attending a Don McLean concert at The Troubadour and being deeply moved by his performance of 'Empty Chairs.' Norman Gimbel and Charles Fox then set her poem to music.",
+            "storyHook": "Don McLean performed at The Troubadour. Lori Lieberman walked out and wrote a poem. That poem became one of the most covered songs in R&B history.",
+            "sourceNotes": "Verified: 'Killing Me Softly' was inspired by Lori Lieberman's emotional response to a Don McLean concert, specifically 'Empty Chairs.' Sources: The Daily Hatch https://thedailyhatch.org/2023/08/10/lori-lieberman-wrote-killing-me-softly-after-attending-a-don-mclean-concert-in-1970-during-, YouTube https://www.youtube.com/watch?v=hPRswF993Xo",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lori Lieberman wrote 'Killing Me Softly' after attending a Don McLean concert – The Daily Hatch",
+                "url": "https://thedailyhatch.org/2023/08/10/lori-lieberman-wrote-killing-me-softly-after-attending-a-don-mclean-concert-in-1970-during-",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "Don McLean – 'Empty Chairs' / Lori Lieberman – 'Killing Me Softly' story",
+                "url": "https://www.youtube.com/watch?v=hPRswF993Xo",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R2-Q3",
+          "episodeId": "EP046",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Mary J. Blige's cover of 'I'm Goin' Down' appeared on which 1994 album — widely considered one of the defining records of 1990s R&B?",
+          "choices": [
+            "Reminisce",
+            "What's the 411?",
+            "My Life",
+            "Share My World"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-album-mary-j-blige-my-life-1994-im-goin-down",
+            "artist": "Mary J. Blige",
+            "song": "I'm Goin' Down",
+            "album": "My Life",
+            "year": 1994,
+            "topicTags": [
+              "Mary J. Blige",
+              "My Life",
+              "I'm Goin' Down",
+              "1994",
+              "album"
+            ],
+            "fact": "My Life (1994) was Mary J. Blige's second studio album — the record she has consistently described as her most personal — and contained her cover of Rose Royce's 'I'm Goin' Down.'",
+            "storyHook": "My Life wasn't just an album title. It was a document. And 'I'm Goin' Down' fit it perfectly.",
+            "sourceNotes": "Verified: Mary J. Blige's 'I'm Goin' Down' appeared on My Life (1994). Source: Wikipedia https://en.wikipedia.org/wiki/My_Life_(Mary_J._Blige_album)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "My Life – Mary J. Blige album – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/My_Life_(Mary_J._Blige_album)",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R2-Q4",
+          "episodeId": "EP046",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Stevie Wonder's 'Lately' — which Jodeci transformed into one of 1993's biggest covers — originally appeared on which Stevie Wonder album?",
+          "choices": [
+            "Songs in the Key of Life",
+            "Music of My Mind",
+            "Talking Book",
+            "Hotter Than July"
+          ],
+          "correctIndex": 3,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-album-stevie-wonder-hotter-than-july-lately-original",
+            "artist": "Stevie Wonder",
+            "song": "Lately",
+            "album": "Hotter Than July",
+            "year": 1980,
+            "topicTags": [
+              "Stevie Wonder",
+              "Lately",
+              "Hotter Than July",
+              "1980",
+              "album"
+            ],
+            "fact": "'Lately' was on Stevie Wonder's 1980 album Hotter Than July — the same album that contained 'Happy Birthday' (written as a campaign to make Martin Luther King Jr.'s birthday a national holiday).",
+            "storyHook": "One album contained both 'Happy Birthday' and 'Lately.' Stevie Wonder's Hotter Than July holds up.",
+            "sourceNotes": "Verified: 'Lately' appeared on Stevie Wonder's Hotter Than July (1980). Source: Wikipedia https://en.wikipedia.org/wiki/Hotter_Than_July",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Hotter Than July – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hotter_Than_July",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R2-Q5",
+          "episodeId": "EP046",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Aaliyah's cover of 'At Your Best (You Are Love)' appeared on her 1994 debut album. What was that album titled?",
+          "choices": [
+            "I Care 4 U",
+            "One in a Million",
+            "Aaliyah",
+            "Age Ain't Nothing But a Number"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-album-aaliyah-age-aint-nothing-but-a-number-at-your-best-cover",
+            "artist": "Aaliyah",
+            "song": "At Your Best (You Are Love)",
+            "album": "Age Ain't Nothing But a Number",
+            "year": 1994,
+            "topicTags": [
+              "Aaliyah",
+              "Age Ain't Nothing But a Number",
+              "At Your Best You Are Love",
+              "debut album",
+              "1994"
+            ],
+            "fact": "Aaliyah's debut album Age Ain't Nothing But a Number (1994) contained her cover of the Isley Brothers' '(At Your Best) You Are Love.'",
+            "storyHook": "Fifteen years old. First album. And she chose to cover the Isley Brothers. Age Ain't Nothing But a Number turned out to be exactly right.",
+            "sourceNotes": "Verified: Aaliyah's 'At Your Best' appeared on Age Ain't Nothing But a Number (1994). Source: Wikipedia https://en.wikipedia.org/wiki/Age_Ain%27t_Nothing_but_a_Number",
+            "clipCue": "",
+            "hostNote": "HOST_SENSITIVITY: this album was produced by R. Kelly. The question and fact line do not reference R. Kelly.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Age Ain't Nothing but a Number – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Age_Ain%27t_Nothing_but_a_Number",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": [
+              "HOST_SENSITIVITY"
+            ]
+          }
+        },
+        {
+          "id": "EP046-R2-B1",
+          "episodeId": "EP046",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "easy",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Whitney Houston's recording of 'I Will Always Love You' was the centerpiece of the soundtrack for which 1992 Kevin Costner film?",
+          "choices": [
+            "Waiting to Exhale",
+            "The Preacher's Wife",
+            "The Bodyguard",
+            "Boomerang"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — WHITNEY'S FILM"
+          },
+          "metadata": {
+            "factKey": "ep046-film-the-bodyguard-1992-whitney-houston-i-will-always-love-you",
+            "artist": "Whitney Houston",
+            "song": "I Will Always Love You",
+            "album": "The Bodyguard (soundtrack)",
+            "year": 1992,
+            "topicTags": [
+              "Whitney Houston",
+              "The Bodyguard",
+              "Kevin Costner",
+              "I Will Always Love You",
+              "1992",
+              "soundtrack"
+            ],
+            "fact": "Whitney Houston's cover of 'I Will Always Love You' anchored the soundtrack for The Bodyguard (1992), starring Houston and Kevin Costner and directed by Mick Jackson.",
+            "storyHook": "The Bodyguard. The film that launched the song. The song that outlasted the film.",
+            "sourceNotes": "Verified: Whitney Houston's 'I Will Always Love You' appeared on The Bodyguard (1992) soundtrack. Source: Wikipedia https://en.wikipedia.org/wiki/The_Bodyguard_(1992_film)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Bodyguard (1992 film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Bodyguard_(1992_film)",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP046-R2-RES1",
+          "episodeId": "EP046",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Mary J. Blige's My Life — which contained her cover of 'I'm Goin' Down' — was produced primarily by which hip-hop mogul who had also overseen her commercial rise from the beginning?",
+          "choices": [
+            "Puff Daddy",
+            "Jermaine Dupri",
+            "Babyface",
+            "Dr. Dre"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-album-mary-j-blige-my-life-puff-daddy-primary-producer",
+            "artist": "Mary J. Blige",
+            "song": null,
+            "album": "My Life",
+            "year": 1994,
+            "topicTags": [
+              "Mary J. Blige",
+              "My Life",
+              "Puff Daddy",
+              "Sean Combs",
+              "production",
+              "1994"
+            ],
+            "fact": "Puff Daddy (Sean Combs) was the primary producer on My Life — retrospectives have called it 'perhaps the single finest moment in Sean Puffy Combs' musical career,' reflecting his central role in the album's sonic identity.",
+            "storyHook": "Puff Daddy produced My Life. That's one of the defining résumé entries in 1990s R&B.",
+            "sourceNotes": "Verified: Puff Daddy was the primary producer on My Life. Sources: Mary J. Blige Fandom Wiki https://mary-j-blige.fandom.com/wiki/My_Life, Grammy.com https://grammy.com/news/producer-chucky-thompson-revisits-25th-anniversary-mary-j-blige-my-life-interview",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "My Life – Mary J. Blige album (production overview)",
+                "url": "https://mary-j-blige.fandom.com/wiki/My_Life",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "Producer Chucky Thompson Revisits 25th Anniversary Of 'My Life' – GRAMMY.com",
+                "url": "https://grammy.com/news/producer-chucky-thompson-revisits-25th-anniversary-mary-j-blige-my-life-interview",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "production",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R2-RES2",
+          "episodeId": "EP046",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Isley Brothers' original '(At Your Best) You Are Love' — later covered by Aaliyah — appeared on which 1976 Isley Brothers album?",
+          "choices": [
+            "Go for Your Guns",
+            "Harvest for the World",
+            "Showdown",
+            "The Heat Is On"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-album-isley-brothers-harvest-for-the-world-at-your-best",
+            "artist": "The Isley Brothers",
+            "song": "(At Your Best) You Are Love",
+            "album": "Harvest for the World",
+            "year": 1976,
+            "topicTags": [
+              "The Isley Brothers",
+              "Harvest for the World",
+              "At Your Best You Are Love",
+              "1976",
+              "album"
+            ],
+            "fact": "'(At Your Best) You Are Love' appeared on The Isley Brothers' fourteenth studio album Harvest for the World (1976).",
+            "storyHook": "Harvest for the World. 1976. The Isley Brothers wrote a song that would take eighteen years to find its most famous recording.",
+            "sourceNotes": "Verified: '(At Your Best) You Are Love' appeared on Harvest for the World (1976). Source: Wikipedia https://en.wikipedia.org/wiki/(At_Your_Best)_You_Are_Love",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "(At Your Best) You Are Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/(At_Your_Best)_You_Are_Love",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R2-RES3",
+          "episodeId": "EP046",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "En Vogue's 1992 cover of 'Giving Him Something He Can Feel' appeared on which En Vogue album?",
+          "choices": [
+            "Born to Sing",
+            "Hold On",
+            "EV3",
+            "Funky Divas"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-album-en-vogue-funky-divas-giving-him-something-he-can-feel",
+            "artist": "En Vogue",
+            "song": "Giving Him Something He Can Feel",
+            "album": "Funky Divas",
+            "year": 1992,
+            "topicTags": [
+              "En Vogue",
+              "Funky Divas",
+              "Giving Him Something He Can Feel",
+              "1992",
+              "album"
+            ],
+            "fact": "En Vogue's cover of 'Giving Him Something He Can Feel' appeared on their 1992 album Funky Divas — one of the defining R&B albums of the early 1990s.",
+            "storyHook": "Funky Divas. En Vogue. 1992. The album that made them one of the decade's most formidable R&B acts.",
+            "sourceNotes": "Verified: En Vogue's 'Giving Him Something He Can Feel' appeared on Funky Divas (1992). Sources: Spotify https://open.spotify.com/track/4htbAEZWr53J08x3dUv00W, YouTube https://www.youtube.com/watch?v=MoaceIZxaao",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Giving Him Something He Can Feel – En Vogue (Spotify track)",
+                "url": "https://open.spotify.com/track/4htbAEZWr53J08x3dUv00W",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "En Vogue – 'Giving Him Something He Can Feel' video",
+                "url": "https://www.youtube.com/watch?v=MoaceIZxaao",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The archival stories that explain why certain covers happened — and what they cost.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP046-R3-Q1",
+          "episodeId": "EP046",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Elvis Presley wanted to record 'I Will Always Love You' — but the deal collapsed because his manager demanded 50% of the song's publishing rights, which Dolly Parton refused to surrender. Who was that manager?",
+          "choices": [
+            "Bob Neal",
+            "Colonel Tom Parker",
+            "Bert Parks",
+            "Ed Sullivan"
+          ],
+          "correctIndex": 1,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-i-will-always-love-you-colonel-tom-parker-elvis-publishing-blocked",
+            "artist": "Dolly Parton / Elvis Presley",
+            "song": "I Will Always Love You",
+            "album": null,
+            "year": 1974,
+            "topicTags": [
+              "Colonel Tom Parker",
+              "Elvis Presley",
+              "Dolly Parton",
+              "I Will Always Love You",
+              "publishing rights",
+              "biography"
+            ],
+            "fact": "Colonel Tom Parker's standard demand for 50% of publishing rights blocked Elvis from recording 'I Will Always Love You.' Dolly Parton refused. She has said she's glad the deal fell through — and has described the moment she heard Whitney Houston's version.",
+            "storyHook": "Colonel Tom Parker wanted half. Dolly Parton said no. Elvis never recorded the song. Then Whitney Houston did.",
+            "sourceNotes": "Verified: Colonel Tom Parker blocked Elvis from recording 'I Will Always Love You' by demanding 50% of publishing rights. Sources: Whiskey Riff https://www.whiskeyriff.com/2023/11/17/colonel-tom-parker-stopped-elvis-from-recording-i-will-always-love-you-because-dolly-refu, Facebook https://www.facebook.com/EricAlperPR/posts/when-colonel-tom-parker-wanted-elvis-presley-to-record-dolly-partons-i-will-alwa/1522",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Colonel Tom Parker Stopped Elvis From Recording 'I Will Always Love You'",
+                "url": "https://www.whiskeyriff.com/2023/11/17/colonel-tom-parker-stopped-elvis-from-recording-i-will-always-love-you-because-dolly-refu",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "When Colonel Tom Parker wanted Elvis Presley to record 'I Will Always Love You' – Eric Alper post",
+                "url": "https://www.facebook.com/EricAlperPR/posts/when-colonel-tom-parker-wanted-elvis-presley-to-record-dolly-partons-i-will-alwa/1522",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R3-Q2",
+          "episodeId": "EP046",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Roberta Flack's 1973 recording of 'Killing Me Softly With His Song' is widely treated as the original — but the song was first recorded in 1972 by which singer-songwriter who had written the poem that inspired it?",
+          "choices": [
+            "Lori Lieberman",
+            "Helen Reddy",
+            "Carole King",
+            "Carly Simon"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-song-killing-me-softly-lori-lieberman-first-recording-1972",
+            "artist": "Lori Lieberman",
+            "song": "Killing Me Softly With His Song",
+            "album": null,
+            "year": 1972,
+            "topicTags": [
+              "Lori Lieberman",
+              "Killing Me Softly",
+              "1972",
+              "original recording",
+              "Roberta Flack",
+              "The Fugees"
+            ],
+            "fact": "Lori Lieberman's recording of 'Killing Me Softly With His Song' was released in 1972 (recorded late 1971) — a year before Roberta Flack's version made it famous. Lieberman wrote the poem that became the song's lyrics after attending a Don McLean concert.",
+            "storyHook": "Everyone knows Roberta Flack's version. Everyone knows The Fugees' version. Almost nobody knows Lori Lieberman's name — even though she got there first.",
+            "sourceNotes": "Verified: Lori Lieberman's original recording was released in 1972, recorded late 1971. Sources: Wikipedia https://en.wikipedia.org/wiki/Killing_Me_Softly_with_His_Song, Yahoo article https://www.yahoo.com/entertainment/lori-lieberman-first-sang-killing-201524923.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Killing Me Softly with His Song – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Killing_Me_Softly_with_His_Song",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "Lori Lieberman, Who First Sang 'Killing Me Softly with His Song' – Yahoo article",
+                "url": "https://www.yahoo.com/entertainment/lori-lieberman-first-sang-killing-201524923.html",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R3-B1",
+          "episodeId": "EP046",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "medium",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The Fugees — who covered 'Killing Me Softly' — consisted of Lauryn Hill, Pras Michel, and which third member?",
+          "choices": [
+            "Questlove",
+            "Talib Kweli",
+            "DJ Clue",
+            "Wyclef Jean"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — THE FUGEES' THIRD MEMBER"
+          },
+          "metadata": {
+            "factKey": "ep046-group-fugees-wyclef-jean-lauryn-hill-pras-michel-members",
+            "artist": "The Fugees",
+            "song": null,
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "The Fugees",
+              "Wyclef Jean",
+              "Lauryn Hill",
+              "Pras Michel",
+              "members",
+              "biography"
+            ],
+            "fact": "The Fugees consisted of Lauryn Hill, Pras Michel, and Wyclef Jean — a trio that dissolved after The Score but left one of the most celebrated albums in hip-hop and R&B history.",
+            "storyHook": "Three people. One album. And the most famous cover of 'Killing Me Softly' ever recorded.",
+            "sourceNotes": "Verified: The Fugees consisted of Lauryn Hill, Pras Michel, and Wyclef Jean. Source: Wikipedia https://en.wikipedia.org/wiki/Fugees",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Fugees – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Fugees",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP046-R3-RES1",
+          "episodeId": "EP046",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The Bodyguard — which featured Whitney Houston's cover of 'I Will Always Love You' — was directed by which filmmaker?",
+          "choices": [
+            "John Badham",
+            "Tony Scott",
+            "Mick Jackson",
+            "Rob Reiner"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-film-the-bodyguard-mick-jackson-director-1992",
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1992,
+            "topicTags": [
+              "The Bodyguard",
+              "Mick Jackson",
+              "director",
+              "1992",
+              "Whitney Houston",
+              "Kevin Costner"
+            ],
+            "fact": "The Bodyguard (1992) was directed by Mick Jackson, starring Whitney Houston and Kevin Costner. The film's soundtrack became one of the best-selling albums of all time.",
+            "storyHook": "Mick Jackson directed it. Whitney Houston starred in it. The Bodyguard soundtrack outsold almost everything.",
+            "sourceNotes": "Verified: The Bodyguard (1992) directed by Mick Jackson. Sources: Wikipedia https://en.wikipedia.org/wiki/The_Bodyguard_(1992_film), IMDb https://www.imdb.com/title/tt0103855/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Bodyguard (1992 film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Bodyguard_(1992_film)",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "The Bodyguard (1992) – IMDb",
+                "url": "https://www.imdb.com/title/tt0103855/",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "song",
+            "factType": "cultural",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP046-R3-RES2",
+          "episodeId": "EP046",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Mary J. Blige's cover of Rufus and Chaka Khan's 'Sweet Thing' appeared on which album — her commercial debut?",
+          "choices": [
+            "My Life",
+            "Share My World",
+            "What's the 411?",
+            "Reminisce"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "factKey": "ep046-album-mary-j-blige-whats-the-411-sweet-thing-debut",
+            "artist": "Mary J. Blige",
+            "song": "Sweet Thing",
+            "album": "What's the 411?",
+            "year": 1992,
+            "topicTags": [
+              "Mary J. Blige",
+              "What's the 411?",
+              "Sweet Thing",
+              "debut album",
+              "1992",
+              "Rufus",
+              "Chaka Khan"
+            ],
+            "fact": "Mary J. Blige's cover of 'Sweet Thing' appeared on What's the 411? (1992) — her debut album. The Rufus and Chaka Khan original had been released seventeen years earlier.",
+            "storyHook": "Her first album. And she covered a seventeen-year-old Chaka Khan record. Mary J. Blige arrived knowing exactly who she was.",
+            "sourceNotes": "Verified: Mary J. Blige's 'Sweet Thing' cover appeared on What's the 411? (1992). Sources: Wikipedia https://en.wikipedia.org/wiki/What%27s_the_411%3F, YouTube https://www.youtube.com/watch?v=6EjZF88vqNU",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "What's the 411? – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/What%27s_the_411%3F",
+                "accessed": "2026-05-31"
+              },
+              {
+                "title": "Sweet Thing – Mary J. Blige (YouTube/Spotify track credits)",
+                "url": "https://www.youtube.com/watch?v=6EjZF88vqNU",
+                "accessed": "2026-05-31"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-31",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-31T05:37:39.217866+00:00"
+  }
+}
