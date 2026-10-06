@@ -1,0 +1,1582 @@
+{
+  "episodeId": "EP032",
+  "title": "The Directors' Cut",
+  "theme": "They never appeared on the record. But Hype Williams, F. Gary Gray, Little X, and a handful of others built the visual identity of 90s R&B as deliberately as any producer built a sound. The fish-eye lens. The million-dollar set. The look you recognized before the title card appeared.",
+  "narrativePurpose": "Test knowledge of the directors, visual signatures, budgets, and iconic moments that turned the music video into R&B's second art form — and the specific craft decisions that made certain videos permanently unforgettable.",
+  "toneProgression": "Name the video and the visual moment → director careers, signatures, and crossovers → budgets, platforms, award history, and the infrastructure behind the image",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "7"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-7 — the year Hype Williams directed Missy Elliott's debut video, Busta Rhymes' 'Put Your Hands Where My Eyes Could See,' and a dozen other records that defined what the form could do. By the end of that year, you could identify a Hype Williams video on four frames."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "THE FRAME",
+      "tag": "ROUND 01 OF 03",
+      "description": "The videos you know. The shots you can still picture. Round 1 tests whether you know who made what you're seeing — before the title card appeared.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP032-R1-Q1",
+          "episodeId": "EP032",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "The Frame",
+          "era": "1990s",
+          "question": "TLC's 'Waterfalls' (1995) — one of the most visually striking videos of the decade — was directed by which filmmaker?",
+          "choices": [
+            "F. Gary Gray",
+            "Little X",
+            "Chris Robinson",
+            "Hype Williams"
+          ],
+          "correctIndex": 0,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "Waterfalls",
+            "album": "CrazySexyCool",
+            "year": 1995,
+            "topicTags": [
+              "TLC",
+              "Waterfalls",
+              "F. Gary Gray",
+              "director",
+              "CrazySexyCool",
+              "1995"
+            ],
+            "fact": "F. Gary Gray directed TLC's 'Waterfalls' in 1995 — the same year he released his debut feature film 'Friday.' The video's digital water effects and holographic imagery were technically ambitious for the era and helped the video win MTV's Video of the Year.",
+            "storyHook": "Same director. Same year. One video defined the era of R&B. One film defined a genre. Both opened in 1995.",
+            "sourceNotes": "Verified: F. Gary Gray directed TLC's 'Waterfalls.' Source: IMDB https://www.imdb.com/title/tt6668444/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/title/tt6668444/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "director",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R1-Q2",
+          "episodeId": "EP032",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "The Frame",
+          "era": "1990s",
+          "question": "Which visual technique — a distorted wide-angle shot that became a 90s R&B signature — is most associated with director Hype Williams?",
+          "choices": [
+            "Sepia filter",
+            "Fish-eye lens",
+            "Slow-motion zoom",
+            "Split-screen montage"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Hype Williams",
+              "fish-eye lens",
+              "anamorphic",
+              "visual signature",
+              "director"
+            ],
+            "fact": "Hype Williams' use of the fish-eye lens — which creates extreme spherical barrel distortion, pulling the edges of the frame outward while dramatizing the center subject — became the defining visual shorthand of mid-to-late 90s R&B and hip-hop video. The technique was so influential it became a clich\u00e9 by the early 2000s.",
+            "storyHook": "You didn't need a title card. Four frames in, you knew it was Hype Williams.",
+            "sourceNotes": "Verified: Hype Williams' signature technique is the fish-eye lens specifically — distinct from anamorphic (which compresses wide aspect ratio into standard frame). Source: Buzzfeed/Angelica Cheyenne.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Buzzfeed",
+                "url": "https://www.buzzfeed.com/angelicacheyenne/hype-williams-music-videos",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "director",
+            "factType": "visual_signature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R1-Q3",
+          "episodeId": "EP032",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "The Frame",
+          "era": "1990s",
+          "question": "Missy Elliott's debut video 'The Rain (Supa Dupa Fly)' (1997), directed by Hype Williams, opened with Missy wearing what now-iconic costume?",
+          "choices": [
+            "An inflatable black bodysuit",
+            "A silver metallic catsuit",
+            "A custom Adidas tracksuit",
+            "An oversized fur coat"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Missy Elliott",
+            "song": "The Rain (Supa Dupa Fly)",
+            "album": "Supa Dupa Fly",
+            "year": 1997,
+            "topicTags": [
+              "Missy Elliott",
+              "The Rain",
+              "Hype Williams",
+              "inflatable suit",
+              "1997",
+              "Supa Dupa Fly",
+              "debut video"
+            ],
+            "fact": "Hype Williams shot Missy Elliott's debut video with her in an inflatable black bodysuit — widely described as a trash bag suit — using his fish-eye lens to exaggerate her silhouette and create a surreal, deliberately unorthodox image. The visual choice turned a debut into an instant statement.",
+            "storyHook": "She wasn't going to look like anyone else. Hype Williams made sure of it on the first frame.",
+            "sourceNotes": "Verified: Missy Elliott wore an inflatable black patent leather/vinyl bodysuit (styled by June Ambrose) in 'The Rain (Supa Dupa Fly).' Sources: Models.com, Vanity Fair.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Models.com",
+                "url": "https://models.com/work/video-missy-elliott---the-rain-supa-dupa-fly",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "Vanity Fair",
+                "url": "https://www.vanityfair.com/style/story/this-summer-missy-elliott-is-taking-her-one-of-a-kind-style-on-tour",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "visual",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R1-Q4",
+          "episodeId": "EP032",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "The Frame",
+          "era": "1990s",
+          "question": "Michael and Janet Jackson's 1995 video 'Scream' set a record as the most expensive music video ever produced at the time. What was its reported budget?",
+          "choices": [
+            "$10 million",
+            "$5 million",
+            "$3 million",
+            "$7 million"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Michael Jackson and Janet Jackson",
+            "song": "Scream",
+            "album": "HIStory: Past, Present and Future, Book I",
+            "year": 1995,
+            "topicTags": [
+              "Michael Jackson",
+              "Janet Jackson",
+              "Scream",
+              "budget",
+              "most expensive video",
+              "1995",
+              "Mark Romanek"
+            ],
+            "fact": "'Scream' (1995) was directed by Mark Romanek and reportedly cost approximately $7 million to produce — making it the most expensive music video ever made at the time. The zero-gravity spacecraft set required extensive production design and post-production work.",
+            "storyHook": "Seven million dollars. One spacecraft. Two Jacksons. And a director the R&B world had never heard of.",
+            "sourceNotes": "Verified: Mark Romanek directed 'Scream.' Budget of ~$7 million holds Guinness World Record for most expensive music video ever produced. Source: guinnessworldrecords.com https://www.guinnessworldrecords.com/world-records/71831-most-expensive-music-video",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Guinness World Records",
+                "url": "https://www.guinnessworldrecords.com/world-records/71831-most-expensive-music-video",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "budget",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R1-Q5",
+          "episodeId": "EP032",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "The Frame",
+          "era": "1990s",
+          "question": "F. Gary Gray directed TLC's 'Waterfalls' in 1995 — and in that same year released his debut feature film. Name it.",
+          "choices": [
+            "The Players Club",
+            "Next Friday",
+            "Friday",
+            "Booty Call"
+          ],
+          "correctIndex": 2,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "F. Gary Gray",
+              "Friday",
+              "1995",
+              "debut film",
+              "Ice Cube",
+              "director",
+              "crossover"
+            ],
+            "fact": "F. Gary Gray's debut feature 'Friday' (1995) — co-written by and starring Ice Cube — was released the same year as 'Waterfalls.' Gray had built his reputation directing Ice Cube's music videos before making the transition to film.",
+            "storyHook": "One director. One year. A music video that defined an era of R&B. A film that defined a genre. Both opened in 1995.",
+            "sourceNotes": "Verified: 'Friday' (1995) was F. Gary Gray's feature directorial debut. Source: IMDB https://www.imdb.com/title/tt0113118/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/title/tt0113118/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "director",
+            "factType": "filmography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R1-Q6",
+          "episodeId": "EP032",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "The Frame",
+          "era": "1990s",
+          "question": "Three of these videos were directed by Hype Williams. Which one was NOT?",
+          "choices": [
+            "TLC 'Waterfalls'",
+            "Missy Elliott 'The Rain (Supa Dupa Fly)'",
+            "TLC 'No Scrubs'",
+            "Notorious B.I.G. 'Mo Money Mo Problems'"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "Waterfalls",
+            "album": "CrazySexyCool",
+            "year": 1995,
+            "topicTags": [
+              "Hype Williams",
+              "TLC",
+              "Waterfalls",
+              "F. Gary Gray",
+              "director",
+              "No Scrubs",
+              "Missy Elliott",
+              "Notorious B.I.G."
+            ],
+            "fact": "'Waterfalls' was directed by F. Gary Gray — not Hype Williams. The Rain, No Scrubs, and Mo Money Mo Problems are all confirmed Williams credits. A player who paid attention in slot 1 already knows the answer; one who didn't will likely guess wrong.",
+            "storyHook": "Williams was everywhere in the late 90s. But not on 'Waterfalls.' That one belonged to someone else.",
+            "sourceNotes": "Verified: 'Waterfalls' NOT directed by Williams — IMDB https://www.imdb.com/title/tt6668444/. 'The Rain' (Williams). 'No Scrubs' (Williams) — IMDB https://www.imdb.com/title/tt6718926/. 'Mo Money Mo Problems' (Williams) — IMDB https://www.imdb.com/title/tt7352380/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB — Waterfalls",
+                "url": "https://www.imdb.com/title/tt6668444/",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "IMDB — No Scrubs",
+                "url": "https://www.imdb.com/title/tt6718926/",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "IMDB — Mo Money Mo Problems",
+                "url": "https://www.imdb.com/title/tt7352380/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "director",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R1-B1",
+          "episodeId": "EP032",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "The Frame",
+          "era": "1990s",
+          "question": "Hype Williams operated under a nickname throughout his entire career. What is his legal first name?",
+          "choices": [
+            "Harold",
+            "Harvey",
+            "Howard",
+            "Herbert"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — HYPE WILLIAMS' LEGAL FIRST NAME"
+          },
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Hype Williams",
+              "Harold Williams",
+              "real name",
+              "birth name",
+              "director"
+            ],
+            "fact": "Hype Williams' legal first name is Harold — Harold Williams. The 'Hype' nickname became so synonymous with his work that his given name is largely absent from the cultural record. He directed under the alias for the entirety of his music video and film career.",
+            "storyHook": "Everyone knew Hype. Nobody tracked Harold.",
+            "sourceNotes": "Verified: Hype Williams' legal first name is Harold. Source: IMDB https://www.imdb.com/name/nm0930782/bio/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/name/nm0930782/bio/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "director",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP032-R1-RES1",
+          "episodeId": "EP032",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "The Frame",
+          "era": "1980s",
+          "question": "MTV launched a dedicated hip-hop and R&B video block in 1988 that gave artists crucial national visibility outside their core markets. What was it called?",
+          "choices": [
+            "Yo! MTV Raps",
+            "Rap City",
+            "The Box",
+            "Video Soul"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1988,
+            "topicTags": [
+              "MTV",
+              "Yo! MTV Raps",
+              "hip-hop",
+              "R&B",
+              "video platform",
+              "1988"
+            ],
+            "fact": "Yo! MTV Raps launched in August 1988 — the first nationally broadcast hip-hop television program — giving R&B and rap artists a visual platform on a channel that had largely excluded them from mainstream rotation.",
+            "storyHook": "Before Yo! MTV Raps, the lane didn't exist on the biggest video channel in the country. Then it did.",
+            "sourceNotes": "Verified: Yo! MTV Raps U.S. debut August 6, 1988. Sources: TVGuide https://www.tvguide.com/news/features/yo-mtv-raps-mtv-behind-the-scenes/, The Guardian https://www.theguardian.com/music/2011/jun/13/hip-hop-yo-mtv-raps",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TVGuide",
+                "url": "https://www.tvguide.com/news/features/yo-mtv-raps-mtv-behind-the-scenes/",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "The Guardian",
+                "url": "https://www.theguardian.com/music/2011/jun/13/hip-hop-yo-mtv-raps",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "platform",
+            "factType": "launch",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R1-RES2",
+          "episodeId": "EP032",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "The Frame",
+          "era": "1980s",
+          "question": "Janet Jackson's 1989 video 'Pleasure Principle' became notable for a specific production choice unusual for the era. What was it?",
+          "choices": [
+            "It was shot entirely in black and white",
+            "It used no lip-syncing",
+            "It featured no supporting cast or extras — just Janet dancing alone",
+            "It was filmed entirely underwater"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": "Pleasure Principle",
+            "album": "Control",
+            "year": 1989,
+            "topicTags": [
+              "Janet Jackson",
+              "Pleasure Principle",
+              "solo video",
+              "warehouse",
+              "choreography",
+              "no extras"
+            ],
+            "fact": "Janet Jackson's 'Pleasure Principle' featured only Janet — no backup dancers, no extras, no narrative cast — dancing alone in a warehouse setting. The isolation of a single performer carrying the entire visual was a deliberate artistic choice that highlighted her movement and presence.",
+            "storyHook": "No extras. No cast. Just Janet in a warehouse. That was enough.",
+            "sourceNotes": "Verified: 'Pleasure Principle' features only Janet Jackson performing solo in a Minneapolis warehouse loft — no backup dancers or extras. Sources: themoves.substack.com, deckedoutmagazine.com, IMDB https://www.imdb.com/title/tt6886134/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Moves",
+                "url": "https://themoves.substack.com/p/janet-jackson-the-pleasure-principle",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "Decked Out Magazine",
+                "url": "https://deckedoutmagazine.com/2026/04/14/janet-jackson-the-pleasure-principle/",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/title/tt6886134/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "visual",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R1-RES3",
+          "episodeId": "EP032",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "The Frame",
+          "era": "1990s",
+          "question": "Drake's 2013 video 'Hold On, We're Going Home' — featuring a cinematic 1980s Miami mobster storyline — was directed by a filmmaker best known as a director of photography, not a director. Who directed it?",
+          "choices": [
+            "Bill Pope",
+            "Roger Deakins",
+            "Wally Pfister",
+            "Emmanuel Lubezki"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Drake",
+            "song": "Hold On, We're Going Home",
+            "album": "Nothing Was the Same",
+            "year": 2013,
+            "topicTags": [
+              "Drake",
+              "Hold On We're Going Home",
+              "Bill Pope",
+              "director",
+              "cinematographer",
+              "The Matrix",
+              "2013"
+            ],
+            "fact": "Bill Pope — director of photography on The Matrix trilogy and Spider-Man 2 — directed Drake's 'Hold On, We're Going Home' (2013). A DP with that filmography stepping into the director's chair for a music video is rare; the result was one of the most cinematically ambitious videos of that year.",
+            "storyHook": "He shot The Matrix. He shot Spider-Man 2. Then he directed a Drake video set in 1980s Miami. Bill Pope went wherever the work was interesting.",
+            "sourceNotes": "Verified: Bill Pope directed Drake's 'Hold On, We're Going Home.' Source: IMDB https://www.imdb.com/title/tt6971356/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/title/tt6971356/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "director",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R1-RES4",
+          "episodeId": "EP032",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "The Frame",
+          "era": "2000s",
+          "question": "F. Gary Gray — who directed TLC's 'Waterfalls' in 1995 — directed which 2003 Hollywood heist film starring Mark Wahlberg, Charlize Theron, and Edward Norton?",
+          "choices": [
+            "Heat",
+            "The Italian Job",
+            "Ocean's Eleven",
+            "Inside Man"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 2003,
+            "topicTags": [
+              "F. Gary Gray",
+              "The Italian Job",
+              "2003",
+              "director",
+              "Hollywood",
+              "heist",
+              "Mark Wahlberg"
+            ],
+            "fact": "F. Gary Gray directed 'The Italian Job' (2003) — the Mini Cooper heist film starring Mark Wahlberg, Charlize Theron, and Edward Norton. By 2003, Gray had moved fully into Hollywood blockbusters, a trajectory that started on Ice Cube's early 90s sets and ran straight through TLC's 'Waterfalls.'",
+            "storyHook": "TLC's 'Waterfalls' to 'The Italian Job' to the Fast & Furious franchise. F. Gary Gray's career arc is one of the most complete in American cinema.",
+            "sourceNotes": "Verified: F. Gary Gray directed 'The Italian Job' (2003). Source: IMDB https://www.imdb.com/title/tt0317740/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/title/tt0317740/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "director",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "BEHIND THE LENS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Director careers, crossovers, collaborations, and the visual decisions that separated one director's work from another's. The players who made this a craft.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP032-R2-Q1",
+          "episodeId": "EP032",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Behind The Lens",
+          "era": "1990s",
+          "question": "Beyond his work with Missy Elliott and Usher, Hype Williams directed which of the following TLC videos?",
+          "choices": [
+            "No Scrubs",
+            "Diggin' On You",
+            "Waterfalls",
+            "Creep"
+          ],
+          "correctIndex": 0,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "No Scrubs",
+            "album": "FanMail",
+            "year": 1999,
+            "topicTags": [
+              "TLC",
+              "No Scrubs",
+              "Hype Williams",
+              "director",
+              "1999",
+              "FanMail"
+            ],
+            "fact": "Hype Williams directed TLC's 'No Scrubs' (1999) — adding a TLC credit to a catalog that already included Missy Elliott's 'The Rain,' Usher's 'Nice & Slow,' and R. Kelly's 'Bump N' Grind.' 'Waterfalls' (F. Gary Gray) is the misdirect most players will reach for.",
+            "storyHook": "Gray made 'Waterfalls.' Williams made 'No Scrubs.' TLC didn't settle for the same director twice.",
+            "sourceNotes": "Verified: Hype Williams directed 'No Scrubs.' Source: IMDB https://www.imdb.com/title/tt6718926/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/title/tt6718926/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "director",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R2-Q2",
+          "episodeId": "EP032",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Behind The Lens",
+          "era": "2010s",
+          "question": "F. Gary Gray's Hollywood trajectory ended with a major franchise. Which Fast & Furious film did he direct?",
+          "choices": [
+            "Furious 7",
+            "Fast & Furious 6",
+            "Fast Five",
+            "The Fate of the Furious"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 2017,
+            "topicTags": [
+              "F. Gary Gray",
+              "Fast and Furious",
+              "The Fate of the Furious",
+              "director",
+              "Hollywood",
+              "blockbuster"
+            ],
+            "fact": "F. Gary Gray directed 'The Fate of the Furious' (2017) — the eighth Fast & Furious installment — which grossed over $1.2 billion worldwide. His path from Ice Cube music videos to TLC to a billion-dollar franchise is one of the most remarkable directing trajectories of the era.",
+            "storyHook": "He started on Ice Cube's sets. He ended up directing one of the highest-grossing films in history. Music video to billion-dollar franchise — the arc was always there.",
+            "sourceNotes": "Verified: F. Gary Gray directed 'The Fate of the Furious' (2017). Sources: Andscape https://andscape.com/features/the-fate-of-the-furious-director-f-gary-gray/, IMDB https://www.imdb.com/name/nm0336620/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Andscape",
+                "url": "https://andscape.com/features/the-fate-of-the-furious-director-f-gary-gray/",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/name/nm0336620/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "director",
+            "factType": "filmography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R2-Q3",
+          "episodeId": "EP032",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Behind The Lens",
+          "era": "1990s",
+          "question": "Hype Williams directed his debut feature 'Belly' (1998) with two rap artists in the lead roles. Who were they?",
+          "choices": [
+            "Method Man and DMX",
+            "DMX and Nas",
+            "Jay-Z and DMX",
+            "Nas and AZ"
+          ],
+          "correctIndex": 1,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1998,
+            "topicTags": [
+              "Hype Williams",
+              "Belly",
+              "DMX",
+              "Nas",
+              "1998",
+              "feature film",
+              "leads"
+            ],
+            "fact": "DMX and Nas starred as the two leads in Hype Williams' 'Belly' (1998) — playing childhood friends whose paths diverge. The film was shot in Williams' signature visual language: extreme lighting contrast, stylized slow motion, and wide-angle distortion applied to a feature narrative.",
+            "storyHook": "DMX. Nas. A director who had never made a film. The result looked like nothing else in 1998.",
+            "sourceNotes": "Verified: DMX and Nas starred as leads in Hype Williams' 'Belly' (1998). Sources: IMDB https://www.imdb.com/title/tt0158493/, Academy Museum https://www.academymuseum.org/programs/detail/belly-01961272-ca0b-9e67-f071-fbee8c22d7f5",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/title/tt0158493/",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "Academy Museum",
+                "url": "https://www.academymuseum.org/programs/detail/belly-01961272-ca0b-9e67-f071-fbee8c22d7f5",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "director",
+            "factType": "cast",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R2-Q4",
+          "episodeId": "EP032",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Behind The Lens",
+          "era": "1990s",
+          "question": "BET's flagship music video show 'Video Soul' was R&B's primary national television platform before the internet era. Who was its longtime host?",
+          "choices": [
+            "Donnie Simpson",
+            "Ralph Tresvant",
+            "Ed Lover",
+            "Steve Harvey"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "BET",
+              "Video Soul",
+              "Donnie Simpson",
+              "host",
+              "R&B platform",
+              "television"
+            ],
+            "fact": "Donnie Simpson hosted BET's Video Soul for much of its run — making him one of the most recognizable faces in R&B television. Video Soul was a primary discovery platform for R&B artists in an era before streaming, giving videos national Black audience exposure that MTV's programming often didn't provide.",
+            "storyHook": "Before 106 & Park. Before BET Uncut. Video Soul was where the genre lived on television. Donnie Simpson was in the chair.",
+            "sourceNotes": "Verified: Donnie Simpson hosted BET's Video Soul, joining BET in 1983. Sources: IMDB https://www.imdb.com/title/tt0250173/, BET https://www.bet.com/article/ummzxm/donnie-simpson-returns-video-soul",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/title/tt0250173/",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "BET",
+                "url": "https://www.bet.com/article/ummzxm/donnie-simpson-returns-video-soul",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "platform",
+            "factType": "host",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R2-Q5",
+          "episodeId": "EP032",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Behind The Lens",
+          "era": "1990s",
+          "question": "TLC's 'Waterfalls' won the highest honor at the 1995 MTV Video Music Awards. Which award was it?",
+          "choices": [
+            "Best R&B Video",
+            "Best Editing",
+            "Best Direction",
+            "Video of the Year"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "Waterfalls",
+            "album": "CrazySexyCool",
+            "year": 1995,
+            "topicTags": [
+              "TLC",
+              "Waterfalls",
+              "MTV VMA",
+              "Video of the Year",
+              "1995",
+              "F. Gary Gray",
+              "award"
+            ],
+            "fact": "TLC's 'Waterfalls' won Video of the Year at the 1995 MTV Video Music Awards — making TLC the first Black act to win the top prize. The win cemented F. Gary Gray's status as a major directing talent and the song's place as a cultural landmark.",
+            "storyHook": "The video. The award. The first. 'Waterfalls' didn't just win Video of the Year — it broke a barrier while doing it.",
+            "sourceNotes": "Verified: 'Waterfalls' won MTV VMA Video of the Year 1995. TLC were first Black act to win the top prize. Source: IMDB https://www.imdb.com/title/tt6668444/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/title/tt6668444/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "award",
+            "factType": "award",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R2-B1",
+          "episodeId": "EP032",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Behind The Lens",
+          "era": "2000s",
+          "question": "Dave Meyers co-directed which Missy Elliott video that won the Grammy Award for Best Short Form Music Video?",
+          "choices": [
+            "The Rain (Supa Dupa Fly)",
+            "Lose Control",
+            "Work It",
+            "Get Ur Freak On"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — MISSY ELLIOTT'S GRAMMY-WINNING VIDEO"
+          },
+          "metadata": {
+            "artist": "Missy Elliott",
+            "song": "Lose Control",
+            "album": "The Cookbook",
+            "year": 2005,
+            "topicTags": [
+              "Missy Elliott",
+              "Lose Control",
+              "Dave Meyers",
+              "Grammy",
+              "Best Short Form Music Video",
+              "director",
+              "2005"
+            ],
+            "fact": "'Lose Control' (2005), co-directed by Dave Meyers, won the Grammy Award for Best Short Form Music Video. The common wrong answer is 'Work It' — which won Best Female Rap Solo Performance, not the video award. The distinction catches even dedicated fans.",
+            "storyHook": "Everyone remembers 'Work It.' The Grammy went to 'Lose Control.' Different award. Different year. Same director.",
+            "sourceNotes": "Verified: 'Lose Control' won Best Short Form Music Video at the 48th Annual Grammy Awards, February 2006. 'Work It' won Best Female Rap Solo Performance. Source: Grammy.com https://www.grammy.com/awards/48th-annual-grammy-awards",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Grammy.com",
+                "url": "https://www.grammy.com/awards/48th-annual-grammy-awards",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "award",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP032-R2-RES1",
+          "episodeId": "EP032",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Behind The Lens",
+          "era": "1990s",
+          "question": "F. Gary Gray's 1996 heist film 'Set It Off' — released the year after 'Waterfalls' — starred which of the following in its ensemble cast?",
+          "choices": [
+            "Brandy",
+            "TLC's T-Boz",
+            "Mary J. Blige",
+            "Queen Latifah"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1996,
+            "topicTags": [
+              "F. Gary Gray",
+              "Set It Off",
+              "Queen Latifah",
+              "1996",
+              "film",
+              "cast"
+            ],
+            "fact": "Queen Latifah starred in F. Gary Gray's 'Set It Off' (1996) alongside Jada Pinkett Smith, Vivica A. Fox, and Kimberly Elise. Gray's ability to move fluidly between music video work and quality feature filmmaking was rare for directors of his generation.",
+            "storyHook": "He made 'Friday' with Ice Cube. Then 'Set It Off' with Queen Latifah. F. Gary Gray was building something that had nothing to do with music videos anymore.",
+            "sourceNotes": "Verified: F. Gary Gray directed 'Set It Off' (1996) starring Queen Latifah, Jada Pinkett Smith, Vivica A. Fox, and Kimberly Elise. Source: IMDB https://www.imdb.com/title/tt0117603/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/title/tt0117603/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "director",
+            "factType": "cast",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R2-RES2",
+          "episodeId": "EP032",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Behind The Lens",
+          "era": "2000s",
+          "question": "Dave Meyers directed Mary J. Blige's 'Family Affair' (2001) and co-directed Missy Elliott's 'Lose Control.' Which of the following was NOT directed by Dave Meyers?",
+          "choices": [
+            "Missy Elliott 'Lose Control'",
+            "Mary J. Blige 'Family Affair'",
+            "Missy Elliott 'Work It'",
+            "TLC 'No Scrubs'"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": "No Scrubs",
+            "album": "FanMail",
+            "year": 1999,
+            "topicTags": [
+              "Dave Meyers",
+              "TLC",
+              "No Scrubs",
+              "Hype Williams",
+              "Missy Elliott",
+              "Work It",
+              "director"
+            ],
+            "fact": "'No Scrubs' was directed by Hype Williams — not Dave Meyers. Meyers' catalog includes 'Family Affair' and 'Lose Control.' 'Work It' was co-directed by Meyers and Missy Elliott herself — one of the rare cases of an artist taking a co-director credit on her own video.",
+            "storyHook": "Two directors. Dozens of videos between them. The question is which one made which.",
+            "sourceNotes": "Verified: 'No Scrubs' directed by Hype Williams — IMDB https://www.imdb.com/title/tt6718926/. 'No More Drama' directed by Sanji Senaka — IMDB https://www.imdb.com/title/tt7626032/. 'Work It' co-directed by Dave Meyers and Missy Elliott — IMDB https://www.imdb.com/title/tt6668076/. 'Family Affair' directed by Dave Meyers — IMDB.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB — No Scrubs",
+                "url": "https://www.imdb.com/title/tt6718926/",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "IMDB — No More Drama",
+                "url": "https://www.imdb.com/title/tt7626032/",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "IMDB — Work It",
+                "url": "https://www.imdb.com/title/tt6668076/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "director",
+            "sourcesCount": 4,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R2-RES3",
+          "episodeId": "EP032",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Behind The Lens",
+          "era": "1990s",
+          "question": "Hype Williams directed his debut feature 'Belly' (1998) after years of music video work. Which of the following best describes the film's critical reception?",
+          "choices": [
+            "Universal acclaim and major awards recognition",
+            "Negative reviews and a box office failure with no lasting impact",
+            "Mixed reviews but strong box office performance",
+            "Mixed critical reception and modest box office, but lasting cult status"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1998,
+            "topicTags": [
+              "Hype Williams",
+              "Belly",
+              "1998",
+              "feature film",
+              "critical reception",
+              "cult film"
+            ],
+            "fact": "'Belly' (1998) received mixed critical reviews — many critics found its music-video aesthetic overwhelming as a feature-length approach — but developed a lasting cult following in hip-hop culture. Its visual ambition, if not its narrative, was widely acknowledged as unlike anything else released that year.",
+            "storyHook": "The critics weren't sure what to do with it. The culture kept watching it. 'Belly' didn't need their approval.",
+            "sourceNotes": "Verified: 'Belly' (1998) received poor to mixed critical reception from mainstream critics on release, but developed lasting cult status in hip-hop culture. Source: Rotten Tomatoes https://www.rottentomatoes.com/m/belly/reviews",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rotten Tomatoes",
+                "url": "https://www.rottentomatoes.com/m/belly/reviews",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "director",
+            "factType": "reception",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "THE DIRECTOR'S CUT",
+      "tag": "ROUND 03 OF 03",
+      "description": "The business, the platforms, and the craft details most players never tracked. The infrastructure behind the image.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP032-R3-Q1",
+          "episodeId": "EP032",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "The Director's Cut",
+          "era": "1990s",
+          "question": "'Scream' (1995) by Michael and Janet Jackson — the most expensive video ever made at the time — was directed by which filmmaker, who was not primarily an R&B director?",
+          "choices": [
+            "Hype Williams",
+            "Spike Jonze",
+            "Mark Romanek",
+            "John Landis"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Michael Jackson and Janet Jackson",
+            "song": "Scream",
+            "album": "HIStory: Past, Present and Future, Book I",
+            "year": 1995,
+            "topicTags": [
+              "Scream",
+              "Mark Romanek",
+              "Michael Jackson",
+              "Janet Jackson",
+              "director",
+              "1995",
+              "most expensive"
+            ],
+            "fact": "Mark Romanek directed 'Scream' (1995) — known primarily for his high-concept, visually precise work across pop and rock rather than R&B. Romanek later directed 'One Hour Photo' (2002) and 'Never Let Me Go' (2010). The Jackson camp's choice of Romanek over genre-native directors reflected their preference for cinematic ambition over R&B conventions.",
+            "storyHook": "They had $7 million and they didn't call Hype Williams. They called someone the R&B world had barely heard of. That was the point.",
+            "sourceNotes": "Verified: Mark Romanek directed 'Scream.' $7 million budget is Guinness World Record for most expensive music video. Source: guinnessworldrecords.com https://www.guinnessworldrecords.com/world-records/71831-most-expensive-music-video",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Guinness World Records",
+                "url": "https://www.guinnessworldrecords.com/world-records/71831-most-expensive-music-video",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "director",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R3-Q2",
+          "episodeId": "EP032",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "The Director's Cut",
+          "era": "2000s",
+          "question": "MTV's 'Total Request Live' (TRL) — which from 1998 onward gave R&B artists daily mainstream video exposure alongside pop — was hosted from launch by which VJ?",
+          "choices": [
+            "Matt Pinfield",
+            "Carson Daly",
+            "John Norris",
+            "Kurt Loder"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1998,
+            "topicTags": [
+              "TRL",
+              "Total Request Live",
+              "Carson Daly",
+              "MTV",
+              "1998",
+              "video platform",
+              "VJ"
+            ],
+            "fact": "Carson Daly hosted MTV's Total Request Live from its launch in September 1998 — making him the face of the show that gave R&B artists daily mainstream pop exposure. TRL's viewer-request format shifted power toward the audience and made the countdown a daily cultural event that BET's Video Soul format had never attempted.",
+            "storyHook": "The directors made the videos. TRL decided which ones the country saw every afternoon. Carson Daly was in the chair.",
+            "sourceNotes": "Verified: Carson Daly hosted TRL from its 1998 launch. Source: VH1.com https://www.vh1.com/news/lvufmo/trl-15-years-later",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "VH1",
+                "url": "https://www.vh1.com/news/lvufmo/trl-15-years-later",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "platform",
+            "factType": "host",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R3-B1",
+          "episodeId": "EP032",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "The Director's Cut",
+          "era": "1990s",
+          "question": "Director 'Little X' — born Julien Christian Lutz in Toronto — later rebranded under a new professional name. What did he change it to?",
+          "choices": [
+            "The Director",
+            "Lutz",
+            "X-Man",
+            "Director X"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — LITTLE X'S PROFESSIONAL REBRAND"
+          },
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Little X",
+              "Director X",
+              "Julien Christian Lutz",
+              "Toronto",
+              "Canada",
+              "director",
+              "rebrand"
+            ],
+            "fact": "Little X — born Julien Christian Lutz on October 31, 1975 in Toronto, Ontario, of Trinidadian and Swiss descent — later rebranded as Director X. Before building his own catalog, he was a prot\u00e9g\u00e9 of Hype Williams, the director who defined the visual language of 90s R&B. The student eventually directed Drake, Jay-Z, and Kanye West.",
+            "storyHook": "He learned the craft from Hype Williams. He built the catalog as Little X. He built the career as Director X. Same person. Three chapters.",
+            "sourceNotes": "Verified: Director X is the professional rebrand of Little X (Julien Christian Lutz), born October 31, 1975 in Toronto, Ontario, of Trinidadian and Swiss descent. Was a prot\u00e9g\u00e9 of Hype Williams. Source: IMDB https://www.imdb.com/name/nm1962311/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Canadian Encyclopedia",
+                "url": "https://thecanadianencyclopedia.ca/en/article/director-x",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Director_X",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/name/nm1962311/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "director",
+            "factType": "biography",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP032-R3-RES1",
+          "episodeId": "EP032",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "The Director's Cut",
+          "era": "2010s",
+          "question": "Director Diane Martel — known for her 90s R&B work — directed which highly controversial 2013 video that generated significant cultural debate?",
+          "choices": [
+            "Justin Timberlake 'Mirrors'",
+            "Robin Thicke 'Blurred Lines'",
+            "Miley Cyrus 'Wrecking Ball'",
+            "Bruno Mars 'Locked Out of Heaven'"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Robin Thicke",
+            "song": "Blurred Lines",
+            "album": "Blurred Lines",
+            "year": 2013,
+            "topicTags": [
+              "Diane Martel",
+              "Robin Thicke",
+              "Blurred Lines",
+              "2013",
+              "director",
+              "controversy"
+            ],
+            "fact": "Diane Martel directed Robin Thicke's 'Blurred Lines' (2013). Terry Richardson directed 'Wrecking Ball' (Miley Cyrus, 2013) — not Martel. Martel directed Miley Cyrus's 'We Can't Stop' that same year, which is the likely source of the attribution confusion. Single correct answer confirmed.",
+            "storyHook": "She built her name in 90s R&B. Two decades later, she directed the video everyone was arguing about.",
+            "sourceNotes": "Verified: Martel directed 'Blurred Lines.' Terry Richardson directed 'Wrecking Ball' — Martel directed Miley's 'We Can't Stop' (also 2013). Single valid answer confirmed. Sources: IMDB https://www.imdb.com/title/tt4417320/ and https://www.imdb.com/title/tt5906212/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB — Blurred Lines",
+                "url": "https://www.imdb.com/title/tt4417320/",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "IMDB — Wrecking Ball",
+                "url": "https://www.imdb.com/title/tt5906212/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "director",
+            "factType": "director",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP032-R3-RES2",
+          "episodeId": "EP032",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "The Director's Cut",
+          "era": "2000s",
+          "question": "F. Gary Gray's 2015 biopic about the origins of N.W.A became one of the highest-grossing music biopics of all time. Name it.",
+          "choices": [
+            "All Eyez on Me",
+            "Straight Outta Compton",
+            "Get Rich or Die Tryin'",
+            "Notorious"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 2015,
+            "topicTags": [
+              "F. Gary Gray",
+              "Straight Outta Compton",
+              "N.W.A",
+              "2015",
+              "biopic",
+              "blockbuster"
+            ],
+            "fact": "F. Gary Gray directed 'Straight Outta Compton' (2015) — the N.W.A origin story that grossed over $200 million worldwide on a $28 million budget, becoming one of the highest-grossing music biopics ever made. The trajectory from Ice Cube music videos in the early 90s to a film about Ice Cube's own origin story is one of the most complete arcs in American directing.",
+            "storyHook": "He started directing Ice Cube's videos. Thirty years later he directed the film about where Ice Cube came from. F. Gary Gray's arc went all the way around.",
+            "sourceNotes": "Verified: F. Gary Gray directed 'Straight Outta Compton' (2015). Box office figures widely documented. Source: IMDB https://www.imdb.com/title/tt1398426/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDB",
+                "url": "https://www.imdb.com/title/tt0317740/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "director",
+            "factType": "filmography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ]
+}

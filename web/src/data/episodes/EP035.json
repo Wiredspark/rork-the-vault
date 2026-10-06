@@ -1,0 +1,1573 @@
+{
+  "episodeId": "EP035",
+  "title": "Purple Rain & Punk-Funk",
+  "theme": "Prince and Rick James dominated the early 1980s R&B landscape from opposite corners — Minneapolis minimalism versus Buffalo street-funk maximalism. The protégés, the albums, the labels, and the records that defined an era.",
+  "narrativePurpose": "Test knowledge of Prince and Rick James's catalogs, their protégée networks, their labels, their production philosophies, and the biographical facts behind the artists who made 1981-1987 one of the richest periods in R&B history.",
+  "toneProgression": "Identify the albums, singles, and key collaborators → labels, production credits, and the tour that started a rivalry → birth names, hidden connections, and the facts that reframe what you thought you knew",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-8-4 — the year Purple Rain dropped, Rick James's commercial slide accelerated, and the era's winner became undeniable. Prince's album and film sold over 20 million copies. Rick James's last top-ten R&B hit was 1983's Cold Blooded. By 1984 the contest was settled — though Rick James never accepted the verdict."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "Albums, singles, and the artists who made the era. Entry level — but this era runs deep.",
+      "color": "#FFD700",
+      "accentVar": "--gold",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP035-R1-Q1",
+          "episodeId": "EP035",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Rick James's 1981 commercial breakthrough — home to both 'Super Freak' and 'Give It to Me Baby' — was titled what?",
+          "choices": [
+            "Street Songs",
+            "Fire It Up",
+            "Bustin' Out of L Seven",
+            "Throwin' Down"
+          ],
+          "correctIndex": 0,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rick James",
+            "song": null,
+            "album": "Street Songs",
+            "year": 1981,
+            "topicTags": [
+              "Rick James",
+              "Street Songs",
+              "1981",
+              "Super Freak",
+              "Give It to Me Baby",
+              "Gordy Records",
+              "Punk-Funk"
+            ],
+            "fact": "Street Songs (1981) was Rick James's commercial peak — selling over 3 million copies in the US and producing two top-ten pop singles. The album's raw, street-level funk sound — what James called 'Punk-Funk' — was a deliberate counter to the polished disco era it was replacing.",
+            "storyHook": "Give It to Me Baby. Super Freak. Two singles. One album. Street Songs made Rick James the sound of 1981.",
+            "sourceNotes": "PRIORITY VERIFY: Rick James Street Songs (1981), Gordy Records, 3 million copies, both singles. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Street Songs – Rick James dropped STREET SONGS on this day in 1981 – Rick James Facebook",
+                "url": "https://www.facebook.com/RickJames/videos/42-years-of-funk-fire-and-street-songs-rick-james-dropped-street-songs-on-this-d/12225",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Super Freak – Official Music Video",
+                "url": "https://www.youtube.com/watch?v=QYHxGBH6o4M",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Give It to Me Baby – Official Music Video",
+                "url": "https://www.youtube.com/watch?v=1dNIQVYGXbM",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R1-Q2",
+          "episodeId": "EP035",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Teena Marie — Rick James's most commercially successful protégée — scored her biggest solo hit with which 1984 single?",
+          "choices": [
+            "Déjà Vu (I Hope You Miss Me)",
+            "Lovergirl",
+            "Behind the Groove",
+            "Square Biz"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Teena Marie",
+            "song": "Lovergirl",
+            "album": "Starchild",
+            "year": 1984,
+            "topicTags": [
+              "Teena Marie",
+              "Lovergirl",
+              "1984",
+              "Starchild",
+              "Rick James",
+              "Gordy Records"
+            ],
+            "fact": "'Lovergirl' peaked at #4 on the Billboard Hot 100 in 1984 — Teena Marie's highest-charting single and the record that most fully demonstrated her commercial range as a solo artist independent of Rick James's direct production.",
+            "storyHook": "She started as Rick James's protégée. 'Lovergirl' proved she didn't need him to have a hit.",
+            "sourceNotes": "PRIORITY VERIFY: Teena Marie 'Lovergirl' (1984), #4 Hot 100, from Starchild album. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lovergirl (1984) – Funk-soul hit that ruled the '80s! – YouTube Short",
+                "url": "https://www.youtube.com/shorts/mDz2b6FqPug",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Teena Marie – Classic Motown Artist Bio",
+                "url": "https://classic.motown.com/artist/teena-marie/",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R1-Q3",
+          "episodeId": "EP035",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Morris Day's Prince-created Minneapolis funk ensemble The Time released which 1982 album?",
+          "choices": [
+            "The Time",
+            "What Time Is It?",
+            "Pandemonium",
+            "Ice Cream Castle"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Time",
+            "song": null,
+            "album": "What Time Is It?",
+            "year": 1982,
+            "topicTags": [
+              "The Time",
+              "Morris Day",
+              "What Time Is It?",
+              "1982",
+              "Prince",
+              "Minneapolis Sound"
+            ],
+            "fact": "What Time Is It? (1982) was The Time's second album — largely written and produced by Prince under pseudonyms. The ensemble served as Prince's funk proxy, allowing him to dominate the Minneapolis sound from two angles simultaneously: his own releases and The Time's street-level funk.",
+            "storyHook": "Prince made the record. Morris Day fronted it. The Time was a Prince project that worked better than most bands work for themselves.",
+            "sourceNotes": "PRIORITY VERIFY: The Time 'What Time Is It?' (1982), Prince's role as writer/producer under pseudonyms. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "What Time Is It? – album post",
+                "url": "https://www.facebook.com/thepurplestream/videos/what-time-is-it-is-the-second-full-length-studio-album-by-the-time-and-was-relea",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R1-Q4",
+          "episodeId": "EP035",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Teena Marie was discovered, produced, and signed to Gordy Records by which R&B artist — who became her mentor and closest early collaborator?",
+          "choices": [
+            "Berry Gordy",
+            "Smokey Robinson",
+            "Rick James",
+            "Lionel Richie"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Teena Marie",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Teena Marie",
+              "Rick James",
+              "Gordy Records",
+              "protégée",
+              "discovery",
+              "Motown"
+            ],
+            "fact": "Rick James discovered Teena Marie after spotting her demo tape at Motown's Gordy Records. He produced her debut album Wild and Peaceful (1979) and several subsequent records, creating one of the era's most commercially productive mentor-protégée relationships in R&B.",
+            "storyHook": "He heard a demo. He produced the debut. Rick James didn't just discover Teena Marie — he built her.",
+            "sourceNotes": "PRIORITY VERIFY: Rick James discovered Teena Marie, produced Wild and Peaceful (1979) on Gordy Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Teena Marie | Classic Motown Artists",
+                "url": "https://classic.motown.com/artist/teena-marie/",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Teena Marie & Rick James's Musical History – Instagram",
+                "url": "https://www.instagram.com/p/DLtNHk2gPSb/",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R1-Q5",
+          "episodeId": "EP035",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Teena Marie's 1979 debut album — produced by Rick James for Gordy Records — was titled what?",
+          "choices": [
+            "Lady T",
+            "Wild and Peaceful",
+            "It Must Be Magic",
+            "Irons in the Fire"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Teena Marie",
+            "song": null,
+            "album": "Wild and Peaceful",
+            "year": 1979,
+            "topicTags": [
+              "Teena Marie",
+              "Wild and Peaceful",
+              "1979",
+              "Rick James",
+              "debut album",
+              "Gordy Records"
+            ],
+            "fact": "Wild and Peaceful (1979) was produced entirely by Rick James and introduced Teena Marie to R&B radio — making her one of the few white artists to score significant play on Black radio in the late 1970s. The album's lead single 'I'm a Sucker for Your Love' was credited to Rick James featuring Teena Marie.",
+            "storyHook": "The debut was credited to Rick James featuring her. By 'Lovergirl' she had reversed that equation entirely.",
+            "sourceNotes": "PRIORITY VERIFY: Teena Marie Wild and Peaceful (1979), produced by Rick James, 'I'm a Sucker for Your Love' credit structure. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wild and Peaceful (Teena Marie album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Wild_and_Peaceful_(Teena_Marie_album)",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R1-Q6",
+          "episodeId": "EP035",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Prince's 1984 film and album Purple Rain earned him which Academy Award at the 57th ceremony?",
+          "choices": [
+            "Best Original Score",
+            "Best Original Song",
+            "Best Sound Mixing",
+            "Best Original Song Score"
+          ],
+          "correctIndex": 3,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": "Purple Rain",
+            "year": 1984,
+            "topicTags": [
+              "Prince",
+              "Purple Rain",
+              "Academy Award",
+              "Best Original Song Score",
+              "1984",
+              "1985",
+              "Oscar"
+            ],
+            "fact": "Purple Rain won the Academy Award for Best Original Song Score at the 57th ceremony in 1985 — the only Oscar Prince ever won, and one of the more unexpected crossover moments for an R&B artist in Hollywood history. The category was later merged and renamed.",
+            "storyHook": "A Minneapolis funk record. An Academy Award. Prince operated in categories nobody else was even competing in.",
+            "sourceNotes": "Verified: Purple Rain won Best Original Song Score at 57th Academy Awards (1985). Source: Ultimate Prince https://ultimateprince.com/prince-oscar-purple-rain/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "At the 1985 Oscars, Prince took home the award for Best Original Song Score – Prince Facebook",
+                "url": "https://www.facebook.com/prince/videos/at-the-1985-oscars-prince-took-home-the-award-for-best-original-song-score-and-b/38344100",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "35 Years Ago: Prince's 'Unbelievable' 'Purple Rain' Oscars Win – Ultimate Prince",
+                "url": "https://ultimateprince.com/prince-oscar-purple-rain/",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "award",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R1-B1",
+          "episodeId": "EP035",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Rick James's 1978 debut album — released on Gordy Records alongside his Stone City Band — was titled what?",
+          "choices": [
+            "Throwin' Down",
+            "Come Get It!",
+            "Fire It Up",
+            "Bustin' Out of L Seven"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — THE DECADE OPENS"
+          },
+          "metadata": {
+            "artist": "Rick James",
+            "song": null,
+            "album": "Come Get It!",
+            "year": 1978,
+            "topicTags": [
+              "Rick James",
+              "Come Get It!",
+              "1978",
+              "debut album",
+              "Stone City Band",
+              "Gordy Records"
+            ],
+            "fact": "Come Get It! (1978) launched Rick James's recording career on Gordy Records — Motown's funk and soul imprint. Produced by James alongside the Stone City Band, the album introduced the raw, aggressive sound he would develop into 'Punk-Funk' over the next three years.",
+            "storyHook": "Before Street Songs. Before Super Freak. Come Get It! was where Rick James started. Everything else followed from here.",
+            "sourceNotes": "Verified: Come Get It! was Rick James's debut album, released 1978 on Gordy Records with Stone City Band. Sources: Wikipedia https://en.wikipedia.org/wiki/Come_Get_It!, Albumism post https://www.facebook.com/Albumism/posts/rick-james-released-his-debut-album-come-get-it-with-his-stone-city-band-47-year/7478369",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Come Get It! – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Come_Get_It!",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Teena Marie & Rick James's Musical History – Instagram",
+                "url": "https://www.instagram.com/p/DLtNHk2gPSb/",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP035-R1-RES1",
+          "episodeId": "EP035",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Rick James's touring and recording backing group — featured on all his albums — was known as what?",
+          "choices": [
+            "The New Power Generation",
+            "The Funk Brothers",
+            "The Revolution",
+            "The Stone City Band"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rick James",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Rick James",
+              "Stone City Band",
+              "backing band",
+              "Punk-Funk"
+            ],
+            "fact": "The Stone City Band was Rick James's core backing ensemble throughout his commercial peak — featuring on Come Get It!, Street Songs, and all his major releases. Their organic, live-band sound was the foundation of the 'Punk-Funk' style James championed against the synthesized sounds of his contemporaries.",
+            "storyHook": "Stone City Band. The engine behind every Rick James record that mattered.",
+            "sourceNotes": "PRIORITY VERIFY: Stone City Band as Rick James's backing group. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rick James and the Stone City Band – Facebook",
+                "url": "https://www.facebook.com/badboysoffunk/posts/and-then-there-was-the-outrageous-rick-james-and-the-stone-city-band-taking-our-/14",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R1-RES2",
+          "episodeId": "EP035",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Prince's first all-female protégée group — fronted by the artist known as Vanity — was called what?",
+          "choices": [
+            "The Mary Jane Girls",
+            "Sheila E. & the Girls",
+            "Apollonia 6",
+            "Vanity 6"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": null,
+            "year": 1982,
+            "topicTags": [
+              "Vanity 6",
+              "Prince",
+              "Vanity",
+              "protégée",
+              "girl group",
+              "1982"
+            ],
+            "fact": "Vanity 6 was Prince's first major protégée girl group project — formed in 1981 and fronted by Denise Matthews, who performed as Vanity. Their self-titled debut album (1982) produced 'Nasty Girl.' When Vanity departed the project, Prince replaced her with Apollonia Kotero and renamed the group Apollonia 6.",
+            "storyHook": "Vanity 6. Named for its leader. When the leader left, the name changed. Prince rebuilt the whole thing and kept going.",
+            "sourceNotes": "PRIORITY VERIFY: Vanity 6 formed 1981, fronted by Vanity (Denise Matthews), Nasty Girl debut, Apollonia 6 as follow-up. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Vanity 6 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Vanity_6",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R1-RES3",
+          "episodeId": "EP035",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "MC Hammer's 'U Can't Touch This' — built around Rick James's 'Super Freak' riff — appeared on which 1990 Hammer album?",
+          "choices": [
+            "Please Hammer Don't Hurt 'Em",
+            "Too Legit to Quit",
+            "Let's Get It Started",
+            "The Funky Headhunter"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "MC Hammer",
+            "song": "U Can't Touch This",
+            "album": "Please Hammer Don't Hurt 'Em",
+            "year": 1990,
+            "topicTags": [
+              "MC Hammer",
+              "U Can't Touch This",
+              "Please Hammer Don't Hurt 'Em",
+              "1990",
+              "Super Freak",
+              "Rick James",
+              "sample"
+            ],
+            "fact": "'U Can't Touch This' appeared on Please Hammer Don't Hurt 'Em (1990) — the best-selling rap album of 1990 and one of the best-selling albums of the decade. The record sampled Rick James's 'Super Freak' riff, earning James a co-writing credit and a Grammy alongside Hammer.",
+            "storyHook": "Rick James wrote the riff in 1981. MC Hammer built a #1 album around it in 1990. The riff outlasted both their careers.",
+            "sourceNotes": "PRIORITY VERIFY: MC Hammer 'U Can't Touch This' on Please Hammer Don't Hurt 'Em (1990), Super Freak sample, Grammy co-writing credit for Rick James. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "U Can't Touch This – Official Music Video",
+                "url": "https://www.youtube.com/watch?v=otCpCn0l4Wo",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Please Hammer Don't Hurt 'Em – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Please_Hammer_Don%27t_Hurt_%27Em",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R1-RES4",
+          "episodeId": "EP035",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "'Fire and Desire' — Rick James's 1981 slow-jam showcase — was a duet with which of his protégées?",
+          "choices": [
+            "Vanity",
+            "Teena Marie",
+            "Mary Jane",
+            "Karyn White"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rick James",
+            "song": "Fire and Desire",
+            "album": "Street Songs",
+            "year": 1981,
+            "topicTags": [
+              "Rick James",
+              "Teena Marie",
+              "Fire and Desire",
+              "Street Songs",
+              "duet",
+              "1981"
+            ],
+            "fact": "'Fire and Desire' appeared on Street Songs (1981) and showcased the vocal chemistry between Rick James and Teena Marie in a seven-minute slow-jam that became one of the era's most celebrated R&B duets. The track demonstrated that the James-Marie partnership had range well beyond the funk records they were primarily known for.",
+            "storyHook": "Seven minutes. Two voices. 'Fire and Desire' was Rick James and Teena Marie at their most unhurried.",
+            "sourceNotes": "PRIORITY VERIFY: 'Fire and Desire' from Street Songs (1981), Rick James and Teena Marie duet. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rick James & Teena Marie - Fire and Desire – YouTube",
+                "url": "https://www.youtube.com/watch?v=CPikYsi6_zU",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Throwin' Down – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Throwin%27_Down",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Labels, production philosophy, the tour that started a rivalry, and the catalog facts behind the era.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP035-R2-Q1",
+          "episodeId": "EP035",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Rick James recorded for which Motown imprint — a subsidiary label rather than the Motown parent directly?",
+          "choices": [
+            "MoWest",
+            "Motown",
+            "Gordy Records",
+            "Tamla"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rick James",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Rick James",
+              "Gordy Records",
+              "Motown",
+              "label",
+              "imprint"
+            ],
+            "fact": "Rick James signed to Gordy Records — one of Motown's subsidiary imprints, named for founder Berry Gordy — rather than the parent Motown label. The distinction mattered within the Motown infrastructure, where different imprints had different A&R priorities and rosters.",
+            "storyHook": "Not Motown. Gordy. The imprint named for the man who built the label. Rick James landed on the floor with the founder's name on it.",
+            "sourceNotes": "Verified: Rick James signed to Gordy Records (Motown imprint). Source: Come Get It! Wikipedia https://en.wikipedia.org/wiki/Come_Get_It!",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Street Songs – Instagram reel",
+                "url": "https://www.instagram.com/reel/DXdB72ijsft/?hl=en",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Come Get It! – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Come_Get_It!",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R2-Q2",
+          "episodeId": "EP035",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Prince's acclaimed 1987 double album — widely regarded as his creative peak — was titled what?",
+          "choices": [
+            "Sign O' the Times",
+            "Parade",
+            "Lovesexy",
+            "Around the World in a Day"
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": "Sign O' the Times",
+            "year": 1987,
+            "topicTags": [
+              "Prince",
+              "Sign O' the Times",
+              "1987",
+              "double album",
+              "Warner Bros."
+            ],
+            "fact": "Sign O' the Times (1987) was a double album spanning psychedelia, funk, rock, gospel, and R&B — representing Prince at his most expansive and unrestrained. Critics have consistently ranked it among the greatest albums ever recorded, and it demonstrated the full range of what the Minneapolis Sound could contain.",
+            "storyHook": "Two discs. Sixteen tracks. No genre stayed in its lane. Sign O' the Times was Prince refusing every category anyone tried to put him in.",
+            "sourceNotes": "PRIORITY VERIFY: Sign O' the Times (1987), double album, critical reception as creative peak. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sign O' The Times (2LP) – Prince Store",
+                "url": "https://store.prince.com/products/sign-o-the-times",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R2-Q3",
+          "episodeId": "EP035",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Vanity — the original lead of Prince's all-female group Vanity 6 — was born under which name?",
+          "choices": [
+            "Vanessa Jennifer Cole",
+            "Patricia Ann Day",
+            "Denise Katrina Matthews",
+            "Angela Eusebia Brooks"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Vanity",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Vanity",
+              "Denise Katrina Matthews",
+              "Vanity 6",
+              "Prince",
+              "birth name",
+              "biography"
+            ],
+            "fact": "Vanity was born Denise Katrina Matthews on January 4, 1959, in Niagara Falls, Ontario, Canada. Prince gave her the name 'Vanity' — and fronted her on the Vanity 6 project — before the working relationship ended and she was replaced by Apollonia Kotero.",
+            "storyHook": "Denise Katrina Matthews became Vanity. Prince gave her the name. When she left, the name became the group's problem.",
+            "sourceNotes": "PRIORITY VERIFY: Vanity born Denise Katrina Matthews, Niagara Falls, Ontario, January 4, 1959. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Remembering Denise Katrina Matthews (aka Vanity) – Kecia's Tour Life",
+                "url": "https://www.facebook.com/KeciasTourLife/posts/remembering-denise-katrina-matthews-january-4-1959-february-15-2016from-80s-icon/1",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R2-Q4",
+          "episodeId": "EP035",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Prince's rivalry with Rick James ignited during which 1980 tour — on which Prince served as James's opening act?",
+          "choices": [
+            "Fire It Up",
+            "Punk-Funk World Tour",
+            "Street Songs Tour",
+            "Cold Blooded Tour"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rick James",
+            "song": null,
+            "album": null,
+            "year": 1980,
+            "topicTags": [
+              "Rick James",
+              "Prince",
+              "Fire It Up",
+              "1980",
+              "tour",
+              "rivalry",
+              "opening act"
+            ],
+            "fact": "The Fire It Up tour (1979-1980) — named for Rick James's 1979 album — saw Prince booked as opening act. Rather than playing a subordinate warm-up set, Prince consistently upstaged James with a full-scale performance, treating every opening slot as a headline show. The resulting tension became the foundation of a rivalry that defined both artists' public personas for years.",
+            "storyHook": "The opening act. The headline show from the support slot. Prince didn't play warm-up — he played like he was closing the night.",
+            "sourceNotes": "Verified: Fire It Up tour (1979-1980), Prince as opening act. Sources: Wikipedia https://en.wikipedia.org/wiki/Fire_It_Up_(Rick_James_album), Prince Party UK Facebook https://www.facebook.com/princepartyuk/posts/on-this-day-march-23-1980-prince-performed-for-the-first-time-in-detroit-opening/12",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Fire It Up (Rick James album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Fire_It_Up_(Rick_James_album)",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "On This Day March 23, 1980 – Rick James 'Fire It Up Tour' – Prince Party UK",
+                "url": "https://www.facebook.com/princepartyuk/posts/on-this-day-march-23-1980-prince-performed-for-the-first-time-in-detroit-opening/12",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R2-Q5",
+          "episodeId": "EP035",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Rick James's 1983 funk anthem — the title track of his follow-up to Street Songs — was titled what?",
+          "choices": [
+            "Super Freak",
+            "Ebony Eyes",
+            "Glow",
+            "Cold Blooded"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rick James",
+            "song": "Cold Blooded",
+            "album": "Cold Blooded",
+            "year": 1983,
+            "topicTags": [
+              "Rick James",
+              "Cold Blooded",
+              "1983",
+              "Gordy Records",
+              "Punk-Funk"
+            ],
+            "fact": "'Cold Blooded' (1983) was Rick James's last top-ten R&B hit — reaching #1 on the R&B chart and #40 on the Hot 100. Its hypnotic, repetitive groove represented his most uncompromising Punk-Funk statement, but the commercial tide was already shifting toward the synthesized sounds he had spent years arguing against.",
+            "storyHook": "His last #1 R&B single. 1983. By the time Purple Rain dropped the following year, the argument was over.",
+            "sourceNotes": "PRIORITY VERIFY: Rick James 'Cold Blooded' (1983), #1 R&B, #40 Hot 100, from Cold Blooded album. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rick James – COLD BLOODED was released – Facebook",
+                "url": "https://www.facebook.com/RickJames/posts/rick-james-on-this-day-in-music-history-cold-blooded-was/130896",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Cold Blooded (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Cold_Blooded_(album)",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R2-B1",
+          "episodeId": "EP035",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "'Kiss' — Prince's stripped-down 1986 funk masterpiece with a drum machine and single guitar lick — appeared on which album, the soundtrack to Under the Cherry Moon?",
+          "choices": [
+            "Sign O' the Times",
+            "Parade",
+            "1999",
+            "Around the World in a Day"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE DECADE IN FULL"
+          },
+          "metadata": {
+            "artist": "Prince",
+            "song": "Kiss",
+            "album": "Parade",
+            "year": 1986,
+            "topicTags": [
+              "Prince",
+              "Kiss",
+              "Parade",
+              "1986",
+              "Under the Cherry Moon",
+              "soundtrack"
+            ],
+            "fact": "'Kiss' appeared on Parade (1986) — the soundtrack to Prince's film Under the Cherry Moon. The record featured only a drum machine, a single guitar riff, and Prince's falsetto — demonstrating his willingness to strip arrangements down to their essential elements even at the peak of his commercial power.",
+            "storyHook": "No bass. Drum machine. One guitar. 'Kiss' reached #1. Prince was making the argument with the music itself.",
+            "sourceNotes": "PRIORITY VERIFY: Prince 'Kiss' from Parade (1986), soundtrack to Under the Cherry Moon, minimal production details. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Parade – Music from the Motion Picture Under The Cherry Moon (LP) – Rhino",
+                "url": "https://store.rhino.com/products/parade-music-from-the-motion-picture-under-the-cherry-moon-lp",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP035-R2-RES1",
+          "episodeId": "EP035",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Rick James — born James Ambrose Johnson Jr. — entered the world in which year?",
+          "choices": [
+            "1956",
+            "1952",
+            "1948",
+            "1944"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rick James",
+            "song": null,
+            "album": null,
+            "year": 1948,
+            "topicTags": [
+              "Rick James",
+              "1948",
+              "birth year",
+              "biography",
+              "Buffalo"
+            ],
+            "fact": "Rick James was born James Ambrose Johnson Jr. on February 1, 1948, in Buffalo, New York — making him a full decade older than Prince (born 1958). The age gap was part of the generational tension that characterized their rivalry, with James representing the older guard of R&B and funk.",
+            "storyHook": "Born 1948. Prince was born in 1958. When their rivalry peaked in 1981, Rick James was 33 and Prince was 22. The generation gap was part of the story.",
+            "sourceNotes": "PRIORITY VERIFY: Rick James born February 1, 1948, Buffalo, New York. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rick James – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rick_James",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R2-RES2",
+          "episodeId": "EP035",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Rick James's debut single — released alongside Come Get It! in 1978 — was titled what?",
+          "choices": [
+            "You and I",
+            "Mary Jane",
+            "Hollywood",
+            "Fool on the Street"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rick James",
+            "song": "You and I",
+            "album": "Come Get It!",
+            "year": 1978,
+            "topicTags": [
+              "Rick James",
+              "You and I",
+              "1978",
+              "debut single",
+              "Come Get It!",
+              "Gordy Records"
+            ],
+            "fact": "'You and I' was Rick James's debut single from Come Get It! (1978) — his commercial breakthrough on Gordy Records. The song reached #1 on the R&B chart and established James as an artist to watch before Street Songs made him a superstar.",
+            "storyHook": "1978. The debut single. 'You and I' hit #1 R&B before most people knew Rick James's name. Street Songs was three years away.",
+            "sourceNotes": "PRIORITY VERIFY: Rick James 'You and I' debut single from Come Get It! (1978), #1 R&B. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "On this day in 1978, Rick James dropped 'You & I' – Rick James Facebook",
+                "url": "https://www.facebook.com/RickJames/posts/on-this-day-in-1978-rick-james-dropped-you-i-from-his-debut-record-come-get-it-a/121084",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R2-RES3",
+          "episodeId": "EP035",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Rick James created an all-female group — his strategic answer to Prince's Vanity 6 — called what?",
+          "choices": [
+            "Apollonia 6",
+            "En Vogue",
+            "Mary Jane Girls",
+            "Club Nouveau"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rick James",
+            "song": null,
+            "album": null,
+            "year": 1983,
+            "topicTags": [
+              "Rick James",
+              "Mary Jane Girls",
+              "Vanity 6",
+              "girl group",
+              "protégée",
+              "1983"
+            ],
+            "fact": "The Mary Jane Girls were formed by Rick James in 1983 — a direct creative and commercial response to Prince's Vanity 6. James viewed Prince's all-female group strategy as a concept he had pioneered through Teena Marie, and the Mary Jane Girls represented his attempt to compete on that specific terrain.",
+            "storyHook": "Prince had Vanity 6. Rick James built the Mary Jane Girls. The girl group was a battlefield in a rivalry neither man publicly acknowledged in those terms.",
+            "sourceNotes": "PRIORITY VERIFY: Mary Jane Girls formed by Rick James (1983), strategic comparison to Prince's Vanity 6. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rick James and the Mary Jane Girls back in June 1983 – Facebook",
+                "url": "https://www.facebook.com/RickJames/posts/rick-james-and-the-mary-jane-girls-back-in-june-1983-getty-images/1271542924335322/",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Birth names. Hidden connections. The facts that reframe everything.",
+      "color": "#FF6B6B",
+      "accentVar": "--coral",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP035-R3-Q1",
+          "episodeId": "EP035",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Rick James — the 'Punk-Funk' pioneer — was born under which full legal name?",
+          "choices": [
+            "James Edward Burns Jr.",
+            "Robert Lee Johnson Jr.",
+            "Richard James Mathews Jr.",
+            "James Ambrose Johnson Jr."
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rick James",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Rick James",
+              "James Ambrose Johnson Jr.",
+              "birth name",
+              "biography",
+              "Buffalo"
+            ],
+            "fact": "Rick James was born James Ambrose Johnson Jr. on February 1, 1948, in Buffalo, New York. The stage name 'Rick James' — which he adopted early in his career — bore no obvious relationship to his birth name, making it one of the more complete identity reconstructions in R&B history.",
+            "storyHook": "James Ambrose Johnson Jr. became Rick James. Nothing in the birth name hinted at what was coming.",
+            "sourceNotes": "PRIORITY VERIFY: Rick James born James Ambrose Johnson Jr. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rick James – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rick_James",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R3-Q2",
+          "episodeId": "EP035",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Before their respective solo fame, Rick James and which rock legend were both members of the 1960s Toronto band The Mynah Birds?",
+          "choices": [
+            "Neil Young",
+            "Stevie Nicks",
+            "Jimi Hendrix",
+            "David Bowie"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rick James",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Rick James",
+              "Neil Young",
+              "The Mynah Birds",
+              "Toronto",
+              "1960s",
+              "biography",
+              "pre-fame"
+            ],
+            "fact": "Before either man was famous, Rick James and Neil Young were both members of The Mynah Birds — a Motown-signed R&B band based in Toronto in the mid-1960s. The group also featured Bruce Palmer, who would later become a founding member of Buffalo Springfield alongside Young. The Mynah Birds never released an album during their original run, but their recordings have surfaced over subsequent decades.",
+            "storyHook": "Rick James. Neil Young. Same band. Toronto. 1960s. The most unlikely pairing in pre-fame history — and neither man became famous for anything they did together.",
+            "sourceNotes": "Verified: Rick James and Neil Young were both members of The Mynah Birds (Toronto, 1960s), Motown-signed. Sources: Wikipedia https://en.wikipedia.org/wiki/The_Mynah_Birds, Afropunk https://afropunk.com/2014/08/feature-the-strange-history-of-the-mynah-birds-the-lost-rb-supergroup-ft-rick-james-and-neil-young-soundcheck/, OpenCulture https://www.openculture.com/2021/06/when-neil-young-rick-super-freak-james-formed-the-60s-motown-band-the-mynah-birds.html",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Mynah Birds – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Mynah_Birds",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "The Strange History of The Mynah Birds – Afropunk",
+                "url": "https://afropunk.com/2014/08/feature-the-strange-history-of-the-mynah-birds-the-lost-rb-supergroup-ft-rick-james-and-neil-young-soundcheck/",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "When Neil Young and Rick James Formed The Mynah Birds – OpenCulture",
+                "url": "https://www.openculture.com/2021/06/when-neil-young-rick-super-freak-james-formed-the-60s-motown-band-the-mynah-birds.html",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R3-B1",
+          "episodeId": "EP035",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Sheila E. — Prince's protégée and longtime creative partner — was born under which full name?",
+          "choices": [
+            "Sheila Valentina Escovedo",
+            "Sheila Renee Escovedo",
+            "Sheila Marie Escovedo",
+            "Sheila Cecelia Escovedo"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "8",
+            "bonusHint": "DIGIT 3 OF 3 — THE ERA AT ITS HEIGHT"
+          },
+          "metadata": {
+            "artist": "Sheila E.",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Sheila E.",
+              "Sheila Cecelia Escovedo",
+              "birth name",
+              "biography",
+              "Pete Escovedo",
+              "Prince"
+            ],
+            "fact": "Sheila E. was born Sheila Cecelia Escovedo on April 12, 1957, in Oakland, California — the daughter of Latin jazz percussionist Pete Escovedo. Prince wrote and produced her breakthrough single 'The Glamorous Life' (1984), launching a professional and personal partnership that defined much of both artists' mid-1980s output.",
+            "storyHook": "Sheila Cecelia Escovedo. Pete Escovedo's daughter. Prince's collaborator. Sheila E. carried three names into one career.",
+            "sourceNotes": "Verified: Sheila E. born Sheila Cecelia Escovedo. Sources: NMAAHC https://nmaahc.si.edu/latinx/sheila-e, National Today https://nationaltoday.com/birthday/sheila-e/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sheila E. – National Museum of African American History and Culture",
+                "url": "https://nmaahc.si.edu/latinx/sheila-e",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Sheila E. Birthday – National Today",
+                "url": "https://nationaltoday.com/birthday/sheila-e/",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP035-R3-RES1",
+          "episodeId": "EP035",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Teena Marie — Rick James's most celebrated protégée — was born under which name?",
+          "choices": [
+            "Christine Marie Barker",
+            "Mary Christine Brockert",
+            "Teresa Christine Morgan",
+            "Tina Maria Brockert"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Teena Marie",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Teena Marie",
+              "Mary Christine Brockert",
+              "birth name",
+              "biography",
+              "Rick James"
+            ],
+            "fact": "Teena Marie was born Mary Christine Brockert on March 5, 1956, in Santa Monica, California. The stage name 'Teena Marie' — chosen for its R&B connotations — replaced a birth name that gave no indication she would become one of the genre's most accomplished practitioners.",
+            "storyHook": "Mary Christine Brockert. Born in Santa Monica. Renamed Teena Marie by the music industry. One of R&B's most complete career reinventions.",
+            "sourceNotes": "PRIORITY VERIFY: Teena Marie born Mary Christine Brockert, Santa Monica, California. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Teena Marie | Classic Motown Artists",
+                "url": "https://classic.motown.com/artist/teena-marie/",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP035-R3-RES2",
+          "episodeId": "EP035",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "The Mary Jane Girls' biggest hit — which peaked at #3 on the Billboard R&B chart in 1985 — was titled what?",
+          "choices": [
+            "All Night Long",
+            "In My House",
+            "Candy Man",
+            "Wild and Crazy Love"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary Jane Girls",
+            "song": "In My House",
+            "album": "Only Four You",
+            "year": 1985,
+            "topicTags": [
+              "Mary Jane Girls",
+              "In My House",
+              "1985",
+              "Rick James",
+              "R&B chart",
+              "#3"
+            ],
+            "fact": "'In My House' peaked at #3 on the Billboard R&B chart in 1985 and spent 22 weeks on the chart — the Mary Jane Girls' commercial high point. Produced by Rick James, the record demonstrated that his protégée strategy could generate hits independent of his own lead-artist work.",
+            "storyHook": "#3 R&B. 22 weeks on the chart. 'In My House' was Rick James proving he could build a hit without being on it.",
+            "sourceNotes": "Verified: Mary Jane Girls 'In My House' peaked at #3 R&B, 22 weeks on chart (1985). Source: Rated R&B https://ratedrnb.com/2012/01/throwback-thursday-mary-jane-girls-in-my-house/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Throwback Thursday: Mary Jane Girls – 'In My House' – Rated R&B",
+                "url": "https://ratedrnb.com/2012/01/throwback-thursday-mary-jane-girls-in-my-house/",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-22",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-22T16:31:02.155977+00:00"
+  }
+}

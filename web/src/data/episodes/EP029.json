@@ -1,0 +1,1529 @@
+{
+  "episodeId": "EP029",
+  "title": "International Waters",
+  "theme": "R&B's global dimension — the UK, Canada, France, and beyond. The artists who crossed the Atlantic in both directions and made the genre a worldwide language.",
+  "narrativePurpose": "Test knowledge of the international artists who shaped R&B from outside the United States — from British soul pioneers to Canadian crossover acts and French neo-soul sisters.",
+  "toneProgression": "The crossover hits that traveled worldwide → the deeper catalog and origin stories that real fans know → the debut singles, birth cities, and co-writing credits that only the devoted remember",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-8-4 — the year Diamond Life launched Sade internationally, and Loose Ends released their debut. The code is the founding year of this episode's story."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "roster": [
+    "Sade",
+    "Soul II Soul",
+    "Craig David",
+    "Loose Ends",
+    "Lisa Stansfield",
+    "Deborah Cox",
+    "Tamia",
+    "Marsha Ambrosius / Floetry",
+    "Estelle",
+    "Melanie Fiona",
+    "Les Nubians"
+  ],
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The songs and names that crossed every border. These artists were on every continent's radio — start here.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP029-R1-Q1",
+          "episodeId": "EP029",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Sade's debut album — which reached #2 on the UK Albums Chart and launched her international career in 1984 — was titled what?",
+          "choices": [
+            "Diamond Life",
+            "Promise",
+            "Stronger Than Pride",
+            "Love Deluxe"
+          ],
+          "correctIndex": 0,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sade",
+            "song": null,
+            "album": "Diamond Life",
+            "year": 1984,
+            "topicTags": [
+              "Sade",
+              "Diamond Life",
+              "debut album",
+              "1984",
+              "UK",
+              "international",
+              "Epic Records"
+            ],
+            "fact": "'Diamond Life' was released on July 16, 1984, on Epic Records. It reached #2 on the UK Albums Chart and sold over six million copies worldwide, introducing Sade Adu's signature blend of jazz, soul, and quiet storm R&B to a global audience. The album produced three UK hit singles: 'Your Love Is King,' 'When Am I Going to Make a Living,' and 'Smooth Operator.'",
+            "storyHook": "A debut album that arrived fully formed. No rough edges, no learning curve. 'Diamond Life' in 1984 sounded like the work of someone who had been doing it for decades. She had not.",
+            "sourceNotes": "Diamond Life liner notes (Epic Records, 1984). UK Albums Chart records. Billboard international chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/album/diamond-life-mw0000191707",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R1-Q2",
+          "episodeId": "EP029",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Soul II Soul's 'Back to Life (However Do You Want Me)' — one of the defining UK R&B records of 1989 — featured which vocalist?",
+          "choices": [
+            "Caron Wheeler",
+            "Anita Baker",
+            "Beverly Knight",
+            "Des'ree"
+          ],
+          "correctIndex": 0,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Soul II Soul",
+            "song": "Back to Life (However Do You Want Me)",
+            "album": "Club Classics Vol. One",
+            "year": 1989,
+            "topicTags": [
+              "Soul II Soul",
+              "Back to Life",
+              "Caron Wheeler",
+              "1989",
+              "UK R&B",
+              "Jazzie B",
+              "Grammy"
+            ],
+            "fact": "Caron Wheeler was the featured vocalist on 'Back to Life (However Do You Want Me)' — Soul II Soul's landmark 1989 single that reached #1 on the UK Singles Chart and became an international crossover hit. Wheeler had previously been a member of the UK vocal group Brown Sugar. The track won the Grammy Award for Best R&B Performance by a Duo or Group with Vocal in 1990.",
+            "storyHook": "Jazzie B built a sound system collective in North London. That collective became Soul II Soul. That collective made 'Back to Life.' And Caron Wheeler's voice made it timeless.",
+            "sourceNotes": "Club Classics Vol. One liner notes (Virgin Records, 1989). UK Singles Chart archives. Grammy Award records (32nd ceremony, 1990).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/release/1032380-Soul-II-Soul-Back-To-Life",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R1-Q3",
+          "episodeId": "EP029",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Craig David's debut single 'Fill Me In' — which debuted at #1 in the UK in 2000 — appeared on which debut album?",
+          "choices": [
+            "Born to Do It",
+            "The Story Goes",
+            "Trust Me",
+            "Slicker Than Your Average"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Craig David",
+            "song": "Fill Me In",
+            "album": "Born to Do It",
+            "year": 2000,
+            "topicTags": [
+              "Craig David",
+              "Fill Me In",
+              "Born to Do It",
+              "2000",
+              "UK R&B",
+              "debut album"
+            ],
+            "fact": "'Fill Me In' appeared on Craig David's debut album 'Born to Do It,' released in August 2000. The album debuted at #1 in the UK and became the fastest-selling debut album in UK chart history at the time. It sold over 8 million copies worldwide.",
+            "storyHook": "Born to Do It arrived in 2000 and immediately set a record. Craig David's debut was not a slow build — it landed at the top and stayed.",
+            "sourceNotes": "UK Singles Chart archives (March 2000). Craig David official discography. Born to Do It press materials (Wildstar/Atlantic Records, 2000).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/77799-Craig-David-Fill-Me-In",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R1-Q4",
+          "episodeId": "EP029",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Loose Ends — pioneers of British R&B — were built around which singer, songwriter, and producer?",
+          "choices": [
+            "Junior Giscombe",
+            "Carl McIntosh",
+            "Maxi Priest",
+            "Don Blackman"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Loose Ends",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Loose Ends",
+              "Carl McIntosh",
+              "British R&B",
+              "UK soul",
+              "1980s",
+              "Jane Eugene"
+            ],
+            "fact": "Carl McIntosh was the founding creative force of Loose Ends — a British R&B trio that also included vocalist Jane Eugene and musician Steve Nichol. McIntosh wrote, produced, and performed across the group's catalog throughout the 1980s and into the 1990s, helping establish the UK's own distinct R&B identity before American commercial dominance of the genre fully took hold.",
+            "storyHook": "Before UK garage. Before grime. Before the streaming-era British R&B wave. Loose Ends were doing it in the 1980s, and Carl McIntosh was the architect.",
+            "sourceNotes": "Loose Ends official discography. Carl McIntosh biographical records. Virgin Records UK press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/artist/carl-mcintosh-mn0000791871",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R1-Q5",
+          "episodeId": "EP029",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Canadian R&B artist Tamia is married to which NBA Hall of Famer?",
+          "choices": [
+            "Allan Houston",
+            "Grant Hill",
+            "Gary Payton",
+            "Vince Carter"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tamia",
+            "song": null,
+            "album": null,
+            "year": 1999,
+            "topicTags": [
+              "Tamia",
+              "Grant Hill",
+              "NBA",
+              "married",
+              "Canada",
+              "Detroit Pistons",
+              "Hall of Fame"
+            ],
+            "fact": "Tamia Washington married NBA star Grant Hill in July 1999 — Hill was then playing for the Detroit Pistons and was one of the most recognizable players in the league. Hill was later inducted into the Naismith Memorial Basketball Hall of Fame in 2018. The marriage drew significant coverage at the crossover of sports and entertainment media.",
+            "storyHook": "One of the NBA's most recognizable players. One of Canada's most celebrated R&B voices. The 1999 wedding was equally a sports story and an entertainment story — and remains so.",
+            "sourceNotes": "Tamia official biographical records. Grant Hill NBA career documentation. Naismith Memorial Basketball Hall of Fame induction records (2018).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tamia",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R1-Q6",
+          "episodeId": "EP029",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Lisa Stansfield's breakthrough single 'All Around the World' — which reached #1 in the UK and crossed into the US Top 10 — appeared on which debut album?",
+          "choices": [
+            "Face Up",
+            "Real Love",
+            "Affection",
+            "So Natural"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lisa Stansfield",
+            "song": "All Around the World",
+            "album": "Affection",
+            "year": 1989,
+            "topicTags": [
+              "Lisa Stansfield",
+              "All Around the World",
+              "Affection",
+              "1989",
+              "UK soul",
+              "debut album"
+            ],
+            "fact": "'All Around the World' appeared on Lisa Stansfield's debut album 'Affection,' released in October 1989 on Arista Records. The album reached #2 in the UK and spawned two UK top 10 singles. Stansfield's blue-eyed soul sound made her one of the most commercially successful British R&B artists of the era.",
+            "storyHook": "Affection in 1989 introduced Lisa Stansfield to an audience that had rarely heard this combination of British pop craft and pure American soul sensibility.",
+            "sourceNotes": "UK Singles Chart archives (September 1989). Billboard Hot 100 archives. Affection liner notes (Arista Records, 1989).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/106582-Lisa-Stansfield-All-Around-The-World",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R1-B1",
+          "episodeId": "EP029",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Marsha Ambrosius was one half of the British neo-soul duo Floetry — who was her creative partner?",
+          "choices": [
+            "Mutya Buena",
+            "Terri Walker",
+            "Corinne Bailey Rae",
+            "Natalie Stewart"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — FLOETRY'S OTHER HALF"
+          },
+          "metadata": {
+            "artist": "Floetry",
+            "song": null,
+            "album": "Floetic",
+            "year": 2002,
+            "topicTags": [
+              "Floetry",
+              "Marsha Ambrosius",
+              "Natalie Stewart",
+              "neo-soul",
+              "UK",
+              "duo",
+              "DreamWorks",
+              "bonus digit"
+            ],
+            "fact": "Floetry was formed by Marsha Ambrosius and Natalie Stewart — two British women who developed their spoken word-meets-R&B approach before relocating to Philadelphia, where they were signed to DreamWorks Records. Stewart handled the spoken word element as 'the Floacist' while Ambrosius sang as 'the Songstress.' Their debut album 'Floetic' was released in 2002.",
+            "storyHook": "Two British women. A spoken word and song framework built over years. A move to Philadelphia. A DreamWorks deal. Floetry in 2002 arrived fully formed, by design.",
+            "sourceNotes": "Floetic liner notes (DreamWorks Records, 2002). Floetry official biographical records. Rolling Stone and NME biographical profiles.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/artist/natalie-stewart-mn0000530030",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP029-R1-RES1",
+          "episodeId": "EP029",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Deborah Cox's 1999 duet 'We Can't Be Friends' — her third single from the album One Wish — featured which R&B vocalist?",
+          "choices": [
+            "Case",
+            "R. Kelly",
+            "RL",
+            "Tyrese"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Deborah Cox",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Deborah Cox",
+              "Toronto",
+              "Canada",
+              "Canadian R&B",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Deborah Cox official biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/release/1408843-Deborah-Cox-Duet-With-RL-We-Cant-Be-Friends",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R1-RES2",
+          "episodeId": "EP029",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Soul II Soul was founded by which UK DJ and music producer — the architect of the group's signature sound?",
+          "choices": [
+            "Goldie",
+            "Jazzie B",
+            "Tim Westwood",
+            "Norman Jay"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Soul II Soul",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Soul II Soul",
+              "Jazzie B",
+              "Beresford Romeo",
+              "UK R&B",
+              "sound system",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Soul II Soul official biographical records. Club Classics Vol. One press materials (Virgin Records, 1989).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/artist/soul-ii-soul-mn0000035076",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R1-RES3",
+          "episodeId": "EP029",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Craig David — who became the youngest British solo male artist to write and sing a UK number one — was born in which year?",
+          "choices": [
+            "1979",
+            "1982",
+            "1981",
+            "1980"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Craig David",
+            "song": "Fill Me In",
+            "album": "Born to Do It",
+            "year": 2000,
+            "topicTags": [
+              "Craig David",
+              "Fill Me In",
+              "youngest",
+              "UK chart",
+              "number one",
+              "age 18",
+              "2000"
+            ],
+            "fact": "Craig David was born on January 5, 1981 — making him 18 years old when 'Fill Me In' debuted at #1 in 2000, setting the record as the youngest British solo male to write and sing a UK number one. The birth year underpins the record.",
+            "storyHook": "Eighteen years old. Number one. The youngest solo male to do it. Craig David didn't ease into the charts — he took the top spot immediately.",
+            "sourceNotes": "Verified: Craig David born January 5, 1981. Sources: Discogs https://www.discogs.com/artist/12626-Craig-David, Instagram https://www.instagram.com/p/DW63cW_EUpP/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs — Craig David",
+                "url": "https://www.discogs.com/artist/12626-Craig-David",
+                "accessed": "2026-05-16"
+              },
+              {
+                "title": "Instagram",
+                "url": "https://www.instagram.com/p/DW63cW_EUpP/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R1-RES4",
+          "episodeId": "EP029",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Tamia — the Canadian R&B singer known for 'Stranger in My House' — made her first major recording appearance on which 1995 Quincy Jones album, before launching her solo career?",
+          "choices": [
+            "This Is How I Feel",
+            "Back on the Block",
+            "Playlist",
+            "Q's Jook Joint"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tamia",
+            "song": "Stranger in My House",
+            "album": null,
+            "year": 2001,
+            "topicTags": [
+              "Tamia",
+              "Q's Jook Joint",
+              "Quincy Jones",
+              "1995",
+              "debut",
+              "Canadian R&B",
+              "swap reserve"
+            ],
+            "fact": "Tamia Hill — known professionally as Tamia — was signed to Elektra Records, releasing her self-titled debut in 1998 and subsequent albums including 'A Nu Day' (2000) and 'More' (2004) through the label. 'Stranger in My House' became one of her signature tracks during this period.",
+            "storyHook": "Elektra Records housed one of Canada's most underrated R&B voices. Tamia's output under the label was consistently strong — the charts just didn't always reflect it.",
+            "sourceNotes": "Q's Jook Joint album records (Warner Bros., 1995). Tamia biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/146181-Tamia-Stranger-In-My-House",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Debut albums, creative partnerships, chart records, and origin stories. This is where real fans separate from casual listeners.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP029-R2-Q1",
+          "episodeId": "EP029",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Loose Ends' signature single 'Hangin' on a String (Contemplating)' — which crossed over to the US R&B chart — was released in which year?",
+          "choices": [
+            "1983",
+            "1985",
+            "1987",
+            "1989"
+          ],
+          "correctIndex": 1,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Loose Ends",
+            "song": "Hangin' on a String (Contemplating)",
+            "album": null,
+            "year": 1985,
+            "topicTags": [
+              "Loose Ends",
+              "Hangin' on a String",
+              "1985",
+              "British R&B",
+              "Carl McIntosh",
+              "UK soul",
+              "US R&B chart"
+            ],
+            "fact": "'Hangin' on a String (Contemplating)' was released in 1985 and became Loose Ends' signature track — placing them simultaneously in the UK soul market and the American R&B chart, a rare crossover achievement for a British act at the time. The track remains one of the most sampled and referenced records from British R&B's early era.",
+            "storyHook": "A British R&B group crossing into the American R&B chart in 1985 was not common. Loose Ends did it. 'Hangin' on a String' was the record that opened that door.",
+            "sourceNotes": "Loose Ends official discography. UK Singles Chart archives. Billboard Hot R&B chart archives (1985).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/97492-Loose-Ends-Hangin-On-A-String-Contemplating-Extended-Dance-Mix",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R2-Q2",
+          "episodeId": "EP029",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Floetry — the British neo-soul duo behind 'Floetic' — hailed from which UK city, where Marsha Ambrosius and Natalie Stewart first met?",
+          "choices": [
+            "London",
+            "Leeds",
+            "Manchester",
+            "Birmingham"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Floetry",
+            "song": null,
+            "album": "Floetic",
+            "year": 2002,
+            "topicTags": [
+              "Floetry",
+              "Marsha Ambrosius",
+              "Natalie Stewart",
+              "Birmingham",
+              "UK R&B",
+              "neo-soul"
+            ],
+            "fact": "Marsha Ambrosius and Natalie Stewart first met in Birmingham, UK, before relocating to London and eventually the United States to pursue their music career. Floetry's debut album 'Floetic' was released on DreamWorks Records in 2002 and brought their blend of spoken word and soul to an international audience.",
+            "storyHook": "They met in Birmingham, built the sound in London, and broke through in America. Floetry's journey to 'Floetic' crossed every geography that mattered.",
+            "sourceNotes": "Floetic liner notes (DreamWorks Records, 2002). Billboard chart archives. Grammy nomination records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/song/floetic-mt0005111678",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R2-Q3",
+          "episodeId": "EP029",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Les Nubians — the French-Cameroonian sisters behind 'Princesses Nubiennes' — grew up in which French city before moving to Paris to launch their career?",
+          "choices": [
+            "Strasbourg",
+            "Bordeaux",
+            "Lyon",
+            "Marseille"
+          ],
+          "correctIndex": 1,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Les Nubians",
+            "song": null,
+            "album": "Princesses Nubiennes",
+            "year": 1998,
+            "topicTags": [
+              "Les Nubians",
+              "Princesses Nubiennes",
+              "Bordeaux",
+              "French R&B",
+              "neo-soul",
+              "Francophone"
+            ],
+            "fact": "Célia and Hélène Faussart — who perform as Les Nubians — grew up in the Bordeaux region of France, where they were raised by their French mother and Cameroonian father. They later moved to Paris before launching their music career internationally. 'Princesses Nubiennes' (1998) became a landmark record in Francophone soul and neo-soul.",
+            "storyHook": "From Bordeaux to Paris to international neo-soul. Les Nubians made the journey look effortless — and 'Princesses Nubiennes' made it sound inevitable.",
+            "sourceNotes": "Princesses Nubiennes liner notes (Triloka/Artemis Records, 1998). Billboard World Music chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/album/princesses-nubiennes-mw0000042775",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R2-Q4",
+          "episodeId": "EP029",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Estelle's Grammy-winning collaboration 'American Boy' — featuring Kanye West — appeared on which 2008 album?",
+          "choices": [
+            "True Romance",
+            "Shine",
+            "Love & Happiness",
+            "All of Me"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Estelle",
+            "song": "American Boy",
+            "album": "Shine",
+            "year": 2008,
+            "topicTags": [
+              "Estelle",
+              "American Boy",
+              "Shine",
+              "2008",
+              "Grammy",
+              "UK R&B",
+              "Kanye West"
+            ],
+            "fact": "'American Boy' appeared on Estelle's second studio album 'Shine,' released on April 1, 2008, on Atlantic Records. The song won the Grammy Award for Best Rap/Sung Collaboration at the 51st Grammy Awards in 2009. 'Shine' reached #4 on the UK Albums Chart and was Estelle's commercial breakthrough internationally.",
+            "storyHook": "Shine was the album. 'American Boy' was the moment. Estelle crossed from British R&B credibility to Grammy-winning international recognition in a single track.",
+            "sourceNotes": "Shine liner notes (Atlantic Records, 2008). Grammy Award records (51st ceremony, 2009). Billboard Hot 100 archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Grammy.com",
+                "url": "https://www.grammy.com/awards/51st-annual-grammy-awards",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R2-Q5",
+          "episodeId": "EP029",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Melanie Fiona's debut album 'The Bridge' — which established the Toronto-born singer as a significant voice in contemporary R&B — was released in which year?",
+          "choices": [
+            "2005",
+            "2011",
+            "2007",
+            "2009"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Melanie Fiona",
+            "song": null,
+            "album": "The Bridge",
+            "year": 2009,
+            "topicTags": [
+              "Melanie Fiona",
+              "The Bridge",
+              "2009",
+              "Canada",
+              "Toronto",
+              "Guyanese",
+              "R&B"
+            ],
+            "fact": "'The Bridge' was released in 2009 and earned Melanie Fiona Grammy nominations. Born in Toronto of Guyanese descent, Fiona brought a classic soul sensibility to contemporary R&B — a combination that earned consistent critical praise. The album produced the single 'Give It to Me Right' and established her as one of Canada's most acclaimed R&B exports of the era.",
+            "storyHook": "Toronto-born. Guyanese heritage. A debut album in 2009 that sounded like it belonged in a classic soul catalog. Melanie Fiona arrived with something most debut albums don't have: a fully realised point of view.",
+            "sourceNotes": "The Bridge liner notes (2009). Grammy nomination records. Billboard chart archives. Melanie Fiona official discography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/album/the-bridge-mw0000823503",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R2-B1",
+          "episodeId": "EP029",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Soul II Soul's debut album — featuring both 'Back to Life' and 'Keep On Movin'' — was released under which title?",
+          "choices": [
+            "Keep on Movin'",
+            "Jazzie's Groove",
+            "Club Classics Vol. One",
+            "Soul Power Vol. One"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — SOUL II SOUL'S DEBUT ALBUM TITLE"
+          },
+          "metadata": {
+            "artist": "Soul II Soul",
+            "song": null,
+            "album": "Club Classics Vol. One",
+            "year": 1989,
+            "topicTags": [
+              "Soul II Soul",
+              "Club Classics Vol. One",
+              "debut album",
+              "1989",
+              "Virgin Records",
+              "Jazzie B",
+              "bonus digit"
+            ],
+            "fact": "'Club Classics Vol. One' was released in May 1989 on Virgin Records and reached #1 on the UK Albums Chart — one of the most significant British R&B albums of the decade. The title referenced Soul II Soul's roots as a sound system and club collective: the album was literally a set of club-ready tracks made permanent. It won the Grammy for Best R&B Performance by a Duo or Group with Vocal in 1990.",
+            "storyHook": "The album was called 'Club Classics Vol. One' because that's exactly what it was. Classics from the club, captured on record. The Grammy in 1990 confirmed the rest of the world had caught up.",
+            "sourceNotes": "Club Classics Vol. One liner notes (Virgin Records, 1989). UK Albums Chart archives. Grammy Award records (32nd ceremony, 1990).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/79393-Soul-II-Soul-Club-Classics-Vol-One",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP029-R2-RES1",
+          "episodeId": "EP029",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Estelle's debut album — released before her breakthrough with 'American Boy' — was titled what?",
+          "choices": [
+            "Shine",
+            "Creole",
+            "The 18th Day",
+            "All of Me"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Estelle",
+            "song": null,
+            "album": "The 18th Day",
+            "year": 2004,
+            "topicTags": [
+              "Estelle",
+              "The 18th Day",
+              "debut album",
+              "2004",
+              "UK",
+              "V2 Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "The 18th Day liner notes (V2 Records, 2004). Estelle official discography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/250027-Estelle-The-18th-Day",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R2-RES2",
+          "episodeId": "EP029",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Craig David is originally from which UK city?",
+          "choices": [
+            "Manchester",
+            "Southampton",
+            "Birmingham",
+            "Bristol"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Craig David",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Craig David",
+              "Southampton",
+              "UK",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Craig David official biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Craig_David",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R2-RES3",
+          "episodeId": "EP029",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Canadian R&B artist Melanie Fiona is of which Caribbean descent?",
+          "choices": [
+            "Guyanese",
+            "Jamaican",
+            "Trinidadian",
+            "Barbadian"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Melanie Fiona",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Melanie Fiona",
+              "Guyanese",
+              "Caribbean",
+              "Canada",
+              "Toronto",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Melanie Fiona official biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/artist/melanie-fiona-mn0001038956",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Debut singles, birth cities, co-writing credits, and the facts that separate the devoted from everyone else.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP029-R3-Q1",
+          "episodeId": "EP029",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Sade's debut single — the very first release from 'Diamond Life' in early 1984 — was titled what?",
+          "choices": [
+            "Hang On to Your Love",
+            "Smooth Operator",
+            "Your Love Is King",
+            "The Sweetest Taboo"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sade",
+            "song": "Your Love Is King",
+            "album": "Diamond Life",
+            "year": 1984,
+            "topicTags": [
+              "Sade",
+              "Your Love Is King",
+              "debut single",
+              "1984",
+              "Diamond Life",
+              "Epic Records",
+              "UK #6"
+            ],
+            "fact": "'Your Love Is King' was released in February 1984 as Sade's debut single, reaching #6 on the UK Singles Chart. 'Smooth Operator' — which had a larger international impact — came later in the album cycle. Most people associate Sade's arrival with 'Smooth Operator'; the actual first release was quieter, and earlier.",
+            "storyHook": "Most people think of 'Smooth Operator' as the beginning. It was not. 'Your Love Is King' arrived in February 1984 and went to #6 in the UK. The debut was quieter. What came after was global.",
+            "sourceNotes": "UK Singles Chart archives (February 1984). Diamond Life liner notes (Epic Records, 1984). Epic Records release chronology.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs",
+                "url": "https://www.discogs.com/master/110926-Sade-Your-Love-Is-King",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "track",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R3-Q2",
+          "episodeId": "EP029",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Lisa Stansfield's 'All Around the World' was co-written alongside Stansfield by which two collaborators — all three of whom had also been members of the group Blue Zone?",
+          "choices": [
+            "Ian Devaney and Andy Morris",
+            "Tim Lever and Mike Percy",
+            "Jimmy Jam and Terry Lewis",
+            "Babyface and Kenny Edmonds"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lisa Stansfield",
+            "song": "All Around the World",
+            "album": "Affection",
+            "year": 1989,
+            "topicTags": [
+              "Lisa Stansfield",
+              "All Around the World",
+              "Ian Devaney",
+              "Andy Morris",
+              "Blue Zone",
+              "co-writers",
+              "Affection"
+            ],
+            "fact": "'All Around the World' was co-written by Lisa Stansfield, Ian Devaney, and Andy Morris — the same three who had formed the group Blue Zone and released music under that name before Stansfield's transition to a solo career. The Blue Zone-to-Stansfield creative partnership continued throughout 'Affection' and subsequent albums.",
+            "storyHook": "Blue Zone never broke through. But the three people inside it — Stansfield, Devaney, Morris — wrote 'All Around the World' together, and that song went to #1 in the UK and #3 in the US. The group name changed. The partnership did not.",
+            "sourceNotes": "Affection liner notes (Arista Records, 1989). Blue Zone discography records. Lisa Stansfield official biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "AllMusic",
+                "url": "https://www.allmusic.com/artist/lisa-stansfield-mn0000302106",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R3-B1",
+          "episodeId": "EP029",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Les Nubians' breakthrough album 'Princesses Nubiennes' (1998) was sung almost entirely in which language?",
+          "choices": [
+            "English",
+            "Cameroonian Pidgin",
+            "Lingala",
+            "French"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "8",
+            "bonusHint": "DIGIT 3 OF 3 — LES NUBIANS' CITY OF BIRTH"
+          },
+          "metadata": {
+            "artist": "Les Nubians",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Les Nubians",
+              "Princesses Nubiennes",
+              "French",
+              "language",
+              "1998",
+              "Francophone"
+            ],
+            "fact": "'Princesses Nubiennes' (1998) was sung almost entirely in French — the only exception is 'Sugarcane,' which was recorded in English. The deliberate Francophone identity set Les Nubians apart in the English-dominated R&B market and proved commercially viable internationally.",
+            "storyHook": "French. In an English-dominated genre. On an international market. Les Nubians made it work anyway.",
+            "sourceNotes": "Verified: 'Princesses Nubiennes' sung almost entirely in French; only 'Sugarcane' in English. Source: CNN https://www.cnn.com/SHOWBIZ/Music/9905/10/les.nubians/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "CNN",
+                "url": "https://www.cnn.com/SHOWBIZ/Music/9905/10/les.nubians/",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP029-R3-RES1",
+          "episodeId": "EP029",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1950s",
+          "question": "Sade's debut album 'Diamond Life' (1984) was produced by which British record producer and studio owner?",
+          "choices": [
+            "Pete Waterman",
+            "Robin Millar",
+            "Trevor Horn",
+            "Steve Hillage"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sade",
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "Sade",
+              "Diamond Life",
+              "Robin Millar",
+              "producer",
+              "1984"
+            ],
+            "fact": "Robin Millar produced Sade's debut album 'Diamond Life' (1984) at his Power Plant studio in London. Millar — who is blind — developed a warm, understated production style that suited Sade's jazz-inflected R&B perfectly. The album sold over six million copies worldwide.",
+            "storyHook": "A blind producer in a London studio. A debut album. Six million copies. Robin Millar made 'Diamond Life' sound like nothing else in 1984.",
+            "sourceNotes": "Verified: Robin Millar produced 'Diamond Life' at Power Plant studio. Source: Discogs https://www.discogs.com/master/43936-Sade-Diamond-Life",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Discogs — Diamond Life",
+                "url": "https://www.discogs.com/master/43936-Sade-Diamond-Life",
+                "accessed": "2026-05-16"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP029-R3-RES2",
+          "episodeId": "EP029",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Corinne Bailey Rae's self-titled debut — which reached #1 in the UK in 2006 — contained which lead single that became her breakthrough hit?",
+          "choices": [
+            "Put Your Records On",
+            "Like a Star",
+            "Breathless",
+            "Till It Happens to You"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lisa Stansfield",
+            "song": null,
+            "album": "Affection",
+            "year": 1989,
+            "topicTags": [
+              "Corinne Bailey Rae",
+              "Put Your Records On",
+              "2006",
+              "UK soul",
+              "debut single",
+              "swap reserve"
+            ],
+            "fact": "'Put Your Records On' was the lead single from Corinne Bailey Rae's self-titled debut album. Released in February 2006, it reached #2 on the UK Singles Chart and #4 on the US Billboard Hot 100 — making Bailey Rae one of the most successful British R&B debuts of the mid-2000s.",
+            "storyHook": "One song. A #2 in the UK, a #4 in the US, and a debut album at #1. 'Put Your Records On' announced Corinne Bailey Rae before most people knew how to say her name.",
+            "sourceNotes": "Affection liner notes (Arista Records, 1989). Lisa Stansfield official discography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Grammy Museum",
+                "url": "https://grammymuseum.org/event/the-drop-corinne-bailey-rae/",
+                "accessed": "2026-05-13"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-12",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ]
+}

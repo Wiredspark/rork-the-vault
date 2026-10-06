@@ -1,0 +1,1541 @@
+{
+  "episodeId": "EP022",
+  "title": "The Female Reign",
+  "theme": "Mariah. Whitney. Janet. TLC. Mary. Lauryn. They ran the decade and didn't apologize for it.",
+  "narrativePurpose": "Test knowledge of the women who defined 90s and early-2000s R&B - the albums, chart records, samples, producers, and personal histories behind the genre's most dominant voices.",
+  "toneProgression": "Signature songs and albums → samples, producers, and chart records → origin stories, family connections, and etymology",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-4 - the year women didn't just compete for the top of R&B, they occupied it. TLC's CrazySexyCool and Mary J. Blige's My Life both landed within months of each other. No argument was necessary."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The albums and defining songs. If you were alive in the 90s you know all of these. The question is whether you know the details.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP022-R1-Q1",
+          "episodeId": "EP022",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Whitney Houston's defining 1992 power ballad - released from The Bodyguard soundtrack - was titled what?",
+          "choices": [
+            "I Have Nothing",
+            "I'm Every Woman",
+            "I Will Always Love You",
+            "Run to You"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "I Will Always Love You",
+            "album": "The Bodyguard (Soundtrack)",
+            "year": 1992,
+            "topicTags": [
+              "Whitney Houston",
+              "I Will Always Love You",
+              "The Bodyguard",
+              "1992",
+              "Arista Records",
+              "Dolly Parton"
+            ],
+            "fact": "'I Will Always Love You' was written and recorded by Dolly Parton in 1973 - Parton holds the sole songwriting credit and collected the publishing royalties that followed Whitney Houston's version becoming one of the best-selling singles in history. Houston's 1992 recording spent fourteen consecutive weeks at #1 on the Billboard Hot 100; she won Grammy Awards for Best Pop Vocal Performance (Female) and Record of the Year - not Songwriter of the Year. The distinction matters: Parton wrote it. Houston owned the performance.",
+            "storyHook": "Dolly Parton wrote it in 1973. Whitney Houston recorded it in 1992. Parton collected the publishing royalties. Houston won the Grammys for performing it. Both of them got exactly what they deserved from that song.",
+            "sourceNotes": "The Bodyguard official soundtrack liner notes (Arista Records, 1992). Dolly Parton ASCAP songwriting credits. Billboard Hot 100 chart archives. Grammy Award records (35th ceremony, 1993).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Will Always Love You (Whitney Houston recording) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Will_Always_Love_You_(Whitney_Houston_recording)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "I Will Always Love You - Whitney official site",
+                "url": "https://www.whitneyhouston.com/video/i-will-always-love-you-from-the-bodyguard/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R1-Q2",
+          "episodeId": "EP022",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mariah Carey's debut single - which announced her extraordinary vocal range to the world in 1990 - was titled what?",
+          "choices": [
+            "Vision of Love",
+            "Fantasy",
+            "Someday",
+            "Emotions"
+          ],
+          "correctIndex": 0,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": "Vision of Love",
+            "album": "Mariah Carey",
+            "year": 1990,
+            "topicTags": [
+              "Mariah Carey",
+              "Vision of Love",
+              "debut single",
+              "1990",
+              "Columbia Records",
+              "whistle register"
+            ],
+            "fact": "'Vision of Love' was Mariah Carey's debut single from her self-titled 1990 album - it reached #1 on the Billboard Hot 100 and introduced her five-octave vocal range, including the whistle register that would become her signature. The song was co-written by Carey herself, establishing her as a songwriter from her first release.",
+            "storyHook": "Her debut single. Her own song. Five octaves. Number one. Mariah Carey arrived at 20 with a complete identity and a vocal range that most singers never develop in a lifetime.",
+            "sourceNotes": "Mariah Carey liner notes (Columbia Records, 1990). Billboard Hot 100 chart archives. ASCAP songwriting credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Vision of Love - The Mariah Network",
+                "url": "https://www.mariahcareynetwork.com/music/singles/vol.html",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R1-Q3",
+          "episodeId": "EP022",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "TLC's 1994 album - which became the best-selling album ever by an American female group - was titled what?",
+          "choices": [
+            "3D",
+            "FanMail",
+            "Ooooooohhh... On the TLC Tip",
+            "CrazySexyCool"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": null,
+            "album": "CrazySexyCool",
+            "year": 1994,
+            "topicTags": [
+              "TLC",
+              "CrazySexyCool",
+              "1994",
+              "LaFace Records",
+              "best-selling female group album",
+              "Waterfalls"
+            ],
+            "fact": "'CrazySexyCool' was released on LaFace Records in November 1994 and eventually certified diamond - selling over ten million copies in the United States alone. It remains the best-selling album by an American female group in history, containing 'Creep,' 'Red Light Special,' and 'Waterfalls.'",
+            "storyHook": "Diamond certified. Best-selling album by an American female group in history. TLC made the record that all female groups are measured against, and nobody has matched it.",
+            "sourceNotes": "CrazySexyCool liner notes (LaFace Records, 1994). RIAA Diamond certification records. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "CrazySexyCool - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/CrazySexyCool",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Best Selling TLC Total Album: CrazySexyCool - Accio",
+                "url": "https://www.accio.com/business/best-selling-tlc-total-album",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R1-Q4",
+          "episodeId": "EP022",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mary J. Blige's debut album - which established her as the Queen of Hip-Hop Soul - was titled what?",
+          "choices": [
+            "My Life",
+            "What's the 411?",
+            "Share My World",
+            "Mary"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": null,
+            "album": "What's the 411?",
+            "year": 1992,
+            "topicTags": [
+              "Mary J. Blige",
+              "What's the 411?",
+              "debut album",
+              "1992",
+              "Uptown Records",
+              "MCA Records"
+            ],
+            "fact": "'What's the 411?' was released on Uptown/MCA Records in July 1992 - it went double platinum and introduced Mary J. Blige's fusion of hip-hop production and raw R&B emotionality. Puff Daddy co-produced the majority of the album, establishing the Bad Boy/Uptown sonic partnership that would define the early 90s New York R&B sound.",
+            "storyHook": "Hip-hop beats. R&B voice. Emotional honesty that radio wasn't fully ready for. Mary J. Blige invented a lane with her debut and named it after herself.",
+            "sourceNotes": "What's the 411? liner notes (Uptown/MCA Records, 1992). Billboard chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "What's the 411? - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/What%27s_the_411%3F",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R1-Q5",
+          "episodeId": "EP022",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The Fugees' 1996 album - which contained their landmark cover of 'Killing Me Softly' and became one of the decade's fastest-selling records - was titled what?",
+          "choices": [
+            "The Score",
+            "The Miseducation of Lauryn Hill",
+            "Blunted on Reality",
+            "The Carnival"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Fugees",
+            "song": "Killing Me Softly",
+            "album": "The Score",
+            "year": 1996,
+            "topicTags": [
+              "The Fugees",
+              "The Score",
+              "Killing Me Softly",
+              "1996",
+              "Ruffhouse/Columbia",
+              "Lauryn Hill"
+            ],
+            "fact": "'The Score' was released on Ruffhouse/Columbia Records in February 1996 and debuted at #1 on the Billboard 200 - eventually selling over seventeen million copies worldwide. Lauryn Hill's lead vocal on 'Killing Me Softly with His Song' became the album's commercial centerpiece and established her as the most commercially potent voice in the trio.",
+            "storyHook": "Seventeen million copies worldwide. A cover of a 1973 Roberta Flack song. Lauryn Hill's voice on top of everything. The Fugees made the album of the decade and called it The Score.",
+            "sourceNotes": "The Score liner notes (Ruffhouse/Columbia, 1996). Billboard 200 chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Score - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Score_(album)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R1-Q6",
+          "episodeId": "EP022",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Destiny's Child's 2001 album - which spawned 'Survivor,' 'Bootylicious,' and 'Emotion' - was titled what?",
+          "choices": [
+            "Survivor",
+            "The Writing's on the Wall",
+            "8 Days of Christmas",
+            "Destiny's Child"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": null,
+            "album": "Survivor",
+            "year": 2001,
+            "topicTags": [
+              "Destiny's Child",
+              "Survivor",
+              "2001",
+              "Columbia Records",
+              "Beyoncé",
+              "Kelly Rowland",
+              "Michelle Williams"
+            ],
+            "fact": "'Survivor' was released on Columbia Records in February 2001 and debuted at #1 on the Billboard 200 - it was the first album with the classic Beyoncé-Kelly-Michelle lineup and represented Destiny's Child at their commercial and artistic peak. The title track became an anthem of resilience that transcended its context.",
+            "storyHook": "First album with the classic lineup. First album after two members left. Debut at #1. Destiny's Child named the album after exactly what the moment required.",
+            "sourceNotes": "Survivor liner notes (Columbia Records, 2001). Billboard 200 chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Survivor (Destiny's Child album) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Survivor_(Destiny%27s_Child_album)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R1-B1",
+          "episodeId": "EP022",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Mariah Carey and Boyz II Men's 'One Sweet Day' set the all-time record for longest #1 run on the Billboard Hot 100 - spending how many consecutive weeks at the top?",
+          "choices": [
+            "14",
+            "12",
+            "16",
+            "18"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 - WEEKS ONE SWEET DAY SPENT AT NUMBER ONE"
+          },
+          "metadata": {
+            "artist": "Mariah Carey & Boyz II Men",
+            "song": "One Sweet Day",
+            "album": "Daydream",
+            "year": 1995,
+            "topicTags": [
+              "Mariah Carey",
+              "Boyz II Men",
+              "One Sweet Day",
+              "16 weeks",
+              "Billboard Hot 100",
+              "chart record",
+              "bonus digit"
+            ],
+            "fact": "'One Sweet Day' spent sixteen consecutive weeks at #1 on the Billboard Hot 100 - setting an all-time record that stood for over two decades. It came from Mariah Carey's album 'Daydream,' which received six Grammy nominations at the 1996 ceremony and won zero. The most commercially dominant album of the year walked out of the Grammys empty-handed. The record stood. The snub is remembered alongside it.",
+            "storyHook": "Sixteen weeks at #1. Six Grammy nominations. Zero wins. Daydream was the best-selling album of 1995 and one of the most decorated commercial achievements in pop history - and the Grammys gave it nothing. The chart record and the Grammy shutout are now permanently linked.",
+            "sourceNotes": "Billboard Hot 100 chart archives (1995-1996). Daydream Columbia Records press materials. 38th Grammy Award records (1996) - nominations and winners documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Boyz II Men's 'One Sweet Day' Made Billboard History 30 Years Ago - Yahoo",
+                "url": "https://www.yahoo.com/entertainment/music/articles/boyz-ii-mens-one-sweet-200713635.html",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP022-R1-RES1",
+          "episodeId": "EP022",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Janet Jackson - like her famous brothers - was born and raised in which small Indiana city?",
+          "choices": [
+            "Fort Wayne",
+            "Indianapolis",
+            "South Bend",
+            "Gary"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Janet Jackson",
+              "Gary",
+              "Indiana",
+              "birthplace",
+              "Jackson family",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Janet Jackson official biography. Jackson family documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Janet Jackson - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Janet_Jackson",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R1-RES2",
+          "episodeId": "EP022",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Whitney Houston won her first Grammy for Best Female Pop Vocal Performance in 1986 - the award was for which 1985 hit ballad?",
+          "choices": [
+            "Saving All My Love for You",
+            "Didn't We Almost Have It All",
+            "Greatest Love of All",
+            "I Wanna Dance with Somebody"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "Saving All My Love for You",
+            "album": "Whitney Houston",
+            "year": 1985,
+            "topicTags": [
+              "Whitney Houston",
+              "Saving All My Love for You",
+              "Grammy",
+              "Best Female Pop Vocal Performance",
+              "debut single",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "28th Grammy Award records (1986). Whitney Houston liner notes (Arista Records, 1985).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Whitney Houston's 'Saving All My Love For You' GRAMMY Performance 1986 - Whitney official site",
+                "url": "https://www.whitneyhouston.com/news/whitney-houstons-saving-all-my-love-for-you-grammy-performance-in-1986/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R1-RES3",
+          "episodeId": "EP022",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Destiny's Child's 'Independent Women Part I' - from their Survivor album - appeared on the soundtrack of which 2000 action film?",
+          "choices": [
+            "Crouching Tiger Hidden Dragon",
+            "Charlie's Angels",
+            "Lara Croft: Tomb Raider",
+            "Girlfight"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": "Independent Women Part I",
+            "album": "Survivor",
+            "year": 2000,
+            "topicTags": [
+              "Destiny's Child",
+              "Independent Women Part I",
+              "Charlie's Angels",
+              "soundtrack",
+              "2000",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Charlie's Angels official soundtrack (Columbia Records, 2000). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Independent Women Part I - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Independent_Women_Part_I",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R1-RES4",
+          "episodeId": "EP022",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "TLC's T-Boz - the group's smoky-voiced lead vocalist - has what birth name?",
+          "choices": [
+            "Crystal Jones",
+            "Lisa Lopes",
+            "Rozonda Thomas",
+            "Tionne Watkins"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "TLC",
+              "T-Boz",
+              "Tionne Watkins",
+              "birth name",
+              "stage name",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "TLC official biography. LaFace Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tionne 'T-Boz' Watkins - Biography.com",
+                "url": "https://www.biography.com/musicians/tionne-watkins",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Samples, producers, chart stats, and the industry machinery behind the Female Reign.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP022-R2-Q1",
+          "episodeId": "EP022",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "En Vogue's 1992 breakthrough album - which contained 'My Lovin' (You're Never Gonna Get It)' and cemented their status as the defining girl group of the era - was titled what?",
+          "choices": [
+            "Soul Flower",
+            "Born to Sing",
+            "EV3",
+            "Funky Divas"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "En Vogue",
+            "song": "My Lovin' (You're Never Gonna Get It)",
+            "album": "Funky Divas",
+            "year": 1992,
+            "topicTags": [
+              "En Vogue",
+              "Funky Divas",
+              "My Lovin'",
+              "1992",
+              "EastWest Records",
+              "girl group"
+            ],
+            "fact": "'Funky Divas' was released on EastWest Records in March 1992 and eventually certified triple platinum - 'My Lovin' (You're Never Gonna Get It)' reached #2 on the Billboard Hot 100 and became the defining En Vogue performance of the decade. The album established the four-part harmony template that defined early-90s girl group R&B.",
+            "storyHook": "Four voices. One album. A four-part harmony that every girl group in the decade tried and failed to replicate. En Vogue made 'Funky Divas' in 1992 and spent the rest of the decade watching other groups attempt the same thing.",
+            "sourceNotes": "Funky Divas liner notes (EastWest Records, 1992). Billboard Hot 100 chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Funky Divas - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Funky_Divas",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R2-Q2",
+          "episodeId": "EP022",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "TLC's Chilli - the group's choreographer and co-lead vocalist - has what birth name?",
+          "choices": [
+            "Tionne Watkins",
+            "Rozonda Thomas",
+            "Crystal Jones",
+            "Tameka Foster"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "TLC",
+              "Chilli",
+              "Rozonda Thomas",
+              "birth name",
+              "stage name"
+            ],
+            "fact": "Chilli's birth name is Rozonda Ocielian Thomas - she was born February 27, 1971, in Columbus, Georgia. Her stage name 'Chilli' contributed the 'C' to the TLC acronym alongside T-Boz and Left Eye.",
+            "storyHook": "T-Boz. Chilli. Left Eye. Three letters, three names, three very different women. The acronym held them together. The album sales made it permanent.",
+            "sourceNotes": "TLC official biography. LaFace Records press materials. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rozonda 'Chilli' Thomas - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rozonda_Thomas",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R2-Q3",
+          "episodeId": "EP022",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Mariah Carey's 2005 commercial comeback album - which contained 'We Belong Together' and ended a three-year commercial slump - was titled what?",
+          "choices": [
+            "E=MC\u00b2",
+            "Charmbracelet",
+            "Glitter",
+            "The Emancipation of Mimi"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": "We Belong Together",
+            "album": "The Emancipation of Mimi",
+            "year": 2005,
+            "topicTags": [
+              "Mariah Carey",
+              "The Emancipation of Mimi",
+              "We Belong Together",
+              "2005",
+              "Island Records",
+              "comeback"
+            ],
+            "fact": "'The Emancipation of Mimi' was released on Island Records in April 2005 and became the best-selling album of that year in the United States - 'We Belong Together' spent fourteen weeks at #1 on the Hot 100 and won Grammy Awards for Best R&B Song and Best Female R&B Vocal Performance. The album is considered one of the greatest commercial comebacks in pop history.",
+            "storyHook": "Three years of commercial failure. One album. Best-selling of the year. 'We Belong Together' at #1 for fourteen weeks. The comeback was not gradual. It was total.",
+            "sourceNotes": "The Emancipation of Mimi liner notes (Island/Def Jam, 2005). Billboard chart archives. Grammy Award records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Emancipation of Mimi - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Emancipation_of_Mimi",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R2-Q4",
+          "episodeId": "EP022",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Destiny's Child's 'Say My Name' won which Grammy Award at the 43rd ceremony in 2001 - the group's first Grammy win?",
+          "choices": [
+            "Best R&B Album",
+            "Best New Artist",
+            "Best R&B Song",
+            "Record of the Year"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": "Say My Name",
+            "album": "The Writing's on the Wall",
+            "year": 2001,
+            "topicTags": [
+              "Destiny's Child",
+              "Say My Name",
+              "Grammy",
+              "Best R&B Song",
+              "43rd Grammy Awards",
+              "2001"
+            ],
+            "fact": "'Say My Name' won Best R&B Song at the 43rd Grammy Awards in 2001 - Destiny's Child's first Grammy win. The song's tightly constructed production and the group's interlocking harmonies had made it one of the most-discussed R&B recordings of the previous year.",
+            "storyHook": "Their first Grammy. A song about suspicion. Three voices accusing in harmony. Destiny's Child won their first award with the most precise accusation in 90s R&B.",
+            "sourceNotes": "43rd Grammy Award records (2001). Grammy.com official database. Recording Academy archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Say My Name - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Say_My_Name",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R2-Q5",
+          "episodeId": "EP022",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Mariah Carey's 1991 sophomore album - her second consecutive #1 album on the Billboard 200 - was titled what?",
+          "choices": [
+            "Daydream",
+            "Music Box",
+            "MTV Unplugged",
+            "Emotions"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": null,
+            "album": "Emotions",
+            "year": 1991,
+            "topicTags": [
+              "Mariah Carey",
+              "Emotions",
+              "1991",
+              "Columbia Records",
+              "second album",
+              "Billboard 200"
+            ],
+            "fact": "'Emotions' was released on Columbia Records in September 1991 and debuted at #4 on the Billboard 200 - producing the #1 single 'Emotions,' which showcased Mariah's upper whistle register more prominently than any previous recording. The album established her as a consistent commercial force and confirmed her self-titled debut was not a one-time event.",
+            "storyHook": "Second album. Second attempt to prove the debut wasn't luck. She debuted the single at #1 and sang notes nobody in the mainstream had attempted in years.",
+            "sourceNotes": "Emotions liner notes (Columbia Records, 1991). Billboard 200 and Hot 100 chart archives. AllMusic editorial.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Emotions (Mariah Carey album) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Emotions_(Mariah_Carey_album)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R2-B1",
+          "episodeId": "EP022",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "TLC's 'Waterfalls' was co-written by which Atlanta production collective - also known for shaping the sound of OutKast?",
+          "choices": [
+            "The Neptunes",
+            "So So Def",
+            "Hitmen",
+            "Organized Noize"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 - THE COLLECTIVE THAT CO-WROTE WATERFALLS"
+          },
+          "metadata": {
+            "artist": "TLC",
+            "song": "Waterfalls",
+            "album": "CrazySexyCool",
+            "year": 1994,
+            "topicTags": [
+              "TLC",
+              "Waterfalls",
+              "Organized Noize",
+              "Atlanta",
+              "production collective",
+              "OutKast",
+              "bonus digit"
+            ],
+            "fact": "Organized Noize - Rico Wade, Pat 'Sleepy' Brown, and Ray Murray - co-wrote 'Waterfalls' alongside Lisa 'Left Eye' Lopes. The common trap: Dallas Austin is frequently named as TLC's producer because he produced 'Creep,' 'Kick Your Game,' and much of CrazySexyCool - but not 'Waterfalls.' Organized Noize was simultaneously producing OutKast's debut, making 1994 the most consequential year in Atlanta's production history.",
+            "storyHook": "Dallas Austin produced 'Creep.' Organized Noize produced 'Waterfalls.' The same album. Two completely different production crews. One of R&B's most effective distractor traps, embedded in a single record.",
+            "sourceNotes": "CrazySexyCool ASCAP songwriting and production credits (LaFace Records, 1994). Organized Noize production documentation. Dallas Austin production credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Waterfalls (TLC song) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Waterfalls_(TLC_song)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP022-R2-RES1",
+          "episodeId": "EP022",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Janet Jackson's 1993 album 'janet.' - which marked her creative and commercial peak - was released on which label, ending her long tenure at A&M Records?",
+          "choices": [
+            "Virgin Records",
+            "Epic Records",
+            "Interscope Records",
+            "Columbia Records"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": null,
+            "album": "janet.",
+            "year": 1993,
+            "topicTags": [
+              "Janet Jackson",
+              "janet.",
+              "Virgin Records",
+              "1993",
+              "label change",
+              "A&M Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "janet. liner notes (Virgin Records, 1993). A&M Records departure documentation. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Janet Jackson - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Janet_Jackson",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "janet. (album) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Janet_(album)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R2-RES2",
+          "episodeId": "EP022",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Mary J. Blige's debut 'What's the 411?' was primarily produced by which future music mogul - then operating out of Uptown Records?",
+          "choices": [
+            "Puff Daddy",
+            "Dr. Dre",
+            "L.A. Reid",
+            "Jermaine Dupri"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": null,
+            "album": "What's the 411?",
+            "year": 1992,
+            "topicTags": [
+              "Mary J. Blige",
+              "Puff Daddy",
+              "What's the 411?",
+              "Uptown Records",
+              "producer",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "What's the 411? production credits (Uptown/MCA, 1992). Puff Daddy biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "What's the 411? - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/What%27s_the_411%3F",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R2-RES3",
+          "episodeId": "EP022",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "En Vogue were not a self-formed group - they were created as a studio project by which Oakland-based production duo?",
+          "choices": [
+            "Babyface and L.A. Reid",
+            "Jimmy Jam and Terry Lewis",
+            "Denzil Foster and Thomas McElroy",
+            "Teddy Riley and Bernard Belle"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "En Vogue",
+            "song": null,
+            "album": null,
+            "year": 1989,
+            "topicTags": [
+              "En Vogue",
+              "Denzil Foster",
+              "Thomas McElroy",
+              "producer",
+              "Oakland",
+              "studio project",
+              "formation"
+            ],
+            "fact": "En Vogue were conceived and created by Oakland producers Denzil Foster and Thomas McElroy, who assembled the group as a studio project in 1989. Foster and McElroy wrote and produced the majority of their early catalog, making them as central to the En Vogue sound as the vocalists themselves.",
+            "storyHook": "They didn't form En Vogue. They were put together by two producers with a vision. Denzil Foster and Thomas McElroy built the group from the ground up.",
+            "sourceNotes": "PRIORITY VERIFY: Confirm En Vogue were formed by producers Denzil Foster and Thomas McElroy in 1989. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "En Vogue - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/En_Vogue",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "formation",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-17",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Origin stories, family connections, and the etymology behind the names. The archaeology under the reign.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP022-R3-Q1",
+          "episodeId": "EP022",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Mariah Carey was discovered in 1988 when she handed a demo tape to which record executive at a New York industry party - who signed her before the evening was over?",
+          "choices": [
+            "David Geffen",
+            "Clive Davis",
+            "L.A. Reid",
+            "Tommy Mottola"
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": null,
+            "album": "Mariah Carey",
+            "year": 1990,
+            "topicTags": [
+              "Mariah Carey",
+              "Tommy Mottola",
+              "discovery",
+              "1988",
+              "CBS Records",
+              "Sony Music"
+            ],
+            "fact": "Tommy Mottola - then president of CBS Records - received Mariah Carey's demo tape at an industry party in 1988 and tracked her down before the night was over to discuss signing her. She was 18 years old. Mottola later married Carey in 1993 and divorced her in 1998, making their professional and personal story one of the most complicated in pop history.",
+            "storyHook": "He heard the demo at a party. He found her before midnight. She was 18. He was the most powerful music executive in the country. The rest is chart history and eventually a very public divorce.",
+            "sourceNotes": "Mariah Carey biographical records. Tommy Mottola memoir documentation. CBS/Columbia Records signing history.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mariah Carey - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mariah_Carey",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R3-Q2",
+          "episodeId": "EP022",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Lauryn Hill was a founding member of the Fugees alongside Wyclef Jean and which third member?",
+          "choices": [
+            "Ras Baraka",
+            "Jerry Duplessis",
+            "Pras Michel",
+            "John Forté"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Fugees",
+            "song": null,
+            "album": "The Score",
+            "year": 1996,
+            "topicTags": [
+              "Lauryn Hill",
+              "Pras Michel",
+              "The Fugees",
+              "Wyclef Jean",
+              "founding member",
+              "Ruffhouse Records"
+            ],
+            "fact": "Prakazrel 'Pras' Michel - born October 19, 1972, in New York to Haitian immigrant parents - co-founded the Fugees with his cousin Wyclef Jean and their friend Lauryn Hill in the early 1990s. The trio met while students in New Jersey and signed to Ruffhouse Records, eventually selling over eighteen million copies of 'The Score.'",
+            "storyHook": "Three students from New Jersey. Two of them cousins. All three children of Haitian immigrants. The Fugees built their sound on the intersection of those identities and sold eighteen million records.",
+            "sourceNotes": "The Fugees official biography. Ruffhouse/Columbia Records press materials. Pras Michel biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Fugees - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Fugees",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R3-B1",
+          "episodeId": "EP022",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The name 'Aaliyah' - which the artist shared with her 2001 self-titled album - is derived from which language, where it means 'highly exalted' or 'to ascend'?",
+          "choices": [
+            "Swahili",
+            "Arabic",
+            "Amharic",
+            "Hebrew"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 - THE LANGUAGE AALIYAH'S NAME COMES FROM"
+          },
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Aaliyah",
+              "Arabic",
+              "name etymology",
+              "meaning",
+              "highly exalted",
+              "bonus digit"
+            ],
+            "fact": "'Aaliyah' is an Arabic feminine name meaning 'highly exalted,' 'to ascend,' or 'sublime' - it reflects her parents' intention to give her a name with spiritual and aspirational weight. The name's meaning took on additional resonance after her death in 2001 at age 22.",
+            "storyHook": "Her name meant to ascend. She did. The meaning the word carried long before she carried it is now inseparable from what she became.",
+            "sourceNotes": "Arabic language etymology documentation. Aaliyah biographical records. Name meaning reference sources.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Aaliyah - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Aaliyah",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP022-R3-RES1",
+          "episodeId": "EP022",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Whitney Houston's mother - herself a legendary gospel and soul vocalist who recorded for a decade before Whitney's fame - is named what?",
+          "choices": [
+            "Emily Houston",
+            "Nippy Houston",
+            "Cissy Houston",
+            "Dionne Houston"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Whitney Houston",
+              "Cissy Houston",
+              "mother",
+              "gospel",
+              "soul",
+              "family",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Cissy Houston official biography. Whitney Houston biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cissy Houston - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Cissy_Houston",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP022-R3-RES2",
+          "episodeId": "EP022",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Mary J. Blige was born in Atlanta but raised in which New York city - where her gritty upbringing in the Schlobohm Housing Projects shaped her musical identity?",
+          "choices": [
+            "Yonkers",
+            "Mount Vernon",
+            "The Bronx",
+            "Brooklyn"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mary J. Blige",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Mary J. Blige",
+              "Yonkers",
+              "New York",
+              "Schlobohm",
+              "upbringing",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Mary J. Blige official biography. Uptown Records press materials. Yonkers cultural documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mary J. Blige - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mary_J._Blige",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "EP022",
+    "builtAt": "2026-05-10T19:08:42.640627+00:00"
+  }
+}

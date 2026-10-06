@@ -1,0 +1,1569 @@
+{
+  "episodeId": "EP036",
+  "title": "Perfect Combination",
+  "theme": "The iconic R&B and soul duets of 1980–1990 — two voices, one record, and the labels, producers, and biographical facts behind the era's defining collaborative moments.",
+  "narrativePurpose": "Test knowledge of the classic duets that defined 80s R&B and soul — the songs, the films, the labels, the songwriters, and the artists whose lives and careers intersected to produce some of the decade's most enduring records.",
+  "toneProgression": "Identify the duet, the artist, and the pairing → labels, production credits, and chart history → birth states, early careers, and the hidden connections behind the voices",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "5"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-8-5 — the year two of this episode's most distinctive duets hit #1 on the R&B chart: Cherrelle and Alexander O'Neal's 'Saturday Love' and René & Angela's 'You Don't Have To Cry.' The midpoint of a decade that elevated the R&B duet into an art form."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The songs, the pairings, and the moments. Entry level — but these records run deep.",
+      "color": "#FFD700",
+      "accentVar": "--gold",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP036-R1-Q1",
+          "episodeId": "EP036",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Lionel Richie and Diana Ross recorded 'Endless Love' as the title song for which 1981 feature film?",
+          "choices": [
+            "Endless Love",
+            "Lady Sings the Blues",
+            "Sparkle",
+            "Mahogany"
+          ],
+          "correctIndex": 0,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lionel Richie & Diana Ross",
+            "song": "Endless Love",
+            "album": "Endless Love (soundtrack)",
+            "year": 1981,
+            "topicTags": [
+              "Lionel Richie",
+              "Diana Ross",
+              "Endless Love",
+              "1981",
+              "film",
+              "soundtrack",
+              "Motown"
+            ],
+            "fact": "'Endless Love' was written and produced by Lionel Richie for the 1981 Franco Zeffirelli film of the same name. It spent 9 weeks at #1 on the Billboard Hot 100 — the longest-running #1 of 1981 — and became Diana Ross's final #1 hit on the pop chart.",
+            "storyHook": "The film gave them the title. The song gave the decade one of its defining duet moments. 'Endless Love' was number one for nine weeks.",
+            "sourceNotes": "PRIORITY VERIFY: 'Endless Love' Lionel Richie & Diana Ross, 1981 film, 9 weeks at #1, Diana Ross's last pop #1. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Endless Love (1981 film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Endless_Love_(1981_film)",
+                "accessed": "2026-05-23"
+              },
+              {
+                "title": "Endless Love (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Endless_Love_(song)",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R1-Q2",
+          "episodeId": "EP036",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Patti Austin and James Ingram's 'Baby Come to Me' surged back to #1 in 1983 after being featured on which daytime soap opera?",
+          "choices": [
+            "Days of Our Lives",
+            "All My Children",
+            "General Hospital",
+            "The Young and the Restless"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Patti Austin & James Ingram",
+            "song": "Baby Come to Me",
+            "album": "It's Your Night",
+            "year": 1983,
+            "topicTags": [
+              "Patti Austin",
+              "James Ingram",
+              "Baby Come to Me",
+              "General Hospital",
+              "Quincy Jones",
+              "1983",
+              "soap opera"
+            ],
+            "fact": "'Baby Come to Me' originally charted at #73 in 1982. It was featured on the ABC soap opera General Hospital — as the romantic theme for characters Luke and Holly — and subsequently rocketed to #1 on the Hot 100 in February 1983, where it stayed for two weeks. The soap opera revival became one of the most famous second-wind chart stories in pop history.",
+            "storyHook": "It peaked at 73. Then a soap opera played it. Then it hit number one. General Hospital turned a minor hit into an era-defining record.",
+            "sourceNotes": "PRIORITY VERIFY: 'Baby Come to Me' Patti Austin & James Ingram, General Hospital connection, #1 in 1983. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Baby, Come to Me (Patti Austin and James Ingram song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Baby,_Come_to_Me_(Patti_Austin_and_James_Ingram_song)",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R1-Q3",
+          "episodeId": "EP036",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Cherrelle and Alexander O'Neal — the duo behind 1985's 'Saturday Love' — both came from which US state's music scene?",
+          "choices": [
+            "Tennessee",
+            "Georgia",
+            "Illinois",
+            "Minnesota"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Cherrelle & Alexander O'Neal",
+            "song": "Saturday Love",
+            "album": "Fragile",
+            "year": 1985,
+            "topicTags": [
+              "Cherrelle",
+              "Alexander O'Neal",
+              "Saturday Love",
+              "Minnesota",
+              "Jimmy Jam",
+              "Terry Lewis",
+              "Tabu Records",
+              "1985"
+            ],
+            "fact": "Both Cherrelle and Alexander O'Neal were part of the Minneapolis R&B scene — orbiting the same Jimmy Jam and Terry Lewis production world that also produced Janet Jackson's Control and Prince's extended universe. 'Saturday Love' was recorded for Tabu Records and reached #1 on the R&B chart.",
+            "storyHook": "Minneapolis. Jimmy Jam. Terry Lewis. The same city that gave the world Prince and Janet Jackson also gave it 'Saturday Love.'",
+            "sourceNotes": "PRIORITY VERIFY: Cherrelle and Alexander O'Neal both from Minneapolis/Minnesota scene, Jimmy Jam & Terry Lewis production connection on Saturday Love. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cherrelle & Alexander O'Neal – 'Saturday Love' – birthday post",
+                "url": "https://www.facebook.com/100064201413097/posts/cherrelle-alexander-oneal-saturday-love-happy-72nd-birthday-%EF%B8%8Falexander-on",
+                "accessed": "2026-05-23"
+              },
+              {
+                "title": "Alexander O'Neal – birthday bio",
+                "url": "https://www.facebook.com/honoringlegends/posts/happy-72nd-birthday-to-alexander-oneal-a-rb-singer-songwriter-and-arranger-from-/",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R1-Q4",
+          "episodeId": "EP036",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "'You Don't Have To Cry' was a #1 R&B hit in 1985 for which duo — whose partnership blended R&B vocals with sophisticated production?",
+          "choices": [
+            "René & Angela",
+            "Ashford & Simpson",
+            "Cherrelle & Alexander O'Neal",
+            "Peabo Bryson & Roberta Flack"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "René & Angela",
+            "song": "You Don't Have To Cry",
+            "album": "Street Called Desire",
+            "year": 1985,
+            "topicTags": [
+              "René & Angela",
+              "René Moore",
+              "Angela Winbush",
+              "You Don't Have To Cry",
+              "1985",
+              "Capitol Records",
+              "#1 R&B"
+            ],
+            "fact": "'You Don't Have To Cry' reached #1 on the Billboard R&B chart in 1985 and appeared on René & Angela's album Street Called Desire. The duo — René Moore and Angela Winbush — brought a sophisticated, synth-driven sound to their ballads that set them apart from the more organic R&B of the era.",
+            "storyHook": "René Moore's synthesizers. Angela Winbush's voice. 'You Don't Have To Cry' was number one R&B in 1985 — and most people couldn't name the duo that recorded it.",
+            "sourceNotes": "PRIORITY VERIFY: René & Angela 'You Don't Have To Cry' #1 R&B 1985, Street Called Desire album, Capitol Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rene & Angela – You Don't Have To Cry (Official Video)",
+                "url": "https://www.youtube.com/watch?v=tYc5hjBjuhE",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R1-Q5",
+          "episodeId": "EP036",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Luther Vandross and Cheryl Lynn's 1982 duet 'If This World Were Mine' was a cover of a 1967 Motown recording by which duo?",
+          "choices": [
+            "Marvin Gaye & Tammi Terrell",
+            "The Temptations & Diana Ross",
+            "Stevie Wonder & Syreeta",
+            "Smokey Robinson & Mary Wells"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Luther Vandross & Cheryl Lynn",
+            "song": "If This World Were Mine",
+            "album": "Forever, For Always, For Love",
+            "year": 1982,
+            "topicTags": [
+              "Luther Vandross",
+              "Cheryl Lynn",
+              "If This World Were Mine",
+              "Marvin Gaye",
+              "Tammi Terrell",
+              "Motown",
+              "1967",
+              "1982",
+              "cover"
+            ],
+            "fact": "'If This World Were Mine' was originally recorded by Marvin Gaye and Tammi Terrell for Motown in 1967. Luther Vandross and Cheryl Lynn's 1982 cover appeared on Luther's album Forever, For Always, For Love — bringing a smooth, lush production style to a melody that had been part of the Motown catalog for fifteen years.",
+            "storyHook": "Marvin Gaye and Tammi Terrell recorded it in 1967. Luther Vandross found it in 1982 and made it feel like a new discovery.",
+            "sourceNotes": "PRIORITY VERIFY: Luther Vandross & Cheryl Lynn 'If This World Were Mine' from Forever For Always For Love (1982), original Marvin Gaye & Tammi Terrell (1967). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "If This World Were Mine – reel with lineage",
+                "url": "https://www.instagram.com/reel/DUWpZp1AIFh/",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "cover",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R1-Q6",
+          "episodeId": "EP036",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Angela Winbush — one half of the duo René & Angela — went on to a successful solo career under which name?",
+          "choices": [
+            "Stephanie Mills",
+            "Anita Baker",
+            "Cheryl Lynn",
+            "Angela Winbush"
+          ],
+          "correctIndex": 3,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "René & Angela",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Angela Winbush",
+              "René & Angela",
+              "solo career",
+              "The Real Thing",
+              "1989"
+            ],
+            "fact": "Angela Winbush launched her solo career after René & Angela disbanded, releasing The Real Thing in 1989. She also continued as a songwriter and producer — writing hits for Ronald Isley, Stephanie Mills, and others — establishing herself as one of the era's most versatile R&B talents behind and in front of the microphone.",
+            "storyHook": "Half of a duo. Then a solo act. Then a songwriter for other people's hits. Angela Winbush had more than one career inside one career.",
+            "sourceNotes": "PRIORITY VERIFY: Angela Winbush solo career, The Real Thing (1989), songwriting/production credits. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Angela Winbush – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Angela_Winbush",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R1-B1",
+          "episodeId": "EP036",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Bobby Womack and Patti LaBelle's 'Love Has Finally Come at Last' appeared on which 1984 Bobby Womack album?",
+          "choices": [
+            "Roads of Life",
+            "The Poet",
+            "So Many Rivers",
+            "The Poet II"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — THE DECADE OPENS"
+          },
+          "metadata": {
+            "artist": "Bobby Womack & Patti LaBelle",
+            "song": "Love Has Finally Come at Last",
+            "album": "The Poet II",
+            "year": 1984,
+            "topicTags": [
+              "Bobby Womack",
+              "Patti LaBelle",
+              "Love Has Finally Come at Last",
+              "The Poet II",
+              "1984",
+              "Beverly Glen Music"
+            ],
+            "fact": "'Love Has Finally Come at Last' appeared on The Poet II (1984) — the follow-up to Bobby Womack's acclaimed The Poet (1981). Released on the independent Beverly Glen Music label, it showcased Womack's gift for wrapping raw emotional honesty in sophisticated R&B arrangements, with Patti LaBelle's voice adding a gospel-rooted power to the duet.",
+            "storyHook": "An independent label. Two R&B legends. The Poet II gave Bobby Womack and Patti LaBelle one of the era's most understated classic duets.",
+            "sourceNotes": "PRIORITY VERIFY: Bobby Womack The Poet II (1984), Beverly Glen Music, 'Love Has Finally Come at Last' with Patti LaBelle. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "In 1984, Bobby Womack teamed up with Patti LaBelle – Bobby Womack Facebook",
+                "url": "https://www.facebook.com/BobbyWomack/videos/in-1984-bobby-womack-teamed-up-with-the-patti-labelle-to-record-the-soulful-duet/169",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP036-R1-RES1",
+          "episodeId": "EP036",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "'Feel The Fire' — a 1980 R&B duet — was recorded by Teddy Pendergrass alongside which Broadway and R&B star?",
+          "choices": [
+            "Roberta Flack",
+            "Patti Austin",
+            "Stephanie Mills",
+            "Cheryl Lynn"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Teddy Pendergrass & Stephanie Mills",
+            "song": "Feel The Fire",
+            "album": "TP",
+            "year": 1980,
+            "topicTags": [
+              "Teddy Pendergrass",
+              "Stephanie Mills",
+              "Feel The Fire",
+              "1980",
+              "TP",
+              "Philadelphia"
+            ],
+            "fact": "'Feel The Fire' paired Teddy Pendergrass — then at the peak of his powers as Philadelphia's premier romantic R&B voice — with Stephanie Mills, who had established herself on Broadway in The Wiz before transitioning to R&B radio. The duet appeared on Pendergrass's 1980 album TP, recorded before his life-altering car accident in March 1981.",
+            "storyHook": "Broadway met Philadelphia soul. Stephanie Mills and Teddy Pendergrass on one record — before everything changed for him in 1981.",
+            "sourceNotes": "PRIORITY VERIFY: Teddy Pendergrass & Stephanie Mills 'Feel The Fire' from TP album (1980). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Teddy Pendergrass, Stephanie Mills – 'Feel The Fire' (Audio)",
+                "url": "https://www.youtube.com/watch?v=M3LEowS1rzg",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R1-RES2",
+          "episodeId": "EP036",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Peabo Bryson and Roberta Flack's 1983 duet album was titled what?",
+          "choices": [
+            "Together",
+            "Side by Side",
+            "Two of a Kind",
+            "Born to Love"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Peabo Bryson & Roberta Flack",
+            "song": "Tonight I Celebrate My Love",
+            "album": "Born to Love",
+            "year": 1983,
+            "topicTags": [
+              "Peabo Bryson",
+              "Roberta Flack",
+              "Born to Love",
+              "Tonight I Celebrate My Love",
+              "1983",
+              "Capitol Records"
+            ],
+            "fact": "Born to Love (1983) was the duet album pairing Peabo Bryson and Roberta Flack — two artists whose smooth, warm vocal styles proved perfectly complementary. The lead single 'Tonight I Celebrate My Love' became their signature collaboration and one of the era's most-played R&B ballads.",
+            "storyHook": "Born to Love. The title said everything the voices delivered. Peabo Bryson and Roberta Flack made a record that sounded like the album title was written first.",
+            "sourceNotes": "PRIORITY VERIFY: Peabo Bryson & Roberta Flack Born to Love (1983), Capitol Records, 'Tonight I Celebrate My Love' as lead single. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Born to Love (Peabo Bryson and Roberta Flack album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Born_to_Love_(Peabo_Bryson_and_Roberta_Flack_album)",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R1-RES3",
+          "episodeId": "EP036",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Before recording 'Solid' as performers, Nick Ashford and Valerie Simpson had written which 1967 Motown classic?",
+          "choices": [
+            "Stop! In the Name of Love",
+            "I Heard It Through the Grapevine",
+            "Ain't No Mountain High Enough",
+            "My Girl"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ashford & Simpson",
+            "song": "Ain't No Mountain High Enough",
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Ashford & Simpson",
+              "Nick Ashford",
+              "Valerie Simpson",
+              "Ain't No Mountain High Enough",
+              "Motown",
+              "1967",
+              "Marvin Gaye",
+              "Tammi Terrell"
+            ],
+            "fact": "Nick Ashford and Valerie Simpson wrote 'Ain't No Mountain High Enough' for Marvin Gaye and Tammi Terrell in 1967 — one of the defining songs of the Motown era. The pair went on to write numerous other Motown classics before launching their own recording career, eventually scoring a major hit with 'Solid' in 1984.",
+            "storyHook": "They wrote 'Ain't No Mountain High Enough' for Marvin Gaye and Tammi Terrell. Then they became performers themselves. Ashford & Simpson built an empire in both directions.",
+            "sourceNotes": "PRIORITY VERIFY: Ashford & Simpson wrote 'Ain't No Mountain High Enough' for Motown (1967), Marvin Gaye & Tammi Terrell. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ain't No Mountain High Enough – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ain%27t_No_Mountain_High_Enough",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R1-RES4",
+          "episodeId": "EP036",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "'Endless Love' — Motown's defining 1981 duet — was written and produced by which of its two performers?",
+          "choices": [
+            "Smokey Robinson",
+            "Quincy Jones",
+            "Lionel Richie",
+            "Diana Ross"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lionel Richie & Diana Ross",
+            "song": "Endless Love",
+            "album": "Endless Love (soundtrack)",
+            "year": 1981,
+            "topicTags": [
+              "Lionel Richie",
+              "Diana Ross",
+              "Endless Love",
+              "1981",
+              "songwriter",
+              "producer"
+            ],
+            "fact": "Lionel Richie wrote and produced 'Endless Love' — one of the few cases where one half of a duet was entirely responsible for the record's creation. Director Franco Zeffirelli approached Richie directly for the title song of his 1981 film, and Richie completed the composition within days.",
+            "storyHook": "He wrote it. He produced it. Then he sang it with Diana Ross. Lionel Richie was responsible for every note of 'Endless Love' before a second voice was added.",
+            "sourceNotes": "PRIORITY VERIFY: Lionel Richie wrote and produced 'Endless Love' for the 1981 film. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Endless Love (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Endless_Love_(song)",
+                "accessed": "2026-05-23"
+              },
+              {
+                "title": "NUMBER ONE FLASHBACK – 'Endless Love' written by Richie – Instagram",
+                "url": "https://www.instagram.com/p/DWoK4k5jAnf/",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "production",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Labels, chart facts, songwriting credits, and the production infrastructure behind the era's great pairings.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP036-R2-Q1",
+          "episodeId": "EP036",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Roberta Flack's duet partner on the 1983 album Born to Love — and on 'Tonight I Celebrate My Love' — was which R&B vocalist?",
+          "choices": [
+            "Peabo Bryson",
+            "Freddie Jackson",
+            "Luther Vandross",
+            "James Ingram"
+          ],
+          "correctIndex": 0,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Peabo Bryson & Roberta Flack",
+            "song": "Tonight I Celebrate My Love",
+            "album": "Born to Love",
+            "year": 1983,
+            "topicTags": [
+              "Peabo Bryson",
+              "Roberta Flack",
+              "Born to Love",
+              "Tonight I Celebrate My Love",
+              "Capitol Records",
+              "1983"
+            ],
+            "fact": "Peabo Bryson and Roberta Flack recorded Born to Love (1983) for Capitol Records — their only full duet album together. The partnership worked because both artists operated in the smooth, warm end of the R&B spectrum, making 'Tonight I Celebrate My Love' feel like an inevitable pairing rather than a calculated collaboration.",
+            "storyHook": "Two smooth voices. One album. Capitol Records. Peabo Bryson and Roberta Flack made Born to Love sound exactly like the title said.",
+            "sourceNotes": "PRIORITY VERIFY: Peabo Bryson & Roberta Flack Born to Love (1983), Capitol Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Born to Love – Peabo Bryson and Roberta Flack – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Born_to_Love_(Peabo_Bryson_and_Roberta_Flack_album)",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R2-Q2",
+          "episodeId": "EP036",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "'Saturday Love' by Cherrelle and Alexander O'Neal was released on which Minneapolis-based independent label?",
+          "choices": [
+            "LaFace Records",
+            "Tabu Records",
+            "Paisley Park",
+            "Solar Records"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Cherrelle & Alexander O'Neal",
+            "song": "Saturday Love",
+            "album": "Fragile",
+            "year": 1985,
+            "topicTags": [
+              "Cherrelle",
+              "Alexander O'Neal",
+              "Saturday Love",
+              "Tabu Records",
+              "Minneapolis",
+              "Jimmy Jam",
+              "Terry Lewis",
+              "1985"
+            ],
+            "fact": "Tabu Records was a Minneapolis-based independent label distributed through CBS Records — and the home of both Cherrelle and Alexander O'Neal. The label's output was heavily shaped by Jimmy Jam and Terry Lewis, who produced 'Saturday Love' and much of the Tabu roster with the same synthesizer-driven precision they applied to Janet Jackson's records.",
+            "storyHook": "Tabu Records. Minneapolis. Jimmy Jam and Terry Lewis. The same infrastructure that made Janet Jackson sound like the future made 'Saturday Love' sound timeless.",
+            "sourceNotes": "PRIORITY VERIFY: 'Saturday Love' on Tabu Records, Minneapolis, Jimmy Jam & Terry Lewis production. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cherrelle & Alexander O'Neal – 'Saturday Love' – birthday post",
+                "url": "https://www.facebook.com/100064201413097/posts/cherrelle-alexander-oneal-saturday-love-happy-72nd-birthday-%EF%B8%8Falexander-on",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R2-Q3",
+          "episodeId": "EP036",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Nick Ashford's creative and romantic partner — who co-wrote and co-performed 'Solid' alongside him — was which artist?",
+          "choices": [
+            "Tammi Terrell",
+            "Angela Winbush",
+            "Cheryl Lynn",
+            "Valerie Simpson"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ashford & Simpson",
+            "song": "Solid",
+            "album": "Solid",
+            "year": 1984,
+            "topicTags": [
+              "Ashford & Simpson",
+              "Nick Ashford",
+              "Valerie Simpson",
+              "Solid",
+              "1984",
+              "Capitol Records",
+              "husband and wife"
+            ],
+            "fact": "Valerie Simpson was Nick Ashford's creative partner, wife, and co-writer on 'Solid' and the entire Ashford & Simpson catalog. The pair met in New York in the early 1960s, began writing together for Motown, and built one of the most sustained husband-and-wife creative partnerships in R&B history.",
+            "storyHook": "She wrote the songs with him. She performed them with him. She was married to him. Valerie Simpson was Nick Ashford's everything — creative partner first, wife second, or maybe both at once.",
+            "sourceNotes": "Verified: Valerie Simpson co-wrote and co-performed 'Solid' with Nick Ashford, married couple. Sources: Ashford & Simpson Wikipedia, I'm Every Woman Wikipedia",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ashford & Simpson – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ashford_%26_Simpson",
+                "accessed": "2026-05-23"
+              },
+              {
+                "title": "I'm Every Woman – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I'm_Every_Woman",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R2-Q4",
+          "episodeId": "EP036",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "'Endless Love' by Lionel Richie and Diana Ross spent how many consecutive weeks at #1 on the Billboard Hot 100?",
+          "choices": [
+            "7 weeks",
+            "9 weeks",
+            "5 weeks",
+            "12 weeks"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lionel Richie & Diana Ross",
+            "song": "Endless Love",
+            "album": "Endless Love (soundtrack)",
+            "year": 1981,
+            "topicTags": [
+              "Lionel Richie",
+              "Diana Ross",
+              "Endless Love",
+              "Hot 100",
+              "#1",
+              "9 weeks",
+              "1981",
+              "chart"
+            ],
+            "fact": "'Endless Love' spent 9 consecutive weeks at #1 on the Billboard Hot 100 in 1981 — making it the longest-running #1 of that year. It was also Diana Ross's last #1 on the pop chart, ending a run of chart dominance that had begun with The Supremes in the 1960s.",
+            "storyHook": "Nine weeks. The longest #1 of 1981. And the last time Diana Ross would top the pop chart.",
+            "sourceNotes": "PRIORITY VERIFY: 'Endless Love' 9 weeks at #1 on Hot 100 (1981), Diana Ross's last pop #1. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Endless Love (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Endless_Love_(song)",
+                "accessed": "2026-05-23"
+              },
+              {
+                "title": "Ross and Richie's 'Endless Love' hit No. 1 35 years ago – MPR News",
+                "url": "https://www.mprnews.org/story/2016/08/15/endless-love-hit-no-1-35-years-ago",
+                "accessed": "2026-05-23"
+              },
+              {
+                "title": "NUMBER ONE FLASHBACK – 'Endless Love' 9 weeks at No. 1 – Instagram",
+                "url": "https://www.instagram.com/p/DWoK4k5jAnf/",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R2-Q5",
+          "episodeId": "EP036",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Angela Winbush's 1989 solo debut album — released after René & Angela disbanded — was titled what?",
+          "choices": [
+            "Bold Soul Sister",
+            "Sharp",
+            "The Real Thing",
+            "My Sensitivity"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Angela Winbush",
+            "song": null,
+            "album": "The Real Thing",
+            "year": 1989,
+            "topicTags": [
+              "Angela Winbush",
+              "The Real Thing",
+              "1989",
+              "solo debut",
+              "René & Angela"
+            ],
+            "fact": "Angela Winbush released The Real Thing in 1989 — her solo debut following the dissolution of René & Angela. The album reached #4 on the Billboard R&B chart and demonstrated that Winbush's talents as a writer, producer, and vocalist were fully capable of carrying a project independently.",
+            "storyHook": "The duo ended. The solo career began. The Real Thing was Angela Winbush proving she was exactly that — the real thing.",
+            "sourceNotes": "PRIORITY VERIFY: Angela Winbush The Real Thing (1989), solo debut after René & Angela, R&B chart performance. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Angela Winbush – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Angela_Winbush",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R2-B1",
+          "episodeId": "EP036",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Teddy Pendergrass and Stephanie Mills's duet 'Feel The Fire' appeared on which 1980 Teddy Pendergrass album?",
+          "choices": [
+            "It's Time for Love",
+            "Life Is a Song Worth Singing",
+            "Teddy",
+            "TP"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE DECADE IN FULL"
+          },
+          "metadata": {
+            "artist": "Teddy Pendergrass & Stephanie Mills",
+            "song": "Feel The Fire",
+            "album": "TP",
+            "year": 1980,
+            "topicTags": [
+              "Teddy Pendergrass",
+              "Stephanie Mills",
+              "Feel The Fire",
+              "TP",
+              "1980",
+              "Philadelphia"
+            ],
+            "fact": "TP (1980) was Teddy Pendergrass's fourth studio album — and the last he recorded before his March 1981 car accident left him paralysed. 'Feel The Fire' with Stephanie Mills appeared on TP, capturing both artists at their commercial peak before Pendergrass's career trajectory was permanently altered.",
+            "storyHook": "TP. 1980. The last album before everything changed. 'Feel The Fire' with Stephanie Mills was recorded in the final year of Teddy Pendergrass as the world knew him.",
+            "sourceNotes": "PRIORITY VERIFY: TP album (1980) Teddy Pendergrass, 'Feel The Fire' with Stephanie Mills on this album. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Feel the Fire – Teddy Pendergrass & Stephanie Mills – Spotify",
+                "url": "https://open.spotify.com/track/50qJmnDnW0CrlZBV4ryxln",
+                "accessed": "2026-05-23"
+              },
+              {
+                "title": "TP (Teddy Pendergrass album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/TP_(album)",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP036-R2-RES1",
+          "episodeId": "EP036",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Stacy Lattisaw — who recorded 'Perfect Combination' with Johnny Gill — began her recording career on which Atlantic Records subsidiary label?",
+          "choices": [
+            "East West Records",
+            "Cotillion Records",
+            "Elektra",
+            "Arista"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Stacy Lattisaw",
+            "song": "Perfect Combination",
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Stacy Lattisaw",
+              "Cotillion Records",
+              "Atlantic Records",
+              "teen",
+              "debut",
+              "Perfect Combination",
+              "Johnny Gill"
+            ],
+            "fact": "Stacy Lattisaw launched her recording career on Cotillion Records — an Atlantic Records subsidiary — beginning at age 13 with her 1979 debut album Young and in Love. Her precocious vocal ability attracted significant R&B radio attention before she had finished high school.",
+            "storyHook": "Thirteen years old. Cotillion Records. Stacy Lattisaw was making R&B records before most teenagers knew what a record label was.",
+            "sourceNotes": "PRIORITY VERIFY: Stacy Lattisaw debut on Cotillion Records (Atlantic subsidiary), began age 13. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cotillion Records – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Cotillion_Records",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R2-RES2",
+          "episodeId": "EP036",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Nick Ashford and Valerie Simpson — who performed 'Solid' together — were what to each other outside the studio?",
+          "choices": [
+            "Husband and wife",
+            "Cousins",
+            "Siblings",
+            "Unrelated collaborators"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ashford & Simpson",
+            "song": "Solid",
+            "album": "Solid",
+            "year": 1984,
+            "topicTags": [
+              "Ashford & Simpson",
+              "Nick Ashford",
+              "Valerie Simpson",
+              "husband and wife",
+              "marriage",
+              "biography"
+            ],
+            "fact": "Nick Ashford and Valerie Simpson were married — a partnership that spanned both their personal and professional lives for 38 years. Their marriage made Ashford & Simpson one of R&B's most complete creative units: they wrote together, recorded together, and built their entire catalog as a pair.",
+            "storyHook": "Married for 38 years. Writing partners for longer. Nick Ashford and Valerie Simpson made 'Solid' about what they already were.",
+            "sourceNotes": "Verified: Nick Ashford and Valerie Simpson were husband and wife, married 38 years. Source: Ashford & Simpson Wikipedia https://en.wikipedia.org/wiki/Ashford_%26_Simpson",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ashford & Simpson – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ashford_%26_Simpson",
+                "accessed": "2026-05-23"
+              },
+              {
+                "title": "Is there a greater husband and wife singing duo – SoulTrain group",
+                "url": "https://www.facebook.com/groups/soultraingroup/posts/9099225726860742/",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R2-RES3",
+          "episodeId": "EP036",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Roberta Flack — who duetted with Peabo Bryson on 'Tonight I Celebrate My Love' — won the Grammy for Record of the Year for which 1973 song?",
+          "choices": [
+            "Killing Me Softly With His Song",
+            "Where Is the Love",
+            "The First Time Ever I Saw Your Face",
+            "Feel Like Makin' Love"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Roberta Flack",
+            "song": "Killing Me Softly With His Song",
+            "album": "Killing Me Softly",
+            "year": 1973,
+            "topicTags": [
+              "Roberta Flack",
+              "Killing Me Softly With His Song",
+              "1973",
+              "Grammy",
+              "Record of the Year"
+            ],
+            "fact": "'Killing Me Softly With His Song' won Roberta Flack the Grammy for Record of the Year at the 16th Grammy Awards in 1974. It was her second consecutive Record of the Year win — she had also won in 1973 for 'The First Time Ever I Saw Your Face' — making her only the second artist in history to win the award in back-to-back years.",
+            "storyHook": "Two consecutive Record of the Year Grammys. 1973 and 1974. By the time Roberta Flack recorded with Peabo Bryson, she had already made history twice over.",
+            "sourceNotes": "PRIORITY VERIFY: Roberta Flack 'Killing Me Softly With His Song' won Record of the Year at 16th Grammys (1974), second consecutive win. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Roberta Flack – 'Killing Me Softly With His Song' (Official Video)",
+                "url": "https://www.youtube.com/watch?v=mrudT410TAI",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "award",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Birth states, early labels, and the biographical facts that most listeners never knew.",
+      "color": "#FF6B6B",
+      "accentVar": "--coral",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP036-R3-Q1",
+          "episodeId": "EP036",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Nick Ashford — one half of the songwriting and performing duo Ashford & Simpson — was born in which US state?",
+          "choices": [
+            "South Carolina",
+            "North Carolina",
+            "Michigan",
+            "Georgia"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Nick Ashford",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Nick Ashford",
+              "South Carolina",
+              "Fairfield",
+              "Ashford & Simpson",
+              "biography",
+              "birthplace"
+            ],
+            "fact": "Nick Ashford was born Nickolas Ashford on May 4, 1941, in Fairfield, South Carolina — before his family relocated to Ypsilanti, Michigan, where he was raised. He later moved to New York, where he met Valerie Simpson and began the songwriting partnership that would define both their careers.",
+            "storyHook": "Fairfield, South Carolina. Then Michigan. Then New York. Then Motown. Then Ashford & Simpson. Nick Ashford covered a lot of ground before he got to 'Solid.'",
+            "sourceNotes": "Verified: Nick Ashford born Fairfield, South Carolina. Sources: Ashford & Simpson Wikipedia https://en.wikipedia.org/wiki/Ashford_%26_Simpson, Remembered.com https://remembered.com/biography/nickolasashford, Instagram tribute https://www.instagram.com/p/DX8BBbhCZV4/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Nickolas Ashford – StudySC",
+                "url": "https://studysc.org/sc-people/nickolas-ashford",
+                "accessed": "2026-05-23"
+              },
+              {
+                "title": "Nickolas Ashford's Biography – Remembered.com",
+                "url": "https://remembered.com/biography/nickolasashford",
+                "accessed": "2026-05-23"
+              },
+              {
+                "title": "On his birthday, we remember Nick Ashford – Instagram tribute",
+                "url": "https://www.instagram.com/p/DX8BBbhCZV4/",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R3-Q2",
+          "episodeId": "EP036",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Patti Austin — who duetted with James Ingram on 'Baby Come to Me' — launched her career on which jazz and soul label in the 1960s?",
+          "choices": [
+            "Prestige Records",
+            "Blue Note Records",
+            "CTI Records",
+            "Impulse! Records"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Patti Austin",
+            "song": "Baby Come to Me",
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Patti Austin",
+              "CTI Records",
+              "early career",
+              "1960s",
+              "biography",
+              "James Ingram"
+            ],
+            "fact": "Patti Austin began her recording career on CTI Records — Creed Taylor Incorporated — the jazz and soul imprint known for sophisticated, polished production. Her early career also included session work and commercial jingles before Quincy Jones brought her into the Qwest Records orbit and steered her toward the mainstream R&B success that 'Baby Come to Me' represented.",
+            "storyHook": "CTI Records. Jazz. Session work. Jingles. Patti Austin had been working in music for years before General Hospital made 'Baby Come to Me' the biggest R&B duet of 1983.",
+            "sourceNotes": "PRIORITY VERIFY: Patti Austin early career on CTI Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Patti Austin – Concord artist bio",
+                "url": "https://concord.com/artist/patti-austin/",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R3-B1",
+          "episodeId": "EP036",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Alexander O'Neal — who recorded 'Saturday Love' with Cherrelle — was born in which US state?",
+          "choices": [
+            "Mississippi",
+            "Alabama",
+            "Tennessee",
+            "Louisiana"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "8",
+            "bonusHint": "DIGIT 3 OF 3 — THE ERA AT ITS HEIGHT"
+          },
+          "metadata": {
+            "artist": "Alexander O'Neal",
+            "song": "Saturday Love",
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Alexander O'Neal",
+              "Mississippi",
+              "Natchez",
+              "biography",
+              "birthplace",
+              "Saturday Love"
+            ],
+            "fact": "Alexander O'Neal was born in Natchez, Mississippi — before relocating to Minneapolis, where he became embedded in the city's R&B scene and connected with Jimmy Jam and Terry Lewis. The distance between Natchez, Mississippi and Minneapolis, Minnesota made his eventual position at the centre of the Minneapolis sound all the more unexpected.",
+            "storyHook": "Natchez, Mississippi. Then Minneapolis. The distance between those two cities is the distance between where Alexander O'Neal started and where 'Saturday Love' put him.",
+            "sourceNotes": "PRIORITY VERIFY: Alexander O'Neal born Natchez, Mississippi. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Alexander O'Neal – Natchez, Mississippi birthday post",
+                "url": "https://www.facebook.com/honoringlegends/posts/happy-72nd-birthday-to-alexander-oneal-a-rb-singer-songwriter-and-arranger-from-/",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP036-R3-RES1",
+          "episodeId": "EP036",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "René Moore — the male half of René & Angela — was primarily associated with which instrument on their recordings?",
+          "choices": [
+            "Bass",
+            "Keyboards",
+            "Drums",
+            "Guitar"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "René Moore",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "René Moore",
+              "René & Angela",
+              "keyboards",
+              "synthesizer",
+              "instrument",
+              "biography"
+            ],
+            "fact": "René Moore was credited on synthesizer and keyboard parts on René & Angela's recordings — his instrumental contributions forming the electronic backbone of their sophisticated sound. Moore's keyboard work gave the duo a distinctive, synth-driven texture that set them apart from the more organic R&B of their contemporaries.",
+            "storyHook": "Angela Winbush had the voice. René Moore had the keyboards. Together they built a sound that made 'You Don't Have To Cry' feel both polished and warm.",
+            "sourceNotes": "Verified: René Moore credited on synthesizer/keyboard parts on René & Angela recordings. Source: Sessiondays https://sessiondays.com/2020/01/10/1980-rene-angela-rene-angela/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "1980 René & Angela – Sessiondays musician credits",
+                "url": "https://sessiondays.com/2020/01/10/1980-rene-angela-rene-angela/",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP036-R3-RES2",
+          "episodeId": "EP036",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Bobby Womack's The Poet II — home to 'Love Has Finally Come at Last' — was released on which independent label?",
+          "choices": [
+            "Tabu Records",
+            "Solar Records",
+            "Curtom Records",
+            "Beverly Glen Music"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bobby Womack",
+            "song": "Love Has Finally Come at Last",
+            "album": "The Poet II",
+            "year": 1984,
+            "topicTags": [
+              "Bobby Womack",
+              "The Poet II",
+              "Beverly Glen Music",
+              "1984",
+              "Patti LaBelle",
+              "independent label"
+            ],
+            "fact": "Beverly Glen Music was an independent label run by producer Otis Smith — and the home of Bobby Womack's The Poet (1981) and The Poet II (1984). The label's independence gave Womack creative latitude that major label deals rarely provided, resulting in two of the most critically acclaimed records of his career.",
+            "storyHook": "An independent label. Creative freedom. The Poet II was Bobby Womack doing exactly what he wanted — and 'Love Has Finally Come at Last' with Patti LaBelle was the result.",
+            "sourceNotes": "PRIORITY VERIFY: Bobby Womack The Poet II on Beverly Glen Music (1984), Otis Smith's label. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Poet II – Bobby Womack album credits – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Poet_II",
+                "accessed": "2026-05-23"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-23T11:54:15.025595+00:00"
+  }
+}

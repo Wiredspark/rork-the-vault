@@ -1,0 +1,1574 @@
+{
+  "episodeId": "EP031",
+  "title": "The Side Door",
+  "theme": "The R&B artists who built second careers beyond the booth — acting, fashion, TV, and business — and what it revealed about the genre's relationship with celebrity.",
+  "narrativePurpose": "Test knowledge of the R&B artists who extended their careers onto film sets, fashion runways, and television screens — and the specific roles, deals, and moments that defined each crossover.",
+  "toneProgression": "The recognisable crossovers every fan knows → the fashion empires, supporting roles, and production deals only the dedicated can place → the hidden castings and cameos that reframe how you understand these artists",
+  "version": "1.0",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "2"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 2-0-0-2 — the year Queen Latifah's performance in Chicago earned an Academy Award nomination, proving that the side door could lead to the industry's main stage."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "roster": [
+    "Queen Latifah",
+    "Brandy",
+    "Aaliyah",
+    "Bow Wow",
+    "Tyrese Gibson",
+    "LL Cool J",
+    "Puff Daddy / Sean Combs",
+    "Jay-Z",
+    "Eve",
+    "DMX",
+    "Usher"
+  ],
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The roles, shows, and films that every R&B fan knows. These crossovers made headlines — start here.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP031-R1-Q1",
+          "episodeId": "EP031",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brandy starred as the titular lead in which long-running UPN sitcom that aired from 1996 to 2001?",
+          "choices": [
+            "Moesha",
+            "Living Single",
+            "Girlfriends",
+            "Sister Sister"
+          ],
+          "correctIndex": 0,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy",
+            "song": null,
+            "album": null,
+            "year": 1996,
+            "topicTags": [
+              "Brandy",
+              "Moesha",
+              "UPN",
+              "sitcom",
+              "1996",
+              "television",
+              "side door"
+            ],
+            "fact": "Moesha aired on UPN from January 1996 to May 2001, running for six seasons and 127 episodes. Brandy Norwood starred as Moesha 'Mo' Mitchell, a high school student navigating family, school, and relationships in the Leimert Park neighbourhood of Los Angeles. The show kept Brandy culturally visible between album cycles and remains one of the most significant Black sitcoms of the 1990s.",
+            "storyHook": "Six seasons. 127 episodes. Brandy built a television career that gave her cultural staying power no album cycle could replicate. Moesha was the side door that kept her in the room.",
+            "sourceNotes": "Moesha series records (UPN/BET, 1996–2001). Brandy Norwood official biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0115269/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R1-Q2",
+          "episodeId": "EP031",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Before her Oscar-nominated film career, Queen Latifah starred as magazine editor Khadijah James in which long-running Fox sitcom that aired from 1993 to 1998?",
+          "choices": [
+            "The Fresh Prince of Bel-Air",
+            "Sister Sister",
+            "Living Single",
+            "Martin"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Queen Latifah",
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "Queen Latifah",
+              "Living Single",
+              "Fox",
+              "1993",
+              "Khadijah James",
+              "sitcom",
+              "side door"
+            ],
+            "fact": "Living Single aired on Fox from August 1993 to January 1998, running for five seasons. Queen Latifah played Khadijah James — the founder and editor of Flavor magazine — in a performance that established her as a natural television lead. The show is widely credited as a precursor to Friends and ran alongside Martin and The Fresh Prince of Bel-Air as one of the defining Black sitcoms of the decade.",
+            "storyHook": "Five seasons. A magazine editor. A network sitcom at the top of the Fox lineup. Queen Latifah had already built a television career before most people realised the side door was open.",
+            "sourceNotes": "Living Single series records (Fox, 1993–1998). Queen Latifah official biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0105957/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R1-Q3",
+          "episodeId": "EP031",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Bow Wow starred in which 2002 family sports comedy about a foster kid who finds a pair of magical basketball sneakers?",
+          "choices": [
+            "Hardball",
+            "Above the Rim",
+            "Like Mike",
+            "Drumline"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bow Wow",
+            "song": null,
+            "album": null,
+            "year": 2002,
+            "topicTags": [
+              "Bow Wow",
+              "Lil Bow Wow",
+              "Like Mike",
+              "2002",
+              "20th Century Fox",
+              "basketball",
+              "side door"
+            ],
+            "fact": "Like Mike was released on July 3, 2002, and grossed over $31 million at the US box office. Bow Wow — then 15 and still performing as 'Lil' Bow Wow' — played Calvin Cambridge, a foster child who discovers a pair of sneakers once owned by Michael Jordan. The film represented his transition from child rap prodigy to mainstream family film star.",
+            "storyHook": "He was 15. He was already Snoop Dogg's protégé. Like Mike made him a movie star before he could drive. The side door opened early for Bow Wow.",
+            "sourceNotes": "Like Mike theatrical release records (20th Century Fox, 2002). US box office records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0324331/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R1-Q4",
+          "episodeId": "EP031",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Aaliyah made her acting debut in the 2000 action film Romeo Must Die — starring alongside which martial arts icon?",
+          "choices": [
+            "Donnie Yen",
+            "Jet Li",
+            "Jackie Chan",
+            "Tony Jaa"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": null,
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "Aaliyah",
+              "Romeo Must Die",
+              "Jet Li",
+              "2000",
+              "Warner Bros",
+              "film debut",
+              "side door"
+            ],
+            "fact": "Romeo Must Die was released on March 22, 2000, and grossed over $55 million worldwide. Aaliyah starred alongside Jet Li in her feature film debut, playing Trish O'Day with a screen presence that surprised reviewers and studios alike. The film's soundtrack also produced 'Try Again' — produced by Timbaland — which became Aaliyah's first and only #1 on the Billboard Hot 100.",
+            "storyHook": "Her first film. Jet Li as her co-star. A #1 single on the soundtrack. Aaliyah walked through the side door in 2000 and immediately looked like she had always been there.",
+            "sourceNotes": "Romeo Must Die theatrical release records (Warner Bros., 2000). Billboard Hot 100 archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0166877/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R1-Q5",
+          "episodeId": "EP031",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Tyrese Gibson transitioned from R&B to film with a starring role in which 2003 racing sequel?",
+          "choices": [
+            "Biker Boyz",
+            "Torque",
+            "The Italian Job",
+            "2 Fast 2 Furious"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tyrese Gibson",
+            "song": null,
+            "album": null,
+            "year": 2003,
+            "topicTags": [
+              "Tyrese",
+              "Tyrese Gibson",
+              "2 Fast 2 Furious",
+              "2003",
+              "Fast & Furious",
+              "Universal Pictures",
+              "Roman Pearce",
+              "side door"
+            ],
+            "fact": "2 Fast 2 Furious was released on June 6, 2003, and grossed over $236 million worldwide. Tyrese Gibson played Roman Pearce — a childhood friend of Brian O'Conner (Paul Walker) — in a role that launched him as a franchise fixture. Gibson returned in Fast Five, Fast & Furious 6, and every subsequent main installment. His crossover from R&B to action franchise star was one of the most commercially sustained of the 2000s.",
+            "storyHook": "2003. A franchise that would become one of Hollywood's most lucrative. Tyrese got on board early and never left. The side door became a franchise.",
+            "sourceNotes": "2 Fast 2 Furious theatrical release records (Universal Pictures, 2003). Worldwide box office archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0322259/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R1-Q6",
+          "episodeId": "EP031",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "LL Cool J played a shark researcher nicknamed Preacher in which 1999 sci-fi thriller featuring genetically engineered mako sharks?",
+          "choices": [
+            "Virus",
+            "Deep Blue Sea",
+            "Jaws: The Revenge",
+            "The Abyss"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "LL Cool J",
+            "song": null,
+            "album": null,
+            "year": 1999,
+            "topicTags": [
+              "LL Cool J",
+              "Deep Blue Sea",
+              "1999",
+              "Warner Bros",
+              "Preacher",
+              "Renny Harlin",
+              "side door"
+            ],
+            "fact": "Deep Blue Sea was released on July 28, 1999, and grossed over $165 million worldwide. LL Cool J played Sherman 'Preacher' Dudley — the facility's cook — providing comic relief and achieving survivor status in the creature feature. His film work in the late 1990s laid the groundwork for a sustained acting career that would culminate in 14 seasons on NCIS: Los Angeles beginning in 2009.",
+            "storyHook": "A rapper. A kitchen. A tank of genetically engineered sharks. LL Cool J survived Deep Blue Sea in 1999 and built an acting career that would run for 14 seasons on network television.",
+            "sourceNotes": "Deep Blue Sea theatrical release records (Warner Bros., 1999). Worldwide box office archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0149261/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R1-B1",
+          "episodeId": "EP031",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "In Chicago, Queen Latifah played a fast-talking prison matron who controls information inside Cook County Jail. What was the character's name?",
+          "choices": [
+            "Velma Kelly",
+            "Matron Mama Morton",
+            "Mary Sunshine",
+            "Roxie Hart"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "2",
+            "bonusHint": "DIGIT 1 OF 3 — QUEEN LATIFAH'S CHICAGO ROLE"
+          },
+          "metadata": {
+            "artist": "Queen Latifah",
+            "song": null,
+            "album": null,
+            "year": 2002,
+            "topicTags": [
+              "Queen Latifah",
+              "Chicago",
+              "Matron Morton",
+              "Mama Morton",
+              "Academy Award",
+              "2002",
+              "bonus digit"
+            ],
+            "fact": "Matron 'Mama' Morton — played by Queen Latifah — is the Cook County Jail's head matron who trades media access and legal favors for celebrity connections. Her show-stopping number 'When You're Good to Mama' was the standout scene of her performance. Latifah's nomination for Best Supporting Actress at the 75th Academy Awards marked a landmark moment in the crossover between hip-hop, R&B, and Hollywood.",
+            "storyHook": "Velma Kelly gets the opening number. Roxie Hart gets the poster. But Mama Morton controls the jail. Queen Latifah found the character with the most power in the room and played her accordingly.",
+            "sourceNotes": "Chicago theatrical release records (Miramax, 2002). 75th Academy Awards nomination records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0299658/fullcredits",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP031-R1-RES1",
+          "episodeId": "EP031",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Queen Latifah's Oscar-nominated performance in Chicago was directed by which filmmaker — who later directed Memoirs of a Geisha and Nine?",
+          "choices": [
+            "Tyler Perry",
+            "Rob Marshall",
+            "John Singleton",
+            "Spike Lee"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Queen Latifah",
+            "song": null,
+            "album": null,
+            "year": 1996,
+            "topicTags": [
+              "Queen Latifah",
+              "Chicago",
+              "Rob Marshall",
+              "2002",
+              "director",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Chicago theatrical release records (Miramax, 2002).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0299658/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R1-RES2",
+          "episodeId": "EP031",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Eve starred in her own self-titled sitcom on UPN — which ran from 2003 to 2006 — alongside which comedian who played her love interest and later husband?",
+          "choices": [
+            "Flex Alexander",
+            "Chris Tucker",
+            "Cedric the Entertainer",
+            "Jason George"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Eve",
+            "song": null,
+            "album": null,
+            "year": 2003,
+            "topicTags": [
+              "Eve",
+              "UPN",
+              "sitcom",
+              "2003",
+              "Jason George",
+              "television",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Eve (TV series) records (UPN, 2003–2006).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0362165/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R1-RES3",
+          "episodeId": "EP031",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Eve starred in her own self-titled sitcom on UPN starting in 2003. How many seasons did the show run before it ended in 2006?",
+          "choices": [
+            "2 seasons",
+            "3 seasons",
+            "4 seasons",
+            "5 seasons"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bow Wow",
+            "song": null,
+            "album": null,
+            "year": 1997,
+            "topicTags": [
+              "Eve",
+              "UPN",
+              "sitcom",
+              "2003",
+              "2006",
+              "television",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Eve (TV series) records (UPN, 2003–2006).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0362165/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R1-RES4",
+          "episodeId": "EP031",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Tyrese Gibson's debut R&B single — released in 1998 and anchoring the late-90s slow jam era — was titled what?",
+          "choices": [
+            "Sweet Lady",
+            "Signs of Love Makin'",
+            "Just a Baby Boy",
+            "How You Gonna Act Like That"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tyrese Gibson",
+            "song": null,
+            "album": null,
+            "year": 1998,
+            "topicTags": [
+              "Tyrese",
+              "Sweet Lady",
+              "debut single",
+              "1998",
+              "RCA Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Tyrese Gibson official discography. RCA Records press materials (1998).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/name/nm0316055/bio/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "track",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The fashion empires, supporting roles, and production deals behind the headline credits. This is where real fans separate from casual listeners.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP031-R2-Q1",
+          "episodeId": "EP031",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Jay-Z co-founded which streetwear label in 1999 with Damon Dash that grew into a multimillion-dollar fashion empire?",
+          "choices": [
+            "Sean John",
+            "G-Unit Clothing",
+            "Rocawear",
+            "FUBU"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jay-Z",
+            "song": null,
+            "album": null,
+            "year": 1999,
+            "topicTags": [
+              "Jay-Z",
+              "Rocawear",
+              "Damon Dash",
+              "1999",
+              "fashion",
+              "Roc-A-Fella",
+              "streetwear",
+              "side door"
+            ],
+            "fact": "Rocawear was founded in 1999 by Jay-Z and Damon Dash, initially distributed through Roc-A-Fella Records' commercial network. The brand grew rapidly through placement in music videos and celebrity endorsement. By the mid-2000s, Rocawear generated over $700 million in annual retail sales. In 2007, Jay-Z sold the brand's intellectual property to Iconix Brand Group for a reported $204 million, retaining the licensing rights.",
+            "storyHook": "Jay-Z and Damon Dash turned Roc-A-Fella's momentum into a fashion empire before most people understood that music and fashion were the same business.",
+            "sourceNotes": "Rocawear founding records. Roc-A-Fella Records documentation. Iconix Brand Group acquisition press releases (2007).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Business of Fashion",
+                "url": "https://www.businessoffashion.com",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R2-Q2",
+          "episodeId": "EP031",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Puff Daddy's fashion label made history at the 2004 CFDA ceremony — winning which prestigious award that had rarely been given to a celebrity clothing line?",
+          "choices": [
+            "Menswear Designer of the Year",
+            "Board of Directors' Tribute",
+            "Womenswear Designer of the Year",
+            "Fashion Icon Award"
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Puff Daddy",
+            "song": null,
+            "album": null,
+            "year": 1998,
+            "topicTags": [
+              "Puff Daddy",
+              "Sean John",
+              "CFDA",
+              "2004",
+              "Menswear Designer of the Year",
+              "fashion award",
+              "side door"
+            ],
+            "fact": "In 2004, the Council of Fashion Designers of America awarded Sean John the Menswear Designer of the Year award — one of the most prestigious recognitions in American fashion. It was a landmark moment: a hip-hop artist and R&B impresario receiving the same honour given to established fashion houses. Sean John had been founded just six years earlier in 1998.",
+            "storyHook": "Six years from founding to CFDA Menswear Designer of the Year. Puff Daddy didn't ask the fashion establishment to take him seriously — he made them.",
+            "sourceNotes": "CFDA Menswear Designer of the Year award records (2004). Sean John founding documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "CFDA",
+                "url": "https://cfda.com/awards",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R2-Q3",
+          "episodeId": "EP031",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "DMX's first major film appearance came in which 1998 crime drama — directed by music video director Hype Williams and co-starring Nas and Method Man?",
+          "choices": [
+            "Belly",
+            "Paid in Full",
+            "State Property",
+            "Crime Partners"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "DMX",
+            "song": null,
+            "album": null,
+            "year": 1998,
+            "topicTags": [
+              "DMX",
+              "Belly",
+              "1998",
+              "Hype Williams",
+              "Nas",
+              "Method Man",
+              "film debut",
+              "side door"
+            ],
+            "fact": "Belly was released on November 4, 1998, directed by Hype Williams — then the most prominent music video director in hip-hop and R&B. DMX played Tommy Buns alongside Nas as Sincere, with Method Man in a supporting role. The film was a visual landmark even if its box office was modest, and it established DMX's screen credibility ahead of his more commercially successful film work in Romeo Must Die (2000) and Exit Wounds (2001).",
+            "storyHook": "Hype Williams' only feature film. Nas and DMX as co-leads. Belly in 1998 was the side door that the whole hip-hop and R&B world walked through together — and nobody looked back.",
+            "sourceNotes": "Belly theatrical release records (Artisan Entertainment, 1998). Hype Williams biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0147612/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R2-Q4",
+          "episodeId": "EP031",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Eve starred alongside Ice Cube and Cedric the Entertainer in which 2002 comedy film set inside a Chicago barbershop?",
+          "choices": [
+            "Deliver Us from Eva",
+            "Friday After Next",
+            "Barbershop",
+            "Drumline"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Eve",
+            "song": null,
+            "album": null,
+            "year": 2002,
+            "topicTags": [
+              "Eve",
+              "Barbershop",
+              "2002",
+              "Ice Cube",
+              "Cedric the Entertainer",
+              "MGM",
+              "Terri Jones",
+              "side door"
+            ],
+            "fact": "Barbershop was released on September 13, 2002, and grossed over $75 million at the US box office. Eve played Terri Jones — a beautician whose salon adjoins Calvin's barbershop. The film also starred Anthony Anderson and Sean Patrick Thomas. A sequel, Barbershop 2: Back in Business, followed in 2004, with Eve returning to her role.",
+            "storyHook": "A $75 million box office return. A community story. Eve stepped into Barbershop in 2002 and held her own against a cast full of established comedic talents. The side door, in her case, had room to grow.",
+            "sourceNotes": "Barbershop theatrical release records (MGM, 2002). US box office records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0305888/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R2-Q5",
+          "episodeId": "EP031",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "DMX didn't just dominate music — he also built a strong film career. In the 2001 action movie Exit Wounds, he starred opposite which leading action star?",
+          "choices": [
+            "Vin Diesel",
+            "Steven Seagal",
+            "Jean-Claude Van Damme",
+            "Dolph Lundgren"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "DMX",
+            "song": null,
+            "album": null,
+            "year": 2001,
+            "topicTags": [
+              "DMX",
+              "Exit Wounds",
+              "Steven Seagal",
+              "2001",
+              "Warner Bros",
+              "Latrell Walker",
+              "action film",
+              "side door"
+            ],
+            "fact": "Exit Wounds was released on March 16, 2001, and grossed over $51 million at the US box office. Steven Seagal played rogue Detroit cop Orin Boyd while DMX played Latrell Walker — a seemingly shady businessman who becomes an unlikely ally. The film reflected DMX's broader move into action cinema, following his appearance in Belly (1998) and Romeo Must Die (2000).",
+            "storyHook": "At the exact moment DMX was at the commercial summit of his music career, he was also co-starring in studio action films. Exit Wounds in 2001 was the peak of both arcs running simultaneously.",
+            "sourceNotes": "Exit Wounds theatrical release records (Warner Bros., 2001). US box office records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0244244/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R2-B1",
+          "episodeId": "EP031",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "In 2007, Rocawear's intellectual property was acquired for $204 million by which brand management company — with Jay-Z staying on as Chief Creative Officer and his partners retaining control of the manufacturing operation as a licensee?",
+          "choices": [
+            "PVH Corp",
+            "Iconix Brand Group",
+            "VF Corporation",
+            "G-III Apparel Group"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 2 OF 3 — ROCAWEAR'S 2007 BUYER"
+          },
+          "metadata": {
+            "artist": "Jay-Z",
+            "song": null,
+            "album": null,
+            "year": 2007,
+            "topicTags": [
+              "Jay-Z",
+              "Rocawear",
+              "Iconix Brand Group",
+              "2007",
+              "$204 million",
+              "fashion",
+              "licensing",
+              "bonus digit"
+            ],
+            "fact": "Iconix Brand Group purchased Rocawear's intellectual property for $204 million in cash in 2007, with an additional $35 million in contingent Iconix stock tied to future performance. Jay-Z and his partners (Alex Bize and Norton Cher) kept control of the operating company that manufactured the core men's apparel line — becoming a licensee of Iconix for that business. Jay-Z retained his title as Chief Creative Officer, overseeing product development, marketing, and licensing under the Iconix umbrella. Legal disputes later led to Jay-Z buying back the intellectual property for $15 million as part of a 2019 settlement.",
+            "storyHook": "Iconix bought the name. Jay-Z kept the factory and the creative chair. The deal in 2007 was more nuanced than the headline number suggested — and the 2019 buyback proved he always intended to get the IP back.",
+            "sourceNotes": "Billboard (https://www.billboard.com/music/music-news/rocawear-acquired-for-204-million-1326256/). NY Times DealBook (https://dealbook.nytimes.com/2007/03/06/jay-z-cashes-in-with-200-million-rocawear-deal/). Apparel News (https://www.apparelnews.net/news/2007/mar/09/iconix-buys-rocawear/). Forbes/Kori Hale (https://www.forbes.com/sites/korihale/2019/11/24/jay-zs-roc-nation-gets-iconix-lawsuit-dismissed-for-15m/). Black Enterprise buyback coverage (https://www.blackenterprise.com/jay-z-buys-back-intellectual-property-for-rocawear-for-15-million/).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Billboard",
+                "url": "https://www.billboard.com/music/music-news/rocawear-acquired-for-204-million-1326256/",
+                "accessed": "2026-05-14"
+              },
+              {
+                "title": "NY Times DealBook",
+                "url": "https://dealbook.nytimes.com/2007/03/06/jay-z-cashes-in-with-200-million-rocawear-deal/",
+                "accessed": "2026-05-14"
+              },
+              {
+                "title": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rocawear",
+                "accessed": "2026-05-14"
+              }
+            ],
+            "sourcesCount": 5
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 5,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP031-R2-RES1",
+          "episodeId": "EP031",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Queen Latifah founded which production company in 1995 that has since produced numerous film and television projects?",
+          "choices": [
+            "Jersey Films",
+            "Queen Productions",
+            "Flavor Unit Entertainment",
+            "Latifah Films"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Queen Latifah",
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "Queen Latifah",
+              "Flavor Unit Entertainment",
+              "1995",
+              "production company",
+              "television",
+              "film",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Flavor Unit Entertainment founding records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/company/co0017734/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R2-RES2",
+          "episodeId": "EP031",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Brandy's 1997 Cinderella TV film — co-starring Whitney Houston as the Fairy Godmother — aired on which US network?",
+          "choices": [
+            "UPN",
+            "CBS",
+            "ABC",
+            "NBC"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy",
+            "song": null,
+            "album": null,
+            "year": 1997,
+            "topicTags": [
+              "Brandy",
+              "Cinderella",
+              "ABC",
+              "1997",
+              "Whitney Houston",
+              "network",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Cinderella broadcast records (ABC/Disney, 1997).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0118921/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R2-RES3",
+          "episodeId": "EP031",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "In which year did Sean John win the CFDA Menswear Designer of the Year award — the first celebrity clothing label to receive the honour?",
+          "choices": [
+            "2005",
+            "2002",
+            "2003",
+            "2004"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Puff Daddy",
+            "song": null,
+            "album": null,
+            "year": 2004,
+            "topicTags": [
+              "Sean John",
+              "CFDA",
+              "2004",
+              "Menswear Designer",
+              "Puff Daddy",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "CFDA Menswear Designer of the Year award records (2004).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://cfda.com/awards",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The castings that never happened, the prom scene cameos, and the facts that reframe the artists you think you know.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP031-R3-Q1",
+          "episodeId": "EP031",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Aaliyah was cast in which role in The Matrix sequels before her death in August 2001 — a part ultimately played by Nona Gaye?",
+          "choices": [
+            "Zee",
+            "Maggie",
+            "Ghost",
+            "Niobe"
+          ],
+          "correctIndex": 0,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": null,
+            "album": null,
+            "year": 2001,
+            "topicTags": [
+              "Aaliyah",
+              "Matrix",
+              "Zee",
+              "Nona Gaye",
+              "Wachowski",
+              "2003",
+              "casting",
+              "side door"
+            ],
+            "fact": "Aaliyah was cast as Zee — a crew member of the Zion hovercraft — for The Matrix Reloaded and The Matrix Revolutions. Following her death on August 25, 2001, the Wachowskis recast the role, which was ultimately played by Nona Gaye — daughter of Marvin Gaye. Aaliyah had already begun preparations for filming when she died. Both Matrix sequels were released in 2003.",
+            "storyHook": "She was cast. The role was hers. Then August 2001. Nona Gaye — Marvin Gaye's daughter — stepped in. The Matrix sequels carry an absence that most viewers don't know to look for.",
+            "sourceNotes": "The Matrix Reloaded production records (Village Roadshow/Warner Bros., 2003). Casting documentation. Nona Gaye biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0234215/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R3-Q2",
+          "episodeId": "EP031",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Usher made an early film appearance in which 1999 teen comedy — playing a DJ at the film's climactic prom scene?",
+          "choices": [
+            "10 Things I Hate About You",
+            "She's All That",
+            "Can't Hardly Wait",
+            "Never Been Kissed"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Usher",
+            "song": null,
+            "album": null,
+            "year": 1999,
+            "topicTags": [
+              "Usher",
+              "She's All That",
+              "1999",
+              "Miramax",
+              "prom",
+              "cameo",
+              "Freddie Prinze Jr",
+              "side door"
+            ],
+            "fact": "Usher appeared in the 1999 teen comedy She's All That, playing the DJ at the film's climactic prom scene. The film starred Freddie Prinze Jr. and Rachael Leigh Cook. Usher's brief appearance introduced him to a mainstream film audience. He would later take on a more substantial stage role, playing Billy Flynn in the Broadway production of Chicago in 2006.",
+            "storyHook": "A prom scene. A brief appearance. Usher in 1999 showed up in She's All That before 'Confessions' made the crossover conversation irrelevant — he was already through the door.",
+            "sourceNotes": "She's All That theatrical release records (Miramax, 1999). Usher official biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0160862/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R3-B1",
+          "episodeId": "EP031",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Aaliyah completed filming for Queen of the Damned — released posthumously in February 2002 — in which Australian city where principal photography took place?",
+          "choices": [
+            "Brisbane",
+            "Adelaide",
+            "Melbourne",
+            "Sydney"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 3 OF 3 — WHERE QUEEN OF THE DAMNED WAS FILMED"
+          },
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": null,
+            "album": null,
+            "year": 2002,
+            "topicTags": [
+              "Aaliyah",
+              "Queen of the Damned",
+              "Melbourne",
+              "Australia",
+              "2002",
+              "posthumous",
+              "Warner Bros",
+              "bonus digit"
+            ],
+            "fact": "Principal photography for Queen of the Damned took place almost entirely in Melbourne, Australia. The film — a loose adaptation of Anne Rice's Vampire Chronicles novels — was shot at various Melbourne locations. Aaliyah completed filming in the weeks before her death in August 2001. The film was released posthumously on February 22, 2002, and marked the second and final feature film of her career.",
+            "storyHook": "She filmed it in Melbourne. She never saw it released. Queen of the Damned came out in February 2002 carrying the weight of an absence its audience already knew about.",
+            "sourceNotes": "Queen of the Damned production records (Warner Bros., 2002). Principal photography location: Wikipedia (https://en.wikipedia.org/wiki/Queen_of_the_Damned). IMDB filming locations (https://www.imdb.com/title/tt0238546/locations/).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Queen_of_the_Damned",
+                "accessed": "2026-05-14"
+              },
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt0238546/locations/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP031-R3-RES1",
+          "episodeId": "EP031",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Tyrese Gibson — who rose to fame via a 1994 Coca-Cola commercial — grew up in which Los Angeles neighbourhood?",
+          "choices": [
+            "Compton",
+            "Watts",
+            "Long Beach",
+            "Inglewood"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tyrese Gibson",
+            "song": null,
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "Tyrese Gibson",
+              "Watts",
+              "Los Angeles",
+              "biography",
+              "hometown"
+            ],
+            "fact": "Tyrese Gibson grew up in Watts, a neighbourhood in South Los Angeles. His Watts upbringing — and the 1994 Coca-Cola commercial filmed on a city bus — formed the origin story of one of R&B's most recognisable voices of the late 90s.",
+            "storyHook": "The Coca-Cola bus. The city bus route through Watts. Tyrese Gibson's career started with both.",
+            "sourceNotes": "Verified: Tyrese Gibson born and raised in Watts, Los Angeles. Sources: Wikipedia, Instagram, Tyrese's own Facebook.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tyrese Gibson – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tyrese_Gibson",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Tyrese Gibson raised in Watts – Instagram",
+                "url": "https://www.instagram.com/p/DXA8DBQiHLu/",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Tyrese Facebook post referencing Watts",
+                "url": "https://www.facebook.com/tyrese/photos/the-one-thing-about-compton-is-its-too-many-of-yall-coming-out-of-compton-us-fol/16943081",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP031-R3-RES2",
+          "episodeId": "EP031",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "LL Cool J has starred as NCIS Special Agent Sam Hanna in which long-running CBS procedural drama series since 2009?",
+          "choices": [
+            "NCIS: Hawai'i",
+            "NCIS",
+            "NCIS: New Orleans",
+            "NCIS: Los Angeles"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "LL Cool J",
+            "song": null,
+            "album": null,
+            "year": 2009,
+            "topicTags": [
+              "LL Cool J",
+              "NCIS Los Angeles",
+              "Sam Hanna",
+              "CBS",
+              "2009",
+              "television",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "NCIS: Los Angeles series records (CBS, 2009–present).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMDb",
+                "url": "https://www.imdb.com/title/tt1378167/",
+                "accessed": "2026-05-14"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-14",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-19T22:50:26.681451+00:00"
+  }
+}

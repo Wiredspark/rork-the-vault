@@ -1,0 +1,1764 @@
+{
+  "episodeId": "EP027",
+  "title": "The Dark Side",
+  "theme": "The bankruptcies, breakdowns, fires, and plane crashes that lived underneath the music. The stories every fan knows and nobody wants to repeat.",
+  "narrativePurpose": "Test knowledge of the controversies, collapses, and tragedies that defined R&B's shadow era — the incidents that shaped artist narratives as much as any album.",
+  "toneProgression": "The incidents everyone already knows → sports crossovers, state records, and comeback labels → cents per album, employee counts, and the aftermath",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "1"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 2-0-0-1 — the year Aaliyah died in August and Mariah Carey's public breakdown unfolded in real time. D'Angelo had already retreated. The decade's price tag came due in a single calendar year."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The incidents everyone already knows. These stories ran alongside the music — sometimes louder than it.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP027-R1-Q1",
+          "episodeId": "EP027",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "In 1994, Lisa 'Left Eye' Lopes set fire to the home of which NFL star — beginning one of R&B's most publicized personal crises?",
+          "choices": [
+            "Terrell Davis",
+            "Michael Irvin",
+            "Deion Sanders",
+            "Andre Rison"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "Lisa Lopes",
+              "Left Eye",
+              "Andre Rison",
+              "fire",
+              "1994",
+              "Atlanta",
+              "TLC"
+            ],
+            "fact": "Lisa 'Left Eye' Lopes set fire to Andre Rison's mansion in Atlanta in June 1994 — she later said she intended to burn only his shoes, which she had placed in a bathtub, but the fire spread to the entire home. Rison, a wide receiver who played for the Atlanta Falcons, did not press criminal charges. Lopes entered rehab and received five years of supervised probation.",
+            "storyHook": "She meant to burn his shoes. The bathtub fire spread. The whole house went. Andre Rison didn't press charges. TLC's biggest album was still coming.",
+            "sourceNotes": "Fulton County court records (1994). Atlanta Journal-Constitution archival coverage. TLC biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lisa 'Left Eye' Lopes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lisa_Lopes",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Andre Rison's house burned by Left Eye – AJC",
+                "url": "https://www.ajc.com/sports/atlanta-falcons/remember-when-left-eye-burned-down-andre-risons-house/4RrR5sY3eG8W2LwR7N/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R1-Q2",
+          "episodeId": "EP027",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Mariah Carey's 2001 public breakdown occurred while she was promoting which album — widely considered one of the decade's biggest commercial disasters?",
+          "choices": [
+            "Glitter",
+            "Rainbow",
+            "Emotions",
+            "Charmbracelet"
+          ],
+          "correctIndex": 0,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": null,
+            "album": "Glitter",
+            "year": 2001,
+            "topicTags": [
+              "Mariah Carey",
+              "Glitter",
+              "breakdown",
+              "2001",
+              "Virgin Records",
+              "TRL"
+            ],
+            "fact": "'Glitter' — the soundtrack to Mariah Carey's semi-autobiographical film — was released September 11, 2001, a date that ensured minimal promotional coverage. The album debuted at #7 on the Billboard 200 and quickly fell. Months of erratic public appearances preceded its release, culminating in a July 2001 TRL appearance that became one of the era's most widely covered celebrity incidents.",
+            "storyHook": "The album dropped on September 11, 2001. No promotional cycle survived that date. The breakdown had already happened by then. 'Glitter' arrived into silence.",
+            "sourceNotes": "Glitter liner notes (Virgin Records, 2001). Billboard 200 chart archives. TRL broadcast archives (July 2001).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Glitter (Mariah Carey album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Glitter_(Mariah_Carey_album)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Mariah Carey – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mariah_Carey",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R1-Q3",
+          "episodeId": "EP027",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "MC Hammer filed for bankruptcy in 1996 — his reported liabilities at the time were approximately how much?",
+          "choices": [
+            "$13 million",
+            "$5 million",
+            "$50 million",
+            "$1 million"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "MC Hammer",
+            "song": null,
+            "album": null,
+            "year": 1996,
+            "topicTags": [
+              "MC Hammer",
+              "$13 million",
+              "bankruptcy",
+              "1996",
+              "financial collapse",
+              "200 employees"
+            ],
+            "fact": "MC Hammer filed for Chapter 11 bankruptcy in April 1996 with approximately $13 million in liabilities against $1 million in assets — a collapse driven by a payroll of roughly 200 employees, a $12 million mansion in Fremont, California, and spending habits built around a commercial peak that ended faster than it arrived.",
+            "storyHook": "Earned over $33 million. Spent most of it on 200 employees and a mansion. Filed for bankruptcy at $13 million in the red. The math is a cautionary tale that still gets taught in business schools.",
+            "sourceNotes": "MC Hammer Chapter 11 bankruptcy filing (1996). US Bankruptcy Court documentation. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Today in Hip-Hop: MC Hammer Files for Bankruptcy – XXL",
+                "url": "https://www.xxlmag.com/today-hip-hop-mc-hammer-files-bankruptcy/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "M.C. Hammer: From Rich to Poor to Wealthy – Blue Tree Savings",
+                "url": "https://www.bluetreesavings.com/post/m-c-hammer-from-rich-to-poor-to-wealthy",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "MC Hammer Reportedly Sued for $800K in Back Taxes – BET",
+                "url": "https://www.bet.com/article/4zi5pt/mc-hammer-reportedly-sued-for-usd800k-in-back-taxes",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R1-Q4",
+          "episodeId": "EP027",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Lisa 'Left Eye' Lopes died in April 2002 while traveling in which Central American country?",
+          "choices": [
+            "Guatemala",
+            "Honduras",
+            "Costa Rica",
+            "Belize"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": 2002,
+            "topicTags": [
+              "Lisa Lopes",
+              "Left Eye",
+              "Honduras",
+              "2002",
+              "death",
+              "car accident",
+              "documentary"
+            ],
+            "fact": "Lisa 'Left Eye' Lopes died on April 25, 2002, in La Ceiba, Honduras — she was involved in a car accident while riding in an SUV with members of her entourage. She was in Honduras working with herbalist Alfredo Bowman and filming a personal documentary. She was 30 years old.",
+            "storyHook": "She was 30 years old. Filming a documentary. Riding in an SUV in Honduras. The accident came from nowhere. TLC had one member fewer, and the industry had one of its most startling losses.",
+            "sourceNotes": "La Ceiba, Honduras accident report (April 25, 2002). TLC biographical records. Documentary production documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lisa Lopes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lisa_Lopes",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Singer Lisa Lopes Killed In Car Crash – CBS News",
+                "url": "https://www.cbsnews.com/news/singer-lisa-lopes-killed-in-car-crash/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "TLC's Lisa 'Left Eye' Lopes dies in wreck – CNN",
+                "url": "https://www.cnn.com/2002/SHOWBIZ/Music/04/26/obit.lopes/index.html",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R1-Q5",
+          "episodeId": "EP027",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2010s",
+          "question": "D'Angelo returned from his long absence from music with which 2014 comeback album — released as a surprise with minimal advance notice?",
+          "choices": [
+            "Voodoo II",
+            "Brown Sugar 2",
+            "The Return",
+            "Black Messiah"
+          ],
+          "correctIndex": 3,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": null,
+            "album": "Black Messiah",
+            "year": 2014,
+            "topicTags": [
+              "D'Angelo",
+              "Black Messiah",
+              "2014",
+              "RCA Records",
+              "comeback",
+              "surprise release"
+            ],
+            "fact": "'Black Messiah' was released on December 15, 2014, with roughly 24 hours of advance notice — D'Angelo's first studio album in fourteen years arrived during a moment of significant social unrest in the United States, and its content reflected the political tenor of the moment. The album received unanimous critical acclaim and won the Grammy for Best R&B Album.",
+            "storyHook": "Fourteen years of silence. A 24-hour announcement. December 15, 2014. 'Black Messiah' arrived during a week of national protest and landed as one of the most politically charged R&B records in decades.",
+            "sourceNotes": "Black Messiah liner notes (RCA Records, 2014). Billboard chart archives. Grammy Award records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Black Messiah (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Black_Messiah_(album)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "D'Angelo's 'Black Messiah' Was Released in a Rush – NYT",
+                "url": "https://www.nytimes.com/2014/12/17/arts/music/dangelos-black-messiah-was-released-in-a-rush.html",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "D'Angelo surprise releases Black Messiah – The Line of Best Fit",
+                "url": "https://www.thelineofbestfit.com/news/latest-news/dangelo-surprise-releases-new-album-black-messiah",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R1-Q6",
+          "episodeId": "EP027",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Aaliyah died in August 2001 immediately after completing the music video for which song?",
+          "choices": [
+            "Rock the Boat",
+            "More Than a Woman",
+            "Try Again",
+            "Are You That Somebody"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": "Rock the Boat",
+            "album": "Aaliyah",
+            "year": 2001,
+            "topicTags": [
+              "Aaliyah",
+              "Rock the Boat",
+              "plane crash",
+              "2001",
+              "Bahamas",
+              "Abaco"
+            ],
+            "fact": "Aaliyah completed filming the 'Rock the Boat' video in the Bahamas on August 24, 2001 — she and eight others died the following day when their chartered Cessna 402 crashed shortly after takeoff from Marsh Harbour Airport on Abaco Island. She was 22 years old. 'Rock the Boat' was released posthumously.",
+            "storyHook": "She finished filming on a Friday. The plane crashed Saturday morning. The video was released after her death. 'Rock the Boat' is inseparable from what happened the morning after it was completed.",
+            "sourceNotes": "Abaco Island accident report (August 25, 2001). National Transportation Safety Board documentation. Blackground Records posthumous release records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rock the Boat (Aaliyah song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rock_the_Boat_(Aaliyah_song)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "The Story Behind Aaliyah's 'Rock the Boat' – W Magazine",
+                "url": "https://www.wmagazine.com/culture/aaliyah-rock-the-boat-music-video-making-of-interview",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Aaliyah's Final Video Shoot – YouTube",
+                "url": "https://www.youtube.com/watch?v=ClNdmb4m0pc",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R1-B1",
+          "episodeId": "EP027",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "TLC's manager — who had signed them to a contract with an unfavorable royalty structure that left each member earning very little per album sold — was known by which stage name?",
+          "choices": [
+            "Pebbles",
+            "Diamond",
+            "Missy",
+            "Peaches"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "2",
+            "bonusHint": "DIGIT 1 OF 3 — TLC'S MANAGER'S STAGE NAME"
+          },
+          "metadata": {
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "TLC",
+              "Pebbles",
+              "Perri Reid",
+              "management",
+              "bankruptcy",
+              "royalties",
+              "LaFace Records",
+              "bonus digit"
+            ],
+            "fact": "Pebbles — born Perri Arnette McKissack, later Perri Reid — managed TLC and was married to LaFace Records co-founder L.A. Reid at the time of the signing, creating a significant conflict of interest. TLC's original contract reportedly paid the entire group approximately 56 cents per album sold — split three ways and eaten further by recoupable expenses, each member was clearing less than 19 cents per unit before costs. Despite becoming the best-selling female group in American history, they filed for bankruptcy in 1995 while CrazySexyCool was at its commercial peak.",
+            "storyHook": "The manager was married to the label head. The contract paid the entire group 56 cents per album — split three ways, less than 19 cents each before expenses. The album became the best-selling female group record in American history. The artists filed for bankruptcy anyway.",
+            "sourceNotes": "TLC bankruptcy filing (1995). Perri Reid management documentation. LaFace Records conflict-of-interest documentation. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TLC's Contracts With Pebbles Explained – Hello Beautiful",
+                "url": "https://hellobeautiful.com/2677234/tlc-versus-pebbles/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Pebbles sues TLC over VH1 biopic – AJC",
+                "url": "https://www.ajc.com/blog/radiotvtalk/pebbles-sues-tlc-over-vh1-biopic-for-million/jR6bteowKunGgZSu7abLUK/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "How TLC Fought to Win Back Their Name From Pebbles – Black Girls Bond",
+                "url": "https://blackgirlsbond.com/how-tlc-fought-and-paid-3-million-dollars-to-win-back-their-iconic-name-from-former-manager-pebbles/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "artist",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP027-R1-RES1",
+          "episodeId": "EP027",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "MC Hammer filed for bankruptcy in which month of 1996 — capping a financial collapse that had accelerated over the previous two years?",
+          "choices": [
+            "December",
+            "September",
+            "January",
+            "April"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "MC Hammer",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "MC Hammer",
+              "April",
+              "bankruptcy",
+              "1996",
+              "financial collapse",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "MC Hammer Chapter 11 bankruptcy filing (April 1996). US Bankruptcy Court documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "MC Hammer Files For Bankruptcy – Songfacts",
+                "url": "https://calendar.songfacts.com/april/1/17530",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Rapper M.C. Hammer files for bankruptcy – SFGATE",
+                "url": "https://www.sfgate.com/news/article/Rapper-M-C-Hammer-files-for-bankruptcy-protection-3148086.php",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "MC Hammer filed for Chapter 11 in April 1996 – Instagram",
+                "url": "https://www.instagram.com/reel/C-GKlEnOUey/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "label",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R1-RES2",
+          "episodeId": "EP027",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Mariah Carey's 2001 breakdown famously included an erratic appearance on which MTV daily music request show?",
+          "choices": [
+            "Unplugged",
+            "Total Request Live",
+            "120 Minutes",
+            "TRL"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mariah Carey",
+            "song": null,
+            "album": "Glitter",
+            "year": 2001,
+            "topicTags": [
+              "Mariah Carey",
+              "TRL",
+              "MTV",
+              "breakdown",
+              "2001",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "MTV TRL broadcast archives (July 2001). Mariah Carey biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mariah Melts Down On TRL – Songfacts",
+                "url": "https://calendar.songfacts.com/july/19/19680",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Total Request Live – The Mariah Network",
+                "url": "https://mariahcareynetwork.com/tv/appearances/mtv-trl.html",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Mariah Carey TRL breakdown recap – Facebook/Boiler Room",
+                "url": "https://www.facebook.com/fourthree.boilerroom.tv/videos/the-most-surreal-talk-show-appearances-mariah-careys-trl-breakdown/25272",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R1-RES3",
+          "episodeId": "EP027",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Lisa 'Left Eye' Lopes performed and recorded under a stage name — her full birth name is what?",
+          "choices": [
+            "Lisa Marie Lopes",
+            "Lisa Renee Thomas",
+            "Lisa Ann Lopes",
+            "Lisa Nicole Lopes"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Lisa Lopes",
+              "Left Eye",
+              "Lisa Nicole Lopes",
+              "birth name",
+              "TLC",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Lisa Lopes official biography. TLC press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lisa Lopes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lisa_Lopes",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Singer Lisa Lopes Killed In Car Crash – CBS News",
+                "url": "https://www.cbsnews.com/news/singer-lisa-lopes-killed-in-car-crash/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Lisa Lopes' Death: How She Spent Her Final Days – People",
+                "url": "https://people.com/lisa-lopes-death-legacy-what-to-know-8721984",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R1-RES4",
+          "episodeId": "EP027",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Aaliyah's plane crash in August 2001 occurred over which island group in the Bahamas?",
+          "choices": [
+            "Exuma",
+            "Abaco",
+            "Nassau",
+            "Eleuthera"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": null,
+            "album": null,
+            "year": 2001,
+            "topicTags": [
+              "Aaliyah",
+              "Abaco",
+              "Bahamas",
+              "plane crash",
+              "2001",
+              "Marsh Harbour",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "NTSB accident report (August 25, 2001). Abaco Islands, Bahamas documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Aaliyah – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Aaliyah",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Aaliyah plane crash: What really happened – The Guardian",
+                "url": "https://www.theguardian.com/music/2011/aug/25/aaliyah-plane-crash-what-happened",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Sports crossovers, state records, comeback labels, and the harder facts behind the headlines.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP027-R2-Q1",
+          "episodeId": "EP027",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Andre Rison — whose home Lisa 'Left Eye' Lopes burned down in 1994 — played which position in the NFL?",
+          "choices": [
+            "Wide receiver",
+            "Tight end",
+            "Running back",
+            "Quarterback"
+          ],
+          "correctIndex": 0,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "Andre Rison",
+              "wide receiver",
+              "NFL",
+              "Atlanta Falcons",
+              "Left Eye",
+              "TLC"
+            ],
+            "fact": "Andre Rison was a wide receiver who played for multiple NFL teams — including the Atlanta Falcons at the time of the 1994 fire — and was known as one of the era's most electrifying pass-catchers. His relationship with Lisa 'Left Eye' Lopes was public knowledge before the fire, and the incident generated coverage that spanned sports and entertainment media simultaneously.",
+            "storyHook": "An R&B star. An NFL wide receiver. A house fire. 1994 was the year the sports and entertainment tabloid worlds became one story.",
+            "sourceNotes": "Andre Rison NFL career documentation. Atlanta Falcons press materials (1994). Fulton County court records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Andre Rison – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Andre_Rison",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Andre Rison Career Stats – NFL.com",
+                "url": "https://www.nfl.com/players/andre-rison/stats/career",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Andre Rison Facts & Stats – Britannica",
+                "url": "https://www.britannica.com/facts/Andre-Rison",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R2-Q2",
+          "episodeId": "EP027",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "D'Angelo's 2005 arrest for DWI and drug possession — which extended his already-ongoing hiatus — occurred in which state?",
+          "choices": [
+            "Virginia",
+            "Georgia",
+            "North Carolina",
+            "New York"
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": null,
+            "album": null,
+            "year": 2000,
+            "topicTags": [
+              "D'Angelo",
+              "Virginia",
+              "DWI",
+              "drug possession",
+              "2005",
+              "hiatus",
+              "arrest"
+            ],
+            "fact": "D'Angelo was arrested in Virginia in January 2005 for DWI and drug possession — he had already been largely absent from public life since the end of the Voodoo tour in 2000-2001, a retreat driven partly by the intense physical objectification that followed the 'Untitled (How Does It Feel)' video. The 2005 arrest deepened and extended the hiatus, ultimately lasting until Black Messiah's surprise release in December 2014.",
+            "storyHook": "The initial retreat started in 2000 after the Voodoo tour. The 2005 arrest in Virginia came during an already-ongoing silence. By then D'Angelo had been gone for five years, and the arrest ensured he would be gone for nine more.",
+            "sourceNotes": "Virginia court records (January 2005). D'Angelo biographical records. Voodoo tour documentation (2000-2001).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "D'Angelo Busted for Drugs – Rolling Stone",
+                "url": "https://www.rollingstone.com/music/music-news/dangelo-busted-for-drugs-114331/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "D'Angelo Arrested – Pollstar News",
+                "url": "https://news.pollstar.com/2005/01/16/dangelo-arrested/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "D'Angelo Charged With Drunk Driving – Billboard",
+                "url": "https://www.billboard.com/music/music-news/dangelo-charged-with-drunk-driving-64572/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "city",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R2-Q3",
+          "episodeId": "EP027",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "MC Hammer's financial collapse was linked partly to his extravagant compound — built in which California city near Oakland?",
+          "choices": [
+            "Oakland",
+            "San Leandro",
+            "Fremont",
+            "Hayward"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "MC Hammer",
+            "song": null,
+            "album": null,
+            "year": 1996,
+            "topicTags": [
+              "MC Hammer",
+              "Fremont",
+              "California",
+              "mansion",
+              "compound",
+              "bankruptcy",
+              "spending"
+            ],
+            "fact": "MC Hammer built a 33,000-square-foot compound in Fremont, California — estimated to have cost around $12 million — that included a recording studio, full professional basketball court, and capacity to house his large entourage. The compound's upkeep, combined with a payroll of roughly 200 employees, consumed the earnings from his commercial peak faster than he could generate new revenue.",
+            "storyHook": "Thirty-three thousand square feet. A basketball court. Two hundred employees. Twelve million dollars in construction. Fremont, California. MC Hammer built something that no single artist's career could sustain.",
+            "sourceNotes": "MC Hammer bankruptcy filing documentation (1996). Fremont, California property records. Biographical accounts of compound specifications.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Video Tour of the $20M 'Hammer Time' Mansion – Celebrity Net Worth",
+                "url": "https://www.celebritynetworth.com/articles/celebrity-homes/video-tour-of-the-20-million-hammer-time-mansion-that-bankrupted-mc-hammer/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "MC Hammer Fremont House – license.acctphilly.org",
+                "url": "https://license.acctphilly.org/pti/mc-hammer-fremont-house-a-comprehensive-guide-to-the-iconic-property-home-of-rp-singer-m-c-in/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "MC Hammer used to live in Fremont – r/Fremont",
+                "url": "https://www.reddit.com/r/Fremont/comments/1erlb2c/mc_hammer_used_to_live_in_fremont/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "city",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R2-Q4",
+          "episodeId": "EP027",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Bobby Brown and Whitney Houston's turbulent marriage ended when their divorce was finalized in which year?",
+          "choices": [
+            "2005",
+            "2007",
+            "2009",
+            "2003"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bobby Brown",
+            "song": null,
+            "album": null,
+            "year": 2007,
+            "topicTags": [
+              "Bobby Brown",
+              "Whitney Houston",
+              "divorce",
+              "2007",
+              "marriage",
+              "1992"
+            ],
+            "fact": "Bobby Brown and Whitney Houston married on July 18, 1992, and divorced on April 24, 2007 — a fifteen-year marriage documented extensively in tabloid media and later in their own reality television series 'Being Bobby Brown' (2005). Their divorce preceded Whitney Houston's musical comeback period and Bobby Brown's continued public struggles.",
+            "storyHook": "Married in 1992. Divorced in 2007. Fifteen years. A reality show. The marriage was one of the most documented relationships in 90s celebrity culture, and the divorce ended a chapter that had started when both artists were at their commercial peak.",
+            "sourceNotes": "Georgia divorce court records (April 24, 2007). Bobby Brown and Whitney Houston biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Whitney Houston – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Whitney_Houston",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Bobby Brown – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bobby_Brown",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Whitney Houston and Bobby Brown's Divorce Finalized – People",
+                "url": "https://people.com/celebrity/whitney-houston-and-bobby-browns-divorce-finalized/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R2-Q5",
+          "episodeId": "EP027",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Lisa 'Left Eye' Lopes traveled to Honduras to work with which herbalist — whose alternative medicine practices she had become devoted to in the years before her death?",
+          "choices": [
+            "Dr. Kelsey",
+            "Dr. Sebi",
+            "Dr. Weil",
+            "Dr. Ornish"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": 2002,
+            "topicTags": [
+              "Lisa Lopes",
+              "Left Eye",
+              "Dr. Sebi",
+              "Alfredo Bowman",
+              "Honduras",
+              "herbalist",
+              "alternative medicine"
+            ],
+            "fact": "Alfredo Bowman — known as Dr. Sebi — was a Honduran herbalist and self-described healer whose approach to natural medicine attracted a significant following among artists and celebrities. Lisa 'Left Eye' Lopes had become devoted to his practices and traveled to Honduras specifically to work with him and document the experience. She died in a car accident there on April 25, 2002.",
+            "storyHook": "She traveled to a country specifically to work with a healer. The documentary she was filming recorded the days before her death. The footage was released posthumously. Honduras was not incidental — it was the destination.",
+            "sourceNotes": "Dr. Sebi biographical records. Lisa Lopes documentary production documentation. La Ceiba, Honduras accident report (2002).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lisa Lopes – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lisa_Lopes",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Lisa 'Left Eye' Lopes: Mysterious Honduras Crash – Death by Misadventure",
+                "url": "https://www.deathbymisadventure.net/lisa-left-eye-lopes-chilling-premonitions-mysterious-honduras-crash/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Dr. Sebi and Lisa 'Left Eye' Lopes – The Eye Is Right",
+                "url": "https://theeyeisright.wixsite.com/theeyeisright/the-lisa-lopes",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "artist",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R2-B1",
+          "episodeId": "EP027",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "2010s",
+          "question": "D'Angelo's comeback album 'Black Messiah' was released on which label — ending his fourteen-year absence from major-label music?",
+          "choices": [
+            "Island Records",
+            "RCA Records",
+            "Arista Records",
+            "Virgin Records"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 2 OF 3 — THE LABEL THAT RELEASED BLACK MESSIAH"
+          },
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": null,
+            "album": "Black Messiah",
+            "year": 2014,
+            "topicTags": [
+              "D'Angelo",
+              "RCA Records",
+              "Black Messiah",
+              "2014",
+              "comeback",
+              "label",
+              "bonus digit"
+            ],
+            "fact": "'Black Messiah' was released on RCA Records on December 15, 2014 — D'Angelo's first major-label release since 'Voodoo' in 2000. The fourteen-year gap between albums is one of the longest between a debut and its follow-up for any major R&B artist, and the surprise release strategy reflected D'Angelo's distrust of conventional promotional cycles.",
+            "storyHook": "RCA Records. December 15, 2014. Fourteen years after 'Voodoo.' The label got a surprise drop and one of the most acclaimed R&B records of the decade. The wait was not by accident.",
+            "sourceNotes": "Black Messiah liner notes (RCA Records, 2014). RCA Records press materials. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Black Messiah (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Black_Messiah_(album)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "D'Angelo – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/D%27Angelo",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "D'Angelo's 'Black Messiah' Released by RCA – A.V. Club",
+                "url": "https://music.avclub.com/d-angelo-returns-with-black-messiah-on-rca-1798274607",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP027-R2-RES1",
+          "episodeId": "EP027",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Aaliyah's final completed film — released posthumously in 2002 — was titled what?",
+          "choices": [
+            "The Matrix Reloaded",
+            "Queen of the Damned",
+            "Romeo Must Die",
+            "Blade II"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": null,
+            "album": null,
+            "year": 2002,
+            "topicTags": [
+              "Aaliyah",
+              "Queen of the Damned",
+              "posthumous film",
+              "2002",
+              "Warner Bros.",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Queen of the Damned film production records (Warner Bros., 2002). Aaliyah biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Queen of the Damned – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Queen_of_the_Damned_(film)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Aaliyah – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Aaliyah",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R2-RES2",
+          "episodeId": "EP027",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2010s",
+          "question": "D'Angelo's comeback album 'Black Messiah' arrived in which year — surprising an industry that had largely stopped expecting his return?",
+          "choices": [
+            "2010",
+            "2016",
+            "2014",
+            "2012"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": null,
+            "album": "Black Messiah",
+            "year": 2014,
+            "topicTags": [
+              "D'Angelo",
+              "Black Messiah",
+              "2014",
+              "comeback",
+              "surprise release",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Black Messiah release documentation (RCA Records, December 15, 2014). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Black Messiah (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Black_Messiah_(album)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "D'Angelo – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/D%27Angelo",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "year",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R2-RES3",
+          "episodeId": "EP027",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "New Edition — the group Bobby Brown rose to fame with before his solo career — formed in which Boston neighbourhood?",
+          "choices": [
+            "Dorchester",
+            "Roxbury",
+            "Mattapan",
+            "Jamaica Plain"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bobby Brown",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "New Edition",
+              "Roxbury",
+              "Boston",
+              "Bobby Brown",
+              "hometown",
+              "formation"
+            ],
+            "fact": "New Edition formed in the Roxbury neighbourhood of Boston, Massachusetts in 1978. The group — which included Bobby Brown, Ralph Tresvant, Ricky Bell, Michael Bivins, and Ronnie DeVoe — is one of the most influential R&B groups to emerge from the Boston area.",
+            "storyHook": "He helped build New Edition. They pushed him out. What came next was the solo career — and everything that came with it.",
+            "sourceNotes": "Verified: New Edition formed in Roxbury, Boston in 1978. Five independent sources confirm Roxbury specifically.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "New Edition – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/New_Edition",
+                "accessed": "2026-05-20"
+              },
+              {
+                "title": "New Edition from Roxbury neighborhood of Boston – YouTube Music",
+                "url": "https://music.youtube.com/channel/UCylRFcXwf3YAAjrCAMl7Niw",
+                "accessed": "2026-05-20"
+              },
+              {
+                "title": "New Edition from Roxbury neighborhood of Boston – Facebook/James Funk Band",
+                "url": "https://www.facebook.com/jamesfunkband/videos/new-edition-is-an-american-rbpop-group-from-the-roxbury-neighborhood-of-boston-m/2",
+                "accessed": "2026-05-20"
+              },
+              {
+                "title": "City of Boston to Celebrate 42nd Anniversary of New Edition – boston.gov",
+                "url": "https://www.boston.gov/news/city-boston-celebrate-42nd-anniversary-new-edition",
+                "accessed": "2026-05-20"
+              },
+              {
+                "title": "Boston to celebrate New Edition Day – CBS Boston",
+                "url": "https://www.cbsnews.com/boston/news/boston-new-edition-day-street/",
+                "accessed": "2026-05-20"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 5,
+            "lastVerified": "2026-05-17",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Cents per album, employee counts, expulsions, and the aftermath nobody talks about.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP027-R3-Q1",
+          "episodeId": "EP027",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "TLC's original contract reportedly paid the entire group approximately how many cents per album sold — meaning each of the three members earned less than 19 cents per unit before recoupable expenses?",
+          "choices": [
+            "35 cents",
+            "56 cents",
+            "$1.50",
+            "10 cents"
+          ],
+          "correctIndex": 1,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": null,
+            "album": null,
+            "year": 1995,
+            "topicTags": [
+              "TLC",
+              "56 cents",
+              "royalties",
+              "contract",
+              "bankruptcy",
+              "Pebbles",
+              "LaFace Records"
+            ],
+            "fact": "TLC's original contract reportedly paid the entire group approximately 56 cents per album sold — split three ways and then reduced further by recoupable studio, marketing, and tour costs, each member was left with a fraction of that figure per unit. When CrazySexyCool became the best-selling album by an American female group in history, the financial benefit accrued primarily to the label and management. They filed for Chapter 11 bankruptcy in July 1995.",
+            "storyHook": "Fifty-six cents for all three of them. Split three ways. Then recoupable expenses. Then bankruptcy. CrazySexyCool sold four million copies in six months and each member's share of each sale was less than the cost of a phone call.",
+            "sourceNotes": "TLC bankruptcy filing (1995). Contract terms as reported in court filings and biographical documentation. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "TLC Files for Bankruptcy – Rolling Stone",
+                "url": "https://www.rollingstone.com/music/music-news/tlc-files-for-bankruptcy-244408/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "TLC's Bankruptcy Explained – VH1 News",
+                "url": "https://www.vh1.com/news/9r7k1m/tlc-bankruptcy-explained",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R3-Q2",
+          "episodeId": "EP027",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "MC Hammer at his commercial peak reportedly employed how many people on his payroll — a scale of spending that contributed directly to his 1996 bankruptcy filing?",
+          "choices": [
+            "500",
+            "50",
+            "200",
+            "100"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "MC Hammer",
+            "song": null,
+            "album": null,
+            "year": 1991,
+            "topicTags": [
+              "MC Hammer",
+              "200 employees",
+              "payroll",
+              "bankruptcy",
+              "spending",
+              "peak era"
+            ],
+            "fact": "MC Hammer reportedly employed approximately 200 people at his commercial peak — including dancers, bodyguards, cooks, drivers, and personal staff — while simultaneously maintaining a 33,000-square-foot compound in Fremont, California and supporting family members. His estimated $33 million in earnings from music were consumed by this infrastructure at a pace that his declining record sales could not sustain.",
+            "storyHook": "Two hundred employees. A 33,000-square-foot compound. Thirty-three million dollars earned. Thirteen million dollars in debt by 1996. The numbers tell the story without editorial comment.",
+            "sourceNotes": "MC Hammer bankruptcy filing (1996). Payroll documentation as reported in court filings. Fremont, California property records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "MC Hammer – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/MC_Hammer",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "This Star Artist Spent Millions Employing His Friends – PushBlack Finance",
+                "url": "https://www.pushblackfinance.com/news/star-artist-spent-millions-dollars-employing-his-friends",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "MC Hammer Reveals He Spent All His Money Hiring 200 People – Love Thy Black Woman",
+                "url": "https://www.facebook.com/LoveThyBlackWoman/posts/mc-hammer-revealed-he-spent-much-of-his-fortune-hiring-200-people-from-oakland-",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R3-B1",
+          "episodeId": "EP027",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Bobby Brown's 1986 debut solo album — released the same year New Edition expelled him — was titled what?",
+          "choices": [
+            "My Prerogative",
+            "Don't Be Cruel",
+            "King of Stage",
+            "Bobby"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 3 OF 3 — BOBBY BROWN'S SOLO DEBUT ALBUM TITLE"
+          },
+          "metadata": {
+            "artist": "Bobby Brown",
+            "song": null,
+            "album": null,
+            "year": 1986,
+            "topicTags": [
+              "Bobby Brown",
+              "King of Stage",
+              "solo debut",
+              "1986",
+              "MCA Records",
+              "New Edition",
+              "expulsion",
+              "bonus digit"
+            ],
+            "fact": "'King of Stage' was Bobby Brown's debut solo album, released in 1986 on MCA Records the same year New Edition expelled him. The album was a modest commercial performer, but it established the template for Brown's more successful follow-up 'Don't Be Cruel' (1988). The title was a statement of intent — he had just been thrown out of a group and immediately declared himself royalty.",
+            "storyHook": "The group voted him out in 1986. He went solo. 'Don't Be Cruel' went eight times platinum. The expulsion was the best career decision New Edition ever made for Bobby Brown, even though they didn't make it for his benefit.",
+            "sourceNotes": "King of Stage liner notes (MCA Records, 1986). Bobby Brown official discography. New Edition expulsion documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bobby Brown – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bobby_Brown",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "BOBBY BROWN – KING OF STAGE – iBLOGalot",
+                "url": "https://iblogalot.com/2013/10/15/bobby-brown-king-of-stage/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "King of Stage – Apple Music",
+                "url": "https://music.apple.com/us/album/king-of-stage/1443901969",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP027-R3-RES1",
+          "episodeId": "EP027",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Andre Rison — whose home Lisa 'Left Eye' Lopes burned down — played for which NFL team at the time of the 1994 incident?",
+          "choices": [
+            "Green Bay Packers",
+            "Kansas City Chiefs",
+            "Atlanta Falcons",
+            "Detroit Lions"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 1994,
+            "topicTags": [
+              "Andre Rison",
+              "Atlanta Falcons",
+              "NFL",
+              "1994",
+              "Left Eye",
+              "TLC",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Andre Rison NFL career records. Atlanta Falcons roster documentation (1994).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Andre Rison – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Andre_Rison",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "FALCON RECEIVER'S HOME DESTROYED – Chicago Tribune",
+                "url": "https://www.chicagotribune.com/1994/06/10/falcon-receivers-home-destroyed/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "WARRANT ISSUED FOR SINGER AFTER FIRE DESTROYS RISON'S HOME – Deseret",
+                "url": "https://www.deseret.com/1994/6/10/19113888/warrant-issued-for-singer-after-fire-destroys-rison-s-home/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP027-R3-RES2",
+          "episodeId": "EP027",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "After Lisa 'Left Eye' Lopes died in 2002, the surviving TLC members released a final album containing vocals Lopes had recorded before her death — it was titled what?",
+          "choices": [
+            "3D",
+            "Left",
+            "TLC",
+            "2 of a Kind"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "TLC",
+            "song": null,
+            "album": "3D",
+            "year": 2002,
+            "topicTags": [
+              "TLC",
+              "3D",
+              "posthumous album",
+              "Left Eye",
+              "Lisa Lopes",
+              "2002",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "3D liner notes (Arista Records, 2002). TLC posthumous release documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "3D (TLC album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/3D_(TLC_album)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "TLC – 3D Album Review – AllMusic",
+                "url": "https://www.allmusic.com/album/3d-mw0000227588",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "TLC Talk '3D' and Carrying On After Left Eye – MTV News",
+                "url": "http://www.mtv.com/news/1458443/tlc-talk-3d-and-carrying-on-after-left-eye/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-20T15:44:07.187622+00:00"
+  }
+}

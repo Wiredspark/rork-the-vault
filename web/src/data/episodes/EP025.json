@@ -1,0 +1,1555 @@
+{
+  "episodeId": "EP025",
+  "title": "Prince and His Universe",
+  "theme": "Paisley Park. The Revolution. The NPG. The protégés nobody saw coming. The vault nobody has fully opened.",
+  "narrativePurpose": "Test knowledge of Prince's extended creative ecosystem — the albums, the side projects, the protégés, the label dispute, and the sonic architecture behind the Minneapolis Sound.",
+  "toneProgression": "The records and associates every fan knows → label disputes, family connections, and the Minneapolis Sound → birth names, instrument counts, and character credits",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-8-4 — the year Purple Rain made the argument impossible to ignore. The film, the album, The Revolution. Everything in Prince's universe — Paisley Park, the NPG, the protégées — grew from what 1984 established."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The records and associates every Prince fan knows. The universe starts here.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP025-R1-Q1",
+          "episodeId": "EP025",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Prince's 1984 semi-autobiographical film and album — which launched him from cult hero to global superstar — was titled what?",
+          "choices": [
+            "Around the World in a Day",
+            "Purple Rain",
+            "1999",
+            "Sign o' the Times"
+          ],
+          "correctIndex": 1,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": "Purple Rain",
+            "year": 1984,
+            "topicTags": [
+              "Prince",
+              "Purple Rain",
+              "1984",
+              "Warner Bros.",
+              "film",
+              "album",
+              "Academy Award"
+            ],
+            "fact": "'Purple Rain' — simultaneously a film and an album — debuted at #1 on the Billboard 200 and spent 24 consecutive weeks at the top. The accompanying film became the fifth-highest-grossing movie of 1984. The album won the Academy Award for Best Original Song Score at the 57th ceremony in 1985, and it remains Prince's commercially defining statement.",
+            "storyHook": "A film. An album. Number one for 24 weeks. An Academy Award. Purple Rain did everything simultaneously and made it look effortless.",
+            "sourceNotes": "Purple Rain liner notes (Warner Bros./Paisley Park, 1984). Billboard 200 chart archives. 57th Academy Award records (1985). Box office documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Purple Rain (film) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Purple_Rain_(film)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Purple Rain – Minnesota Historical Society",
+                "url": "https://www.mnhs.org/mnopedia/search/index/purple-rain-film-and-album",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R1-Q2",
+          "episodeId": "EP025",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "'Nothing Compares 2 U' — written by Prince — was originally recorded for which of his side-project bands before Sinead O'Connor turned it into a global #1 hit?",
+          "choices": [
+            "Vanity 6",
+            "The Revolution",
+            "The Time",
+            "The Family"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": "Nothing Compares 2 U",
+            "album": "The Family",
+            "year": 1985,
+            "topicTags": [
+              "Nothing Compares 2 U",
+              "The Family",
+              "Sinead O'Connor",
+              "Prince",
+              "1985",
+              "side project"
+            ],
+            "fact": "'Nothing Compares 2 U' first appeared on The Family's self-titled 1985 debut album — a Prince-assembled side project featuring Susannah Melvoin and Paul Peterson. Sinead O'Connor's 1990 version reached #1 in over a dozen countries and became one of the decade's most emotionally devastating vocal performances, though Prince received the full songwriting credit and royalties.",
+            "storyHook": "He wrote it for a side project in 1985. Five years later, someone else sang it and it became one of the most iconic recordings of the decade. Prince got the royalties. Sinead got the moment.",
+            "sourceNotes": "The Family liner notes (Warner Bros./Paisley Park, 1985). Sinead O'Connor 'Nothing Compares 2 U' chart documentation (1990). ASCAP songwriting credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Nothing Compares 2 U: from Prince to The Family to Sinead O'Connor – ABC",
+                "url": "https://www.abc.net.au/news/2023-07-27/nothing-compares-2-u-sinead-o-connor-prince-the-family/102654218",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R1-Q3",
+          "episodeId": "EP025",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Sheila E.'s 1984 breakthrough single — written and produced by Prince for his protégée and creative partner — was titled what?",
+          "choices": [
+            "Koo Koo",
+            "The Glamorous Life",
+            "Belle of St. Mark",
+            "A Love Bizarre"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sheila E.",
+            "song": "The Glamorous Life",
+            "album": "The Glamorous Life",
+            "year": 1984,
+            "topicTags": [
+              "Sheila E.",
+              "The Glamorous Life",
+              "Prince",
+              "1984",
+              "Warner Bros.",
+              "debut single"
+            ],
+            "fact": "'The Glamorous Life' was written and produced by Prince for Sheila E. — the debut single from her self-titled album reached #7 on the Billboard Hot 100 in 1984. The song introduced Sheila E. as a percussionist and vocalist of considerable technical ability, and the pairing of her Latin-influenced playing with Prince's production style created one of the year's most distinctive R&B sounds.",
+            "storyHook": "Prince wrote it. Sheila E. performed it. The result was one of 1984's most distinctive singles — a year when Prince was releasing music faster than most artists release it in a decade.",
+            "sourceNotes": "The Glamorous Life liner notes (Warner Bros./Paisley Park, 1984). Billboard Hot 100 chart archives. ASCAP songwriting and production credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Glamorous Life – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Glamorous_Life",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R1-Q4",
+          "episodeId": "EP025",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "The Time — Prince's rival funk ensemble in the Purple Rain universe — was fronted by which charismatic vocalist and showman?",
+          "choices": [
+            "Jimmy Jam",
+            "Morris Day",
+            "Terry Lewis",
+            "Jesse Johnson"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Time",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Morris Day",
+              "The Time",
+              "Prince",
+              "Purple Rain",
+              "Minneapolis",
+              "funk"
+            ],
+            "fact": "Morris Day fronted The Time — a Minneapolis funk group assembled by Prince that functioned as both his on-stage rival and his real-world foil. The Time's members included Jimmy Jam and Terry Lewis before they were fired by Prince and went on to become two of the most successful producers in R&B history. Morris Day's comedic charisma and mirror-check stage persona became one of Purple Rain's most memorable elements.",
+            "storyHook": "The rival band Prince created for himself to compete against. He assembled them, wrote their hits, then watched Jimmy Jam and Terry Lewis get fired and become two of the most successful producers of the next decade. The Prince universe contained its own undoing.",
+            "sourceNotes": "The Time official biography. Purple Rain film production records. Jimmy Jam & Terry Lewis biographical documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Morris Day – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Morris_Day",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R1-Q5",
+          "episodeId": "EP025",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Prince's in-house recording studio, record label, and creative compound — built in Chanhassen, Minnesota in 1987 — was named what?",
+          "choices": [
+            "Revolution Studios",
+            "Paisley Park",
+            "Purple Rain Studios",
+            "The Vault"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": null,
+            "year": 1987,
+            "topicTags": [
+              "Paisley Park",
+              "Prince",
+              "Chanhassen",
+              "Minnesota",
+              "recording studio",
+              "Paisley Park Records"
+            ],
+            "fact": "Paisley Park — the compound in Chanhassen, Minnesota — served simultaneously as Prince's recording studio, rehearsal space, label headquarters, and later his private residence. After his death in 2016, the facility was converted into a museum housing memorabilia, instruments, and artifacts from his career. The vault beneath Paisley Park was revealed to contain thousands of unreleased recordings.",
+            "storyHook": "Studio. Label. Home. Museum. Vault. Paisley Park was not a building. It was an ecosystem Prince built around himself so he never had to leave his own creative environment.",
+            "sourceNotes": "Paisley Park Records official documentation. Chanhassen, Minnesota facility records. Estate documentation post-2016.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Paisley Park – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Paisley_Park",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R1-Q6",
+          "episodeId": "EP025",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Prince's backing band throughout the Purple Rain era — before he dissolved it and formed the NPG — was called what?",
+          "choices": [
+            "New Power Generation",
+            "The Family",
+            "The Revolution",
+            "The Time"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": "Purple Rain",
+            "year": 1984,
+            "topicTags": [
+              "The Revolution",
+              "Prince",
+              "Purple Rain",
+              "Wendy Melvoin",
+              "Lisa Coleman",
+              "backing band"
+            ],
+            "fact": "The Revolution — Prince's backing band from 1983 to 1986 — included Wendy Melvoin, Lisa Coleman, Bobby Z., Brown Mark, and Matt Fink. The band was dissolved in 1986 as Prince moved toward a more electronic, studio-based approach. Wendy and Lisa went on to a successful recording career of their own, and their influence on Prince's sound during the Purple Rain period has been extensively documented.",
+            "storyHook": "He assembled them. He dissolved them. Wendy and Lisa made records of their own afterward. The Revolution's tenure was short, but Purple Rain made it permanent.",
+            "sourceNotes": "The Revolution official biography. Purple Rain liner notes (Warner Bros./Paisley Park, 1984). Wendy and Lisa discography documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Prince and The Revolution – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Prince_and_The_Revolution",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R1-B1",
+          "episodeId": "EP025",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Prince's 1978 debut album — produced, arranged, composed, and performed almost entirely by himself at age 19 — was titled what?",
+          "choices": [
+            "Prince",
+            "For You",
+            "Controversy",
+            "Dirty Mind"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — PRINCE'S DEBUT ALBUM TITLE"
+          },
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": "For You",
+            "year": 1978,
+            "topicTags": [
+              "For You",
+              "Prince",
+              "debut album",
+              "1978",
+              "Warner Bros.",
+              "multi-instrumentalist",
+              "bonus digit"
+            ],
+            "fact": "'For You' was released on Warner Bros. Records in April 1978 — Prince was 19 years old and played 27 instruments on the album, producing, arranging, composing, and performing the entire record himself. The liner notes' acknowledgment 'Produced, Arranged, Composed and Performed by Prince' became one of the most extraordinary debut album credits in pop history.",
+            "storyHook": "Nineteen years old. Twenty-seven instruments. One name in the production credits. 'For You' was not a debut. It was an announcement of intent.",
+            "sourceNotes": "For You liner notes (Warner Bros. Records, 1978). Prince official discography. Warner Bros. Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "For You – Goldies Parade",
+                "url": "https://goldiesparade.co.uk/discography/albums/for-you/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP025-R1-RES1",
+          "episodeId": "EP025",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Vanity 6 — Prince's provocative all-female trio — was fronted by which model and actress before she departed and was replaced by Apollonia?",
+          "choices": [
+            "Apollonia",
+            "Sheila E.",
+            "Carmen Electra",
+            "Vanity"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Vanity 6",
+            "song": null,
+            "album": "Vanity 6",
+            "year": 1982,
+            "topicTags": [
+              "Vanity",
+              "Vanity 6",
+              "Prince",
+              "Denise Matthews",
+              "1982",
+              "Warner Bros.",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Vanity 6 liner notes (Warner Bros./Paisley Park, 1982). Denise Matthews biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Vanity 6 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Vanity_6",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R1-RES2",
+          "episodeId": "EP025",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Prince's second all-female protégé group — which appeared in Purple Rain and released 'Sex Shooter' — was named what?",
+          "choices": [
+            "Apollonia 6",
+            "Sheila E. & Friends",
+            "Vanity 6",
+            "The Family"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Apollonia 6",
+            "song": "Sex Shooter",
+            "album": "Apollonia 6",
+            "year": 1984,
+            "topicTags": [
+              "Apollonia 6",
+              "Sex Shooter",
+              "Purple Rain",
+              "Prince",
+              "1984",
+              "Warner Bros.",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Apollonia 6 liner notes (Warner Bros./Paisley Park, 1984). Purple Rain film production records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Apollonia 6 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Apollonia_6",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R1-RES3",
+          "episodeId": "EP025",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "'Manic Monday' — The Bangles' 1986 top-five hit — was written by Prince under which pseudonym he used to conceal his authorship?",
+          "choices": [
+            "Christopher",
+            "Alexander Nevermind",
+            "Jamie Starr",
+            "Joey Coco"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Bangles",
+            "song": "Manic Monday",
+            "album": "Different Light",
+            "year": 1986,
+            "topicTags": [
+              "The Bangles",
+              "Manic Monday",
+              "Christopher",
+              "Prince",
+              "pseudonym",
+              "1986",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Different Light liner notes (Columbia Records, 1986). Manic Monday ASCAP songwriting credits. Prince pseudonym documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Manic Monday written by Prince as 'Christopher' – r/todayilearned",
+                "url": "https://www.reddit.com/r/todayilearned/comments/10fmbek/til_that_manic_monday_by_the_bangles_was_written/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R1-RES4",
+          "episodeId": "EP025",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "The NPG — Prince's band after The Revolution — stood for what?",
+          "choices": [
+            "Next Phase Genesis",
+            "New Power Generation",
+            "New Paisley Group",
+            "Northside Purple Generation"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": "Diamonds and Pearls",
+            "year": 1991,
+            "topicTags": [
+              "NPG",
+              "New Power Generation",
+              "Prince",
+              "Diamonds and Pearls",
+              "1991",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Diamonds and Pearls liner notes (Warner Bros./Paisley Park, 1991). NPG official documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "New Power Generation – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/New_Power_Generation",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Label disputes, family connections, and the sonic architecture of the Minneapolis Sound.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP025-R2-Q1",
+          "episodeId": "EP025",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Prince changed his name to an unpronounceable symbol in 1993 — citing an artistic and contractual dispute with which major label?",
+          "choices": [
+            "MCA Records",
+            "Arista Records",
+            "Warner Bros.",
+            "Columbia Records"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "Prince",
+              "Warner Bros.",
+              "name change",
+              "symbol",
+              "contract dispute",
+              "1993",
+              "artistic freedom"
+            ],
+            "fact": "Prince changed his name to an unpronounceable Love Symbol in June 1993 — his primary stated grievance was that Warner Bros. owned the name 'Prince' as intellectual property and controlled the release schedule of his recordings. By adopting a symbol that couldn't be trademarked as a word, he was attempting to separate his artistic identity from the contractual one. The press dubbed him 'The Artist Formerly Known as Prince,' a phrase he never officially endorsed.",
+            "storyHook": "He changed his name to a symbol so a corporation couldn't own it. The corporation still owned the recordings. The symbol didn't help. But it made the argument visible.",
+            "sourceNotes": "Prince official statement (June 1993). Warner Bros. Records contract documentation. Billboard editorial archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Prince (musician) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Prince_(musician)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R2-Q2",
+          "episodeId": "EP025",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Prince wrote 'I Feel for You' — which became a 1984 smash for Chaka Khan featuring a hip-hop breakdown from Grandmaster Melle Mel. It was also the title of which Chaka Khan album?",
+          "choices": [
+            "Chaka Khan",
+            "Destiny",
+            "What Cha' Gonna Do for Me",
+            "I Feel for You"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Chaka Khan",
+            "song": "I Feel for You",
+            "album": "I Feel for You",
+            "year": 1984,
+            "topicTags": [
+              "I Feel for You",
+              "Chaka Khan",
+              "Prince",
+              "1984",
+              "Warner Bros.",
+              "Grandmaster Melle Mel",
+              "album title"
+            ],
+            "fact": "Prince originally recorded 'I Feel for You' on his self-titled 1979 album — Chaka Khan's 1984 version transformed it with a Stevie Wonder harmonica intro and a Grandmaster Melle Mel rap breakdown. At the 27th Grammy Awards in 1985, Chaka Khan won Best R&B Vocal Performance (Female) for her recording, while Prince — as the sole songwriter — won Best R&B Song. It was Prince's first songwriting Grammy, for a song he had written five years earlier that someone else had to record before the industry recognised it.",
+            "storyHook": "Prince wrote it in 1979. Nobody noticed. Chaka Khan covered it in 1984 with Stevie Wonder and Grandmaster Melle Mel. The Grammys gave Chaka the vocal award. They gave Prince the songwriting award. Prince won his first Grammy for a song he wrote before anyone else had heard of it.",
+            "sourceNotes": "I Feel for You liner notes (Warner Bros. Records, 1984). Chaka Khan ASCAP credits. Grammy Award records (27th ceremony, 1985).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Feel for You (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Feel_for_You_(album)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R2-Q3",
+          "episodeId": "EP025",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Sheila E. — Prince's longtime creative and romantic partner — is the daughter of which legendary Latin percussionist?",
+          "choices": [
+            "Celia Cruz",
+            "Willie Bobo",
+            "Pete Escovedo",
+            "Tito Puente"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sheila E.",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Sheila E.",
+              "Pete Escovedo",
+              "Escovedo family",
+              "Latin percussion",
+              "Santana",
+              "jazz"
+            ],
+            "fact": "Sheila E. — born Sheila Escovedo — is the daughter of Pete Escovedo, a Latin percussionist who performed extensively with Santana and maintained a decades-long career in jazz and Latin music. Her technical foundation on timbales, congas, and drums came directly from her father's influence, and Pete Escovedo has continued performing and recording well into his eighties.",
+            "storyHook": "Her father played with Santana. She played with Prince. The Escovedo family percussion lineage connects San Francisco Latin jazz to Minneapolis funk in a single generation.",
+            "sourceNotes": "Sheila E. official biography. Pete Escovedo biographical records. Santana band membership documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sheila E. – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sheila_E.",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R2-Q4",
+          "episodeId": "EP025",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Prince's first manager — who negotiated his landmark Warner Bros. deal securing full creative control — was named what?",
+          "choices": [
+            "Bob Cavallo",
+            "Alan Leeds",
+            "Owen Husney",
+            "Steve Fargnoli"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": "For You",
+            "year": 1977,
+            "topicTags": [
+              "Owen Husney",
+              "Prince",
+              "manager",
+              "Warner Bros.",
+              "creative control",
+              "1977",
+              "debut"
+            ],
+            "fact": "Owen Husney — a Minneapolis advertising executive and music industry veteran — discovered Prince at 18 and negotiated the landmark Warner Bros. deal that gave the teenager full creative control over his recordings. Husney's strategy was to hide Prince's age from label executives until after the contract was signed, letting the demo tape speak for itself. He managed Prince through the first two albums before they parted ways.",
+            "storyHook": "Eighteen years old. Full creative control. Warner Bros. Records. The label eventually agreed that they were negotiating with someone who didn't need them the way other artists did. They were right, and it cost them later.",
+            "sourceNotes": "Owen Husney biographical records. Prince official history. Warner Bros. Records signing documentation (1977).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Owen Husney – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Owen_Husney",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Prince (musician) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Prince_(musician)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R2-Q5",
+          "episodeId": "EP025",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Morris Day's Prince-created Minneapolis funk ensemble released their self-titled debut album in 1981 under what name?",
+          "choices": [
+            "The Minneapolis Sound",
+            "Morris Day & The Jam",
+            "Flyte Tyme",
+            "The Time"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Time",
+            "song": null,
+            "album": "The Time",
+            "year": 1981,
+            "topicTags": [
+              "The Time",
+              "Morris Day",
+              "Prince",
+              "debut album",
+              "1981",
+              "Warner Bros.",
+              "Minneapolis"
+            ],
+            "fact": "The Time's self-titled 1981 debut was ghost-produced almost entirely by Prince himself — Morris Day provided lead vocals while Prince played most of the instruments in the studio without formal credit. Jimmy Jam and Terry Lewis joined The Time's touring band at a later stage. Their infamous firing by Prince occurred in 1983 after they were stranded by a snowstorm in Atlanta while producing The SOS Band on the side — missing a tour date without authorisation. The firing led directly to Jam and Terry Lewis launching their production career independently.",
+            "storyHook": "Prince ghost-produced The Time's debut in 1981, playing most of the instruments himself. Two years later, Jimmy Jam and Terry Lewis got snowed in in Atlanta while producing another artist on the side. Prince fired them. They went on to become two of the most successful R&B producers of the decade. The firing was the best thing that ever happened to them.",
+            "sourceNotes": "The Time liner notes (Warner Bros. Records, 1981). Jimmy Jam & Terry Lewis biographical records. Morris Day official biography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Time (band) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Time_(band)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R2-B1",
+          "episodeId": "EP025",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "The Minneapolis Sound's rhythmic signature was built around which specific Linn drum machine — used on virtually every major Prince and protégé recording of the early 1980s?",
+          "choices": [
+            "Roland TR-808",
+            "Oberheim DMX",
+            "Linn LM-1",
+            "MPC 3000"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE DRUM MACHINE THAT DEFINED THE MINNEAPOLIS SOUND"
+          },
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Linn LM-1",
+              "Minneapolis Sound",
+              "Prince",
+              "drum machine",
+              "1980s",
+              "production",
+              "bonus digit"
+            ],
+            "fact": "The Linn LM-1 was the drum machine at the center of the Minneapolis Sound — its distinctive, slightly wooden snare crack and crisp hi-hat patterns are immediately recognizable across Prince's early 80s catalog and the records he produced for The Time, Sheila E., and Vanity 6. The LM-1 was expensive and rare; Prince's use of it established a sonic signature that competitors couldn't easily replicate without the same hardware.",
+            "storyHook": "A drum machine that cost $5,000 in 1980. An exclusive sound that defined a city's musical identity. The Linn LM-1 is the rhythm under every Minneapolis Sound record that matters.",
+            "sourceNotes": "Linn Electronics LM-1 production documentation. Prince recording session archives. Minneapolis Sound musicological analysis.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Linn LM-1 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Linn_LM-1",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "'Rhythm Nation' at 30 – The Ringer",
+                "url": "https://www.theringer.com/2019/09/19/music/janet-jackson-rhythm-nation-1814-30th-anniversary-jimmy-jam-terry-lewis",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP025-R2-RES1",
+          "episodeId": "EP025",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "'When Doves Cry' — the lead single from Purple Rain — made production history as one of the first major #1 hits to deliberately omit which standard element?",
+          "choices": [
+            "No bass line",
+            "No keyboard",
+            "No guitar",
+            "No drums"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": "When Doves Cry",
+            "album": "Purple Rain",
+            "year": 1984,
+            "topicTags": [
+              "When Doves Cry",
+              "Prince",
+              "no bass line",
+              "production",
+              "Purple Rain",
+              "1984",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Purple Rain production notes (Warner Bros./Paisley Park, 1984). Billboard Hot 100 chart archives. Prince studio session documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "When Doves Cry – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/When_Doves_Cry",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R2-RES2",
+          "episodeId": "EP025",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "While the NPG was formed during the Graffiti Bridge era in 1990, which 1991 album was the first to carry a formal co-billing credit to 'Prince and the N.P.G.'?",
+          "choices": [
+            "Graffiti Bridge",
+            "Diamonds and Pearls",
+            "Batman",
+            "Lovesexy"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": "Diamonds and Pearls",
+            "year": 1991,
+            "topicTags": [
+              "Diamonds and Pearls",
+              "NPG",
+              "New Power Generation",
+              "Prince",
+              "1991",
+              "Warner Bros.",
+              "swap reserve"
+            ],
+            "fact": "The New Power Generation was formed and named during the 1990 Graffiti Bridge era — the song 'New Power Generation' on that album effectively announced the band. However, 'Diamonds and Pearls' (1991) was the first album to carry the formal co-billing credit 'Prince and the N.P.G.' on its cover, making it the commercial debut of the new lineup as an officially credited unit.",
+            "storyHook": "",
+            "sourceNotes": "Diamonds and Pearls liner notes (Warner Bros./Paisley Park, 1991). Graffiti Bridge production documentation (1990). NPG formation history.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Diamonds and Pearls – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Diamonds_and_Pearls",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R2-RES3",
+          "episodeId": "EP025",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Prince's 1987 masterwork 'Sign 'O' the Times' was released as a double album — but what was its original intended format before Warner Bros. convinced him to cut it down?",
+          "choices": [
+            "A single album",
+            "A triple album",
+            "A four-disc box set",
+            "A film soundtrack"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": "Sign 'O' the Times",
+            "year": 1987,
+            "topicTags": [
+              "Prince",
+              "Sign O the Times",
+              "triple album",
+              "Warner Bros.",
+              "1987",
+              "vault",
+              "unreleased"
+            ],
+            "fact": "Sign 'O' the Times (1987) was originally conceived as a triple album — and at various stages as a project called Dream Factory or Crystal Ball — before Warner Bros. persuaded Prince to reduce it to a double album. The excised material went into the vault at Paisley Park, contributing to the legendary archive of unreleased Prince recordings.",
+            "storyHook": "What became a double album was supposed to be three. Warner Bros. said no. The rest went into the vault.",
+            "sourceNotes": "PRIORITY VERIFY: Confirm Sign 'O' the Times was originally planned as a triple album before being cut down at Warner Bros.' request. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sign o' the Times – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sign_o%27_the_Times",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "production",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-17",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Birth names, instrument counts, and the character credits behind the Prince universe.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP025-R3-Q1",
+          "episodeId": "EP025",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Prince's full birth name — chosen by his father to honor a jazz musician he deeply admired — is what?",
+          "choices": [
+            "Prince Rogers Young",
+            "Prince Melvoin Nelson",
+            "Prince Rogers Nelson",
+            "Prince John Nelson"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": null,
+            "year": 1958,
+            "topicTags": [
+              "Prince Rogers Nelson",
+              "birth name",
+              "John L. Nelson",
+              "jazz",
+              "Minneapolis",
+              "1958"
+            ],
+            "fact": "Prince Rogers Nelson was born June 7, 1958, in Minneapolis, Minnesota — his father, John L. Nelson, was a jazz musician who performed with a combo called the Prince Rogers Trio and named his son after the group. The full name 'Prince Rogers Nelson' appears on Prince's birth certificate and early recording contracts; he was never legally renamed despite the symbol era.",
+            "storyHook": "His father named him after his own jazz trio. The jazz combo was called Prince Rogers. The son became simply Prince. The name came with its own mythology before he had made a single record.",
+            "sourceNotes": "Prince Rogers Nelson birth records. John L. Nelson biographical documentation. Minneapolis Star Tribune archival records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Prince (musician) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Prince_(musician)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R3-Q2",
+          "episodeId": "EP025",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "The character 'Apollonia' — who gave her name to Prince's second all-female protégé group — was played in Purple Rain by which actress?",
+          "choices": [
+            "Susan Moonsie",
+            "Patricia Apollonia",
+            "Vanity",
+            "Apollonia Kotero"
+          ],
+          "correctIndex": 3,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": "Purple Rain",
+            "year": 1984,
+            "topicTags": [
+              "Apollonia Kotero",
+              "Purple Rain",
+              "Apollonia 6",
+              "actress",
+              "1984",
+              "character name"
+            ],
+            "fact": "Patricia Apollonia Kotero — known professionally as Apollonia — played the female lead in Purple Rain opposite Prince. Her character's name became the title of Prince's second all-female protégé group, Apollonia 6, whose debut album was released the same year as the film. Kotero had previously been considered as a Vanity 6 replacement before the full Apollonia 6 concept developed.",
+            "storyHook": "He named his protégé group after the character she played in the film he made. The actress, the character, and the group share a single name. Prince's universe recycled its own mythology.",
+            "sourceNotes": "Purple Rain film production records (Warner Bros., 1984). Apollonia Kotero biographical records. Apollonia 6 liner notes (Warner Bros./Paisley Park, 1984).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Apollonia Kotero – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Apollonia_Kotero",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Purple Rain (film) – IMDb",
+                "url": "https://www.imdb.com/title/tt0087957/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R3-B1",
+          "episodeId": "EP025",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Prince's debut album 'For You' was produced, arranged, composed, and performed almost entirely by himself — the liner notes credited him with playing how many instruments?",
+          "choices": [
+            "19",
+            "27",
+            "33",
+            "14"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "8",
+            "bonusHint": "DIGIT 3 OF 3 — HOW MANY INSTRUMENTS PRINCE PLAYED ON HIS DEBUT"
+          },
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": "For You",
+            "year": 1978,
+            "topicTags": [
+              "For You",
+              "27 instruments",
+              "Prince",
+              "1978",
+              "debut album",
+              "multi-instrumentalist",
+              "bonus digit"
+            ],
+            "fact": "'For You' was produced, arranged, composed, and performed by Prince alone — the liner notes' instrument count of 27 made it one of the most remarkable debut album production credits in recording history. The list included synthesizer, electric guitar, acoustic guitar, bass, drums, electric piano, piano, clavinet, bongos, and vocals, among others.",
+            "storyHook": "Twenty-seven instruments. One name in the liner notes. Nineteen years old. The debut album's production credit told you everything about who Prince was and what he was going to do for the next four decades.",
+            "sourceNotes": "For You liner notes (Warner Bros. Records, 1978). Prince official instrument credits. Warner Bros. Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "For You – Goldies Parade",
+                "url": "https://goldiesparade.co.uk/discography/albums/for-you/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP025-R3-RES1",
+          "episodeId": "EP025",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Sheila E.'s birth surname — shared with her legendary percussionist father — is what?",
+          "choices": [
+            "Escovedo",
+            "Elizondo",
+            "Eduardo",
+            "Evelyn"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sheila E.",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Sheila E.",
+              "Escovedo",
+              "birth surname",
+              "Pete Escovedo",
+              "family",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Sheila E. official biography. Pete Escovedo biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Sheila E. – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Sheila_E.",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP025-R3-RES2",
+          "episodeId": "EP025",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "When Prince changed his name to an unpronounceable symbol during his Warner Bros. dispute, the press coined which phrase to describe him — which he never officially endorsed?",
+          "choices": [
+            "The Symbol",
+            "The Purple One",
+            "The Vault Keeper",
+            "The Artist Formerly Known as Prince"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Prince",
+            "song": null,
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "The Artist Formerly Known as Prince",
+              "name change",
+              "symbol",
+              "Warner Bros.",
+              "1993",
+              "press nickname",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Prince official documentation (1993). Billboard editorial archives. Warner Bros. Records dispute records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Prince (musician) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Prince_(musician)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "EP025",
+    "builtAt": "2026-05-11T00:40:20.266885+00:00"
+  }
+}

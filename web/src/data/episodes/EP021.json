@@ -1,0 +1,1545 @@
+{
+  "episodeId": "EP021",
+  "title": "R&B Babies",
+  "theme": "Before they were superstars, they were teenagers. Some were even younger than that.",
+  "narrativePurpose": "Test knowledge of R&B's youngest debut artists — the ages, the labels, the mentors, the birth names, and the family connections behind the genre's most precocious careers.",
+  "toneProgression": "Ages, debut albums, and mentors → labels, chart facts, and birth names → film soundtracks, debut ages, and family connections",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "4"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-4 — the year the genre handed itself to teenagers. Brandy debuted at 15, Aaliyah debuted at 15, and Usher debuted at 15 — all in the same calendar year. The genre never entirely got it back."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "Ages, debut albums, mentors. These artists arrived young and arrived loud.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP021-R1-Q1",
+          "episodeId": "EP021",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brandy released her self-titled debut album in 1994 — at what age?",
+          "choices": [
+            "17",
+            "16",
+            "14",
+            "15"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy",
+            "song": null,
+            "album": "Brandy",
+            "year": 1994,
+            "topicTags": [
+              "Brandy",
+              "15",
+              "debut age",
+              "1994",
+              "Atlantic Records"
+            ],
+            "fact": "Brandy Rayana Norwood was born June 11, 1979 — her self-titled debut album was released September 27, 1994, when she was 15 years old. Her combination of youth, technical vocal control, and an established acting presence through 'Thea' made her debut arrival unusually polished for a teenager.",
+            "storyHook": "Fifteen years old. A debut album. A TV sitcom in development. Brandy arrived at 15 with more industry infrastructure than most artists have at 25.",
+            "sourceNotes": "Brandy official biography. Atlantic Records press materials. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Brandy (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brandy_(album)",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "Brandy Rayana Norwood – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brandy_Norwood",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "15-year-old Brandy released her debut – Instagram",
+                "url": "https://www.instagram.com/p/DPHMwNekUTV/",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R1-Q2",
+          "episodeId": "EP021",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Monica's 1995 debut album — released when she was just 14 years old — was titled what?",
+          "choices": [
+            "All Eyez on Me",
+            "After the Storm",
+            "Miss Thang",
+            "The Boy Is Mine"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Monica",
+            "song": null,
+            "album": "Miss Thang",
+            "year": 1995,
+            "topicTags": [
+              "Monica",
+              "Miss Thang",
+              "debut album",
+              "1995",
+              "Rowdy Records",
+              "14 years old"
+            ],
+            "fact": "'Miss Thang' was released on Rowdy Records in May 1995 — Monica Arnold was born October 24, 1980, making her 14 at the time of release. The album went platinum and produced two top-10 R&B singles, establishing Monica as one of the youngest commercially successful artists in the genre's history.",
+            "storyHook": "Fourteen years old. Platinum album. Two top-ten R&B singles. Monica arrived at an age when most people are worried about high school.",
+            "sourceNotes": "Miss Thang liner notes (Rowdy/Arista Records, 1995). Billboard chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Miss Thang – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Miss_Thang",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R1-Q3",
+          "episodeId": "EP021",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Usher's 1994 self-titled debut — released when he was 15 — contained which lead single?",
+          "choices": [
+            "Nice & Slow",
+            "Think of You",
+            "You Make Me Wanna",
+            "Confessions"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Usher",
+            "song": "Think of You",
+            "album": "Usher",
+            "year": 1994,
+            "topicTags": [
+              "Usher",
+              "Think of You",
+              "debut single",
+              "1994",
+              "LaFace Records",
+              "15 years old"
+            ],
+            "fact": "'Think of You' was Usher's debut single from his self-titled 1994 album — released when he was just 15. The song introduced his teenage R&B vocal style to radio, though it was his follow-up records that would define his commercial identity. L.A. Reid signed Usher to LaFace after spotting him at a showcase, betting on potential that took another decade to fully emerge.",
+            "storyHook": "L.A. Reid saw something at 15 that would take another decade to fully emerge. That is either excellent A&R instinct or extraordinary patience. Probably both.",
+            "sourceNotes": "Usher liner notes (LaFace Records, 1994). Billboard chart archives. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Think of You (Usher song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Think_of_You_(Usher_song)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R1-Q4",
+          "episodeId": "EP021",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Before 'Moesha' made her a household name, Brandy made her television acting debut in 1993 as a supporting cast member on which short-lived ABC sitcom?",
+          "choices": [
+            "The Parkers",
+            "Moesha",
+            "Girlfriends",
+            "Thea"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy",
+            "song": null,
+            "album": null,
+            "year": 1996,
+            "topicTags": [
+              "Brandy",
+              "Thea",
+              "ABC",
+              "television debut",
+              "1993",
+              "acting",
+              "first role"
+            ],
+            "fact": "Brandy made her television acting debut on 'Thea' — a 1993-1994 ABC sitcom starring comedian Thea Vidale — a year before her self-titled debut album dropped. Moesha (1996) was the role that defined her acting career, but Thea was where she first appeared on screen.",
+            "storyHook": "Her first TV role was a sitcom nobody remembers. Her second TV role was Moesha. The second one is why people ask the question.",
+            "sourceNotes": "Thea ABC sitcom production records (1993-1994). Brandy official biography. Moesha UPN production records (1996-2001).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Thea – My ABC Shows Wiki",
+                "url": "https://my-abc-shows.fandom.com/wiki/Thea",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "Brandy Norwood – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brandy_Norwood",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R1-Q5",
+          "episodeId": "EP021",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Bow Wow debuted at 13 as 'Lil' Bow Wow' under the mentorship of which rapper — who first spotted him performing onstage as a child?",
+          "choices": [
+            "Dr. Dre",
+            "Master P",
+            "Snoop Dogg",
+            "Jay-Z"
+          ],
+          "correctIndex": 2,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bow Wow",
+            "song": null,
+            "album": "Beware of Dog",
+            "year": 2000,
+            "topicTags": [
+              "Bow Wow",
+              "Snoop Dogg",
+              "Lil Bow Wow",
+              "mentorship",
+              "discovery",
+              "2000"
+            ],
+            "fact": "Snoop Dogg discovered a young Shad Moss — then around six years old — performing at one of his concerts in the early 1990s. Snoop mentored him throughout his childhood, eventually signing him to So So Def through Columbia Records and co-producing his debut album 'Beware of Dog' when Bow Wow was 13.",
+            "storyHook": "Snoop Dogg saw a six-year-old performing at his own concert and decided to invest in that child's career for the next seven years. That is either the best scouting instinct in hip-hop history or a very unusual hobby.",
+            "sourceNotes": "Bow Wow official biography. So So Def Records press materials. Snoop Dogg biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bow Wow (rapper) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bow_Wow_(rapper)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R1-Q6",
+          "episodeId": "EP021",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Omarion — who debuted as a teenage member of the group B2K — has what birth name?",
+          "choices": [
+            "Omari Hardwick",
+            "Omar Grant",
+            "Omari Grandberry",
+            "Omari Johnson"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Omarion",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Omarion",
+              "Omari Grandberry",
+              "B2K",
+              "birth name",
+              "teen debut"
+            ],
+            "fact": "Omarion was born Omari Ishmael Grandberry on November 12, 1984, in Inglewood, California — he was 17 when B2K released their self-titled debut album in 2002, making him one of the youngest lead vocalists in a commercially successful R&B group of the early 2000s.",
+            "storyHook": "Omari Grandberry became Omarion at 17. The stage name landed easier than the birth name on a marquee. The voice landed regardless.",
+            "sourceNotes": "Omarion official biography. B2K Epic Records press materials. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Omarion – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Omarion",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R1-B1",
+          "episodeId": "EP021",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brandy's 1994 debut single — the lead track from her self-titled album — was titled what?",
+          "choices": [
+            "Best Friend",
+            "Baby",
+            "I Wanna Be Down",
+            "Movin' On"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — BRANDY'S DEBUT SINGLE TITLE"
+          },
+          "metadata": {
+            "artist": "Brandy",
+            "song": "I Wanna Be Down",
+            "album": "Brandy",
+            "year": 1994,
+            "topicTags": [
+              "Brandy",
+              "I Wanna Be Down",
+              "debut single",
+              "1994",
+              "Atlantic Records",
+              "bonus digit"
+            ],
+            "fact": "'I Wanna Be Down' was Brandy's debut single from her self-titled 1994 album — it reached the top 10 on the Billboard R&B chart and introduced her polished teenage vocal style to mainstream radio. The song's smooth production and Brandy's precise tone established the template for her early career sound.",
+            "storyHook": "Atlantic Records signed a 15-year-old, put the full label machine behind her debut, and went triple platinum. The age was not a liability. It was the story.",
+            "sourceNotes": "Brandy liner notes (Atlantic Records, 1994). Billboard R&B chart archives. AllMusic editorial.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Wanna Be Down – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Wanna_Be_Down",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP021-R1-RES1",
+          "episodeId": "EP021",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Aaliyah's 1994 debut album — released when she was just 15 years old — was titled what?",
+          "choices": [
+            "One in a Million",
+            "Age Ain't Nothing But a Number",
+            "I Care 4 U",
+            "Aaliyah"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": null,
+            "album": "Age Ain't Nothing But a Number",
+            "year": 1994,
+            "topicTags": [
+              "Aaliyah",
+              "Age Ain't Nothing But a Number",
+              "debut album",
+              "1994",
+              "Jive Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Age Ain't Nothing But a Number liner notes (Jive/Blackground, 1994). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "HOST_SENSITIVITY: Question asks for album title only. Do not frame around production credits.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Age Ain't Nothing but a Number – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Age_Ain%27t_Nothing_but_a_Number",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R1-RES2",
+          "episodeId": "EP021",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Mario performed under a single-name stage identity — his full birth name is what?",
+          "choices": [
+            "Mario Winans",
+            "Mario Brooks",
+            "Mario Thomas",
+            "Mario Barrett"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Mario",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Mario",
+              "Mario Barrett",
+              "birth name",
+              "stage name",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Mario official biography. J Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mario Dewar Barrett – Facebook biographical note",
+                "url": "https://www.facebook.com/Jwilson051998/posts/happy-39th-birthday-to-mario-mario-dewar-barrett-born-august-27-1986-known-monon/10",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R1-RES3",
+          "episodeId": "EP021",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brandy performs under her first name only — her birth surname, shared with her famous brother, is what?",
+          "choices": [
+            "Howard",
+            "Richardson",
+            "Arnold",
+            "Norwood"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Brandy",
+              "Norwood",
+              "birth surname",
+              "Ray J",
+              "family",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Brandy official biography. Atlantic Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Brandy Norwood – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brandy_Norwood",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R1-RES4",
+          "episodeId": "EP021",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Tevin Campbell — just 12 years old when he recorded it — appeared on Quincy Jones's 1989 album 'Back on the Block' performing which show-stopping track?",
+          "choices": [
+            "The Secret Garden",
+            "I'll Be Good to You",
+            "Tomorrow",
+            "Wanna Be Your Lover"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tevin Campbell",
+            "song": "Tomorrow",
+            "album": "Back on the Block",
+            "year": 1989,
+            "topicTags": [
+              "Tevin Campbell",
+              "Tomorrow",
+              "Quincy Jones",
+              "Back on the Block",
+              "debut",
+              "swap reserve"
+            ],
+            "fact": "Quincy Jones's 'Back on the Block' was released in December 1989 — Tevin Campbell recorded 'Tomorrow (A Better You, Better Me)' for it at approximately 12 years old, making his introduction to mainstream audiences one of the most remarkable child vocal performances in R&B history.",
+            "storyHook": "",
+            "sourceNotes": "Back on the Block liner notes (Qwest/Warner Bros., December 1989). Tevin Campbell biographical records. Grammy Award records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Back on the Block – AllMusic",
+                "url": "https://www.allmusic.com/album/back-on-the-block-mw0000201322",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Labels, chart records, birth names, and the commercial infrastructure behind the youngest voices in R&B.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP021-R2-Q1",
+          "episodeId": "EP021",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Monica debuted at 14 on which Atlanta-based Arista Records imprint — the label run by Dallas Austin and L.A. Reid?",
+          "choices": [
+            "Rowdy Records",
+            "LaFace Records",
+            "So So Def",
+            "Loud Records"
+          ],
+          "correctIndex": 0,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Monica",
+            "song": null,
+            "album": "Miss Thang",
+            "year": 1995,
+            "topicTags": [
+              "Monica",
+              "Rowdy Records",
+              "Arista Records",
+              "Dallas Austin",
+              "L.A. Reid",
+              "Atlanta"
+            ],
+            "fact": "Rowdy Records was an Arista imprint co-founded by Dallas Austin and L.A. Reid — Monica was among its flagship signings, discovered at an Atlanta talent competition where Dallas Austin heard her sing. The label's Atlanta base and Austin's production sensibility shaped Monica's early sound.",
+            "storyHook": "Discovered at a talent competition. Signed to an Atlanta imprint. Fourteen years old. The machinery was ready before the artist was old enough to drive.",
+            "sourceNotes": "Miss Thang liner notes (Rowdy/Arista, 1995). Dallas Austin biographical records. Rowdy Records label history.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Miss Thang – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Miss_Thang",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R2-Q2",
+          "episodeId": "EP021",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Tevin Campbell's debut album 'T.E.V.I.N.' was released on which Quincy Jones-founded label imprint?",
+          "choices": [
+            "Back on the Block Records",
+            "MCA Records",
+            "Warner Bros. Records",
+            "Qwest Records"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tevin Campbell",
+            "song": null,
+            "album": "T.E.V.I.N.",
+            "year": 1991,
+            "topicTags": [
+              "Tevin Campbell",
+              "Qwest Records",
+              "Quincy Jones",
+              "T.E.V.I.N.",
+              "debut album",
+              "1991"
+            ],
+            "fact": "Qwest Records was Quincy Jones's Warner Bros.-distributed imprint — home to Tevin Campbell, James Ingram, and a roster built around Jones's production philosophy of technical excellence and genre-crossing ambition. Tevin's 'T.E.V.I.N.' (1991) was one of the label's most commercially successful R&B releases.",
+            "storyHook": "Quincy Jones's label. Quincy Jones's protégé. The mentorship and the business structure were the same institution.",
+            "sourceNotes": "T.E.V.I.N. liner notes (Qwest/Warner Bros., 1991). Qwest Records label history. Quincy Jones biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "T.E.V.I.N. – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/T.E.V.I.N.",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R2-Q3",
+          "episodeId": "EP021",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Brandy and Monica's 1998 duet 'The Boy Is Mine' — released while both artists were still teenagers — spent how many consecutive weeks at #1 on the Billboard Hot 100?",
+          "choices": [
+            "9",
+            "11",
+            "13",
+            "7"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy & Monica",
+            "song": "The Boy Is Mine",
+            "album": "Never Say Never",
+            "year": 1998,
+            "topicTags": [
+              "Brandy",
+              "Monica",
+              "The Boy Is Mine",
+              "13 weeks",
+              "Billboard Hot 100",
+              "#1",
+              "1998"
+            ],
+            "fact": "'The Boy Is Mine' spent thirteen consecutive weeks at #1 on the Billboard Hot 100 in 1998 — setting a new record at the time for a duet between two female artists. Both Brandy and Monica were teenagers when the song was recorded, making it one of the highest-charting records ever produced by artists under 20.",
+            "storyHook": "Two teenagers. Thirteen weeks at number one. A record for female duets. They were both still in their teens and they had already made history.",
+            "sourceNotes": "Billboard Hot 100 chart archives (1998). Never Say Never liner notes (Atlantic Records, 1998). Grammy Award records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Boy Is Mine (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Boy_Is_Mine_(song)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R2-Q4",
+          "episodeId": "EP021",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Bow Wow's birth name — before he dropped 'Lil'' from his stage identity as he grew older — is what?",
+          "choices": [
+            "Darius Brown",
+            "Devon Hayes",
+            "Marcus Grant",
+            "Shad Moss"
+          ],
+          "correctIndex": 3,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bow Wow",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Bow Wow",
+              "Shad Moss",
+              "Shad Gregory Moss",
+              "birth name",
+              "stage name"
+            ],
+            "fact": "Bow Wow's birth name is Shad Gregory Moss — he was born March 9, 1987, in Columbus, Ohio. He debuted as 'Lil' Bow Wow' at 13, dropped the 'Lil'' at 16 to signal his transition from child star to teenage artist, and has continued recording under the shortened stage name.",
+            "storyHook": "Lil' Bow Wow at 13. Bow Wow at 16. Shad Moss throughout. The name changed with the age. The career ran underneath all of it.",
+            "sourceNotes": "Bow Wow official biography. So So Def/Columbia Records press materials. AllMusic artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bow Wow (rapper) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bow_Wow_(rapper)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R2-Q5",
+          "episodeId": "EP021",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Omarion launched his solo career after B2K with which 2005 debut album — its title consisting solely of his first initial?",
+          "choices": [
+            "Omarion",
+            "O",
+            "Lead",
+            "Grandberry"
+          ],
+          "correctIndex": 1,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Omarion",
+            "song": null,
+            "album": "O",
+            "year": 2005,
+            "topicTags": [
+              "Omarion",
+              "O",
+              "solo debut",
+              "2005",
+              "Epic Records",
+              "B2K"
+            ],
+            "fact": "'O' was released on Epic Records in February 2005 and debuted at #1 on the Billboard 200 — Omarion became the first male R&B artist to debut at the top of that chart since D'Angelo's 'Voodoo' in 2000. The one-letter title was a deliberate minimalist statement that his name alone was sufficient identifier.",
+            "storyHook": "One letter. One name. Number one album. After B2K, Omarion made the case for solo stardom with the shortest album title in the genre's recent history.",
+            "sourceNotes": "O liner notes (Epic Records, 2005). Billboard 200 chart archives. AllMusic editorial.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "O (Omarion album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/O_(Omarion_album)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R2-B1",
+          "episodeId": "EP021",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Bow Wow's 2000 debut album — released when he was 13 as 'Lil' Bow Wow' — was titled what?",
+          "choices": [
+            "Unleashed",
+            "Bow Wow (That's My Name)",
+            "Beware of Dog",
+            "Doggy Bag"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — LIL' BOW WOW'S DEBUT ALBUM TITLE"
+          },
+          "metadata": {
+            "artist": "Bow Wow",
+            "song": null,
+            "album": "Beware of Dog",
+            "year": 2000,
+            "topicTags": [
+              "Bow Wow",
+              "Beware of Dog",
+              "debut album",
+              "2000",
+              "So So Def",
+              "Columbia Records",
+              "bonus digit"
+            ],
+            "fact": "'Beware of Dog' was released on So So Def/Columbia in May 2000 — it debuted at #4 on the Billboard 200 and was certified platinum, making 13-year-old Bow Wow one of the youngest debut artists to chart that high. The album's title was a knowing play on his name that established his playful brand identity.",
+            "storyHook": "Thirteen years old. A debut album titled 'Beware of Dog.' A top-five Billboard 200 debut. Lil' Bow Wow treated wordplay as a business strategy.",
+            "sourceNotes": "Beware of Dog liner notes (So So Def/Columbia, 2000). Billboard 200 chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Beware of Dog – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Beware_of_Dog_(album)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP021-R2-RES1",
+          "episodeId": "EP021",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Chris Brown was born and raised in which small Virginia town — far from the industry centers where his career would eventually be built?",
+          "choices": [
+            "Roanoke",
+            "Tappahannock",
+            "Charlottesville",
+            "Suffolk"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Chris Brown",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Chris Brown",
+              "Tappahannock",
+              "Virginia",
+              "hometown",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Chris Brown official biography. Jive Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Chris Brown – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Chris_Brown",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R2-RES2",
+          "episodeId": "EP021",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "'The Boy Is Mine' appeared on which Brandy album — her second record, released in 1998?",
+          "choices": [
+            "Full Moon",
+            "Never Say Never",
+            "Afrodisiac",
+            "Human"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy",
+            "song": "The Boy Is Mine",
+            "album": "Never Say Never",
+            "year": 1998,
+            "topicTags": [
+              "Brandy",
+              "Never Say Never",
+              "The Boy Is Mine",
+              "second album",
+              "1998",
+              "Atlantic Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Never Say Never liner notes (Atlantic Records, 1998). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Never Say Never (Brandy album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Never_Say_Never_(Brandy_album)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R2-RES3",
+          "episodeId": "EP021",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "The group name B2K was an abbreviation. What did it stand for?",
+          "choices": [
+            "Boys of the New Millennium",
+            "Born 2 Kill",
+            "Back 2 Krunk",
+            "Bounce 2 the K"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "B2K",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "B2K",
+              "Boys of the New Millennium",
+              "group name",
+              "abbreviation",
+              "Omarion"
+            ],
+            "fact": "B2K stood for 'Boys of the New Millennium' — a name that positioned the group as the teenage R&B act for the early 2000s generation. The abbreviation stuck well enough that most fans never tracked the full form.",
+            "storyHook": "Everyone knew B2K. Almost nobody knew what it stood for.",
+            "sourceNotes": "PRIORITY VERIFY: Confirm B2K stood for 'Boys of the New Millennium.' Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "B2K – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/B2K",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-17",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Film soundtracks, debut ages, and the family connections that ran beneath the surface of the genre's youngest careers.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP021-R3-Q1",
+          "episodeId": "EP021",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Tevin Campbell's debut single 'Round and Round' appeared on the soundtrack of which 1990 Prince-directed film — introducing him to a mainstream audience years before his own albums?",
+          "choices": [
+            "Sign o' the Times",
+            "Purple Rain",
+            "Under the Cherry Moon",
+            "Graffiti Bridge"
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tevin Campbell",
+            "song": "Round and Round",
+            "album": "Graffiti Bridge",
+            "year": 1990,
+            "topicTags": [
+              "Tevin Campbell",
+              "Round and Round",
+              "Graffiti Bridge",
+              "Prince",
+              "soundtrack",
+              "debut"
+            ],
+            "fact": "'Graffiti Bridge' was Prince's 1990 semi-sequel to 'Purple Rain' — Tevin Campbell contributed 'Round and Round,' a Prince-written and produced track that showcased Campbell's extraordinary vocal range and introduced him to a large mainstream audience before his own debut album arrived. The song became one of the film's most memorable musical moments.",
+            "storyHook": "Tevin Campbell's first recording was on a Prince film soundtrack. Prince wrote it. Prince produced it. Tevin Campbell's voice made it unforgettable. That is an unusual debut.",
+            "sourceNotes": "Graffiti Bridge official soundtrack liner notes (Paisley Park/Warner Bros., 1990). Tevin Campbell biographical records. Prince production credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Round and Round (Tevin Campbell song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Round_and_Round_(Tevin_Campbell_song)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R3-Q2",
+          "episodeId": "EP021",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "When B2K released their self-titled debut album in 2002, Omarion had not yet reached which age — making him one of the decade's youngest lead vocalists in a charting R&B group?",
+          "choices": [
+            "17",
+            "16",
+            "19",
+            "18"
+          ],
+          "correctIndex": 3,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Omarion",
+            "song": null,
+            "album": "B2K",
+            "year": 2002,
+            "topicTags": [
+              "Omarion",
+              "B2K",
+              "age 18",
+              "teenage debut",
+              "2002",
+              "Epic Records"
+            ],
+            "fact": "B2K's self-titled debut was released on October 8, 2002 — Omarion was born November 12, 1984, meaning he had not yet turned 18 at the time of release. He was 17 years, 10 months, and 26 days old when the album dropped, making him one of the youngest lead vocalists in a charting major-label R&B group of the era.",
+            "storyHook": "Seventeen years old. Lead vocalist of a charting R&B group. Major label debut. Omarion turned 18 six weeks after the album came out. The career was already running.",
+            "sourceNotes": "B2K liner notes (Epic Records, 2002). Omarion biographical records. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Omarion – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Omarion",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "B2K – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/B2K",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R3-B1",
+          "episodeId": "EP021",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Brandy's younger brother — who also built an entertainment career in music and reality television — performs under what stage name?",
+          "choices": [
+            "Sammie",
+            "Ray J",
+            "Lil' Romeo",
+            "Romeo"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — BRANDY'S YOUNGER BROTHER'S STAGE NAME"
+          },
+          "metadata": {
+            "artist": "Brandy",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Brandy",
+              "Ray J",
+              "brother",
+              "Norwood",
+              "family",
+              "bonus digit"
+            ],
+            "fact": "Ray J — born William Ray Norwood Jr. on January 17, 1981 — is Brandy's younger brother by two years. He pursued his own music career alongside hers, releasing his debut album in 1997 and appearing on Brandy's 'Moesha' set. The Norwood siblings navigated parallel entertainment careers through the same industry infrastructure.",
+            "storyHook": "Brandy was the singer. Ray J was her brother. Then Ray J became a singer too. The Norwood family treated the entertainment industry as a shared workspace.",
+            "sourceNotes": "Ray J official biography. Brandy and Ray J family documentation. Atlantic Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ray J – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ray_J",
+                "accessed": "2026-05-18"
+              },
+              {
+                "title": "Brandy Norwood – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brandy_Norwood",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP021-R3-RES1",
+          "episodeId": "EP021",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Immature — the teenage R&B trio who debuted in 1992 — changed their name to what in the late 1990s after a lineup adjustment?",
+          "choices": [
+            "IMature",
+            "IMx",
+            "Mature",
+            "Immature Men"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Immature",
+            "song": null,
+            "album": null,
+            "year": 1999,
+            "topicTags": [
+              "Immature",
+              "IMx",
+              "name change",
+              "late 1990s",
+              "MCA Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Immature/IMx official biography. MCA Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "IMx – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/IMx",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP021-R3-RES2",
+          "episodeId": "EP021",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Brandy and Monica's 'The Boy Is Mine' won which Grammy Award at the 41st ceremony in 1999?",
+          "choices": [
+            "Best R&B Album",
+            "Best R&B Performance by a Duo or Group with Vocal",
+            "Best R&B Song",
+            "Record of the Year"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brandy & Monica",
+            "song": "The Boy Is Mine",
+            "album": "Never Say Never",
+            "year": 1999,
+            "topicTags": [
+              "Brandy",
+              "Monica",
+              "The Boy Is Mine",
+              "Grammy",
+              "Best R&B Performance",
+              "41st Grammy Awards",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "41st Grammy Award records (1999). Grammy.com official database.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Boy Is Mine (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Boy_Is_Mine_(song)",
+                "accessed": "2026-05-18"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-18T18:30:05.077071+00:00"
+  }
+}

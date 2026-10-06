@@ -1,0 +1,1703 @@
+{
+  "episodeId": "EP028",
+  "title": "The Motown Inheritance",
+  "theme": "The label that made R&B possible. From the assembly line to Hitsville to the 90s — the artists, the addresses, the house band, and the descendants.",
+  "narrativePurpose": "Test knowledge of Motown's founding, its classic era artists and infrastructure, and the ways its legacy shaped contemporary R&B — from Berry Gordy's $800 loan to the Funk Brothers to the 90s acts who carried the sound forward.",
+  "toneProgression": "The Motown facts every R&B fan carries → loans, marriages, migrations, and songwriting credits → replacements, publishing arms, rival labels, and documentaries",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "9"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-5-9 — the year Berry Gordy founded Tamla Records in Detroit with an $800 family loan. The seed capital for the most influential Black-owned business in American music history. Everything that followed — the Funk Brothers, Hitsville, the 90s roster — grew from this address and this year."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The Motown facts every R&B fan carries. These are the names, nicknames, and addresses behind the sound.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP028-R1-Q1",
+          "episodeId": "EP028",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Motown Records was founded in which US state — the industrial heartland where Berry Gordy worked the automobile assembly line?",
+          "choices": [
+            "Ohio",
+            "Indiana",
+            "Illinois",
+            "Michigan"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Motown Records",
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "Motown Records",
+              "Michigan",
+              "Berry Gordy",
+              "founding",
+              "Detroit",
+              "Hitsville USA"
+            ],
+            "fact": "Motown Records was founded in Michigan — specifically in Detroit, the automotive capital whose assembly-line philosophy Berry Gordy applied directly to music production. Michigan's industrial identity shaped both the label's work ethic and the specific talent pool that filled Hitsville U.S.A.",
+            "storyHook": "The Ford assembly line taught him that specialization produces consistency. He applied that to a recording studio in Detroit and built the most commercially successful Black-owned record label in American history.",
+            "sourceNotes": "Motown Records official history. Berry Gordy biographical records. Detroit, Michigan cultural documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Motown Records | Detroit Historical Society",
+                "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/motown-records",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Motown – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Motown",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "city",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R1-Q2",
+          "episodeId": "EP028",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Marvin Gaye's 1971 landmark album — the first Motown release where an artist controlled his own production — was titled what?",
+          "choices": [
+            "Trouble Man",
+            "Here, My Dear",
+            "What's Going On",
+            "Let's Get It On"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Marvin Gaye",
+            "song": null,
+            "album": "What's Going On",
+            "year": 1971,
+            "topicTags": [
+              "Marvin Gaye",
+              "What's Going On",
+              "1971",
+              "Motown Records",
+              "self-produced",
+              "creative control"
+            ],
+            "fact": "'What's Going On' was released on Motown Records in May 1971 — Berry Gordy initially resisted releasing it, calling it the worst thing he had ever heard. It became Motown's fastest-selling single at the time and is consistently ranked among the greatest albums in American popular music. Gaye's insistence on producing the album himself broke the Motown assembly-line model.",
+            "storyHook": "Berry Gordy called it the worst thing he had ever heard. Marvin Gaye said release it anyway or he would never record for Motown again. It became the fastest-selling single in Motown history.",
+            "sourceNotes": "What's Going On liner notes (Motown Records, 1971). Berry Gordy biographical records. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Marvin Gaye: What's Going On | Classic Motown",
+                "url": "https://classic.motown.com/story/marvin-gaye-whats-going-on/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "What's Going On (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/What%27s_Going_On_(album)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R1-Q3",
+          "episodeId": "EP028",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Supremes — Motown's most commercially successful group — were fronted by which vocalist who later departed for a solo career?",
+          "choices": [
+            "Diana Ross",
+            "Mary Wilson",
+            "Cindy Birdsong",
+            "Florence Ballard"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Supremes",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Diana Ross",
+              "The Supremes",
+              "Motown Records",
+              "Berry Gordy",
+              "lead vocalist",
+              "solo career"
+            ],
+            "fact": "Diana Ross fronted The Supremes through their commercial peak — the group produced twelve #1 pop hits between 1964 and 1969, making them the most successful American vocal group of the decade. Ross departed in 1970 for a solo career that Berry Gordy actively cultivated. Gordy recruited Jean Terrell — an outside artist he had seen performing with her brother Ernie — to replace Ross, renaming the group simply 'The Supremes' with Terrell joining Mary Wilson and Cindy Birdsong.",
+            "storyHook": "Twelve number-one pop hits. The most successful vocal group of the decade. Diana Ross left in 1970 and the label spent years trying to replicate what she had been.",
+            "sourceNotes": "The Supremes official discography. Billboard Hot 100 chart archives. Berry Gordy biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Diana Ross – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Diana_Ross",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "The Supremes' History – FormerSupremes.com",
+                "url": "https://www.formersupremes.com/the-supremes-history.html",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R1-Q4",
+          "episodeId": "EP028",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Motown's Detroit recording studio — located at 2648 West Grand Boulevard — was nicknamed what?",
+          "choices": [
+            "The Detroit Sound",
+            "Motown House",
+            "Hitsville U.S.A.",
+            "Soul Central"
+          ],
+          "correctIndex": 2,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Motown Records",
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "Hitsville U.S.A.",
+              "Motown Records",
+              "2648 West Grand Boulevard",
+              "Detroit",
+              "recording studio"
+            ],
+            "fact": "Hitsville U.S.A. at 2648 West Grand Boulevard was where virtually every classic Motown record was made — Berry Gordy purchased the two-story house in 1959 and converted it into a recording facility whose living room became one of the most acoustically celebrated small studios in American music history. The Funk Brothers played there for years without leaving the building.",
+            "storyHook": "A two-story house on West Grand Boulevard. A converted living room. The Funk Brothers in the basement. Hitsville U.S.A. produced the sound of a generation in a building that most major studios would have dismissed as a rehearsal space.",
+            "sourceNotes": "Motown Historical Museum documentation. 2648 West Grand Boulevard property records. The Funk Brothers recording documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Hitsville U.S.A. – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hitsville_U.S.A.",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Motown Museum | Home of Hitsville U.S.A.",
+                "url": "https://www.motownmuseum.org",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Hitsville U.S.A. – Historic Detroit",
+                "url": "https://historicdetroit.org/buildings/hitsville-u-s-a",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R1-Q5",
+          "episodeId": "EP028",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Boyz II Men's 1991 Motown debut album — which introduced 'Motownphilly' and 'It's So Hard to Say Goodbye to Yesterday' — was titled what?",
+          "choices": [
+            "Evolution",
+            "Cooleyhighharmony",
+            "II",
+            "Nathan Michael Shawn Wanya"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Boyz II Men",
+            "song": null,
+            "album": "Cooleyhighharmony",
+            "year": 1991,
+            "topicTags": [
+              "Boyz II Men",
+              "Cooleyhighharmony",
+              "1991",
+              "Motown Records",
+              "debut album",
+              "Motownphilly"
+            ],
+            "fact": "'Cooleyhighharmony' was released on Motown Records in 1991 and went quadruple platinum — its title was a tribute to the 1975 film 'Cooley High' and a statement of the group's Motown lineage. The album's lead single 'Motownphilly' explicitly referenced the label while announcing a new Philadelphia-rooted chapter of the Motown sound.",
+            "storyHook": "Named after a 1975 film. Released on the label the film was named for. 'Cooleyhighharmony' and 'Motownphilly' were acts of deliberate homage, and Motown got its most commercially successful 90s act from the deal.",
+            "sourceNotes": "Cooleyhighharmony liner notes (Motown Records, 1991). Billboard chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Boyz II Men: Cooleyhighharmony – Classic Motown",
+                "url": "https://classic.motown.com/story/cooleyhighharmony-boyz-ii-men/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Cooleyhighharmony – Albumism",
+                "url": "https://albumism.com/anniversaries/boyz-ii-men-cooleyhighharmony",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Cooleyhighharmony – YouTube playlist",
+                "url": "https://www.youtube.com/playlist?list=PLyQhRMLg4kFOugOaTjdlSkdXmwTrrB5RW",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R1-Q6",
+          "episodeId": "EP028",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1950s",
+          "question": "Before founding Motown, Berry Gordy worked on the assembly line of which Detroit automobile company — an experience that shaped how he structured his label?",
+          "choices": [
+            "Ford Motor Company",
+            "General Motors",
+            "Chrysler",
+            "Hudson Motor Car Company"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Motown Records",
+            "song": null,
+            "album": null,
+            "year": 1955,
+            "topicTags": [
+              "Berry Gordy",
+              "Ford Motor Company",
+              "assembly line",
+              "Motown Records",
+              "origin",
+              "Detroit"
+            ],
+            "fact": "Berry Gordy worked on the Lincoln-Mercury assembly line at the Ford Motor Company's Wayne Assembly Plant before founding Motown — he applied the assembly-line philosophy directly to music production, creating specialized teams for songwriting, arranging, recording, artist development, and marketing that operated as discrete stages of a single production system.",
+            "storyHook": "Ford's assembly line taught him how to systematize creativity. He left the plant and built a different kind of factory — one that ran on talent instead of steel, but used the same logic of specialization and quality control.",
+            "sourceNotes": "Berry Gordy biographical records. Ford Motor Company Wayne Assembly Plant documentation. Motown Records founding history.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "How Detroit Assembly Lines Changed Music Forever – Road & Track",
+                "url": "https://www.roadandtrack.com/car-culture/a34518490/motown-assembly-line-berry-gordy/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Berry Gordy and the Process that Made the Motown Sound",
+                "url": "https://ericrobertmorse.com/berry-gordy-and-the-process-that-made-the-motown-sound/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Motown: A New Sound | Historical Society of Michigan",
+                "url": "https://hsmichigan.org/motown-new-sound",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R1-B1",
+          "episodeId": "EP028",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1950s",
+          "question": "Motown's promotional slogan — which appeared on all releases through the 1960s and became one of popular music's most enduring phrases — was what?",
+          "choices": [
+            "Soul from the Motor City",
+            "Music for Everyone",
+            "The Sound of Young America",
+            "Detroit Knows Best"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — MOTOWN'S PROMOTIONAL SLOGAN"
+          },
+          "metadata": {
+            "artist": "Motown Records",
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "Motown Records",
+              "The Sound of Young America",
+              "slogan",
+              "promotional",
+              "1960s",
+              "Berry Gordy",
+              "bonus digit"
+            ],
+            "fact": "'The Sound of Young America' was Motown's promotional motto — it appeared on label artwork and Hitsville U.S.A. signage throughout the 1960s. Berry Gordy founded Tamla Records (his original imprint) in January 1959 with his $800 family loan; Motown Record Corporation was formally incorporated in April 1960. The slogan reflected Gordy's deliberate positioning of Motown's music as crossover pop rather than a racially segmented genre product.",
+            "storyHook": "Eight hundred dollars. 1959. Detroit, Michigan. By the mid-1960s Motown was the most commercially successful Black-owned business in America. The founding year is a number worth remembering.",
+            "sourceNotes": "Motown Records promotional materials (1960s). Tamla Records founding documentation (January 1959). Motown Record Corporation incorporation records (April 1960).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Motown – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Motown",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Motown Records | Detroit Historical Society",
+                "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/motown-records",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP028-R1-RES1",
+          "episodeId": "EP028",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "Lionel Richie began his career as lead vocalist of which Tuskegee-formed funk group before his solo breakout?",
+          "choices": [
+            "The Four Tops",
+            "The Commodores",
+            "The Temptations",
+            "The Miracles"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lionel Richie",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Lionel Richie",
+              "The Commodores",
+              "Tuskegee",
+              "Motown Records",
+              "funk group",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "The Commodores official biography. Lionel Richie biographical records. Motown Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lionel Richie – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lionel_Richie",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Commodores – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Commodores",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R1-RES2",
+          "episodeId": "EP028",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Motown sound featured which rhythm instrument prominently on the offbeat — a production signature that distinguished Hitsville recordings from their contemporaries?",
+          "choices": [
+            "Maracas",
+            "Handclap",
+            "Cowbell",
+            "Tambourine"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Motown Records",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Tambourine",
+              "Motown sound",
+              "offbeat",
+              "production",
+              "Hitsville USA",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Motown sound musicological documentation. The Funk Brothers recording archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Motown: A New Sound | Historical Society of Michigan",
+                "url": "https://hsmichigan.org/motown-new-sound",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Tell It Like It Is – Smithsonian Folklife",
+                "url": "https://folklife.si.edu/magazine/freedom-sounds-tell-it-like-it-is-a-history-of-rhythm-and-blues",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R1-RES3",
+          "episodeId": "EP028",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "'I Heard It Through the Grapevine' was first commercially released by which Motown artist — before Marvin Gaye's version became the definitive reading?",
+          "choices": [
+            "Mary Wells",
+            "The Four Tops",
+            "Gladys Knight",
+            "Smokey Robinson"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Gladys Knight & the Pips",
+            "song": "I Heard It Through the Grapevine",
+            "album": null,
+            "year": 1967,
+            "topicTags": [
+              "Gladys Knight",
+              "I Heard It Through the Grapevine",
+              "Marvin Gaye",
+              "Motown Records",
+              "1967",
+              "swap reserve"
+            ],
+            "fact": "Smokey Robinson & The Miracles recorded 'I Heard It Through the Grapevine' first (August 1966), followed by Marvin Gaye (early 1967) — but Berry Gordy vetoed both versions. Gladys Knight & the Pips recorded it last (mid-1967) and were the first to actually release it commercially, in September 1967. Marvin Gaye's version was recorded before Knight's but sat in the Motown vault until 1968, when it became the bigger commercial hit.",
+            "storyHook": "",
+            "sourceNotes": "Motown recording session archives. Gladys Knight & the Pips discography (Motown Records, 1967). Marvin Gaye vault release documentation (1968).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Heard It Through the Grapevine – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Heard_It_Through_the_Grapevine",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Gladys Knight & the Pips discography – AllMusic",
+                "url": "https://www.allmusic.com/artist/gladys-knight-the-pips-mn0000655416/discography",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R1-RES4",
+          "episodeId": "EP028",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1960s",
+          "question": "The Temptations' signature synchronized dance move — which became one of Motown's most imitated visual trademarks — was called what?",
+          "choices": [
+            "The Detroit Step",
+            "The Hitsville Shuffle",
+            "The Motown Slide",
+            "The Temptation Walk"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Temptations",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "The Temptations",
+              "Temptation Walk",
+              "choreography",
+              "Motown Records",
+              "signature move",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "The Temptations official biography. Motown Records artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Temptations – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Temptations",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "The Temptations – Detroit Historical Society",
+                "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/temptations",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "The loan, the marriage, the migration, and the songwriting credits that built and reshaped Motown.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP028-R2-Q1",
+          "episodeId": "EP028",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1950s",
+          "question": "Berry Gordy's initial investment to found Motown came from a family loan of how much money — one of the most cited seed-funding stories in music history?",
+          "choices": [
+            "$300",
+            "$8,000",
+            "$80,000",
+            "$800"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Motown Records",
+            "song": null,
+            "album": null,
+            "year": 1959,
+            "topicTags": [
+              "Berry Gordy",
+              "$800",
+              "seed funding",
+              "family loan",
+              "Motown founding",
+              "1959"
+            ],
+            "fact": "Berry Gordy borrowed $800 from his family's Ber-Berry Co-Op savings club in January 1959 to found Tamla Records — the original imprint that preceded Motown Record Corporation, which was formally incorporated in April 1960. The $800 seeded one of the most documented ROI stories in American business history.",
+            "storyHook": "Eight hundred dollars. A family savings club. The most successful Black-owned record label in American history. The math from the $800 forward is what gets taught in business schools.",
+            "sourceNotes": "Berry Gordy biographical records. Motown Records founding documentation. Ber-Berry Co-Op family lending records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Motown Records Founded – Smithsonian Magazine",
+                "url": "https://www.smithsonianmag.com/smart-news/motown-records-founded-on-this-day-in-1959-broke-racial-barriers-in-pop-music-with-its/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "How $800 Berry Gordy Borrowed From Family Led Him to Build Motown",
+                "url": "https://finance.yahoo.com/news/800-berry-gordy-borrowed-family-170333580.html",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Today in History January 12 | Britannica",
+                "url": "https://www.britannica.com/today-in-history/January-12-Berry-Gordy-and-Motown-Records",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R2-Q2",
+          "episodeId": "EP028",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Marvin Gaye married which woman — a Motown executive's sister — whose family connection gave him both creative latitude and personal constraint within the label?",
+          "choices": [
+            "Anna Gordy Gaye",
+            "Diana Ross",
+            "Tammi Terrell",
+            "Mary Wells"
+          ],
+          "correctIndex": 0,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Marvin Gaye",
+            "song": null,
+            "album": null,
+            "year": 1963,
+            "topicTags": [
+              "Marvin Gaye",
+              "Anna Gordy Gaye",
+              "Berry Gordy",
+              "marriage",
+              "Motown Records",
+              "family connection"
+            ],
+            "fact": "Marvin Gaye married Anna Gordy — Berry Gordy's sister — in 1963, making him both a Motown artist and a member of the label founder's family. The marriage gave Gaye access to resources and creative latitude that other artists didn't have, while also tying his personal and professional lives together in ways that complicated both. Their contentious divorce was the subject of his 1978 album 'Here, My Dear.'",
+            "storyHook": "He married the boss's sister. The marriage gave him access. The divorce gave him an album. 'Here, My Dear' is one of the strangest alimony agreements in music history — recorded to pay for the divorce from the woman whose brother owned the label.",
+            "sourceNotes": "Marvin Gaye biographical records. Anna Gordy Gaye biographical records. Here, My Dear liner notes (Motown Records, 1978).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Marvin Gaye – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Marvin_Gaye",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Anna Gordy Gaye – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Anna_Gordy_Gaye",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R2-Q3",
+          "episodeId": "EP028",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The Jackson 5 were brought to Motown's attention by which Canadian artist — who saw them perform in 1968 and took their demo directly to Berry Gordy?",
+          "choices": [
+            "Diana Ross",
+            "Smokey Robinson",
+            "Bobby Taylor",
+            "Gladys Knight"
+          ],
+          "correctIndex": 2,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jackson 5",
+            "song": null,
+            "album": null,
+            "year": 1968,
+            "topicTags": [
+              "Jackson 5",
+              "Bobby Taylor",
+              "Motown Records",
+              "discovery",
+              "1968",
+              "Berry Gordy",
+              "Canadian artist"
+            ],
+            "fact": "Bobby Taylor — lead singer of Bobby Taylor & the Vancouvers — saw the Jackson 5 perform in 1968 and brought their demo tape directly to Berry Gordy. Despite the mythology that Diana Ross discovered them (a story Motown's promotional team crafted for commercial reasons), Taylor arranged the initial audition and championed the group's signing. He also produced their early recording sessions for the label.",
+            "storyHook": "The press release said Diana Ross discovered them. The truth is Bobby Taylor saw them perform, took the tape to Gordy, arranged the audition, and produced the early sessions. Discovery credit and factual credit are two different categories at Motown.",
+            "sourceNotes": "Bobby Taylor biographical records. Jackson 5 Motown signing documentation. Berry Gordy biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Jackson 5 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Jackson_5",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Bobby Taylor – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bobby_Taylor_(singer)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R2-Q4",
+          "episodeId": "EP028",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Marvin Gaye's 1978 double album — which a judge required him to record as a form of alimony payment to his ex-wife Anna Gordy — was titled what?",
+          "choices": [
+            "Midnight Love",
+            "Here, My Dear",
+            "Trouble Man",
+            "Let's Get It On"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Temptations",
+            "song": null,
+            "album": "Here, My Dear",
+            "year": 1978,
+            "topicTags": [
+              "Marvin Gaye",
+              "Here My Dear",
+              "1978",
+              "Motown Records",
+              "alimony",
+              "Anna Gordy Gaye",
+              "divorce"
+            ],
+            "fact": "'Here, My Dear' was released on Motown in 1978 — as part of Marvin Gaye's divorce settlement from Anna Gordy Gaye, a judge required him to give the royalties from his next album to his ex-wife. Gaye responded by making a raw, explicit double album about the marriage, the divorce, and his ambivalence about paying her with his own art. Anna Gordy briefly considered suing to block its release.",
+            "storyHook": "A judge ordered him to give his next album's royalties to his ex-wife. Marvin Gaye responded by making an album about his ex-wife. Anna Gordy considered suing to stop it. 'Here, My Dear' is the strangest alimony payment in music history.",
+            "sourceNotes": "Here, My Dear liner notes (Motown Records, 1978). Marvin Gaye divorce court records. Anna Gordy Gaye biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Here, My Dear – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Here,_My_Dear",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Marvin Gaye – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Marvin_Gaye",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R2-Q5",
+          "episodeId": "EP028",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Motown Records — after changing hands multiple times following Berry Gordy's 1988 sale — eventually became part of which global music conglomerate?",
+          "choices": [
+            "Warner Music Group",
+            "Sony Music Entertainment",
+            "Universal Music Group",
+            "BMG Music"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Motown Records",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Motown Records",
+              "Universal Music Group",
+              "corporate history",
+              "Berry Gordy",
+              "1988 sale",
+              "ownership"
+            ],
+            "fact": "Berry Gordy sold Motown to MCA Records in 1988 for approximately $61 million — MCA later merged with PolyGram, which was acquired by Seagram's, which sold its music division to Vivendi, which became Universal Music Group. Motown arrived at Universal through a chain of corporate acquisitions spanning more than a decade, and it operates today as a label imprint under Universal's umbrella.",
+            "storyHook": "Sold to MCA in 1988. Then PolyGram acquired MCA. Then Seagram's acquired PolyGram. Then Vivendi acquired Seagram's. Then Universal emerged from all of it. Motown got to Universal through a relay race of corporate acquisitions nobody planned.",
+            "sourceNotes": "Motown Records 1988 sale documentation. MCA/PolyGram/Seagram's/Universal acquisition records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Motown – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Motown",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Universal Music Group – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Universal_Music_Group",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "city",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R2-B1",
+          "episodeId": "EP028",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "The first Motown record to reach #1 on the Billboard Hot 100 — establishing the label's pop crossover formula — was which 1961 hit by The Marvelettes?",
+          "choices": [
+            "Playboy",
+            "Too Many Fish in the Sea",
+            "Please Mr. Postman",
+            "Beechwood 4-5789"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — MOTOWN'S FIRST BILLBOARD HOT 100 NUMBER ONE"
+          },
+          "metadata": {
+            "artist": "The Marvelettes",
+            "song": "Please Mr. Postman",
+            "album": null,
+            "year": 1961,
+            "topicTags": [
+              "Please Mr. Postman",
+              "The Marvelettes",
+              "Motown Records",
+              "1961",
+              "first #1",
+              "pop crossover",
+              "bonus digit"
+            ],
+            "fact": "'Please Mr. Postman' by The Marvelettes was Motown's first #1 hit on the Billboard Hot 100 in 1961 — it reached the top in December of that year and validated Berry Gordy's belief that Black music could command the pop mainstream. The song was later covered by The Beatles (1963) and The Carpenters (1974-75), both of whom took it back to #1.",
+            "storyHook": "Motown's first pop number one. Later covered by The Beatles. Then covered by The Carpenters. Three different eras. Three number ones. One song from a group most people have forgotten.",
+            "sourceNotes": "Billboard Hot 100 chart archives (December 1961). The Marvelettes discography (Motown Records). Beatles and Carpenters cover documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Marvelettes: Please Mr. Postman – Classic Motown",
+                "url": "https://classic.motown.com/story/the-marvelettes-please-mr-postman/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "The Marvelettes went No. 1 – The Current",
+                "url": "https://www.thecurrent.org/feature/2015/12/08/today-in-music-history-the-marvelettes-went-no-1-with-please-mr-postman",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Motown's First No. 1 Hit – Mother Jones",
+                "url": "https://www.motherjones.com/politics/2014/08/motown-1961-hit-please-mr-postman-marvelettes/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP028-R2-RES1",
+          "episodeId": "EP028",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Motown's uncredited session musicians — who played on virtually every classic recording made at Hitsville — were collectively known as what?",
+          "choices": [
+            "The Motown Band",
+            "The Funk Brothers",
+            "The Detroit Sound",
+            "The Hitsville Players"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Motown Records",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "The Funk Brothers",
+              "session musicians",
+              "Motown Records",
+              "Hitsville USA",
+              "house band",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "The Funk Brothers official documentation. Standing in the Shadows of Motown (documentary, 2002).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Funk Brothers – Classic Motown",
+                "url": "https://classic.motown.com/artist/the-funk-brothers/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Who Were The Funk Brothers? – Signature Sounds Online",
+                "url": "https://signaturesoundsonline.com/people/musicians/who-were-the-funk-brothers/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "The Funk Brothers – Spirit 105.3",
+                "url": "https://www.spirit1053.com/?artistProfile=10628",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R2-RES2",
+          "episodeId": "EP028",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Motown's primary in-house songwriting and production team — responsible for dozens of the label's biggest hits across the 1960s — was known by what name?",
+          "choices": [
+            "Jam & Lewis",
+            "Smokey Robinson & The Writers",
+            "Holland-Dozier-Holland",
+            "The Creative Team"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Motown Records",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Holland-Dozier-Holland",
+              "Eddie Holland",
+              "Lamont Dozier",
+              "Brian Holland",
+              "Motown songwriting",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Holland-Dozier-Holland official biography. Motown Records songwriting documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Holland–Dozier–Holland – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Holland%E2%80%93Dozier%E2%80%93Holland",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Motown Songwriters: Holland-Dozier-Holland – Classic Motown",
+                "url": "https://classic.motown.com/story/holland-dozier-holland-motown-songwriters/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R2-RES3",
+          "episodeId": "EP028",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1960s",
+          "question": "Beyond his role as a recording artist and songwriter, Smokey Robinson held which executive title at Motown Records?",
+          "choices": [
+            "Chief Operating Officer",
+            "Head of A&R",
+            "Director of Artist Development",
+            "Vice President"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Smokey Robinson",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Smokey Robinson",
+              "Motown",
+              "Vice President",
+              "executive",
+              "label history"
+            ],
+            "fact": "Smokey Robinson served as Vice President of Motown Records — a title Berry Gordy bestowed on him in recognition of his extraordinary contributions as songwriter, producer, and artist. Robinson was the only artist at the label to hold a formal executive role, giving him unusual influence over Motown's creative direction.",
+            "storyHook": "He wrote the songs. He produced the records. He ran the company. Smokey Robinson was the only Motown artist who was also an executive.",
+            "sourceNotes": "PRIORITY VERIFY: Confirm Smokey Robinson held the title of Vice President at Motown Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Smokey Robinson – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Smokey_Robinson",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Robinson, Smokey | Detroit Historical Society",
+                "url": "https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/robinson-smokey",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Smokey Robinson – Hollywood Walk of Fame",
+                "url": "https://walkoffame.com/smokey-robinson/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "label",
+            "factType": "executive",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-16",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Replacements, publishing arms, rival labels, and the documentary that finally gave credit where it was due.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP028-R3-Q1",
+          "episodeId": "EP028",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "When Diana Ross departed The Supremes in 1970, which vocalist was elevated to lead the group through its final classic era?",
+          "choices": [
+            "Cindy Birdsong",
+            "Jean Terrell",
+            "Scherrie Payne",
+            "Mary Wilson"
+          ],
+          "correctIndex": 1,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Supremes",
+            "song": null,
+            "album": null,
+            "year": 1970,
+            "topicTags": [
+              "Jean Terrell",
+              "The Supremes",
+              "Diana Ross",
+              "1970",
+              "Motown Records",
+              "lead vocalist replacement"
+            ],
+            "fact": "Jean Terrell replaced Diana Ross as lead vocalist of The Supremes in 1970 — her first appearance with the group came at a Las Vegas farewell concert for Ross in January 1970. Terrell's warmer, less brittle vocal style gave the post-Ross Supremes a different texture, and the group produced several charting singles in the early 70s before the classic lineup finally dissolved.",
+            "storyHook": "Diana Ross left in 1970. Jean Terrell stepped forward. The group kept making records. The name 'The Supremes' carried enough commercial weight to sustain a second era — but Jean Terrell's name has never received the recognition her tenure deserved.",
+            "sourceNotes": "The Supremes official discography. Jean Terrell biographical records. Motown Records press materials (1970).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jean Terrell – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jean_Terrell",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Jean Terrell – WBSS Media",
+                "url": "https://wbssmedia.com/artists/detail/2962",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Jean Terrell on the cover of Soul Newspaper – FormerSupremes.com",
+                "url": "https://www.formersupremes.com/blog-news--events/55-years-ago-today-jean-terrell-on-the-cover-of-soul-newspaper",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R3-Q2",
+          "episodeId": "EP028",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Holland-Dozier-Holland split from Motown in 1967 over a royalties dispute — they departed and founded which rival independent label?",
+          "choices": [
+            "Hot Wax Records",
+            "Jobete Records",
+            "Gold Forever Records",
+            "Invictus Records"
+          ],
+          "correctIndex": 3,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Holland-Dozier-Holland",
+            "song": null,
+            "album": null,
+            "year": 1969,
+            "topicTags": [
+              "Holland-Dozier-Holland",
+              "Invictus Records",
+              "Motown Records",
+              "royalties dispute",
+              "1967",
+              "rival label"
+            ],
+            "fact": "Holland-Dozier-Holland — Eddie Holland, Lamont Dozier, and Brian Holland — left Motown in 1967 after a dispute over unpaid royalties and founded Invictus Records in 1969. Their departure cost Motown its most prolific production team and contributed to the label's mid-period creative shift. Invictus signed Freda Payne and The Chairmen of the Board, producing additional hits including 'Band of Gold.'",
+            "storyHook": "They wrote the formula. They demanded to be paid for it. Motown refused. They left, started Invictus Records, and kept making hits for other artists. Berry Gordy's assembly line lost its most essential workers.",
+            "sourceNotes": "Holland-Dozier-Holland official biography. Invictus Records founding documentation (1969). Motown Records royalties dispute records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Holland–Dozier–Holland: Detroit 1969–1977 – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Holland%E2%80%93Dozier%E2%80%93Holland:_Detroit_1969%E2%80%931977",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Invictus Album Discography – Both Sides Now Publications",
+                "url": "https://www.bsnpubs.com/detroit/invictus.html",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Holland-Dozier-Holland – History-of-rock.com",
+                "url": "https://history-of-rock.com/holland-dozier-holland.htm",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "label",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R3-B1",
+          "episodeId": "EP028",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "The Funk Brothers — Motown's uncredited house band — were the subject of which 2002 documentary that finally gave them public recognition?",
+          "choices": [
+            "The Motown Sound",
+            "Hitsville: The Making of Motown",
+            "The Funk Brothers Story",
+            "Standing in the Shadows of Motown"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "5",
+            "bonusHint": "DIGIT 3 OF 3 — THE FUNK BROTHERS' 2002 DOCUMENTARY TITLE"
+          },
+          "metadata": {
+            "artist": "The Funk Brothers",
+            "song": null,
+            "album": null,
+            "year": 2002,
+            "topicTags": [
+              "The Funk Brothers",
+              "Standing in the Shadows of Motown",
+              "documentary",
+              "2002",
+              "Motown Records",
+              "bonus digit"
+            ],
+            "fact": "'Standing in the Shadows of Motown' was released in 2002 — directed by Paul Justman, it documented the session musicians who had played on nearly every Motown hit without receiving screen credit or royalties. By the time the documentary was made, many of the original Funk Brothers had died; the survivors performed with guest vocalists in the film's concert sequences.",
+            "storyHook": "They played on more number-one records than The Beatles, Elvis Presley, The Rolling Stones, and The Beach Boys combined. Nobody knew their names. The documentary arrived in 2002. Several of them had already died.",
+            "sourceNotes": "Standing in the Shadows of Motown (Artisan Entertainment, 2002). Director Paul Justman documentation. The Funk Brothers official records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Standing in the Shadows of Motown – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Standing_in_the_Shadows_of_Motown",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Standing in the Shadows of Motown – IMDb",
+                "url": "https://www.imdb.com/title/tt0314725/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Standing in the Shadows of Motown – Rotten Tomatoes",
+                "url": "https://www.rottentomatoes.com/m/standing_in_the_shadows_of_motown",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP028-R3-RES1",
+          "episodeId": "EP028",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Stevie Wonder's landmark 1971 renegotiation secured him total creative control and publishing rights — the first album released under that new contract was titled what?",
+          "choices": [
+            "Talking Book",
+            "Fulfillingness' First Finale",
+            "Music of My Mind",
+            "Innervisions"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Stevie Wonder",
+            "song": null,
+            "album": "Music of My Mind",
+            "year": 1972,
+            "topicTags": [
+              "Stevie Wonder",
+              "Music of My Mind",
+              "1972",
+              "Motown Records",
+              "creative control",
+              "renegotiation",
+              "swap reserve"
+            ],
+            "fact": "Stevie Wonder's actual first self-produced album was 'Where I'm Coming From' (1971) — but 'Music of My Mind' (1972) was the first released under his landmark renegotiated contract, which granted him total creative control, ownership of his masters, and full publishing rights. The distinction matters: the new contract, not self-production, was the structural breakthrough that enabled his classic period.",
+            "storyHook": "",
+            "sourceNotes": "Music of My Mind liner notes (Motown Records, 1972). Where I'm Coming From discography (1971). Stevie Wonder contract renegotiation documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Music of My Mind – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Music_of_My_Mind",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Where I'm Coming From – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Where_I%27m_Coming_From",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Stevie Wonder – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Stevie_Wonder",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP028-R3-RES2",
+          "episodeId": "EP028",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1960s",
+          "question": "Motown's publishing division — which owned the copyright to every song recorded for the label — was named what?",
+          "choices": [
+            "Gordy Music",
+            "Hitsville Songs",
+            "Jobete Music",
+            "Motown Publishing"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Motown Records",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Jobete Music",
+              "Motown publishing",
+              "Berry Gordy",
+              "copyright",
+              "publishing division",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Jobete Music Company official documentation. Motown Records publishing records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jobete Music Company – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jobete_Music_Company",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Motown – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Motown",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "EP028",
+    "builtAt": "2026-05-12T04:05:04.642858+00:00"
+  }
+}

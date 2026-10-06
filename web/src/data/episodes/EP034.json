@@ -1,0 +1,1530 @@
+{
+  "episodeId": "EP034",
+  "title": "One and Done",
+  "theme": "The R&B one-hit wonders of the 1980s — artists who produced a single defining moment and then disappeared from the charts, leaving behind records that outlasted the careers that made them.",
+  "narrativePurpose": "Test knowledge of the hits, labels, production credits, and biographical facts behind the artists who each had their moment in the 1980s R&B spotlight — the songs, the credits, and the people behind them.",
+  "toneProgression": "Name the hit and the artist → labels, production credits, and chart facts → real names, birthplaces, and the hidden connections that reframe what you thought you knew",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "6"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-8-6 — the year the one-hit wonder phenomenon peaked in 80s R&B. Four of the episode's ten featured artists had their defining moment in 1986: Oran 'Juice' Jones with 'The Rain,' Gregory Abbott with 'Shake You Down,' Jermaine Stewart with 'We Don't Have To Take Our Clothes Off,' and Timex Social Club with 'Rumors.' One year. Four moments. Four careers that never repeated it."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "Name the hit or the artist. Entry level — but some of these artists only got one shot.",
+      "color": "#FFD700",
+      "accentVar": "--gold",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP034-R1-Q1",
+          "episodeId": "EP034",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Which 1984 paranoia-fueled hit, featuring a Michael Jackson hook and a video full of surveillance anxiety, was the only chart-topping debut of the artist known as Rockwell?",
+          "choices": [
+            "Somebody's Watching Me",
+            "Let the Music Play",
+            "The Rain",
+            "Shake You Down"
+          ],
+          "correctIndex": 0,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rockwell",
+            "song": "Somebody's Watching Me",
+            "album": "Somebody's Watching Me",
+            "year": 1984,
+            "topicTags": [
+              "Rockwell",
+              "Somebody's Watching Me",
+              "1984",
+              "Michael Jackson",
+              "Motown",
+              "one-hit wonder"
+            ],
+            "fact": "'Somebody's Watching Me' reached #2 on the Billboard Hot 100 in 1984. It featured Michael Jackson on the chorus — a connection Rockwell was careful not to advertise, given that his father was Berry Gordy, founder of Motown, the label that released the record.",
+            "storyHook": "The hook was Michael Jackson. The label was Motown. The artist was a one-hit wonder with a very famous father. Rockwell hid all of it behind a pseudonym.",
+            "sourceNotes": "PRIORITY VERIFY: Rockwell 'Somebody's Watching Me' (1984), Michael Jackson on hook, Motown Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Somebody's Watching Me – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Somebody%27s_Watching_Me",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R1-Q2",
+          "episodeId": "EP034",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Shannon's 1983 dance-R&B crossover — one of the earliest records to blend programmed electronic beats with soul vocals — was titled what?",
+          "choices": [
+            "Don't Stop the Music",
+            "Let the Music Play",
+            "Give Me Tonight",
+            "Do You Want to Get Away"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Shannon",
+            "song": "Let the Music Play",
+            "album": "Let the Music Play",
+            "year": 1983,
+            "topicTags": [
+              "Shannon",
+              "Let the Music Play",
+              "1983",
+              "Mirage Records",
+              "dance",
+              "freestyle",
+              "one-hit wonder"
+            ],
+            "fact": "'Let the Music Play' was one of the earliest records to blend the electronic drum machine sound of nascent freestyle with mainstream R&B vocals. Released on Mirage Records in 1983, it crossed over to pop radio and became a defining record of the genre's early formation.",
+            "storyHook": "Shannon got there before most people knew the genre had a name. 'Let the Music Play' was freestyle before freestyle was a category.",
+            "sourceNotes": "PRIORITY VERIFY: Shannon 'Let the Music Play' (1983), Mirage Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Let the Music Play (Shannon song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Let_the_Music_Play_(Shannon_song)",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R1-Q3",
+          "episodeId": "EP034",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "'Shake You Down' — a smooth 1986 R&B ballad that hit #1 on the Billboard Hot 100 — was the sole major hit of which singer?",
+          "choices": [
+            "Freddie Jackson",
+            "Al B. Sure!",
+            "Gregory Abbott",
+            "Glenn Jones"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Gregory Abbott",
+            "song": "Shake You Down",
+            "album": "Shake You Down",
+            "year": 1986,
+            "topicTags": [
+              "Gregory Abbott",
+              "Shake You Down",
+              "1986",
+              "Columbia Records",
+              "#1",
+              "one-hit wonder"
+            ],
+            "fact": "'Shake You Down' reached #1 on both the Billboard Hot 100 and the R&B chart. Gregory Abbott — a former music teacher with a Columbia University education — had one of the more unlikely trajectories to a #1 record, and one of the more complete disappearing acts after it.",
+            "storyHook": "A former music teacher. A #1 record. Then nothing. Gregory Abbott had the credentials and the hit — just not the follow-up.",
+            "sourceNotes": "PRIORITY VERIFY: Gregory Abbott 'Shake You Down' #1 Hot 100 and R&B chart (1986/1987), Columbia Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Shake You Down – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Shake_You_Down",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R1-Q4",
+          "episodeId": "EP034",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "'The Rain' — famous for its spoken-word outro in which the narrator calmly confronts his cheating girlfriend — was a 1986 R&B hit for which artist?",
+          "choices": [
+            "Al B. Sure!",
+            "Glenn Jones",
+            "Keith Sweat",
+            "Oran Juice Jones"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Oran Juice Jones",
+            "song": "The Rain",
+            "album": "Juice",
+            "year": 1986,
+            "topicTags": [
+              "Oran Juice Jones",
+              "The Rain",
+              "1986",
+              "Def Jam",
+              "spoken word",
+              "one-hit wonder"
+            ],
+            "fact": "'The Rain' reached #9 on the Billboard Hot 100 and #1 on the R&B chart. Its spoken-word outro — in which Jones narrates a scene of domestic confrontation with deadpan calm — became one of the most quoted passages in 80s R&B history.",
+            "storyHook": "The song had a hook. The outro had a monologue. The monologue is what people still remember.",
+            "sourceNotes": "PRIORITY VERIFY: Oran 'Juice' Jones 'The Rain' (1986), Def Jam Records, chart positions. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Oran Juice Jones – WBSS Media",
+                "url": "https://wbssmedia.com/artists/detail/3928",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "The Rain (Oran Juice Jones song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Rain_(Oran_%22Juice%22_Jones_song)",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R1-Q5",
+          "episodeId": "EP034",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Force M.D.'s 'Tender Love' — one of the smoothest ballads of 1985 — appeared on the soundtrack of which hip-hop film?",
+          "choices": [
+            "Krush Groove",
+            "Beat Street",
+            "Wild Style",
+            "Breakin'"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Force M.D.'s",
+            "song": "Tender Love",
+            "album": "Chillin'",
+            "year": 1985,
+            "topicTags": [
+              "Force M.D.'s",
+              "Tender Love",
+              "1985",
+              "Krush Groove",
+              "soundtrack",
+              "Tommy Boy",
+              "Staten Island"
+            ],
+            "fact": "'Tender Love' was featured on the Krush Groove soundtrack — the 1985 hip-hop film loosely based on the founding of Def Jam Records. The song's smooth ballad sound contrasted sharply with the harder-edged rap records surrounding it, giving Force M.D.'s a crossover moment that the rest of their catalogue never quite repeated.",
+            "storyHook": "The smoothest ballad on a hip-hop soundtrack. Force M.D.'s fit where they shouldn't have — and that was the whole point.",
+            "sourceNotes": "PRIORITY VERIFY: Force M.D.'s 'Tender Love' on Krush Groove soundtrack (1985), Tommy Boy Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tender Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tender_Love",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R1-Q6",
+          "episodeId": "EP034",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "'We Don't Have To Take Our Clothes Off' — a 1986 R&B hit about restraint and romance — was the signature record of which artist?",
+          "choices": [
+            "Jeffrey Osborne",
+            "Jermaine Stewart",
+            "Alexander O'Neal",
+            "Jermaine Jackson"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jermaine Stewart",
+            "song": "We Don't Have To Take Our Clothes Off",
+            "album": "The Word Is Out",
+            "year": 1986,
+            "topicTags": [
+              "Jermaine Stewart",
+              "We Don't Have To Take Our Clothes Off",
+              "1986",
+              "Arista",
+              "one-hit wonder",
+              "UK"
+            ],
+            "fact": "'We Don't Have To Take Our Clothes Off' reached #5 on the Billboard Hot 100 and became Jermaine Stewart's sole major US hit. Recorded in the UK — where Stewart had relocated — the track's message of romance-without-pressure became its calling card.",
+            "storyHook": "A message record about keeping your clothes on. In 1986. It hit the top five. Jermaine Stewart meant every word of it.",
+            "sourceNotes": "PRIORITY VERIFY: Jermaine Stewart 'We Don't Have To Take Our Clothes Off' (1986), chart position, Arista Records, recorded in UK. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "We Don't Have to Take Our Clothes Off – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/We_Don%27t_Have_to_Take_Our_Clothes_Off",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R1-B1",
+          "episodeId": "EP034",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "'Just Got Paid' — a Friday-night anthem that became a 1988 R&B staple — was the signature hit of which Bahamas-born one-hit wonder?",
+          "choices": [
+            "Johnny Kemp",
+            "Kashif",
+            "Freddie Jackson",
+            "Howard Hewett"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — THE YEAR THE CODE BEGINS"
+          },
+          "metadata": {
+            "artist": "Johnny Kemp",
+            "song": "Just Got Paid",
+            "album": "Just Got Paid",
+            "year": 1988,
+            "topicTags": [
+              "Johnny Kemp",
+              "Just Got Paid",
+              "1988",
+              "Columbia Records",
+              "Bahamas",
+              "one-hit wonder"
+            ],
+            "fact": "'Just Got Paid' reached #10 on the Billboard Hot 100 and became Johnny Kemp's only major US hit. Born in Nassau, Bahamas, Kemp brought a Caribbean energy to a record that became a permanent fixture of late-80s R&B radio — and then, like many of his peers in this episode, didn't follow it up.",
+            "storyHook": "The weekend anthem. The Bahamas connection. One record. Johnny Kemp put his whole career into 'Just Got Paid.'",
+            "sourceNotes": "PRIORITY VERIFY: Johnny Kemp 'Just Got Paid' (1988), born Nassau Bahamas, Columbia Records, chart position. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Johnny Kemp – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Johnny_Kemp",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP034-R1-RES1",
+          "episodeId": "EP034",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "'Mama Used to Say' crossed over to the US R&B charts in the early 1980s — for which British soul act?",
+          "choices": [
+            "Maxi Priest",
+            "Billy Ocean",
+            "Sade",
+            "Junior"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Junior",
+            "song": "Mama Used to Say",
+            "album": "Ji",
+            "year": 1982,
+            "topicTags": [
+              "Junior",
+              "Mama Used to Say",
+              "1982",
+              "British soul",
+              "crossover",
+              "Mercury Records"
+            ],
+            "fact": "'Mama Used to Say' was a transatlantic hit for British soul singer Junior — full name Norman Roy Washington Jr. — in 1982. Its success in the US was notable for an era when British soul artists rarely crossed over to American R&B radio.",
+            "storyHook": "British. Soul. 1982. Junior got to US R&B radio before most of his contemporaries knew you could.",
+            "sourceNotes": "PRIORITY VERIFY: Junior 'Mama Used to Say' (1982), British soul artist, Mercury Records, US crossover. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mama Used to Say – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mama_Used_to_Say",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R1-RES2",
+          "episodeId": "EP034",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "'Centipede' — written and produced by her famous brother — was the debut hit of which Jackson sibling?",
+          "choices": [
+            "Janet Jackson",
+            "Tito Jackson",
+            "La Toya Jackson",
+            "Rebbie Jackson"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rebbie Jackson",
+            "song": "Centipede",
+            "album": "Centipede",
+            "year": 1984,
+            "topicTags": [
+              "Rebbie Jackson",
+              "Centipede",
+              "1984",
+              "Michael Jackson",
+              "Epic Records",
+              "Jackson family"
+            ],
+            "fact": "'Centipede' was written and produced by Michael Jackson for his eldest sister Rebbie. Released on Epic Records in 1984, it became Rebbie's biggest hit — reaching #24 on the Hot 100 — and remains the most commercially successful record she made.",
+            "storyHook": "Michael Jackson wrote it. Epic released it. Rebbie Jackson was the one who sang it. The family connection opened the door — but only so far.",
+            "sourceNotes": "PRIORITY VERIFY: Rebbie Jackson 'Centipede' (1984), written/produced by Michael Jackson, Epic Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Centipede (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Centipede_(song)",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "production",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R1-RES3",
+          "episodeId": "EP034",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Timex Social Club — the Oakland group behind 'Rumors' — came from which US state?",
+          "choices": [
+            "California",
+            "Nevada",
+            "Washington",
+            "Oregon"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Timex Social Club",
+            "song": "Rumors",
+            "album": "Vicious Rumors",
+            "year": 1986,
+            "topicTags": [
+              "Timex Social Club",
+              "Rumors",
+              "1986",
+              "California",
+              "Oakland",
+              "Jay King",
+              "Club Nouveau"
+            ],
+            "fact": "Timex Social Club formed in Oakland, California — the same Bay Area scene that produced a wave of funk and R&B in the mid-1980s. 'Rumors' became their defining moment in 1986, with Jay King's production establishing a template he would refine with his next group, Club Nouveau.",
+            "storyHook": "Oakland. Jay King. One record. The next group he formed with the same sound would be Club Nouveau. The hit came first.",
+            "sourceNotes": "PRIORITY VERIFY: Timex Social Club from Oakland, California. 'Rumors' (1986). Jay King connection to Club Nouveau. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Timex Social Club – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Timex_Social_Club",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R1-RES4",
+          "episodeId": "EP034",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Shannon's breakthrough 'Let the Music Play' was released on which record label?",
+          "choices": [
+            "MCA",
+            "Atlantic",
+            "Mirage Records",
+            "Elektra"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Shannon",
+            "song": "Let the Music Play",
+            "album": "Let the Music Play",
+            "year": 1983,
+            "topicTags": [
+              "Shannon",
+              "Let the Music Play",
+              "Mirage Records",
+              "1983",
+              "label"
+            ],
+            "fact": "'Let the Music Play' was released on Mirage Records — an Atlantic Records imprint — in late 1983. The label's dance and electronic-leaning roster made it a natural home for a record that blurred the line between R&B and what would become freestyle.",
+            "storyHook": "Mirage. Atlantic's dance imprint. The right label for a record that didn't quite fit anywhere else.",
+            "sourceNotes": "PRIORITY VERIFY: Shannon 'Let the Music Play' on Mirage Records (1983), Atlantic imprint. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Let the Music Play (Shannon song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Let_the_Music_Play_(Shannon_song)",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Labels, production credits, and the facts behind the records. One shot at the charts — but a lot happened to get there.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP034-R2-Q1",
+          "episodeId": "EP034",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Rockwell adopted a pseudonym for his recording career — deliberately concealing which famous real surname that would have made his Motown deal look like nepotism?",
+          "choices": [
+            "Simmons",
+            "Lorenzo",
+            "Gordy",
+            "Fuqua"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rockwell",
+            "song": "Somebody's Watching Me",
+            "album": "Somebody's Watching Me",
+            "year": 1984,
+            "topicTags": [
+              "Rockwell",
+              "Gordy",
+              "Berry Gordy",
+              "Motown",
+              "pseudonym",
+              "nepotism",
+              "biography"
+            ],
+            "fact": "Rockwell's real surname is Gordy — he is the son of Berry Gordy, founder of Motown Records. He adopted the pseudonym 'Rockwell' to avoid the perception of nepotism and reportedly signed to Motown without his father's direct involvement — though the label connection was impossible to fully conceal.",
+            "storyHook": "He changed his name to avoid the label. Then signed to the label. The surname was always there.",
+            "sourceNotes": "PRIORITY VERIFY: Rockwell real name Kennedy William Gordy, son of Berry Gordy, Motown founder. Pseudonym to avoid nepotism. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rockwell (musician) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rockwell_(musician)",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R2-Q2",
+          "episodeId": "EP034",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Jermaine Stewart recorded 'We Don't Have To Take Our Clothes Off' after relocating to which country — where he had established himself before his US breakthrough?",
+          "choices": [
+            "France",
+            "UK",
+            "Canada",
+            "Australia"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jermaine Stewart",
+            "song": "We Don't Have To Take Our Clothes Off",
+            "album": "The Word Is Out",
+            "year": 1986,
+            "topicTags": [
+              "Jermaine Stewart",
+              "UK",
+              "biography",
+              "recording location",
+              "We Don't Have To Take Our Clothes Off"
+            ],
+            "fact": "Jermaine Stewart had relocated to the UK before recording 'We Don't Have To Take Our Clothes Off' — a move that placed him within the British pop scene's infrastructure while he built his solo career. The record's success in both the UK and US validated the transatlantic approach.",
+            "storyHook": "Born in Columbus, Ohio. Recorded in the UK. Hit in America. Jermaine Stewart's career covered more ground than one record suggests.",
+            "sourceNotes": "PRIORITY VERIFY: Jermaine Stewart relocated to UK before recording 'We Don't Have To Take Our Clothes Off.' Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jermaine Stewart – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jermaine_Stewart",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R2-Q3",
+          "episodeId": "EP034",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Force M.D.'s — the group behind 'Tender Love' — came from which New York City borough?",
+          "choices": [
+            "Staten Island",
+            "Brooklyn",
+            "Queens",
+            "The Bronx"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Force M.D.'s",
+            "song": "Tender Love",
+            "album": "Chillin'",
+            "year": 1985,
+            "topicTags": [
+              "Force M.D.'s",
+              "Staten Island",
+              "New York",
+              "biography",
+              "hometown"
+            ],
+            "fact": "Force M.D.'s formed in Staten Island — the most musically underrepresented of New York City's five boroughs. Their smooth R&B sound stood apart from the harder-edged hip-hop coming out of the Bronx and Brooklyn in the same period.",
+            "storyHook": "Staten Island. The forgotten borough. Force M.D.'s made the smoothest record of 1985 from there.",
+            "sourceNotes": "PRIORITY VERIFY: Force M.D.'s from Staten Island, New York City. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jesse Lee Daniels – WBSS Media",
+                "url": "https://wbssmedia.com/artists/detail/1470",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R2-Q4",
+          "episodeId": "EP034",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Timex Social Club's Jay King — producer of 'Rumors' — went on to form which group that scored its own R&B hit with 'Why You Treat Me So Bad'?",
+          "choices": [
+            "Club Nouveau",
+            "After 7",
+            "Mint Condition",
+            "Tony! Toni! Toné!"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Timex Social Club",
+            "song": "Rumors",
+            "album": "Vicious Rumors",
+            "year": 1986,
+            "topicTags": [
+              "Timex Social Club",
+              "Jay King",
+              "Club Nouveau",
+              "Rumors",
+              "Why You Treat Me So Bad",
+              "Oakland",
+              "producer"
+            ],
+            "fact": "Jay King — who produced 'Rumors' for Timex Social Club — went on to form Club Nouveau, which scored its own R&B hits including 'Why You Treat Me So Bad' (1987). King effectively produced two separate one-hit-wonder moments from the same Bay Area scene within a year of each other.",
+            "storyHook": "One producer. Two groups. Two moments. Jay King made 'Rumors' work, then walked into the next room and made Club Nouveau.",
+            "sourceNotes": "PRIORITY VERIFY: Jay King produced Timex Social Club 'Rumors' (1986) and formed Club Nouveau. 'Why You Treat Me So Bad' (1987). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Club Nouveau – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Club_Nouveau",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Timex Social Club – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Timex_Social_Club",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "production",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R2-Q5",
+          "episodeId": "EP034",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Force M.D.'s 'Tender Love' — one of the defining ballads of 1985 — was released on which hip-hop-adjacent label?",
+          "choices": [
+            "Def Jam",
+            "Priority Records",
+            "Tommy Boy",
+            "Profile Records"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Force M.D.'s",
+            "song": "Tender Love",
+            "album": "Chillin'",
+            "year": 1985,
+            "topicTags": [
+              "Force M.D.'s",
+              "Tender Love",
+              "Tommy Boy",
+              "1985",
+              "label"
+            ],
+            "fact": "Tommy Boy Records — best known for its hip-hop roster — released 'Tender Love,' making Force M.D.'s one of the label's few R&B acts. The pairing of a smooth ballad with a hip-hop label infrastructure contributed to the record's placement on the Krush Groove soundtrack.",
+            "storyHook": "Tommy Boy was a hip-hop label. Force M.D.'s made a smooth ballad. The Krush Groove soundtrack made the combination make sense.",
+            "sourceNotes": "PRIORITY VERIFY: Force M.D.'s 'Tender Love' on Tommy Boy Records (1985). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tender Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tender_Love",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Force MDs – Tender Love anniversary – Tommy Boy post",
+                "url": "https://www.facebook.com/TommyBoyRecords/posts/november-20-1985-the-force-mds-released-the-single-tender-love-from-their-second/",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R2-B1",
+          "episodeId": "EP034",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Rockwell hid behind a pseudonym — but what was his real first name, shared with a US president assassinated in 1963?",
+          "choices": [
+            "Irving",
+            "Marlon",
+            "Kennedy",
+            "Steven"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE DECADE IN THE CODE"
+          },
+          "metadata": {
+            "artist": "Rockwell",
+            "song": "Somebody's Watching Me",
+            "album": "Somebody's Watching Me",
+            "year": 1984,
+            "topicTags": [
+              "Rockwell",
+              "Kennedy",
+              "Kennedy William Gordy",
+              "birth name",
+              "biography"
+            ],
+            "fact": "Rockwell's real first name is Kennedy — as in Kennedy William Gordy, son of Berry Gordy. The name links him to President John F. Kennedy, who was assassinated in 1963. Behind the pseudonym was a name carrying the weight of both a music dynasty and a piece of American history.",
+            "storyHook": "Kennedy William Gordy. Berry Gordy's son. A name heavy with history — which is probably why he went by Rockwell.",
+            "sourceNotes": "PRIORITY VERIFY: Rockwell real name Kennedy William Gordy. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rockwell (musician) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rockwell_(musician)",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP034-R2-RES1",
+          "episodeId": "EP034",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Junior's 'Mama Used to Say' — which crossed over to US R&B radio — was released in which year?",
+          "choices": [
+            "1986",
+            "1984",
+            "1980",
+            "1982"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Junior",
+            "song": "Mama Used to Say",
+            "album": "Ji",
+            "year": 1982,
+            "topicTags": [
+              "Junior",
+              "Mama Used to Say",
+              "1982",
+              "Mercury Records",
+              "British soul"
+            ],
+            "fact": "Junior's 'Mama Used to Say' was released in 1982 — a period when British soul artists were finding unusual traction on US R&B radio. The track's warmth and accessibility gave it crossover appeal that few British records achieved.",
+            "storyHook": "1982. British soul on American R&B radio. Junior got there early.",
+            "sourceNotes": "PRIORITY VERIFY: Junior 'Mama Used to Say' released 1982. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Mama Used to Say – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Mama_Used_to_Say",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R2-RES2",
+          "episodeId": "EP034",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Oran 'Juice' Jones was born in Houston, Texas — but grew up in which city, where he developed his musical identity?",
+          "choices": [
+            "New York City",
+            "Philadelphia",
+            "Chicago",
+            "Detroit"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Oran Juice Jones",
+            "song": "The Rain",
+            "album": "Juice",
+            "year": 1986,
+            "topicTags": [
+              "Oran Juice Jones",
+              "New York City",
+              "Harlem",
+              "Houston",
+              "biography",
+              "hometown"
+            ],
+            "fact": "Oran 'Juice' Jones was born in Houston, Texas, but was raised in Harlem, New York City — the environment that shaped his musical sensibility and connected him to the Def Jam Records world that released 'The Rain.'",
+            "storyHook": "Born in Houston. Raised in Harlem. 'The Rain' was a New York record — you can hear it.",
+            "sourceNotes": "Verified: Oran 'Juice' Jones born Houston, TX, raised in Harlem, New York City. Sources: BlackPast https://blackpast.org/african-american-history/oran-juice-jones-1957/, WBSS Media https://wbssmedia.com/artists/detail/3928, Apple Music https://music.apple.com/us/artist/oran-juice-jones/379120",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Oran Juice Jones (1957– ) – BlackPast.org",
+                "url": "https://blackpast.org/african-american-history/oran-juice-jones-1957/",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Oran 'Juice' Jones – WBSS Media",
+                "url": "https://wbssmedia.com/artists/detail/3928",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R2-RES3",
+          "episodeId": "EP034",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Before his solo breakthrough, Jermaine Stewart served as a backing dancer for which British pop group?",
+          "choices": [
+            "Culture Club",
+            "Wham!",
+            "Spandau Ballet",
+            "Duran Duran"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jermaine Stewart",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Jermaine Stewart",
+              "Culture Club",
+              "backing dancer",
+              "biography",
+              "pre-solo"
+            ],
+            "fact": "Before his solo career, Jermaine Stewart worked as a backing dancer for Culture Club — the British new wave group fronted by Boy George. The connection placed him within the UK pop scene's orbit and contributed to his eventual relocation to Britain before recording 'We Don't Have To Take Our Clothes Off.'",
+            "storyHook": "He danced for Boy George before he sang for himself. Culture Club was Jermaine Stewart's entry point into the world that made his record possible.",
+            "sourceNotes": "PRIORITY VERIFY: Jermaine Stewart worked as backing dancer for Culture Club before solo career. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jermaine Stewart – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jermaine_Stewart",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Real names. Birthplaces. The identities behind the pseudonyms and the stage personas.",
+      "color": "#FF6B6B",
+      "accentVar": "--coral",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP034-R3-Q1",
+          "episodeId": "EP034",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Rockwell — the one-hit wonder who hid behind a pseudonym — was born under which full name, revealing one of music's most famous family connections?",
+          "choices": [
+            "Kenneth James Berry",
+            "Kenneth Brian Jones",
+            "Kevin Raymond Gordy",
+            "Kennedy William Gordy"
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rockwell",
+            "song": "Somebody's Watching Me",
+            "album": "Somebody's Watching Me",
+            "year": 1984,
+            "topicTags": [
+              "Rockwell",
+              "Kennedy William Gordy",
+              "Berry Gordy",
+              "Motown",
+              "birth name",
+              "biography"
+            ],
+            "fact": "Rockwell was born Kennedy William Gordy — the son of Berry Gordy, founder of Motown Records. He adopted the pseudonym 'Rockwell' in an attempt to establish himself on musical merit rather than family connections, though the Gordy surname and the Motown deal made that separation difficult to maintain.",
+            "storyHook": "Kennedy William Gordy. The name says everything about where he came from and everything about why he changed it.",
+            "sourceNotes": "PRIORITY VERIFY: Rockwell born Kennedy William Gordy, son of Berry Gordy. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rockwell (musician) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Rockwell_(musician)",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R3-Q2",
+          "episodeId": "EP034",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Shannon — who recorded 'Let the Music Play' under a single name — was born under which full name?",
+          "choices": [
+            "Sharon Denise Green",
+            "Sandra Elaine Shannon",
+            "Brenda Shannon Greene",
+            "Beverly Ann Shannon"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Shannon",
+            "song": "Let the Music Play",
+            "album": "Let the Music Play",
+            "year": 1983,
+            "topicTags": [
+              "Shannon",
+              "Brenda Shannon Greene",
+              "birth name",
+              "biography"
+            ],
+            "fact": "Shannon was born Brenda Shannon Greene. The single-name stage identity 'Shannon' — drawn from her middle name — was both a professional simplification and a nod to the name she actually went by. Brenda Shannon Greene made 'Let the Music Play' under a name that was always already hers.",
+            "storyHook": "Brenda Shannon Greene. She took her middle name and made it a brand. The full name was always there in plain sight.",
+            "sourceNotes": "PRIORITY VERIFY: Shannon born Brenda Shannon Greene. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Shannon (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Shannon_(singer)",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R3-B1",
+          "episodeId": "EP034",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Johnny Kemp — whose 'Just Got Paid' became a late-80s R&B anthem — was born in which island nation?",
+          "choices": [
+            "Barbados",
+            "Trinidad and Tobago",
+            "Bahamas",
+            "Jamaica"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "8",
+            "bonusHint": "DIGIT 3 OF 3 — THE DECADE CLOSES"
+          },
+          "metadata": {
+            "artist": "Johnny Kemp",
+            "song": "Just Got Paid",
+            "album": "Just Got Paid",
+            "year": 1988,
+            "topicTags": [
+              "Johnny Kemp",
+              "Bahamas",
+              "Nassau",
+              "birthplace",
+              "biography"
+            ],
+            "fact": "Johnny Kemp was born in Nassau, Bahamas — one of the few Caribbean-born artists to score a significant R&B hit in the late 1980s US market. He relocated to the US to pursue his music career and recorded 'Just Got Paid' on Columbia Records.",
+            "storyHook": "Nassau. The Bahamas. Then New York. Then a #10 record. Johnny Kemp covered a lot of ground for one hit.",
+            "sourceNotes": "PRIORITY VERIFY: Johnny Kemp born Nassau, Bahamas. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Johnny Kemp – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Johnny_Kemp",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP034-R3-RES1",
+          "episodeId": "EP034",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "'Tender Love' by Force M.D.'s peaked at which position on the Billboard R&B chart — written out in full?",
+          "choices": [
+            "Four",
+            "Six",
+            "Eight",
+            "Two"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Force M.D.'s",
+            "song": "Tender Love",
+            "album": "Chillin'",
+            "year": 1985,
+            "topicTags": [
+              "Force M.D.'s",
+              "Tender Love",
+              "R&B chart",
+              "#4",
+              "Billboard",
+              "chart"
+            ],
+            "fact": "'Tender Love' peaked at #4 on the Billboard R&B chart (Hot Black Singles) in 1985 — a strong performance for a group on a hip-hop label whose smooth ballad sound was at odds with most of their label-mates.",
+            "storyHook": "Number four. Tommy Boy. A ballad. Force M.D.'s reached the top five on R&B radio from the most unlikely of positions.",
+            "sourceNotes": "Verified: 'Tender Love' peaked at #4 on Billboard R&B chart. Sources: Tommy Boy Records post https://www.facebook.com/TommyBoyRecords/posts/november-20-1985-the-force-mds-released-the-single-tender-love-from-their-second/, Chris Mitchell post https://www.facebook.com/ChrisMitchellSaxy/posts/force-mds-tender-love-was-begging-for-sax/1477305184073619/, YouTube https://www.youtube.com/watch?v=8PZIocwj-Hg",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tender Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tender_Love",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Force M.D.'s released the single 'Tender Love' – Tommy Boy Records post",
+                "url": "https://www.facebook.com/TommyBoyRecords/posts/november-20-1985-the-force-mds-released-the-single-tender-love-from-their-second/",
+                "accessed": "2026-05-22"
+              },
+              {
+                "title": "Force M.D.'s 'Tender Love' was begging for sax – Chris Mitchell post",
+                "url": "https://www.facebook.com/ChrisMitchellSaxy/posts/force-mds-tender-love-was-begging-for-sax/1477305184073619/",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP034-R3-RES2",
+          "episodeId": "EP034",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Jermaine Stewart — the man behind 'We Don't Have To Take Our Clothes Off' — was born in which US city?",
+          "choices": [
+            "Louisville, Kentucky",
+            "Indianapolis, Indiana",
+            "Columbus, Ohio",
+            "Cincinnati, Ohio"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jermaine Stewart",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Jermaine Stewart",
+              "Columbus",
+              "Ohio",
+              "birthplace",
+              "biography"
+            ],
+            "fact": "Jermaine Stewart was born in Columbus, Ohio — before relocating first to Chicago and then to the UK, where he established himself within the British pop scene and recorded 'We Don't Have To Take Our Clothes Off.'",
+            "storyHook": "Columbus, Ohio to the UK. Jermaine Stewart put considerable distance between his birthplace and his hit record.",
+            "sourceNotes": "PRIORITY VERIFY: Jermaine Stewart born Columbus, Ohio. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jermaine Stewart – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jermaine_Stewart",
+                "accessed": "2026-05-22"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-22T16:34:54.617206+00:00"
+  }
+}

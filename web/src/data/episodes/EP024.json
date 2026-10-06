@@ -1,0 +1,1527 @@
+{
+  "episodeId": "EP024",
+  "title": "Men of the Decade",
+  "theme": "D'Angelo got the movement. Ginuwine got the slow jams. K-Ci & JoJo got the hearts. These are the men who built the other half of 90s R&B.",
+  "narrativePurpose": "Test knowledge of the male solo R&B artists whose careers defined the decade alongside the female reign — the albums, chart records, birth names, and cities behind the genre's most essential male voices.",
+  "toneProgression": "The hits and breakthrough albums → cities, birth names, and chart facts → neighborhood names, personal connections, and the identities underneath the stage names",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "6"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-6 — the year male R&B declared itself on two fronts simultaneously. Ginuwine's Pony redefined the slow jam; Maxwell's Urban Hang Suite reached back to Marvin and Sly. Both found their audience in the same twelve months."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The hits and breakthrough albums. If you were listening to R&B radio between 1993 and 2002, you know all of these.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP024-R1-Q1",
+          "episodeId": "EP024",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Joe's 2000 comeback album — which contained the smash 'I Wanna Know' — was titled what?",
+          "choices": [
+            "Stutter",
+            "My Name Is Joe",
+            "Love Scene",
+            "All That I Am"
+          ],
+          "correctIndex": 1,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Joe",
+            "song": "I Wanna Know",
+            "album": "My Name Is Joe",
+            "year": 2000,
+            "topicTags": [
+              "Joe",
+              "My Name Is Joe",
+              "2000",
+              "Jive Records",
+              "I Wanna Know",
+              "comeback album"
+            ],
+            "fact": "'My Name Is Joe' was released on Jive Records in 2000 and went triple platinum — 'I Wanna Know' dominated R&B radio and became the calling card for an artist who had been quietly building his catalog since 1993. The album repositioned Joe as one of the decade's most reliable R&B voices at precisely the moment the genre needed understated balladry.",
+            "storyHook": "'I Wanna Know' spent weeks at the top of the R&B chart and made Joe one of 2000's most-played voices. His comeback album was triple platinum. He had been releasing records since 1993 — this was the moment the industry finally paid full attention.",
+            "sourceNotes": "My Name Is Joe liner notes (Jive Records, 2000). Billboard chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "My Name Is Joe (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/My_Name_Is_Joe_(album)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "I Wanna Know (Joe song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Wanna_Know_(Joe_song)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R1-Q2",
+          "episodeId": "EP024",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Ginuwine's provocative 1996 debut single — produced by Timbaland and built around a stuttering drum pattern — was titled what?",
+          "choices": [
+            "Differences",
+            "In Those Jeans",
+            "Pony",
+            "What's So Different"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ginuwine",
+            "song": "Pony",
+            "album": "Ginuwine...the Bachelor",
+            "year": 1996,
+            "topicTags": [
+              "Ginuwine",
+              "Pony",
+              "Timbaland",
+              "1996",
+              "Epic Records",
+              "debut single"
+            ],
+            "fact": "'Pony' reached #6 on the Billboard Hot 100 and #1 on the R&B chart in 1996 — Timbaland's production built the track around a bare, stuttering drum pattern and a lurching synthesizer groove that became one of the signature sounds of late-90s R&B. The song's frank sensuality established Ginuwine's persona from his first release.",
+            "storyHook": "A drum pattern that barely touched the ground and lyrics that left nothing to interpretation. 'Pony' was Ginuwine's debut single and it told you everything about what kind of artist he was going to be.",
+            "sourceNotes": "Ginuwine...the Bachelor liner notes (Epic Records, 1997). Billboard Hot 100 and R&B chart archives. Timbaland production credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ginuwine – Pony (Timbaland Extended Mix) – YouTube",
+                "url": "https://www.youtube.com/watch?v=npGrE973nO0",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R1-Q3",
+          "episodeId": "EP024",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Dru Hill — the R&B quartet whose members included a young Sisqó — emerged from which city with their 1997 breakthrough?",
+          "choices": [
+            "Newark",
+            "Washington D.C.",
+            "Philadelphia",
+            "Baltimore"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Dru Hill",
+            "song": "Tell Me",
+            "album": "Dru Hill",
+            "year": 1996,
+            "topicTags": [
+              "Dru Hill",
+              "Baltimore",
+              "Sisqó",
+              "Maryland",
+              "origin",
+              "quartet"
+            ],
+            "fact": "Dru Hill formed in Baltimore, Maryland — the group's name was taken from Druid Hill, a neighborhood and park in the city that anchored their geographic identity. Their four-part harmonies and smooth Baltimore R&B sound produced a string of late-90s hits, with Sisqó's voice providing the most recognizable upper register in the ensemble.",
+            "storyHook": "Named after a Baltimore neighborhood. Four-part harmonies. Sisqó on the top. Dru Hill made Baltimore's R&B scene visible to a national audience in a way it hadn't been before.",
+            "sourceNotes": "Dru Hill official biography. Island/Def Jam Records press materials. Baltimore, Maryland cultural documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dru Hill – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dru_Hill",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R1-Q4",
+          "episodeId": "EP024",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Brian McKnight's 1997 smooth ballad — which became one of the decade's most ubiquitous R&B songs and defined the Quiet Storm format — was titled what?",
+          "choices": [
+            "Anytime",
+            "Crazy Love",
+            "One Last Cry",
+            "Back at One"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brian McKnight",
+            "song": "Anytime",
+            "album": "Anytime",
+            "year": 1997,
+            "topicTags": [
+              "Brian McKnight",
+              "Anytime",
+              "1997",
+              "Mercury Records",
+              "ballad",
+              "Quiet Storm"
+            ],
+            "fact": "'Anytime' reached #3 on the Billboard Hot 100 and #1 on the R&B chart — it became one of the decade's most-played Quiet Storm staples and the commercial peak of McKnight's career. His classical training and precisely controlled falsetto made 'Anytime' a technical showcase that also happened to be a radio phenomenon.",
+            "storyHook": "Trained in music theory. Sang in falsetto. Hit number one on the R&B chart. Brian McKnight made sophisticated sound accessible and radio played it so often that sophistication became familiarity.",
+            "sourceNotes": "Anytime liner notes (Mercury Records, 1997). Billboard Hot 100 and R&B chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Classic Vibe: Brian McKnight 'Anytime' (1997) – YouKnowIGotSoul",
+                "url": "https://youknowigotsoul.com/classic-rb-song-of-the-day-brian-mcknight-anytime-1997",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R1-Q5",
+          "episodeId": "EP024",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "K-Ci & JoJo's 1998 love anthem — which spent five consecutive weeks at #1 on the Billboard Hot 100 — was titled what?",
+          "choices": [
+            "Last Night's Letter",
+            "All My Life",
+            "How Do U Want It",
+            "Tell Me It's Real"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "K-Ci & JoJo",
+            "song": "All My Life",
+            "album": "Love Always",
+            "year": 1998,
+            "topicTags": [
+              "K-Ci & JoJo",
+              "All My Life",
+              "1998",
+              "MCA Records",
+              "#1",
+              "five weeks"
+            ],
+            "fact": "'All My Life' spent five consecutive weeks at #1 on the Billboard Hot 100 in 1998 and became one of the decade's most enduring wedding songs — its combination of K-Ci's raw emotional delivery and JoJo's smoother harmonies created a textural balance that defined their duo identity. The song appeared on their debut album 'Love Always.'",
+            "storyHook": "Five weeks at number one. A song about devotion. Two brothers who came from Jodeci and made one of the decade's most quietly devastating love songs. 'All My Life' outlasted everything around it.",
+            "sourceNotes": "Love Always liner notes (MCA Records, 1997). Billboard Hot 100 chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "All My Life – Official Video – YouTube",
+                "url": "https://www.youtube.com/watch?v=DXvMT_mVbqw",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R1-Q6",
+          "episodeId": "EP024",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Sisqó's 2000 smash — which sparked a national conversation about a certain item of underwear — was titled what?",
+          "choices": [
+            "Thong Song",
+            "Got to Get It",
+            "Incomplete",
+            "Dance for Me"
+          ],
+          "correctIndex": 0,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sisqó",
+            "song": "Thong Song",
+            "album": "Unleash the Dragon",
+            "year": 2000,
+            "topicTags": [
+              "Sisqó",
+              "Thong Song",
+              "2000",
+              "Def Soul Records",
+              "Unleash the Dragon",
+              "chart"
+            ],
+            "fact": "'Thong Song' reached #3 on the Billboard Hot 100 in 2000 and became one of the year's most discussed singles — both for its production and its lyrical subject matter. It appeared on Sisqó's debut solo album 'Unleash the Dragon,' which sold over eight million copies in the United States and certified Sisqó as a commercially viable solo artist independent of Dru Hill.",
+            "storyHook": "The most specific song about an undergarment in chart history. Number three on the Hot 100. Eight million copies of the album. Sisqó made the conversation as much as he made the record.",
+            "sourceNotes": "Unleash the Dragon liner notes (Def Soul/Island Records, 1999). Billboard Hot 100 chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Unleash the Dragon – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Unleash_the_Dragon",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R1-B1",
+          "episodeId": "EP024",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "D'Angelo's acclaimed 2000 second album — widely regarded as one of the greatest R&B records of the decade — was titled what?",
+          "choices": [
+            "Back to the Future",
+            "Voodoo",
+            "D'Angelo",
+            "Brown Sugar"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — D'ANGELO'S SECOND ALBUM TITLE"
+          },
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": null,
+            "album": "Voodoo",
+            "year": 2000,
+            "topicTags": [
+              "D'Angelo",
+              "Voodoo",
+              "2000",
+              "Virgin Records",
+              "neo-soul",
+              "bonus digit"
+            ],
+            "fact": "'Voodoo' debuted at #1 on the Billboard 200 in January 2000 and won the Grammy for Best R&B Album at the 43rd ceremony — D'Angelo's five-year gap between albums had generated enormous anticipation, and 'Voodoo' delivered a dense, P-Funk-influenced statement that shifted the conversation around what R&B production could prioritize. Its impact was felt across the genre for years.",
+            "storyHook": "Five years between albums. Debuted at number one. Won the Grammy for Best R&B Album. 'Voodoo' arrived after a long silence and immediately reasserted D'Angelo's position at the center of R&B.",
+            "sourceNotes": "Voodoo liner notes (Virgin Records, 2000). Billboard 200 chart archives. 43rd Grammy Award records (2001).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Voodoo (D'Angelo album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Voodoo_(D%27Angelo_album)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP024-R1-RES1",
+          "episodeId": "EP024",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Sisqó's 2000 solo debut album — which spawned 'Thong Song' and 'Incomplete' — was titled what?",
+          "choices": [
+            "Unleash the Dragon",
+            "Return of Sisqó",
+            "Free the Dragon",
+            "Dragon Slayer"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sisqó",
+            "song": null,
+            "album": "Unleash the Dragon",
+            "year": 1999,
+            "topicTags": [
+              "Sisqó",
+              "Unleash the Dragon",
+              "solo debut",
+              "1999",
+              "Def Soul",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Unleash the Dragon liner notes (Def Soul/Island Records, 1999). RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Unleash the Dragon – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Unleash_the_Dragon",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R1-RES2",
+          "episodeId": "EP024",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Joe — the smooth R&B balladist behind 'I Wanna Know' and 'All That I Am' — was born in which Georgia city?",
+          "choices": [
+            "Savannah",
+            "Macon",
+            "Atlanta",
+            "Columbus"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Joe",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Joe",
+              "Columbus",
+              "Georgia",
+              "birthplace",
+              "origin",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Joe official biography. Jive Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Joe – Biography – IMDb",
+                "url": "https://www.imdb.com/name/nm1073941/bio/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R1-RES3",
+          "episodeId": "EP024",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Eric Benét's 1999 sophomore album — his major commercial breakthrough — contained 'Spend My Life with You' and was titled what?",
+          "choices": [
+            "Hurricane",
+            "A Day in the Life",
+            "Love & Life",
+            "Spend My Life with You"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Eric Benét",
+            "song": null,
+            "album": "A Day in the Life",
+            "year": 1999,
+            "topicTags": [
+              "Eric Benét",
+              "A Day in the Life",
+              "debut album",
+              "1996",
+              "Warner Bros.",
+              "swap reserve"
+            ],
+            "fact": "A Day in the Life was Eric Benét's sophomore album, released on Warner Bros. in 1999 — his actual debut was True to Myself (1996). The 1999 album was the commercial breakthrough, driven by the Tamia duet 'Spend My Life with You,' which reached the top of the Billboard R&B chart.",
+            "storyHook": "",
+            "sourceNotes": "A Day in the Life liner notes (Warner Bros. Records, 1999). True to Myself discography (1996). Billboard R&B chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "A Day in the Life (Eric Benét album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/A_Day_in_the_Life_(Eric_Ben%C3%A9t_album)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R1-RES4",
+          "episodeId": "EP024",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Anthony Hamilton's 2003 major-label breakthrough album — his commercial second studio record after years singing background for D'Angelo — was titled what?",
+          "choices": [
+            "Southern Comfort",
+            "Charlene",
+            "Back to Love",
+            "Comin' from Where I'm From"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Anthony Hamilton",
+            "song": "Charlene",
+            "album": "Comin' from Where I'm From",
+            "year": 2003,
+            "topicTags": [
+              "Anthony Hamilton",
+              "Comin' from Where I'm From",
+              "Charlene",
+              "debut album",
+              "2003",
+              "Soulife/Arista",
+              "swap reserve"
+            ],
+            "fact": "Comin' from Where I'm From was Anthony Hamilton's commercial breakthrough on Soulife/Arista in 2003 — his actual debut was XTC, released on MCA Records in 1996 before he was dropped and spent years as a background vocalist (appearing on sessions for D'Angelo and 2Pac). The second album made the first irrelevant to anyone but completists.",
+            "storyHook": "",
+            "sourceNotes": "Comin' from Where I'm From liner notes (Soulife/Arista, 2003). XTC debut documentation (MCA Records, 1996). Billboard R&B chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Comin' from Where I'm From – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Comin%27_from_Where_I%27m_From",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Cities, birth names, chart peaks, and the industry facts behind the male R&B machine.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP024-R2-Q1",
+          "episodeId": "EP024",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "D'Angelo — whose neo-soul style drew equally from gospel, Sly Stone, and Marvin Gaye — was born and raised in which Virginia city?",
+          "choices": [
+            "Norfolk",
+            "Charlottesville",
+            "Richmond",
+            "Roanoke"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "D'Angelo",
+              "Richmond",
+              "Virginia",
+              "birthplace",
+              "origin",
+              "gospel",
+              "neo-soul"
+            ],
+            "fact": "D'Angelo — born Michael Eugene Archer on February 11, 1974 — grew up in Richmond, Virginia, where he was raised in a Pentecostal household and developed his musical foundation in the church. Richmond's gospel tradition gave D'Angelo the vocal approach he later fused with soul, funk, and hip-hop production, creating the neo-soul synthesis that defined his debut.",
+            "storyHook": "Church in Richmond. Pentecostal upbringing. Gospel as the foundation. D'Angelo built neo-soul on top of it and the genre became something the industry hadn't anticipated.",
+            "sourceNotes": "D'Angelo official biography. Richmond, Virginia cultural documentation. EMI Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "D'Angelo – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/D%27Angelo",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R2-Q2",
+          "episodeId": "EP024",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Brian McKnight's 1993 debut breakthrough ballad — which established him as R&B's premier vocal technician and reached #1 on the R&B chart — was titled what?",
+          "choices": [
+            "Back at One",
+            "Love of My Life",
+            "Anytime",
+            "One Last Cry"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brian McKnight",
+            "song": "One Last Cry",
+            "album": "Brian McKnight",
+            "year": 1993,
+            "topicTags": [
+              "Brian McKnight",
+              "One Last Cry",
+              "1993",
+              "Mercury Records",
+              "debut ballad",
+              "R&B chart"
+            ],
+            "fact": "'One Last Cry' reached #1 on the Billboard R&B chart in 1993 from Brian McKnight's self-titled debut album — its falsetto precision and classical-influenced chord movement immediately established him as a technically exceptional vocal presence in a crowded R&B landscape.",
+            "storyHook": "Buffalo, New York. Gospel family. Classical training. Brother in Take 6. Brian McKnight arrived at R&B with more formal technical foundation than almost any of his contemporaries.",
+            "sourceNotes": "Brian McKnight liner notes (Mercury Records, 1992). Billboard R&B chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "One Last Cry – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/One_Last_Cry",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R2-Q3",
+          "episodeId": "EP024",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "K-Ci — the more raw-voiced half of K-Ci & JoJo — has what full birth name?",
+          "choices": [
+            "Kevin Harris",
+            "Cedric Monroe",
+            "Calvin Martin",
+            "Cedric Hailey"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "K-Ci & JoJo",
+            "song": null,
+            "album": "Love Always",
+            "year": 1997,
+            "topicTags": [
+              "K-Ci",
+              "Cedric Hailey",
+              "birth name",
+              "Jodeci",
+              "Monroe North Carolina"
+            ],
+            "fact": "K-Ci — born Cedric Hailey on September 2, 1969, in Monroe, North Carolina — was the more emotionally raw vocalist of the duo, his voice carrying a rougher edge than JoJo's smoother delivery. The contrast between their two voices gave 'All My Life' its distinctive emotional texture.",
+            "storyHook": "Cedric Hailey. Joel Hailey. Two brothers from Monroe, North Carolina who became K-Ci and JoJo. The surname is the most private thing about two of the decade's most public voices.",
+            "sourceNotes": "K-Ci & JoJo official biography. Jodeci discography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "K-Ci & JoJo – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/K-Ci_%26_JoJo",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R2-Q4",
+          "episodeId": "EP024",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Donell Jones's 1999 breakthrough album — which contained his signature slow jam of the same name — was titled what?",
+          "choices": [
+            "U Know What's Up",
+            "Love Works",
+            "My Heart",
+            "Where I Wanna Be"
+          ],
+          "correctIndex": 3,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Donell Jones",
+            "song": "Where I Wanna Be",
+            "album": "Where I Wanna Be",
+            "year": 1999,
+            "topicTags": [
+              "Donell Jones",
+              "Where I Wanna Be",
+              "1999",
+              "LaFace Records",
+              "album",
+              "debut"
+            ],
+            "fact": "'Where I Wanna Be' was released on LaFace Records in 1999 — both the album and its title track became quiet-storm staples whose understated production and emotional directness resonated across R&B radio without matching the commercial volume of louder contemporaries. Donell Jones's work occupied the reflective space between urban R&B and classic soul.",
+            "storyHook": "The album title was the song title was the career statement. Donell Jones made one record that said exactly where he wanted to be, and R&B radio kept playing it for years.",
+            "sourceNotes": "Where I Wanna Be liner notes (LaFace Records, 1999). Billboard R&B chart archives. AllMusic editorial.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Where I Wanna Be (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Where_I_Wanna_Be_(album)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R2-Q5",
+          "episodeId": "EP024",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Sisqó's 'Thong Song' — one of 2000's most discussed singles — peaked at which position on the Billboard Hot 100?",
+          "choices": [
+            "#1",
+            "#7",
+            "#3",
+            "#12"
+          ],
+          "correctIndex": 2,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Sisqó",
+            "song": "Thong Song",
+            "album": "Unleash the Dragon",
+            "year": 2000,
+            "topicTags": [
+              "Sisqó",
+              "Thong Song",
+              "Billboard Hot 100",
+              "#3",
+              "chart peak",
+              "2000"
+            ],
+            "fact": "'Thong Song' peaked at #3 on the Billboard Hot 100 in 2000 — held from the top spot by Santana's 'Smooth' and Destiny's Child's 'Say My Name,' it was nonetheless one of the year's most enduring radio records. Its chart position belied its cultural footprint, which was significantly larger than any other single at its chart peak.",
+            "storyHook": "Number three. Held off the top by Santana and Destiny's Child. The song that defined underwear discourse for an entire calendar year peaked at number three and somehow felt like it had been everywhere.",
+            "sourceNotes": "Billboard Hot 100 chart archives (2000). Unleash the Dragon liner notes (Def Soul/Island Records, 1999).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Thong Song – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Thong_Song",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R2-B1",
+          "episodeId": "EP024",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Ginuwine's 1999 second album — which continued his Timbaland collaboration and went platinum — was titled what?",
+          "choices": [
+            "Ginuwine...the Bachelor",
+            "The Bachelor",
+            "Pony Tales",
+            "100% Ginuwine"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — GINUWINE'S SECOND ALBUM TITLE"
+          },
+          "metadata": {
+            "artist": "Ginuwine",
+            "song": null,
+            "album": "100% Ginuwine",
+            "year": 1999,
+            "topicTags": [
+              "Ginuwine",
+              "100% Ginuwine",
+              "1999",
+              "Epic Records",
+              "second album",
+              "Timbaland",
+              "bonus digit"
+            ],
+            "fact": "'100% Ginuwine' was released on Epic Records in 1999 and went platinum — the album continued Ginuwine's collaboration with Timbaland while broadening the sonic palette beyond the stuttering groove of 'Pony.' It produced 'What's So Different' and 'None of Ur Friends Business,' deepening his commercial profile.",
+            "storyHook": "Epic Records. Timbaland producing. 'Ginuwine...the Bachelor' debuting at #4 on the Billboard 200. The label backed the sound. The sound repaid the label.",
+            "sourceNotes": "100% Ginuwine liner notes (Epic Records, 1999). Billboard chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "100% Ginuwine – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/100%25_Ginuwine",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP024-R2-RES1",
+          "episodeId": "EP024",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Ginuwine's 2003 fourth studio album — which contained the smooth ballad 'In Those Jeans' — was titled what?",
+          "choices": [
+            "The Senior",
+            "Back II Da Basics",
+            "Ginuwine 4",
+            "I Am Legend"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ginuwine",
+            "song": "In Those Jeans",
+            "album": "The Senior",
+            "year": 2003,
+            "topicTags": [
+              "Ginuwine",
+              "The Senior",
+              "2003",
+              "Epic Records",
+              "In Those Jeans",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "The Senior liner notes (Epic Records, 2003). Billboard R&B chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Senior – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Senior_(album)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R2-RES2",
+          "episodeId": "EP024",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Jaheim — the New Jersey R&B vocalist known for 'Put That Woman First' — released which 2001 debut album?",
+          "choices": [
+            "Never",
+            "Ghetto Love",
+            "Still Ghetto",
+            "Anything"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jaheim",
+            "song": null,
+            "album": "Ghetto Love",
+            "year": 2001,
+            "topicTags": [
+              "Jaheim",
+              "Ghetto Love",
+              "debut album",
+              "2001",
+              "Divine Mill/Warner Bros.",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Ghetto Love liner notes (Divine Mill/Warner Bros. Records, 2001). Billboard R&B chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ghetto Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ghetto_Love_(Jaheim_album)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R2-RES3",
+          "episodeId": "EP024",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "K-Ci and JoJo were members of Jodeci alongside brothers DeVante Swing and which other member?",
+          "choices": [
+            "Silk",
+            "Case",
+            "Playa",
+            "Mr. Dalvin"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "K-Ci & JoJo",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Jodeci",
+              "Mr. Dalvin",
+              "DeVante Swing",
+              "K-Ci",
+              "JoJo",
+              "group lineup"
+            ],
+            "fact": "Jodeci consisted of two sets of brothers: K-Ci (Cedric Hailey) and JoJo (Joel Hailey), and DeVante Swing (Donald DeGrate) and Mr. Dalvin (Dalvin DeGrate). The quartet formed in Charlotte, North Carolina before signing to Uptown Records.",
+            "storyHook": "Before 'All My Life,' there was Jodeci. The brothers didn't start as a duo — they started as part of one of the rawer vocal groups the decade produced.",
+            "sourceNotes": "Verified: Jodeci lineup was K-Ci, JoJo, DeVante Swing, and Mr. Dalvin. Source: Wikipedia https://en.wikipedia.org/wiki/Jodeci",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jodeci – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jodeci",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-17",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Neighborhood names, personal connections, and the identities underneath the stage names.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP024-R3-Q1",
+          "episodeId": "EP024",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Jon B. — the smooth blue-eyed soul vocalist known for 'They Don't Know' — released which 1997 sophomore album on Babyface's Yab Yum imprint?",
+          "choices": [
+            "They Don't Know",
+            "Cool Relax",
+            "Bonafide",
+            "Stronger Everyday"
+          ],
+          "correctIndex": 1,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jon B.",
+            "song": "They Don't Know",
+            "album": "Cool Relax",
+            "year": 1997,
+            "topicTags": [
+              "Jon B.",
+              "Cool Relax",
+              "debut album",
+              "1997",
+              "Yab Yum/Epic Records",
+              "They Don't Know"
+            ],
+            "fact": "Cool Relax was Jon B.'s second album — his actual debut was Bonafide (1995), which featured the Babyface duet 'Someone to Love.' The Yab Yum imprint, co-founded by Babyface and Steve Rifkind and distributed through Epic Records, positioned Jon B. as a blue-eyed soul voice capable of crossing between R&B audiences and pop radio. 'They Don't Know' became the defining track of his career.",
+            "storyHook": "White vocalist on a Black music imprint co-founded by Babyface. His debut featured a Babyface duet. His sophomore produced the career-defining single. Jon B. built his credibility in exactly the rooms where credibility is hardest to establish.",
+            "sourceNotes": "Cool Relax liner notes (Yab Yum/Epic Records, 1997). Bonafide debut documentation (Yab Yum/Epic, 1995). Babyface Yab Yum imprint records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Cool Relax – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Cool_Relax",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R3-Q2",
+          "episodeId": "EP024",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Eric Benét — the Milwaukee-born R&B vocalist behind 'Spend My Life with You' — was married from 2001 to 2005 to which actress?",
+          "choices": [
+            "Vivica A. Fox",
+            "Nia Long",
+            "Halle Berry",
+            "Sanaa Lathan"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Eric Benét",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Eric Benét",
+              "Halle Berry",
+              "marriage",
+              "2001",
+              "Milwaukee",
+              "R&B"
+            ],
+            "fact": "Eric Benét and Halle Berry married on January 24, 2001, and divorced in 2005 — their relationship generated significant public attention at a time when Berry was one of Hollywood's highest-profile actresses. Benét's personal life became as newsworthy as his music during this period, though he continued recording throughout the marriage.",
+            "storyHook": "The R&B vocalist and the Oscar-winning actress. Married in 2001. Divorced in 2005. Eric Benét's most-discussed life chapter involved no recording sessions at all.",
+            "sourceNotes": "Eric Benét biographical records. Halle Berry biographical records. Marriage and divorce documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Eric Benét – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Eric_Ben%C3%A9t",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R3-B1",
+          "episodeId": "EP024",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "D'Angelo performs under a stage name — his birth name, which appears on early gospel recordings, is what?",
+          "choices": [
+            "Michael Eugene Archer",
+            "Marcus Eugene Washington",
+            "Michael Andre Davis",
+            "D'Angelo Michael Brown"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 — D'ANGELO'S BIRTH NAME"
+          },
+          "metadata": {
+            "artist": "D'Angelo",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "D'Angelo",
+              "Michael Eugene Archer",
+              "birth name",
+              "Richmond Virginia",
+              "gospel",
+              "bonus digit"
+            ],
+            "fact": "D'Angelo was born Michael Eugene Archer on February 11, 1974, in Richmond, Virginia — the stage name 'D'Angelo' was adopted early in his professional career and was the name under which he signed to EMI Records. His early recordings in the Richmond gospel circuit were made under his birth name before the commercial identity was established.",
+            "storyHook": "Michael Eugene Archer from Richmond, Virginia. Became D'Angelo. Made 'Brown Sugar.' Made 'Voodoo.' Then disappeared for fourteen years before returning with 'Black Messiah.' The birth name stayed in Richmond. The stage name kept moving.",
+            "sourceNotes": "D'Angelo official biography. Richmond, Virginia documentation. EMI Records signing records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "D'Angelo – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/D%27Angelo",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP024-R3-RES1",
+          "episodeId": "EP024",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Jon B. — the smooth R&B vocalist behind 'They Don't Know' — has what birth name?",
+          "choices": [
+            "Brandon Jonathan Lee",
+            "Jonathan Barry Brown",
+            "Jon Michael Baker",
+            "Jonathan David Buck"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jon B.",
+            "song": "They Don't Know",
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Jon B.",
+              "Jonathan David Buck",
+              "birth name",
+              "stage name",
+              "They Don't Know",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Jon B. official biography. Yab Yum/Epic Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jon B. – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jon_B.",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP024-R3-RES2",
+          "episodeId": "EP024",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Joe — who performs under a single-name stage identity — has what birth name?",
+          "choices": [
+            "Jonathan Rogers",
+            "James Thomas Jr.",
+            "Joseph Martin",
+            "Joseph Thomas"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Joe",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Joe",
+              "Joseph Thomas",
+              "birth name",
+              "stage name",
+              "Columbus Georgia",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Joe official biography. Island Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Joe (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Joe_(singer)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-20T02:27:00.371642+00:00"
+  }
+}

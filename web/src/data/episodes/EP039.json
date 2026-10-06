@@ -1,0 +1,1571 @@
+{
+  "episodeId": "EP039",
+  "title": "What The World Is Today",
+  "theme": "The urban soul humanism of the early 1970s — records that bore witness to city life, community struggle, and the human cost of a world in flux, from the streets of Harlem to the mines of West Virginia.",
+  "narrativePurpose": "Test knowledge of the socially conscious soul records that defined 1970–1975 — the songs, albums, labels, songwriters, and biographical facts behind the artists who made R&B a vehicle for truth-telling about American life.",
+  "toneProgression": "Identify the record and the artist → labels, songwriters, producers, and chart facts → birth names, birthplaces, and the hidden connections that deepen the story",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "2"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-7-2 — the episode's densest year: Bobby Womack's 'Across 110th Street,' The Stylistics' 'People Make The World Go Round,' Curtis Mayfield's 'Freddie's Dead,' and Donny Hathaway's Live — featuring 'Little Ghetto Boy' — all arrived in 1972. The year socially conscious soul found its fullest voice."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The records and the artists. Entry level — but these songs carry weight.",
+      "color": "#FFD700",
+      "accentVar": "--gold",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP039-R1-Q1",
+          "episodeId": "EP039",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Stevie Wonder's 'Living For The City' — a seven-minute portrait of urban disillusionment — appeared on which 1973 album?",
+          "choices": [
+            "Fulfillingness' First Finale",
+            "Songs in the Key of Life",
+            "Talking Book",
+            "Innervisions"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Stevie Wonder",
+            "song": "Living For The City",
+            "album": "Innervisions",
+            "year": 1973,
+            "topicTags": [
+              "Stevie Wonder",
+              "Living For The City",
+              "Innervisions",
+              "1973",
+              "Tamla",
+              "Motown",
+              "urban"
+            ],
+            "fact": "'Living For The City' appeared on Innervisions (1973) — one of Stevie Wonder's masterworks from his celebrated mid-70s run of creative freedom. The track's seven-minute runtime included a spoken-word scene in which a young Southern man arrives in New York City and is immediately swept into the criminal justice system.",
+            "storyHook": "Seven minutes. One story. A young man arrives in New York City and never gets the chance he was promised. Stevie Wonder put the whole thing on Innervisions.",
+            "sourceNotes": "PRIORITY VERIFY: Stevie Wonder 'Living For The City' from Innervisions (1973), Tamla/Motown. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Living for the City – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Living_for_the_City",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Living For The City – YouTube (official audio)",
+                "url": "https://www.youtube.com/watch?v=rc0XEw4m-3w",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R1-Q2",
+          "episodeId": "EP039",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'Midnight Train to Georgia' by Gladys Knight & The Pips was originally written by Jim Weatherly under which different title?",
+          "choices": [
+            "Midnight Bus to Memphis",
+            "Midnight Flight to Los Angeles",
+            "Midnight Train to Memphis",
+            "Midnight Plane to Houston"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Gladys Knight & The Pips",
+            "song": "Midnight Train to Georgia",
+            "album": "Imagination",
+            "year": 1973,
+            "topicTags": [
+              "Gladys Knight & The Pips",
+              "Midnight Train to Georgia",
+              "Jim Weatherly",
+              "Midnight Plane to Houston",
+              "1973",
+              "Buddah Records",
+              "title change"
+            ],
+            "fact": "Jim Weatherly originally wrote and recorded 'Midnight Plane to Houston' on Amos Records. Gladys Knight heard the song and asked Weatherly to change the title — replacing the plane with a train and the destination with Georgia. The retitled version became one of the era's most celebrated R&B records.",
+            "storyHook": "It was a plane. It was going to Houston. Gladys Knight asked for a train to Georgia instead — and Jim Weatherly rewrote his own song for her.",
+            "sourceNotes": "PRIORITY VERIFY: 'Midnight Train to Georgia' originally 'Midnight Plane to Houston' by Jim Weatherly on Amos Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Midnight Train to Georgia – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Midnight_Train_to_Georgia",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R1-Q3",
+          "episodeId": "EP039",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'Ball of Confusion (That's What The World Is Today)' was a 1970 political soul anthem by which Motown group?",
+          "choices": [
+            "The Isley Brothers",
+            "The Miracles",
+            "The Temptations",
+            "The Four Tops"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Temptations",
+            "song": "Ball of Confusion (That's What The World Is Today)",
+            "album": "Psychedelic Shack",
+            "year": 1970,
+            "topicTags": [
+              "The Temptations",
+              "Ball of Confusion",
+              "1970",
+              "Gordy",
+              "Norman Whitfield",
+              "Barrett Strong",
+              "psychedelic soul"
+            ],
+            "fact": "'Ball of Confusion' was produced by Norman Whitfield and written by Whitfield and Barrett Strong for The Temptations in 1970 — part of the group's psychedelic soul era that transformed their sound from smooth harmonies to socially charged, studio-experimental R&B.",
+            "storyHook": "The Temptations in 1970 sounded nothing like the Temptations of 1965. Norman Whitfield changed everything — and 'Ball of Confusion' was the proof.",
+            "sourceNotes": "PRIORITY VERIFY: The Temptations 'Ball of Confusion' (1970), Gordy/Motown, Norman Whitfield production, Barrett Strong co-writer. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ball of Confusion (That's What the World Is Today) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ball_of_Confusion_(That%27s_What_the_World_Is_Today)",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Ball Of Confusion – Temptations – YouTube",
+                "url": "https://www.youtube.com/watch?v=ghLWjyOOLno",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R1-Q4",
+          "episodeId": "EP039",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'Grandma's Hands' appeared on which 1971 Bill Withers debut album?",
+          "choices": [
+            "Menagerie",
+            "+Justments",
+            "Still Bill",
+            "Just As I Am"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bill Withers",
+            "song": "Grandma's Hands",
+            "album": "Just As I Am",
+            "year": 1971,
+            "topicTags": [
+              "Bill Withers",
+              "Grandma's Hands",
+              "Just As I Am",
+              "1971",
+              "Sussex Records",
+              "Booker T. Jones",
+              "debut album"
+            ],
+            "fact": "Just As I Am (1971) was Bill Withers's debut studio album on Sussex Records — produced by Booker T. Jones. It introduced both 'Ain't No Sunshine' and 'Grandma's Hands' to the world in the same release, making it one of the most remarkable debut albums in R&B history.",
+            "storyHook": "'Ain't No Sunshine' and 'Grandma's Hands' on the same debut album. Bill Withers arrived with more fully formed material than most artists manage in a career.",
+            "sourceNotes": "PRIORITY VERIFY: Bill Withers Just As I Am (1971), Sussex Records, Booker T. Jones producer, debut album. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bill Withers – Mother's Day 'Grandma's Hands' post",
+                "url": "https://www.instagram.com/reel/DJhUQucgK_n/?hl=en",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Rock Hall tribute to 'Grandma's Hands'",
+                "url": "https://www.facebook.com/rockandrollhalloffame/videos/a-voice-that-sounds-like-its-lived-a-thousand-livesin-this-live-performanc",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R1-Q5",
+          "episodeId": "EP039",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'People Make The World Go Round' was a 1972 social commentary hit for which Philadelphia vocal group?",
+          "choices": [
+            "The Stylistics",
+            "The Delfonics",
+            "Harold Melvin & The Blue Notes",
+            "The O'Jays"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Stylistics",
+            "song": "People Make The World Go Round",
+            "album": "The Stylistics",
+            "year": 1972,
+            "topicTags": [
+              "The Stylistics",
+              "People Make The World Go Round",
+              "1972",
+              "Avco Records",
+              "Thom Bell",
+              "Philadelphia"
+            ],
+            "fact": "'People Make The World Go Round' appeared on The Stylistics' debut album and was one of the group's more explicitly socially conscious records — a departure from the pure romantic balladry they were known for. Produced by Thom Bell and released on Avco Records, it demonstrated that Philadelphia soul could carry political weight as well as emotional weight.",
+            "storyHook": "The Stylistics were known for love songs. 'People Make The World Go Round' proved they could do something harder — and they did it without losing the melody.",
+            "sourceNotes": "PRIORITY VERIFY: The Stylistics 'People Make The World Go Round' (1972), Avco Records, Thom Bell production. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Stylistics – 'People Make The World Go Round' – YouTube",
+                "url": "https://www.youtube.com/watch?v=2owZXPyeilc",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R1-Q6",
+          "episodeId": "EP039",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "William DeVaughn's 'Be Thankful For What You Got' was released on which independent label?",
+          "choices": [
+            "Sussex Records",
+            "Roxbury Records",
+            "Spring Records",
+            "Curtom Records"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "William DeVaughn",
+            "song": "Be Thankful For What You Got",
+            "album": "Be Thankful for What You Got",
+            "year": 1974,
+            "topicTags": [
+              "William DeVaughn",
+              "Be Thankful For What You Got",
+              "Roxbury Records",
+              "1974",
+              "independent",
+              "#1"
+            ],
+            "fact": "'Be Thankful For What You Got' was released on Roxbury Records — a subsidiary of Chelsea Records — and became one of the era's most remarkable independent soul success stories, reaching #1 on both the Billboard Hot 100 and the R&B chart in 1974. DeVaughn's quiet, deliberate delivery gave the record an unhurried dignity that perfectly matched its message.",
+            "storyHook": "An independent label. A message about gratitude. Number one on the Hot 100 and the R&B chart. William DeVaughn did it without a major label behind him.",
+            "sourceNotes": "PRIORITY VERIFY: William DeVaughn 'Be Thankful For What You Got' on Roxbury Records (1974), #1 Hot 100 and R&B. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Be Thankful For What You Got – Roxbury Records label note",
+                "url": "https://www.facebook.com/JadedInJapan/posts/be-thankful-for-what-you-got-released-on-the-roxbury-records-label-in-1974-by-am/139",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R1-B1",
+          "episodeId": "EP039",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'Wake Up Everybody' featured which vocalist in the lead role — a singer who would soon become one of Philadelphia soul's defining solo stars?",
+          "choices": [
+            "Dennis Edwards",
+            "David Ruffin",
+            "Teddy Pendergrass",
+            "Lou Rawls"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — THE DECADE OPENS"
+          },
+          "metadata": {
+            "artist": "Harold Melvin & The Blue Notes",
+            "song": "Wake Up Everybody",
+            "album": "Wake Up Everybody",
+            "year": 1975,
+            "topicTags": [
+              "Harold Melvin & The Blue Notes",
+              "Wake Up Everybody",
+              "Teddy Pendergrass",
+              "1975",
+              "Philadelphia International",
+              "Philadelphia soul"
+            ],
+            "fact": "Teddy Pendergrass was the lead vocalist on 'Wake Up Everybody' — still a member of Harold Melvin & The Blue Notes when the record was released in 1975. He would leave the group the following year to launch a solo career that made him one of Philadelphia soul's most powerful voices of the late 1970s.",
+            "storyHook": "He was still in the group. He was already the reason people listened. Teddy Pendergrass made 'Wake Up Everybody' sound like a solo record — and then he made that official.",
+            "sourceNotes": "PRIORITY VERIFY: Teddy Pendergrass lead vocalist on Harold Melvin & The Blue Notes 'Wake Up Everybody' (1975), Philadelphia International Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wake Up Everybody – Harold Melvin & the Blue Notes (feat. Teddy Pendergrass) – Spotify",
+                "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Harold Melvin & The Blue Notes – 'Wake Up Everybody' – Soul Train clip",
+                "url": "https://www.youtube.com/watch?v=axmBtBOlbVU",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Harold Melvin & The Blue Notes - Wake Up Everybody – Instagram reel",
+                "url": "https://www.instagram.com/reel/DLKOnVyuT7s/?hl=en",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "biography",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP039-R1-RES1",
+          "episodeId": "EP039",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'The Ghetto' and 'Little Ghetto Boy' were both recorded by which artist — one of early 70s soul's most gifted and tragic figures?",
+          "choices": [
+            "Al Green",
+            "Marvin Gaye",
+            "Curtis Mayfield",
+            "Donny Hathaway"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Donny Hathaway",
+            "song": "The Ghetto / Little Ghetto Boy",
+            "album": "Everything Is Everything / Live",
+            "year": 1970,
+            "topicTags": [
+              "Donny Hathaway",
+              "The Ghetto",
+              "Little Ghetto Boy",
+              "Atlantic Records",
+              "ATCO",
+              "socially conscious soul"
+            ],
+            "fact": "Donny Hathaway recorded both 'The Ghetto' (1970, from Everything Is Everything) and 'Little Ghetto Boy' (featured on Live, 1972) — two of early 70s soul's most unsparing portraits of urban poverty. Hathaway's extraordinary vocal and musical gifts gave both records an emotional precision that few contemporaries matched.",
+            "storyHook": "The Ghetto. Little Ghetto Boy. Two records. Same artist. Donny Hathaway returned to the same subject twice — and both times he said something nobody else could.",
+            "sourceNotes": "PRIORITY VERIFY: Donny Hathaway 'The Ghetto' from Everything Is Everything (1970); 'Little Ghetto Boy' from Live (1972). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Ghetto (Donny Hathaway song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Ghetto_(Donny_Hathaway_song)",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Little Ghetto Boy – Donny Hathaway – Spotify",
+                "url": "https://open.spotify.com/track/22AAitJKemmJmEztB4WOtd",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R1-RES2",
+          "episodeId": "EP039",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'Across 110th Street' was written and performed by which artist for the 1972 film of the same name?",
+          "choices": [
+            "Bobby Womack",
+            "Curtis Mayfield",
+            "Marvin Gaye",
+            "Isaac Hayes"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bobby Womack",
+            "song": "Across 110th Street",
+            "album": "Across 110th Street (soundtrack)",
+            "year": 1972,
+            "topicTags": [
+              "Bobby Womack",
+              "Across 110th Street",
+              "1972",
+              "United Artists",
+              "soundtrack",
+              "blaxploitation"
+            ],
+            "fact": "'Across 110th Street' was written and performed by Bobby Womack for the 1972 blaxploitation film of the same name — set in Harlem and directed by Barry Shear. The song's gritty, string-drenched opening became one of the most recognizable moments in soul cinema history.",
+            "storyHook": "Harlem. 1972. A film about the streets above 110th Street. Bobby Womack wrote the title track — and it became the sound of an entire era of urban cinema.",
+            "sourceNotes": "PRIORITY VERIFY: Bobby Womack 'Across 110th Street' from the 1972 film soundtrack, United Artists Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bobby Womack's 'Across 110th Street' – Facebook feature",
+                "url": "https://www.facebook.com/BobbyWomack/videos/bobby-womacks-across-110th-street-features-prominently-in-the-opening-scene-of-q/761",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Across 110th Street (1972 film) – IMDb",
+                "url": "https://www.imdb.com/title/tt0068168/",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R1-RES3",
+          "episodeId": "EP039",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'Freddie's Dead' — Curtis Mayfield's 1972 blaxploitation anthem — was written and produced by which artist?",
+          "choices": [
+            "Gil Scott-Heron",
+            "Curtis Mayfield",
+            "Isaac Hayes",
+            "Bobby Womack"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Curtis Mayfield",
+            "song": "Freddie's Dead",
+            "album": "Super Fly",
+            "year": 1972,
+            "topicTags": [
+              "Curtis Mayfield",
+              "Freddie's Dead",
+              "Super Fly",
+              "1972",
+              "Curtom Records",
+              "blaxploitation"
+            ],
+            "fact": "'Freddie's Dead (Theme from Superfly)' was written, produced, and performed by Curtis Mayfield for the 1972 film Super Fly. Mayfield's decision to score a film glorifying drug culture with music that explicitly criticised it created one of the era's most striking artistic contradictions — and one of its best soundtracks.",
+            "storyHook": "The film glorified the drug dealer. The music condemned him. Curtis Mayfield wrote Freddie's Dead as a critique from inside a soundtrack everyone assumed celebrated what it was actually mourning.",
+            "sourceNotes": "PRIORITY VERIFY: Curtis Mayfield 'Freddie's Dead' from Super Fly (1972), Curtom Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Freddie's Dead – Super Fly soundtrack cut – YouTube",
+                "url": "https://www.youtube.com/watch?v=0B6TKClPFQA",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "production",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R1-RES4",
+          "episodeId": "EP039",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'Midnight Train to Georgia' won which Grammy Award for Gladys Knight & The Pips in 1974?",
+          "choices": [
+            "Best R&B Vocal Performance by a Duo, Group or Chorus",
+            "Best Pop Vocal Performance by a Duo or Group",
+            "Best R&B Song",
+            "Record of the Year"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Gladys Knight & The Pips",
+            "song": "Midnight Train to Georgia",
+            "album": "Imagination",
+            "year": 1973,
+            "topicTags": [
+              "Gladys Knight & The Pips",
+              "Midnight Train to Georgia",
+              "Grammy",
+              "Best R&B Vocal Performance by a Duo Group or Chorus",
+              "1974",
+              "Buddah Records"
+            ],
+            "fact": "'Midnight Train to Georgia' won Best R&B Vocal Performance by a Duo, Group or Chorus at the 1974 Grammy Awards — confirming what listeners already knew: the record was a definitive statement from one of R&B's most consistently excellent vocal acts.",
+            "storyHook": "The Grammy. The right category. The right record. 'Midnight Train to Georgia' won the award that was built for exactly this kind of performance.",
+            "sourceNotes": "PRIORITY VERIFY: 'Midnight Train to Georgia' won Best R&B Vocal Performance by a Duo, Group or Chorus at 1974 Grammys. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Midnight Train to Georgia – awards section – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Midnight_Train_to_Georgia",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "award",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Songwriters, producers, labels, and the connections behind the era's defining records.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP039-R2-Q1",
+          "episodeId": "EP039",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Wake Up Everybody' was co-written by Gene McFadden and John Whitehead — who later recorded which 1979 disco-soul anthem together?",
+          "choices": [
+            "Good Times",
+            "Ring My Bell",
+            "Ain't No Stoppin' Us Now",
+            "Got to Be Real"
+          ],
+          "correctIndex": 2,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Harold Melvin & The Blue Notes",
+            "song": "Wake Up Everybody",
+            "album": "Wake Up Everybody",
+            "year": 1975,
+            "topicTags": [
+              "Gene McFadden",
+              "John Whitehead",
+              "Wake Up Everybody",
+              "Ain't No Stoppin' Us Now",
+              "1975",
+              "1979",
+              "Philadelphia International"
+            ],
+            "fact": "Gene McFadden and John Whitehead co-wrote 'Wake Up Everybody' for Harold Melvin & The Blue Notes in 1975 — and later recorded 'Ain't No Stoppin' Us Now' as McFadden & Whitehead in 1979, making them one of the era's most consistent Philadelphia soul songwriting-to-performing talents.",
+            "storyHook": "They wrote 'Wake Up Everybody' in 1975. Four years later they recorded 'Ain't No Stoppin' Us Now' themselves. McFadden and Whitehead understood both sides of the studio.",
+            "sourceNotes": "PRIORITY VERIFY: Gene McFadden and John Whitehead co-wrote 'Wake Up Everybody' (1975) and later recorded 'Ain't No Stoppin' Us Now' (1979) as McFadden & Whitehead. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ain't No Stoppin' Us Now – McFadden & Whitehead – YouTube",
+                "url": "https://www.youtube.com/watch?v=i2FW1WJc0lg",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R2-Q2",
+          "episodeId": "EP039",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Ball of Confusion' was produced by Norman Whitfield and co-written by Whitfield alongside which Motown lyricist — the pair's frequent creative partner?",
+          "choices": [
+            "Berry Gordy",
+            "Barrett Strong",
+            "Smokey Robinson",
+            "Lamont Dozier"
+          ],
+          "correctIndex": 1,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Temptations",
+            "song": "Ball of Confusion",
+            "album": "Psychedelic Shack",
+            "year": 1970,
+            "topicTags": [
+              "The Temptations",
+              "Ball of Confusion",
+              "Norman Whitfield",
+              "Barrett Strong",
+              "1970",
+              "Motown",
+              "songwriter"
+            ],
+            "fact": "Barrett Strong co-wrote 'Ball of Confusion' alongside Norman Whitfield — a partnership that had already produced 'I Heard It Through the Grapevine' for Marvin Gaye. Strong's lyrical directness combined with Whitfield's dense, experimental production gave the record its political weight.",
+            "storyHook": "Barrett Strong and Norman Whitfield. The same team that wrote 'I Heard It Through the Grapevine' applied their gifts to the state of the world — and 'Ball of Confusion' was the result.",
+            "sourceNotes": "PRIORITY VERIFY: 'Ball of Confusion' co-written by Norman Whitfield and Barrett Strong (1970). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ball of Confusion – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ball_of_Confusion_(That%27s_What_the_World_Is_Today)",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Ball Of Confusion – Temptations – YouTube",
+                "url": "https://www.youtube.com/watch?v=ghLWjyOOLno",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R2-Q3",
+          "episodeId": "EP039",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Gladys Knight & The Pips released 'Midnight Train to Georgia' on which label — after departing from Motown?",
+          "choices": [
+            "Atlantic Records",
+            "Stax Records",
+            "Philadelphia International",
+            "Buddah Records"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Gladys Knight & The Pips",
+            "song": "Midnight Train to Georgia",
+            "album": "Imagination",
+            "year": 1973,
+            "topicTags": [
+              "Gladys Knight & The Pips",
+              "Midnight Train to Georgia",
+              "Buddah Records",
+              "1973",
+              "Motown departure",
+              "label"
+            ],
+            "fact": "Gladys Knight & The Pips left Motown and signed with Buddah Records — releasing 'Midnight Train to Georgia' and their acclaimed album Imagination in 1973. The move from Motown to an independent label proved commercially inspired: the Buddah recordings became their most celebrated work.",
+            "storyHook": "They left Motown. They signed with Buddah. They made 'Midnight Train to Georgia.' Sometimes leaving is the right decision.",
+            "sourceNotes": "PRIORITY VERIFY: Gladys Knight & The Pips 'Midnight Train to Georgia' on Buddah Records (1973), after leaving Motown. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Midnight Train to Georgia – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Midnight_Train_to_Georgia",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Gladys Knight & The Pips – Motown Museum post",
+                "url": "https://www.facebook.com/MotownMuseum/posts/today-we-honor-the-legacy-of-gladys-knight-and-the-pips-a-family-affair-gladys-k/582",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R2-Q4",
+          "episodeId": "EP039",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Donny Hathaway's 'The Ghetto' (1970) was co-written with which artist — who later replaced Curtis Mayfield as lead singer of The Impressions?",
+          "choices": [
+            "Marvin Smith",
+            "Leroy Hutson",
+            "Philip Upchurch",
+            "Jerry Butler"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Donny Hathaway",
+            "song": "The Ghetto",
+            "album": "Everything Is Everything",
+            "year": 1970,
+            "topicTags": [
+              "Donny Hathaway",
+              "The Ghetto",
+              "Leroy Hutson",
+              "The Impressions",
+              "Curtis Mayfield",
+              "1970",
+              "co-writer"
+            ],
+            "fact": "Leroy Hutson co-wrote 'The Ghetto' with Donny Hathaway — the two had been college roommates at Howard University. Hutson later replaced Curtis Mayfield as lead singer of The Impressions when Mayfield departed for his solo career, connecting two of early 70s soul's most important creative circles.",
+            "storyHook": "College roommates. Co-writers. One replaced Curtis Mayfield. The other became Donny Hathaway. Leroy Hutson and Donny Hathaway shared a dorm room — and changed soul music.",
+            "sourceNotes": "PRIORITY VERIFY: Leroy Hutson co-wrote 'The Ghetto' with Donny Hathaway (college roommates at Howard University); Hutson replaced Curtis Mayfield in The Impressions. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Ghetto (Donny Hathaway song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Ghetto_(Donny_Hathaway_song)",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R2-Q5",
+          "episodeId": "EP039",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Grandma's Hands' was produced by which Booker T. & the M.G.'s frontman — whose production gave Bill Withers's debut its warm, sparse sound?",
+          "choices": [
+            "Booker T. Jones",
+            "Donald 'Duck' Dunn",
+            "Al Jackson Jr.",
+            "Steve Cropper"
+          ],
+          "correctIndex": 0,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bill Withers",
+            "song": "Grandma's Hands",
+            "album": "Just As I Am",
+            "year": 1971,
+            "topicTags": [
+              "Bill Withers",
+              "Grandma's Hands",
+              "Booker T. Jones",
+              "Just As I Am",
+              "Sussex Records",
+              "1971",
+              "producer"
+            ],
+            "fact": "Booker T. Jones — organist and leader of Booker T. & the M.G.'s — produced Just As I Am, Bill Withers's debut album. His approach to the record matched Withers's own instincts: spare, warm, and rooted in the space between the notes rather than the density of arrangement.",
+            "storyHook": "Booker T. Jones produced it. Bill Withers wrote it. The combination gave 'Grandma's Hands' a sound that felt like it had always existed — even on first listen.",
+            "sourceNotes": "PRIORITY VERIFY: Booker T. Jones produced Bill Withers's Just As I Am (1971), including 'Grandma's Hands.' Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rock Hall feature on 'Grandma's Hands'",
+                "url": "https://www.facebook.com/rockandrollhalloffame/videos/a-voice-that-sounds-like-its-lived-a-thousand-livesin-this-live-performanc",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "production",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R2-B1",
+          "episodeId": "EP039",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'The Ghetto' by Donny Hathaway appeared on which 1970 debut album?",
+          "choices": [
+            "Everything Is Everything",
+            "Extension of a Man",
+            "Live",
+            "Come Back Charleston Blue"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE DECADE IN FULL"
+          },
+          "metadata": {
+            "artist": "Donny Hathaway",
+            "song": "The Ghetto",
+            "album": "Everything Is Everything",
+            "year": 1970,
+            "topicTags": [
+              "Donny Hathaway",
+              "The Ghetto",
+              "Everything Is Everything",
+              "1970",
+              "ATCO Records",
+              "Atlantic",
+              "debut album"
+            ],
+            "fact": "Everything Is Everything (1970) was Donny Hathaway's debut studio album on ATCO Records — containing 'The Ghetto' and introducing one of early 70s soul's most extraordinary voices. The album's social consciousness and musical sophistication announced an artist operating at a level most debuts don't approach.",
+            "storyHook": "Everything Is Everything. The debut. 'The Ghetto' was on it. Donny Hathaway arrived already knowing what he wanted to say.",
+            "sourceNotes": "PRIORITY VERIFY: Donny Hathaway 'The Ghetto' from Everything Is Everything (1970), ATCO Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Ghetto (Donny Hathaway song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Ghetto_(Donny_Hathaway_song)",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Rediscover Donny Hathaway's Debut Album 'Everything Is Everything' – Albumism",
+                "url": "https://albumism.com/features/donny-hathaway-debut-album-everything-is-everything-album-anniversary",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP039-R2-RES1",
+          "episodeId": "EP039",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Little Ghetto Boy' by Donny Hathaway appears on which 1972 live album?",
+          "choices": [
+            "Live",
+            "Extension of a Man",
+            "The Best of Donny Hathaway",
+            "In Performance"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Donny Hathaway",
+            "song": "Little Ghetto Boy",
+            "album": "Live",
+            "year": 1972,
+            "topicTags": [
+              "Donny Hathaway",
+              "Little Ghetto Boy",
+              "Live",
+              "1972",
+              "ATCO Records",
+              "live album"
+            ],
+            "fact": "Donny Hathaway Live (1972) is widely regarded as one of the greatest live R&B albums ever recorded — capturing Hathaway's extraordinary gifts as a vocalist, pianist, and arranger at the Troubadour in Los Angeles and the Bitter End in New York. 'Little Ghetto Boy' is among its most powerful moments.",
+            "storyHook": "Live. 1972. One of the greatest live soul albums ever recorded. 'Little Ghetto Boy' was on it — and hearing it live made the point even more clearly than the studio version.",
+            "sourceNotes": "PRIORITY VERIFY: Donny Hathaway 'Little Ghetto Boy' from Live (1972), ATCO Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Little Ghetto Boy – Spotify track credits",
+                "url": "https://open.spotify.com/track/22AAitJKemmJmEztB4WOtd",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R2-RES2",
+          "episodeId": "EP039",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'People Make The World Go Round' by The Stylistics was released on which label?",
+          "choices": [
+            "Philadelphia International",
+            "Motown",
+            "Atlantic Records",
+            "Avco Records"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Stylistics",
+            "song": "People Make The World Go Round",
+            "album": "The Stylistics",
+            "year": 1972,
+            "topicTags": [
+              "The Stylistics",
+              "People Make The World Go Round",
+              "Avco Records",
+              "1972",
+              "Thom Bell",
+              "Philadelphia"
+            ],
+            "fact": "The Stylistics recorded for Avco Records — an independent label that gave Thom Bell the creative freedom to develop the lush, string-drenched Philadelphia sound that defined the group's peak period. 'People Make The World Go Round' appeared on their self-titled debut album.",
+            "storyHook": "Avco Records. Not a household name. But it was the label that gave Thom Bell the room to make The Stylistics sound the way they sounded.",
+            "sourceNotes": "PRIORITY VERIFY: The Stylistics on Avco Records, 'People Make The World Go Round' from their debut album (1972). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Stylistics – 'People Make The World Go Round' – YouTube",
+                "url": "https://www.youtube.com/watch?v=2owZXPyeilc",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R2-RES3",
+          "episodeId": "EP039",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Be Thankful For What You Got' by William DeVaughn reached which position on the Billboard Hot 100?",
+          "choices": [
+            "Number four",
+            "Number three",
+            "Number five",
+            "Number two"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "William DeVaughn",
+            "song": "Be Thankful For What You Got",
+            "album": "Be Thankful for What You Got",
+            "year": 1974,
+            "topicTags": [
+              "William DeVaughn",
+              "Be Thankful For What You Got",
+              "#1",
+              "Hot 100",
+              "1974",
+              "Roxbury Records",
+              "independent"
+            ],
+            "fact": "'Be Thankful For What You Got' reached number four on the Billboard Hot 100 — while hitting number one on the R&B chart simultaneously. Both achievements were remarkable for an independently released record, making DeVaughn's 1974 single one of the most commercially successful independent soul releases of the decade.",
+            "storyHook": "Number one. Independent label. A song about being grateful for what you have. William DeVaughn proved you didn't need a major label or a protest anthem to top the charts.",
+            "sourceNotes": "PRIORITY VERIFY: 'Be Thankful For What You Got' reached #1 on the Hot 100 (1974). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "William DeVaughn – 'Be Thankful For What You Got' chart recap",
+                "url": "https://www.facebook.com/groups/985478235347920/posts/1707769783118758/",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Birth names, birthplaces, and the personal facts behind the voices that bore witness.",
+      "color": "#FF6B6B",
+      "accentVar": "--coral",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP039-R3-Q1",
+          "episodeId": "EP039",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Bill Withers — who recorded 'Grandma's Hands' about his grandmother's life — was born in which tiny West Virginia mining town?",
+          "choices": [
+            "Beckley",
+            "Wheeling",
+            "Slab Fork",
+            "Morgantown"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bill Withers",
+            "song": "Grandma's Hands",
+            "album": "Just As I Am",
+            "year": 1971,
+            "topicTags": [
+              "Bill Withers",
+              "Slab Fork",
+              "West Virginia",
+              "birthplace",
+              "biography",
+              "coal mining"
+            ],
+            "fact": "Bill Withers was born on July 4, 1938, in Slab Fork, West Virginia — a small coal mining community. He worked as an aircraft parts installer for the Navy before his music career began, and the working-class roots he carried from Slab Fork shaped every record he made.",
+            "storyHook": "Slab Fork, West Virginia. A coal mining town. The place that made Bill Withers who he was — and 'Grandma's Hands' was his way of putting it on record.",
+            "sourceNotes": "PRIORITY VERIFY: Bill Withers born Slab Fork, West Virginia. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bill Withers – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bill_Withers",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R3-Q2",
+          "episodeId": "EP039",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Stevie Wonder — who recorded 'Living For The City' — was born under which full legal name?",
+          "choices": [
+            "Stevland Hardaway Morris",
+            "Stevland James Judkins",
+            "Stephen Wonder Morris",
+            "Stevland Lee Morris"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Stevie Wonder",
+            "song": "Living For The City",
+            "album": "Innervisions",
+            "year": 1973,
+            "topicTags": [
+              "Stevie Wonder",
+              "Stevland Hardaway Morris",
+              "birth name",
+              "biography",
+              "Saginaw",
+              "Michigan"
+            ],
+            "fact": "Stevie Wonder was born Stevland Hardaway Morris on May 13, 1950, in Saginaw, Michigan. He was signed to Motown's Tamla imprint as a child and performed as 'Little Stevie Wonder' before transitioning to his adult creative peak in the early 1970s.",
+            "storyHook": "Stevland Hardaway Morris. Born blind in Saginaw, Michigan. Signed to Motown as a child. By 1973 he was making Innervisions — and nobody was calling him Little Stevie Wonder anymore.",
+            "sourceNotes": "PRIORITY VERIFY: Stevie Wonder born Stevland Hardaway Morris, Saginaw, Michigan. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Stevie Wonder – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Stevie_Wonder",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R3-B1",
+          "episodeId": "EP039",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Jim Weatherly's original 'Midnight Plane to Houston' was released on which label before Gladys Knight transformed it?",
+          "choices": [
+            "Columbia Records",
+            "Reprise Records",
+            "RCA Records",
+            "Amos Records"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "7",
+            "bonusHint": "DIGIT 3 OF 3 — THE ERA AT ITS HEIGHT"
+          },
+          "metadata": {
+            "artist": "Jim Weatherly",
+            "song": "Midnight Plane to Houston",
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Jim Weatherly",
+              "Midnight Plane to Houston",
+              "Midnight Train to Georgia",
+              "Amos Records",
+              "original version",
+              "title change"
+            ],
+            "fact": "Jim Weatherly originally released 'Midnight Plane to Houston' on Amos Records — before Gladys Knight heard it and asked him to change the title. The Amos Records version is the source material; everything that followed — including Cissy Houston's cover and Gladys Knight's legendary recording — traces back to that original.",
+            "storyHook": "Amos Records. 'Midnight Plane to Houston.' That's where it started. By the time Gladys Knight was done with it, nobody remembered the label or the original title.",
+            "sourceNotes": "PRIORITY VERIFY: Jim Weatherly 'Midnight Plane to Houston' released on Amos Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Midnight Train to Georgia – early version discussion – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Midnight_Train_to_Georgia",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP039-R3-RES1",
+          "episodeId": "EP039",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Harold Melvin & The Blue Notes — who recorded 'Wake Up Everybody' — released it on which Philadelphia soul label?",
+          "choices": [
+            "Philadelphia International",
+            "Buddah Records",
+            "Atlantic Records",
+            "Stax Records"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Harold Melvin & The Blue Notes",
+            "song": "Wake Up Everybody",
+            "album": "Wake Up Everybody",
+            "year": 1975,
+            "topicTags": [
+              "Harold Melvin & The Blue Notes",
+              "Wake Up Everybody",
+              "Philadelphia International",
+              "1975",
+              "Kenny Gamble",
+              "Leon Huff"
+            ],
+            "fact": "Harold Melvin & The Blue Notes recorded for Philadelphia International Records — the label founded by Kenny Gamble and Leon Huff that became the dominant force in early 70s soul. 'Wake Up Everybody' was released on PIR in 1975 and featured Teddy Pendergrass's commanding lead vocal.",
+            "storyHook": "Philadelphia International. Gamble and Huff's label. The sound of early 70s soul. Harold Melvin & The Blue Notes and Teddy Pendergrass made 'Wake Up Everybody' in exactly the right place at exactly the right time.",
+            "sourceNotes": "PRIORITY VERIFY: Harold Melvin & The Blue Notes 'Wake Up Everybody' on Philadelphia International Records (1975). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wake Up Everybody – Harold Melvin & the Blue Notes song – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Wake_Up_Everybody_(Harold_Melvin_%26_the_Blue_Notes_song)",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Wake Up Everybody (Official Soul Train Video) – PIR channel",
+                "url": "https://www.youtube.com/watch?v=axmBtBOlbVU",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP039-R3-RES2",
+          "episodeId": "EP039",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "William DeVaughn — who recorded 'Be Thankful For What You Got' — was from which US state?",
+          "choices": [
+            "Maryland",
+            "North Carolina",
+            "Georgia",
+            "Virginia"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "William DeVaughn",
+            "song": "Be Thankful For What You Got",
+            "album": "Be Thankful for What You Got",
+            "year": 1974,
+            "topicTags": [
+              "William DeVaughn",
+              "Maryland",
+              "Washington D.C.",
+              "biography",
+              "birthplace",
+              "Roxbury Records"
+            ],
+            "fact": "William DeVaughn was from the Washington D.C. metropolitan area — specifically from the Maryland suburbs. His local roots made his independent success on Roxbury Records all the more remarkable: a regional artist from the mid-Atlantic scoring a number-one record without the infrastructure of a major label.",
+            "storyHook": "Maryland. The D.C. suburbs. Not a city associated with soul music's commercial peaks. But that's where William DeVaughn came from — and 'Be Thankful For What You Got' went to number one anyway.",
+            "sourceNotes": "PRIORITY VERIFY: William DeVaughn from Maryland (Washington D.C. area). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "William DeVaughn – biographical note – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/William_DeVaughn",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-25",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-25T16:28:50.236272+00:00"
+  }
+}

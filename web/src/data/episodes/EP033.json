@@ -1,0 +1,1591 @@
+{
+  "episodeId": "EP033",
+  "title": "The Hook Masters",
+  "theme": "The R&B vocalists whose hooks made rap records sell — and the Murder Inc. era, Bow Wow collaborations, and Ne-Yo songwriting credits that proved the featuring credit was often the whole commercial engine.",
+  "narrativePurpose": "Test knowledge of the R&B artists who anchored hip-hop's biggest crossover records of the early 2000s — the collaborations, the labels, the chart facts, and the birth names behind the hooks.",
+  "toneProgression": "Identify the R&B vocalist behind the rap collaboration → label mechanics, production credits, and chart history → birth names, hometowns, and the people beneath the credits",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "2"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 2-0-0-2 — the year the hook master formula reached its commercial peak: 'Dilemma' spent ten weeks at #1, 'Always On Time' claimed the top spot, and Ashanti became the first solo artist to debut with multiple songs in the Hot 100's top five simultaneously. The R&B vocalist as rap's commercial engine was never more dominant than 2002."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "Identify the R&B vocalist — or the record — behind the collaboration.",
+      "color": "#FFD700",
+      "accentVar": "--gold",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP033-R1-Q1",
+          "episodeId": "EP033",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Which member of Destiny's Child provided the hook on Nelly's 2002 chart-topper 'Dilemma'?",
+          "choices": [
+            "Beyoncé",
+            "Kelly Rowland",
+            "Michelle Williams",
+            "Ashanti"
+          ],
+          "correctIndex": 1,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Nelly",
+            "song": "Dilemma",
+            "album": "Nellyville",
+            "year": 2002,
+            "topicTags": [
+              "Nelly",
+              "Kelly Rowland",
+              "Dilemma",
+              "Destiny's Child",
+              "2002",
+              "hook"
+            ],
+            "fact": "'Dilemma' featured Kelly Rowland — then still an active member of Destiny's Child — on hook duties. The song spent ten consecutive weeks at #1 on the Hot 100 in 2002, making it one of the longest-running #1s of the decade and the defining moment of Rowland's solo crossover into rap collaboration.",
+            "storyHook": "She was still in Destiny's Child. She was also on one of the year's biggest rap records. Kelly Rowland was everywhere in 2002.",
+            "sourceNotes": "PRIORITY VERIFY: Nelly 'Dilemma' featuring Kelly Rowland, Nellyville (2002). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dilemma (Nelly song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dilemma_(Nelly_song)",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "The Number Ones: Nelly's Dilemma (Feat. Kelly Rowland) – Stereogum",
+                "url": "https://stereogum.com/2202919/the-number-ones-nellys-dilemma-feat-kelly-rowland/columns/the-number-ones",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "feature",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R1-Q2",
+          "episodeId": "EP033",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "'Always On Time' made Ja Rule and which Murder Inc. R&B signee a defining duo of 2001?",
+          "choices": [
+            "Vita",
+            "Charli Baltimore",
+            "Ashanti",
+            "Tweet"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ja Rule",
+            "song": "Always On Time",
+            "album": "Pain Is Love",
+            "year": 2001,
+            "topicTags": [
+              "Ja Rule",
+              "Ashanti",
+              "Always On Time",
+              "Murder Inc.",
+              "2001",
+              "hook"
+            ],
+            "fact": "'Always On Time' reached #1 on the Hot 100 in February 2002 and spent two weeks at the top. It was the first of several Ja Rule and Ashanti collaborations that made Murder Inc. the defining label sound of 2001-2002.",
+            "storyHook": "Ja Rule and Ashanti. The combination was so consistent it stopped feeling like a feature and started feeling like a duo.",
+            "sourceNotes": "PRIORITY VERIFY: Ja Rule 'Always On Time' ft. Ashanti from Pain Is Love (2001). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Always on Time – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Always_on_Time",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Always on Time spent two weeks atop the US Billboard Hot 100 – Instagram recap",
+                "url": "https://www.instagram.com/p/DU2ap35jEDw/",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "feature",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R1-Q3",
+          "episodeId": "EP033",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Busta Rhymes' 2003 single 'I Know What You Want' featured Mariah Carey alongside which rap collective?",
+          "choices": [
+            "Flipmode Squad",
+            "Wu-Tang Clan",
+            "G-Unit",
+            "Roc-A-Fella"
+          ],
+          "correctIndex": 0,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Busta Rhymes",
+            "song": "I Know What You Want",
+            "album": "It Ain't Safe No More...",
+            "year": 2003,
+            "topicTags": [
+              "Busta Rhymes",
+              "Mariah Carey",
+              "Flipmode Squad",
+              "I Know What You Want",
+              "2003",
+              "hook"
+            ],
+            "fact": "'I Know What You Want' featured Mariah Carey alongside Busta Rhymes and his Flipmode Squad — a collision of R&B glamour and rap crew energy that became one of the more visually memorable collabs of the era.",
+            "storyHook": "Mariah Carey. The Flipmode Squad. It shouldn't have worked. It absolutely did.",
+            "sourceNotes": "PRIORITY VERIFY: Busta Rhymes 'I Know What You Want' ft. Mariah Carey and Flipmode Squad from It Ain't Safe No More... (2002). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Busta Rhymes, Mariah Carey - I Know What You Want (Official Video)",
+                "url": "https://www.youtube.com/watch?v=WDaNJW_jEBo",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "I Know What You Want – single credits",
+                "url": "https://www.allmusic.com/song/i-know-what-you-want-mt0005399579",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R1-Q4",
+          "episodeId": "EP033",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Eve's 2002 single 'Gangsta Lovin'' — powered by Alicia Keys' hook — appeared on which Eve album?",
+          "choices": [
+            "Eve-olution",
+            "Scorpion",
+            "First Lady",
+            "Let There Be Eve"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Eve",
+            "song": "Gangsta Lovin'",
+            "album": "Eve-olution",
+            "year": 2002,
+            "topicTags": [
+              "Eve",
+              "Alicia Keys",
+              "Gangsta Lovin'",
+              "Eve-olution",
+              "2002",
+              "hook"
+            ],
+            "fact": "'Gangsta Lovin'' appeared on Eve's third album Eve-olution (2002), with Alicia Keys providing the hook just one year after breaking through with 'Songs in A Minor.' Keys' melodic presence gave the track a polish that turned a rap-album cut into a mainstream radio record.",
+            "storyHook": "Eve had the track. Alicia Keys had the hook. Eve-olution had the crossover moment.",
+            "sourceNotes": "PRIORITY VERIFY: Eve 'Gangsta Lovin'' ft. Alicia Keys from Eve-olution (2002). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Gangsta Lovin' – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Gangsta_Lovin%27",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R1-Q5",
+          "episodeId": "EP033",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Ne-Yo's hook powered 'Leave You Alone' for which Atlanta rapper's 2008 album 'The Recession'?",
+          "choices": [
+            "Gucci Mane",
+            "Ludacris",
+            "Young Jeezy",
+            "T.I."
+          ],
+          "correctIndex": 2,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Young Jeezy",
+            "song": "Leave You Alone",
+            "album": "The Recession",
+            "year": 2008,
+            "topicTags": [
+              "Young Jeezy",
+              "Ne-Yo",
+              "Leave You Alone",
+              "The Recession",
+              "2008",
+              "hook"
+            ],
+            "fact": "'Leave You Alone' appeared on Young Jeezy's 2008 album The Recession — Ne-Yo's hook bringing melodic warmth to Jeezy's street-level delivery in a combination that demonstrated how far the hook-master formula had extended into trap's commercial ambitions.",
+            "storyHook": "Young Jeezy made hard records. Ne-Yo made smooth ones. The Recession found room for both.",
+            "sourceNotes": "PRIORITY VERIFY: Young Jeezy 'Leave You Alone' ft. Ne-Yo from The Recession (2008). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Leave You Alone – Spotify credits",
+                "url": "https://open.spotify.com/track/5GOqOUVv7vk0jWDdNToHtA",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Jeezy – The Recession – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Recession",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R1-Q6",
+          "episodeId": "EP033",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Bow Wow's 2005 hit 'Like You' enlisted which R&B artist — fresh off her debut album 'Goodies' — on hook duties?",
+          "choices": [
+            "Mýa",
+            "Ashanti",
+            "Ciara",
+            "Amerie"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bow Wow",
+            "song": "Like You",
+            "album": "Wanted",
+            "year": 2005,
+            "topicTags": [
+              "Bow Wow",
+              "Ciara",
+              "Like You",
+              "Wanted",
+              "2005",
+              "hook"
+            ],
+            "fact": "'Like You' featured Ciara — who had broken through just the previous year with 'Goodies' — on a track that demonstrated how quickly young R&B artists were being enlisted to elevate rap records in the mid-2000s.",
+            "storyHook": "Ciara had been a star for less than a year. Bow Wow already knew she was the right voice for the hook.",
+            "sourceNotes": "PRIORITY VERIFY: Bow Wow 'Like You' ft. Ciara from Wanted (2005). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Like You (Bow Wow song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Like_You_(Bow_Wow_song)",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R1-B1",
+          "episodeId": "EP033",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Ashanti's self-titled debut album launched her Murder Inc. era — but what was her breakthrough debut single called?",
+          "choices": [
+            "Foolish",
+            "Always On Time",
+            "Happy",
+            "Baby"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "2",
+            "bonusHint": "DIGIT 1 OF 3 — ASHANTI'S DEBUT SINGLE"
+          },
+          "metadata": {
+            "artist": "Ashanti",
+            "song": "Foolish",
+            "album": "Ashanti",
+            "year": 2002,
+            "topicTags": [
+              "Ashanti",
+              "Foolish",
+              "debut single",
+              "Murder Inc.",
+              "2002"
+            ],
+            "fact": "'Foolish' was Ashanti's debut solo single from her self-titled 2002 album. It sampled Biggie's 'One More Chance' and reached #1 on the Billboard Hot 100, where it spent ten weeks — establishing Ashanti as the dominant female voice on Murder Inc. before the ink had dried.",
+            "storyHook": "Before 'Always On Time' was a duet, Ashanti was a solo act. 'Foolish' was her introduction.",
+            "sourceNotes": "PRIORITY VERIFY: Ashanti 'Foolish' debut single, self-titled album (2002), sample of Biggie's 'One More Chance'. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ashanti (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ashanti_(album)",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Ashanti – Foolish (Official Video)",
+                "url": "https://www.youtube.com/watch?v=V1D5lTxRwtQ",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP033-R1-RES1",
+          "episodeId": "EP033",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Ja Rule's 2001 slow jam 'Put It On Me' featured the hook of which R&B vocalist alongside Vita?",
+          "choices": [
+            "Ashanti",
+            "Tweet",
+            "Amerie",
+            "Lil' Mo"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ja Rule",
+            "song": "Put It On Me",
+            "album": "Pain Is Love",
+            "year": 2001,
+            "topicTags": [
+              "Ja Rule",
+              "Lil' Mo",
+              "Put It On Me",
+              "Vita",
+              "Murder Inc.",
+              "2001"
+            ],
+            "fact": "'Put It On Me' featured Lil' Mo and Vita on hook and verse duties respectively, becoming one of Ja Rule's signature slow jams and earning a Grammy nomination for Best Rap Performance by a Duo or Group at the 44th Annual Grammy Awards.",
+            "storyHook": "Ja Rule made a slow jam. Lil' Mo made it stick. Vita made it work. Three parts of one Murder Inc. moment.",
+            "sourceNotes": "PRIORITY VERIFY: Ja Rule 'Put It On Me' ft. Lil' Mo and Vita. Grammy nomination confirmed — Best Rap Performance by a Duo or Group at 44th Grammys. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ja Rule - Put It On Me (Official Music Video) ft. Vita, Lil' Mo",
+                "url": "https://www.youtube.com/watch?v=V1D5lTxRwtQ",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Put It On Me – single listing",
+                "url": "https://en.wikipedia.org/wiki/Put_It_on_Me_(Ja_Rule_song)",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R1-RES2",
+          "episodeId": "EP033",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Bow Wow's 2005 album — home to both 'Like You' featuring Ciara and 'Let Me Hold You' featuring Omarion — was titled what?",
+          "choices": [
+            "Doggy Bag",
+            "Wanted",
+            "Unleashed",
+            "The Price of Fame"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bow Wow",
+            "song": null,
+            "album": "Wanted",
+            "year": 2005,
+            "topicTags": [
+              "Bow Wow",
+              "Wanted",
+              "2005",
+              "Ciara",
+              "Omarion",
+              "album"
+            ],
+            "fact": "Wanted (2005) housed both of Bow Wow's major R&B collaborations of the era — 'Like You' with Ciara and 'Let Me Hold You' with Omarion. The album demonstrated a deliberate strategy: pair a young rap act with the hottest R&B names of the moment.",
+            "storyHook": "Ciara on one track. Omarion on the next. Bow Wow's Wanted was a hook-master showcase dressed as an album.",
+            "sourceNotes": "PRIORITY VERIFY: Bow Wow Wanted (2005) containing both 'Like You' ft. Ciara and 'Let Me Hold You' ft. Omarion. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Wanted (Bow Wow album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Wanted_(Bow_Wow_album)",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R1-RES3",
+          "episodeId": "EP033",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Tyrese appeared on Chingy's 'Pullin' Me Back' — a single from which 2006 Chingy album?",
+          "choices": [
+            "Hoodstar",
+            "Powerballin'",
+            "Floatin'",
+            "Jackpot"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Chingy",
+            "song": "Pullin' Me Back",
+            "album": "Hoodstar",
+            "year": 2006,
+            "topicTags": [
+              "Chingy",
+              "Tyrese",
+              "Pullin' Me Back",
+              "Hoodstar",
+              "2006"
+            ],
+            "fact": "'Pullin' Me Back' appeared on Chingy's 2006 album Hoodstar, with Tyrese handling the R&B hook. The track was a late entry in the Chingy commercial window — his earlier 'Right Thurr' era had peaked — but Tyrese's contribution gave it crossover weight.",
+            "storyHook": "Chingy needed a hook. Tyrese needed a record. Hoodstar had room for both.",
+            "sourceNotes": "PRIORITY VERIFY: Chingy 'Pullin' Me Back' ft. Tyrese from Hoodstar (2006). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Chingy Featuring Tyrese - Pullin' Me Back (Official Video)",
+                "url": "https://www.youtube.com/watch?v=Ow8653IgT_Q",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Hoodstar – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Hoodstar",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R1-RES4",
+          "episodeId": "EP033",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Olivia — whose hook anchored 50 Cent's 'Best Friend' — was signed to which label imprint?",
+          "choices": [
+            "Shady Records",
+            "Roc-A-Fella",
+            "D-Block",
+            "G-Unit Records"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "50 Cent",
+            "song": "Best Friend",
+            "album": "The Massacre",
+            "year": 2005,
+            "topicTags": [
+              "50 Cent",
+              "Olivia",
+              "Best Friend",
+              "G-Unit Records",
+              "The Massacre",
+              "2005"
+            ],
+            "fact": "Olivia was signed to G-Unit Records — 50 Cent's label imprint — making her collaboration on 'Best Friend' an in-house arrangement rather than an outside feature. She was G-Unit's primary R&B signee during the label's commercial peak.",
+            "storyHook": "She wasn't just a feature. She was on the label. G-Unit had its own hook master in Olivia.",
+            "sourceNotes": "PRIORITY VERIFY: Olivia signed to G-Unit Records. 50 Cent 'Best Friend' ft. Olivia from The Massacre (2005). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Best Friend (50 Cent song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Best_Friend_(50_Cent_song)",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Best Friend (Remix) – 50 Cent & Olivia Longott – Apple Music",
+                "url": "https://music.apple.com/us/album/best-friend-remix-single/1445129602",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Label mechanics. Production credits. The infrastructure behind the hook.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP033-R2-Q1",
+          "episodeId": "EP033",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Murder Inc. Records — the label behind Ja Rule and Ashanti — was founded by which producer-executive?",
+          "choices": [
+            "Dame Dash",
+            "Steve Stoute",
+            "Russell Simmons",
+            "Irv Gotti"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Murder Inc.",
+              "Irv Gotti",
+              "Ja Rule",
+              "Ashanti",
+              "label",
+              "founder"
+            ],
+            "fact": "Murder Inc. Records was founded by Irv Gotti — born Irving Lorenzo — who built the label around Ja Rule's melodic rap style and Ashanti's R&B vocals. The combination made Murder Inc. the dominant urban radio sound of 2001-2002 before federal racketeering investigations threatened to dismantle it.",
+            "storyHook": "Irv Gotti didn't just sign the artists. He engineered the sound. Murder Inc. was a product of his vision.",
+            "sourceNotes": "PRIORITY VERIFY: Murder Inc. Records founded by Irv Gotti (Irving Lorenzo). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Murder, Inc. – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Murder,_Inc.",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Hip-hop has lost a true pioneer. Irving Domingo Lorenzo Jr. – Essence post",
+                "url": "https://www.facebook.com/essence/posts/hip-hop-has-lost-a-true-pioneer-irving-domingo-lorenzo-jr-better-known-as-irv-go",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R2-Q2",
+          "episodeId": "EP033",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "'Always On Time' reached #1 on the Hot 100 in early 2002 — but for how many weeks did it hold the top spot?",
+          "choices": [
+            "7 weeks",
+            "9 weeks",
+            "5 weeks",
+            "2 weeks"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ja Rule",
+            "song": "Always On Time",
+            "album": "Pain Is Love",
+            "year": 2002,
+            "topicTags": [
+              "Ja Rule",
+              "Ashanti",
+              "Always On Time",
+              "Hot 100",
+              "chart",
+              "2002",
+              "#1"
+            ],
+            "fact": "'Always On Time' spent two weeks at #1 on the Billboard Hot 100 in February and March 2002 — a shorter run than the song's cultural footprint might suggest, but enough to cement Ja Rule and Ashanti as the defining collaboration of that chart moment.",
+            "storyHook": "Two weeks at #1. It felt like much longer. The record lived in the culture long after it left the top spot.",
+            "sourceNotes": "Verified: 'Always On Time' spent 2 weeks at #1 on Hot 100 in Feb-March 2002. Sources: Wikipedia https://en.wikipedia.org/wiki/Always_on_Time, Instagram https://www.instagram.com/p/DU2ap35jEDw/, Ultimate Pop Culture Wiki https://ultimatepopculture.fandom.com/wiki/Always_on_Time",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Always on Time – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Always_on_Time",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Always on Time spent two weeks atop the US Billboard Hot 100 – Instagram",
+                "url": "https://www.instagram.com/p/DU2ap35jEDw/",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R2-Q3",
+          "episodeId": "EP033",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Ne-Yo co-wrote Beyoncé's 2006 anthem 'Irreplaceable' — which appeared on which Beyoncé album?",
+          "choices": [
+            "4",
+            "Dangerously in Love",
+            "Lemonade",
+            "B'Day"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Beyoncé",
+            "song": "Irreplaceable",
+            "album": "B'Day",
+            "year": 2006,
+            "topicTags": [
+              "Ne-Yo",
+              "Beyoncé",
+              "Irreplaceable",
+              "B'Day",
+              "songwriter",
+              "2006"
+            ],
+            "fact": "Ne-Yo co-wrote 'Irreplaceable' for Beyoncé's 2006 album B'Day — one of the most commercially successful pop-R&B songwriting credits of the decade. The track reached #1 on the Hot 100 and demonstrated that Ne-Yo's value extended well beyond his own recording career.",
+            "storyHook": "Ne-Yo sang hooks on rap records. He also wrote #1 singles for Beyoncé. The hook master worked in every direction.",
+            "sourceNotes": "PRIORITY VERIFY: Ne-Yo co-wrote 'Irreplaceable' for Beyoncé's B'Day (2006). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Irreplaceable – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Irreplaceable",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "B'Day – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/B%27Day",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "songwriter",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R2-Q4",
+          "episodeId": "EP033",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Irv Gotti — the architect of Murder Inc. and the man behind Ja Rule and Ashanti — was born under which name?",
+          "choices": [
+            "Irving Lorenzo",
+            "Irvin Hughes",
+            "Irving Freeman",
+            "Irving Lewis"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Irv Gotti",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Irv Gotti",
+              "Irving Lorenzo",
+              "Murder Inc.",
+              "birth name",
+              "label executive"
+            ],
+            "fact": "Irv Gotti's birth name is Irving Lorenzo. He adopted the stage name as a label executive — a nod to the gangster aesthetic that ran through Murder Inc.'s image and the Ja Rule records he produced.",
+            "storyHook": "Irving Lorenzo became Irv Gotti. The name matched the label. The label matched the sound.",
+            "sourceNotes": "PRIORITY VERIFY: Irv Gotti birth name Irving Lorenzo. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Irv Gotti – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Irv_Gotti",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Hip-hop has lost a true pioneer. Irving Domingo Lorenzo Jr. – Essence",
+                "url": "https://www.facebook.com/essence/posts/hip-hop-has-lost-a-true-pioneer-irving-domingo-lorenzo-jr-better-known-as-irv-go",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R2-Q5",
+          "episodeId": "EP033",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Kelly Rowland's 2002 solo debut album — released while she was still an active Destiny's Child member — was titled what?",
+          "choices": [
+            "Lovehate",
+            "Kelly",
+            "Ms. Kelly",
+            "Simply Deep"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Kelly Rowland",
+            "song": null,
+            "album": "Simply Deep",
+            "year": 2002,
+            "topicTags": [
+              "Kelly Rowland",
+              "Simply Deep",
+              "debut album",
+              "2002",
+              "Destiny's Child"
+            ],
+            "fact": "Kelly Rowland released Simply Deep in October 2002 — the same year she appeared on Nelly's 'Dilemma.' The album performed better in the UK than in the US, going to #1 on the UK albums chart and establishing Rowland's solo identity outside of Destiny's Child.",
+            "storyHook": "She was on a #1 rap record and releasing her debut solo album in the same year. Kelly Rowland was doing both at once.",
+            "sourceNotes": "PRIORITY VERIFY: Kelly Rowland Simply Deep debut album (2002), #1 in UK. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Simply Deep – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Simply_Deep",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R2-B1",
+          "episodeId": "EP033",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "'Always On Time' — Ja Rule's 2002 chart-topping single with Ashanti — appeared on which studio album?",
+          "choices": [
+            "Blood in My Eyes",
+            "Pain Is Love",
+            "Rule 3:36",
+            "Venni Vetti Vecci"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 2 OF 3 — JA RULE'S ASHANTI-ERA ALBUM"
+          },
+          "metadata": {
+            "artist": "Ja Rule",
+            "song": null,
+            "album": "Pain Is Love",
+            "year": 2001,
+            "topicTags": [
+              "Ja Rule",
+              "Pain Is Love",
+              "Always On Time",
+              "Put It On Me",
+              "album",
+              "2001"
+            ],
+            "fact": "Pain Is Love (2001) was the album that defined Ja Rule's commercial peak — containing both 'Always On Time' with Ashanti and 'Put It On Me' with Lil' Mo and Vita. It sold over four million copies in the US and cemented the Murder Inc. formula.",
+            "storyHook": "Two of the era's defining R&B-rap collaborations on one album. Pain Is Love was the hook master's blueprint.",
+            "sourceNotes": "PRIORITY VERIFY: Pain Is Love (2001) containing both 'Always On Time' and 'Put It On Me'. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Pain Is Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Pain_Is_Love",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Ja Rule released his album Pain Is Love on this date – post",
+                "url": "https://www.facebook.com/HipHopIsEternal777/posts/ja-rule-released-his-album-pain-is-love-on-this-date-in-2001-what-are-your-fav",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP033-R2-RES1",
+          "episodeId": "EP033",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Murder Inc. Records and its founders were federally indicted on money-laundering charges in which year?",
+          "choices": [
+            "2007",
+            "2003",
+            "2005",
+            "2001"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": null,
+            "song": null,
+            "album": null,
+            "year": 2003,
+            "topicTags": [
+              "Murder Inc.",
+              "federal trial",
+              "racketeering",
+              "Irv Gotti",
+              "2003"
+            ],
+            "fact": "Murder Inc. Records was raided by federal agents in January 2003 and Irv Gotti and his brother Chris Gotti subsequently faced federal racketeering charges alleging ties to drug trafficking. The trial began in 2005 and both were acquitted — but the investigation effectively ended Murder Inc.'s commercial momentum.",
+            "storyHook": "The label that defined 2001-2002 was under federal investigation by 2003. The hook masters were still making records. The government was watching.",
+            "sourceNotes": "PRIORITY VERIFY: Murder Inc. federal raid January 2003, racketeering trial details. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Murder, Inc. – Wikipedia (legal issues section)",
+                "url": "https://en.wikipedia.org/wiki/Murder,_Inc.",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Chris Gotti reflects on co-founding Murder Inc. – Breakfast Club clip",
+                "url": "https://www.facebook.com/teamyee/posts/-chris-gotti-reflects-on-the-co-founding-murder-inc-it-was-founded-because-irv-w/13773143",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R2-RES2",
+          "episodeId": "EP033",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Nelly's 'Dilemma' featuring Kelly Rowland won which Grammy Award at the 45th ceremony in 2003?",
+          "choices": [
+            "Record of the Year",
+            "Best R&B Song",
+            "Best R&B Performance by a Duo or Group",
+            "Best Rap/Sung Performance"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Nelly",
+            "song": "Dilemma",
+            "album": "Nellyville",
+            "year": 2002,
+            "topicTags": [
+              "Nelly",
+              "Kelly Rowland",
+              "Dilemma",
+              "Grammy",
+              "Best Rap/Sung Performance",
+              "45th Grammy Awards",
+              "2003"
+            ],
+            "fact": "'Dilemma' won Best Rap/Sung Performance at the 45th Annual Grammy Awards in 2003. The category — which recognises rap-R&B collaboration — was a natural home for a record built entirely around the interplay between a rapper and an R&B vocalist.",
+            "storyHook": "The hook master category. 'Dilemma' won the Grammy that was built for records like it.",
+            "sourceNotes": "Verified: 'Dilemma' won Best Rap/Sung Performance at 45th Grammys (2003). Sources: Wikipedia https://en.wikipedia.org/wiki/Dilemma_(Nelly_song), The Boombox https://theboombox.com/nelly-dilemma-kelly-rowland-throwback-video/, blog post https://dmldyd99.home.blog/2018/12/13/best-rap-sung-performance-in-45th-grammy-nelly-dilemma-ft-kelly-rowland/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dilemma (Nelly song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dilemma_(Nelly_song)",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Best Rap/Sung Performance at 45th Grammy – blog post",
+                "url": "https://dmldyd99.home.blog/2018/12/13/best-rap-sung-performance-in-45th-grammy-nelly-dilemma-ft-kelly-rowland/",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "award",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R2-RES3",
+          "episodeId": "EP033",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Lil' Mo — whose hook anchored Ja Rule's 'Put It On Me' — was born under which name?",
+          "choices": [
+            "Cynthia Karen Loving",
+            "Aiyana Frazier",
+            "Karen Michelle Moore",
+            "Monique Lewis"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Lil' Mo",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Lil' Mo",
+              "Cynthia Karen Loving",
+              "birth name",
+              "Put It On Me",
+              "Ja Rule"
+            ],
+            "fact": "Lil' Mo was born Cynthia Karen Loving on November 19, 1978, in Long Island, New York. She came up as a protégé of Missy Elliott before establishing herself as one of the era's most in-demand R&B hook vocalists — appearing on records by Ja Rule, Keith Sweat, and others.",
+            "storyHook": "Cynthia Loving. Lil' Mo. Two names. One voice that showed up on some of the era's most important rap-R&B crossovers.",
+            "sourceNotes": "Verified: Lil' Mo birth name Cynthia Karen Loving. Sources: Wikipedia https://en.wikipedia.org/wiki/Lil%27_Mo, BET https://www.bet.com/photo-gallery/qtor0f/15-things-you-didn-t-know-about-lil-mo/9m0mfd, WBSS Media https://wbssmedia.com/artists/detail/2901, Spotify https://open.spotify.com/artist/5wBDD4FNJvob5fAGkAIQ92",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lil' Mo – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lil%27_Mo",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Cynthia 'Lil Mo' Loving – WBSS Media",
+                "url": "https://wbssmedia.com/artists/detail/2901",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Birth names. Hometowns. The people beneath the credits.",
+      "color": "#FF6B6B",
+      "accentVar": "--coral",
+      "defaultTimer": 20,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP033-R3-Q1",
+          "episodeId": "EP033",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Ne-Yo — the hook master behind 'Leave You Alone' and co-writer of 'Irreplaceable' — was born under which name?",
+          "choices": [
+            "Nathaniel Keith Moore",
+            "Nathan Oliver Young",
+            "Sherman Levert",
+            "Shaffer Chimere Smith"
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ne-Yo",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Ne-Yo",
+              "Shaffer Chimere Smith",
+              "birth name",
+              "biography"
+            ],
+            "fact": "Ne-Yo was born Shaffer Chimere Smith on October 18, 1982, in Camden, Arkansas, and raised in Las Vegas, Nevada. He adopted the stage name Ne-Yo — a reference to The Matrix character Neo — because a producer once told him he saw music in the way Neo saw the Matrix.",
+            "storyHook": "Shaffer Chimere Smith. He went by Ne-Yo. Both names made him one of the most valuable writers and vocalists the 2000s produced.",
+            "sourceNotes": "PRIORITY VERIFY: Ne-Yo birth name Shaffer Chimere Smith. Born Camden, Arkansas. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ne-Yo – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ne-Yo",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R3-Q2",
+          "episodeId": "EP033",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Ashanti — born Ashanti Shequoiya Douglas — grew up in which New York suburb on Long Island?",
+          "choices": [
+            "Freeport",
+            "Hempstead",
+            "Glen Cove",
+            "Garden City"
+          ],
+          "correctIndex": 2,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ashanti",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Ashanti",
+              "Glen Cove",
+              "Long Island",
+              "hometown",
+              "biography"
+            ],
+            "fact": "Ashanti Shequoiya Douglas grew up in Glen Cove, a small city on the north shore of Long Island, New York. She attended Glen Cove High School before moving to pursue her music career — which eventually led her to Murder Inc. and one of the defining hook partnerships of the early 2000s.",
+            "storyHook": "Glen Cove to Murder Inc. The distance between where Ashanti started and where she ended up was measured in records, not miles.",
+            "sourceNotes": "Verified: Ashanti born Ashanti Shequoiya Douglas, raised in Glen Cove, NY. Sources: National Today https://nationaltoday.com/birthday/ashanti/, Patch https://patch.com/new-york/glencove/ashanti-returns-glen-cove-high-school, Stereogum https://stereogum.com/2201858/the-number-ones-ja-rules-always-on-time-feat-ashanti/columns/the-number-ones",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ashanti (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ashanti_(singer)",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Ashanti Birthday – National Today",
+                "url": "https://nationaltoday.com/birthday/ashanti/",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Ashanti Returns to Glen Cove High School – Patch",
+                "url": "https://patch.com/new-york/glencove/ashanti-returns-glen-cove-high-school",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R3-B1",
+          "episodeId": "EP033",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Young Jeezy — who enlisted Ne-Yo's hook on 'Leave You Alone' — was born under which name?",
+          "choices": [
+            "Jay Wayne Jenkins",
+            "Jason Earl Jenkins",
+            "Jerrell Wayne Jackson",
+            "Jerome Jenkins"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 3 OF 3 — YOUNG JEEZY'S BIRTH NAME"
+          },
+          "metadata": {
+            "artist": "Young Jeezy",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Young Jeezy",
+              "Jay Wayne Jenkins",
+              "birth name",
+              "biography",
+              "Atlanta"
+            ],
+            "fact": "Young Jeezy was born Jay Wayne Jenkins on September 28, 1977, in Columbia, South Carolina, and raised in Atlanta. He built his career on the Atlanta trap sound before enlisting Ne-Yo — a very different artist — for the melodic hook on 'Leave You Alone.'",
+            "storyHook": "Jay Wayne Jenkins became Young Jeezy. He made trap records. Then he put Ne-Yo on one. The hook master went everywhere.",
+            "sourceNotes": "PRIORITY VERIFY: Young Jeezy birth name Jay Wayne Jenkins. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jeezy – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jeezy",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP033-R3-RES1",
+          "episodeId": "EP033",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Ne-Yo — born Shaffer Chimere Smith — entered the world in which small Arkansas city?",
+          "choices": [
+            "Camden",
+            "Little Rock",
+            "Pine Bluff",
+            "Texarkana"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ne-Yo",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Ne-Yo",
+              "Camden",
+              "Arkansas",
+              "birthplace",
+              "biography"
+            ],
+            "fact": "Ne-Yo was born in Camden, Arkansas — a small city in the southern part of the state — before his family relocated to Las Vegas, Nevada, where he grew up and began his music career. The Camden birthplace is one of the least-known geographic facts about one of the 2000s' most ubiquitous voices.",
+            "storyHook": "Camden, Arkansas. Then Las Vegas. Then everywhere. Ne-Yo's journey started in a place most people couldn't find on a map.",
+            "sourceNotes": "PRIORITY VERIFY: Ne-Yo born in Camden, Arkansas. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ne-Yo – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ne-Yo",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP033-R3-RES2",
+          "episodeId": "EP033",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Ashanti's full birth name — seldom cited alongside her single-name superstar identity — includes which surname?",
+          "choices": [
+            "Harris",
+            "Freeman",
+            "Campbell",
+            "Douglas"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ashanti",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Ashanti",
+              "Ashanti Shequoiya Douglas",
+              "birth name",
+              "surname",
+              "biography"
+            ],
+            "fact": "Ashanti's full birth name is Ashanti Shequoiya Douglas. The surname 'Douglas' almost never appears in media coverage of her work — she operates entirely under the single-name 'Ashanti' — making her family name one of the more obscure biographical facts about one of the era's most recognisable voices.",
+            "storyHook": "Ashanti Shequoiya Douglas. The surname was always there. The single name was just louder.",
+            "sourceNotes": "Verified: Ashanti full name Ashanti Shequoiya Douglas. Sources: National Today https://nationaltoday.com/birthday/ashanti/, Patch https://patch.com/new-york/glencove/ashanti-returns-glen-cove-high-school",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ashanti (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ashanti_(singer)",
+                "accessed": "2026-05-21"
+              },
+              {
+                "title": "Happy Birthday ASHANTI – Ashanti Shequoiya Douglas-Haynes post",
+                "url": "https://www.facebook.com/oldschoolmusic4u/posts/happy-birthday-ashanti-ashanti-shequoiya-douglas-haynes-born-october-13-1980-ash",
+                "accessed": "2026-05-21"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-21",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-21T23:36:16.088722+00:00"
+  }
+}

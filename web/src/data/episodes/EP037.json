@@ -1,0 +1,1563 @@
+{
+  "episodeId": "EP037",
+  "title": "Love's Holiday",
+  "theme": "The love songs of 1970s R&B and soul — the voices, the labels, the producers, and the biographical facts behind a decade that made romantic soul its defining art form.",
+  "narrativePurpose": "Test knowledge of the classic love records that defined 70s R&B — the songs, the artists, the production credits, and the hidden facts behind the decade's most enduring romantic soul records.",
+  "toneProgression": "Identify the song, the artist, and the pairing → labels, production credits, and chart history → birth names, hidden connections, and the facts that reframe the era",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "2"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-7-2 — the episode's densest year: Al Green's 'Love and Happiness' and 'I'm Still in Love with You,' the Spinners' 'Could It Be I'm Falling in Love,' Brighter Side of Darkness's 'Love Jones,' and Curtis Mayfield's Super Fly all arrived in 1972. The year 70s romantic soul found its fullest voice."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The songs, the sounds, and the artists. Entry level — but this decade runs deep.",
+      "color": "#FFD700",
+      "accentVar": "--gold",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP037-R1-Q1",
+          "episodeId": "EP037",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Emotions' 'Best of My Love' — their 1977 #1 smash — was produced by which legendary leader of Earth, Wind & Fire?",
+          "choices": [
+            "Philip Bailey",
+            "Ralph Johnson",
+            "Maurice White",
+            "Verdine White"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Emotions",
+            "song": "Best of My Love",
+            "album": "Rejoice",
+            "year": 1977,
+            "topicTags": [
+              "The Emotions",
+              "Best of My Love",
+              "Maurice White",
+              "Earth Wind & Fire",
+              "1977",
+              "Columbia Records",
+              "#1"
+            ],
+            "fact": "'Best of My Love' spent five weeks at #1 on the Billboard Hot 100 in 1977 — produced by Maurice White of Earth, Wind & Fire. The record brought the Hutchinson sisters to their commercial peak and stands as one of the era's most joyful love songs.",
+            "storyHook": "Maurice White produced it. The Hutchinson sisters sang it. Five weeks at number one. 'Best of My Love' was 1977's purest shot of romantic soul.",
+            "sourceNotes": "PRIORITY VERIFY: The Emotions 'Best of My Love' produced by Maurice White, #1 Hot 100 for 5 weeks (1977), Rejoice album. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Best of My Love (The Emotions song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Best_of_My_Love_(The_Emotions_song)",
+                "accessed": "2026-05-24"
+              },
+              {
+                "title": "THE EMOTIONS – Best of My Love 1977 – Facebook",
+                "url": "https://www.facebook.com/61575056784524/posts/the-emotions-best-of-my-love-1977/122169893714835226/",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "production",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R1-Q2",
+          "episodeId": "EP037",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Al Green's Hi Records — the Memphis soul label behind 'Love and Happiness' and 'I'm Still in Love with You' — was distributed by which UK label?",
+          "choices": [
+            "Island Records",
+            "London Records",
+            "Polydor",
+            "CBS Records"
+          ],
+          "correctIndex": 1,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Al Green",
+            "song": "Love and Happiness",
+            "album": "I'm Still in Love with You",
+            "year": 1972,
+            "topicTags": [
+              "Al Green",
+              "Hi Records",
+              "London Records",
+              "Memphis",
+              "Willie Mitchell",
+              "1972",
+              "distribution"
+            ],
+            "fact": "Hi Records — the Memphis soul label that housed Al Green, Ann Peebles, and Syl Johnson — was distributed internationally through London Records. The Hi/London partnership gave Al Green's records their international reach, while Willie Mitchell's Memphis productions gave them their unmistakable sound.",
+            "storyHook": "Memphis sound. London distribution. Al Green's Hi Records was a local institution with global reach — and London Records was the bridge.",
+            "sourceNotes": "PRIORITY VERIFY: Hi Records distributed by London Records in the US and internationally. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Hi Records Album Discography – Both Sides Now Publications",
+                "url": "https://www.bsnpubs.com/london/hi/hi.html",
+                "accessed": "2026-05-24"
+              },
+              {
+                "title": "Hi Records and Producer Willie Mitchell – Ska2Soul",
+                "url": "https://www.ska2soul.net/hi.htm",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R1-Q3",
+          "episodeId": "EP037",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Curtis Mayfield's 'Give Me Your Love (Love Song)' appeared on the soundtrack to which landmark 1972 blaxploitation film?",
+          "choices": [
+            "Shaft",
+            "Across 110th Street",
+            "Super Fly",
+            "Coffy"
+          ],
+          "correctIndex": 2,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Curtis Mayfield",
+            "song": "Give Me Your Love (Love Song)",
+            "album": "Super Fly",
+            "year": 1972,
+            "topicTags": [
+              "Curtis Mayfield",
+              "Give Me Your Love",
+              "Super Fly",
+              "1972",
+              "Curtom Records",
+              "blaxploitation",
+              "soundtrack"
+            ],
+            "fact": "Super Fly (1972) was Curtis Mayfield's soundtrack to the Gordon Parks Jr. film of the same name — and one of the defining albums of the blaxploitation era. 'Give Me Your Love (Love Song)' was the album's intimate centrepiece, providing a lush counterweight to the politically charged tracks surrounding it.",
+            "storyHook": "The most romantic track on a politically charged soundtrack. Curtis Mayfield buried 'Give Me Your Love' inside Super Fly — and it became one of the album's most enduring moments.",
+            "sourceNotes": "Verified: 'Give Me Your Love (Love Song)' from Super Fly (1972), Curtom Records. Sources: YouTube https://www.youtube.com/watch?v=tL_FKAo2V5M, Wikipedia https://en.wikipedia.org/wiki/Give_Me_Your_Love, Facebook tribute https://www.facebook.com/100064201413097/videos/curtis-mayfield-give-me-your-love-love-songin-memory-of-curtismayfield",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Curtis Mayfield – Give Me Your Love (1972) – YouTube",
+                "url": "https://www.youtube.com/watch?v=pO1e9PJyDlI",
+                "accessed": "2026-05-24"
+              },
+              {
+                "title": "Curtis Mayfield released the great Superfly soundtrack – Facebook",
+                "url": "https://www.facebook.com/ultimateclassicrock/posts/curtis-mayfield-released-the-great-superfly-soundtrack-on-this-day-in-1972wha",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "soundtrack",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R1-Q4",
+          "episodeId": "EP037",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'Love Ballad' was a 1976 R&B hit for which group — whose name stood for Love, Togetherness and Devotion?",
+          "choices": [
+            "L.T.D.",
+            "O'Jays",
+            "Heatwave",
+            "Maze"
+          ],
+          "correctIndex": 0,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "L.T.D.",
+            "song": "Love Ballad",
+            "album": "Love to the World",
+            "year": 1976,
+            "topicTags": [
+              "L.T.D.",
+              "Love Ballad",
+              "1976",
+              "A&M Records",
+              "Jeffrey Osborne",
+              "Love Togetherness and Devotion"
+            ],
+            "fact": "L.T.D. — Love, Togetherness and Devotion — released 'Love Ballad' from their 1976 album Love to the World on A&M Records. The group's lead vocalist was Jeffrey Osborne, whose powerful delivery on 'Love Ballad' established the template for the smooth, orchestrated R&B ballad that would define the late 70s and early 80s.",
+            "storyHook": "Love, Togetherness and Devotion. The name said everything about the sound. L.T.D. and Jeffrey Osborne made 'Love Ballad' the era's definitive statement of romantic intent.",
+            "sourceNotes": "PRIORITY VERIFY: L.T.D. = Love, Togetherness and Devotion; 'Love Ballad' from Love to the World (1976), A&M Records, Jeffrey Osborne lead vocalist. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "L.T.D. (Love, Togetherness and Devotion) – band overview",
+                "url": "https://www.facebook.com/TheTrueHistoryofBlackAmerica/posts/ltd-love-togetherness-and-devotion-is-an-american-rbfunk-band-best-k",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R1-Q5",
+          "episodeId": "EP037",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'Drowning in the Sea of Love' was a 1971 soul hit for which singer — produced by the legendary Philadelphia duo Kenny Gamble and Leon Huff?",
+          "choices": [
+            "Teddy Pendergrass",
+            "Joe Simon",
+            "Lou Rawls",
+            "Billy Paul"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Joe Simon",
+            "song": "Drowning in the Sea of Love",
+            "album": "Drowning in the Sea of Love",
+            "year": 1971,
+            "topicTags": [
+              "Joe Simon",
+              "Drowning in the Sea of Love",
+              "1971",
+              "Kenny Gamble",
+              "Leon Huff",
+              "Spring Records",
+              "Philadelphia"
+            ],
+            "fact": "'Drowning in the Sea of Love' reached #3 on the Billboard Hot 100 in 1971 — produced by Kenny Gamble and Leon Huff for Spring Records. The record predated the formal launch of Philadelphia International Records by two years, but already demonstrated the lush, romantic sound that Gamble & Huff would perfect throughout the decade.",
+            "storyHook": "Gamble and Huff before Philadelphia International. Joe Simon and 'Drowning in the Sea of Love' was an early preview of what the Philadelphia sound would become.",
+            "sourceNotes": "PRIORITY VERIFY: Joe Simon 'Drowning in the Sea of Love' (1971), produced by Gamble & Huff, Spring Records, #3 Hot 100. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Joe Simon – Drowning in the Sea of Love (1971) – post",
+                "url": "https://www.facebook.com/groups/susancrebello/posts/4471398656477782/",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "production",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R1-Q6",
+          "episodeId": "EP037",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'Love Jones' was a 1972 soul hit recorded by which Chicago group — notable for featuring a lead singer who was just 13 years old?",
+          "choices": [
+            "The Dells",
+            "The Chi-Lites",
+            "Brighter Side of Darkness",
+            "The Impressions"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Brighter Side of Darkness",
+            "song": "Love Jones",
+            "album": "Love Jones",
+            "year": 1972,
+            "topicTags": [
+              "Brighter Side of Darkness",
+              "Love Jones",
+              "1972",
+              "20th Century Records",
+              "Chicago",
+              "Darryl Lamont",
+              "teenage vocalist"
+            ],
+            "fact": "'Love Jones' reached #16 on the Billboard Hot 100 in 1972 and featured Darryl Lamont — just 13 years old — as the lead vocalist. The group formed around Chicago high school students, making 'Love Jones' one of the most unlikely crossover soul records of the decade.",
+            "storyHook": "Thirteen years old. A Chicago high school group. A top-twenty soul hit. Brighter Side of Darkness made 'Love Jones' work against every expectation.",
+            "sourceNotes": "PRIORITY VERIFY: Brighter Side of Darkness 'Love Jones' (1972), 20th Century Records, lead singer Darryl Lamont was 13, Chicago group. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Brighter Side of Darkness – Love Jones – Keep Our Music Alive group",
+                "url": "https://www.facebook.com/groups/keepourmusicalive/posts/6478832468794806/",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R1-B1",
+          "episodeId": "EP037",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Bobby Caldwell released 'What You Won't Do for Love' on which label — a TK Records subsidiary?",
+          "choices": [
+            "Arista",
+            "TK Records",
+            "Cloud Records",
+            "20th Century Records"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — THE DECADE OPENS"
+          },
+          "metadata": {
+            "artist": "Bobby Caldwell",
+            "song": "What You Won't Do for Love",
+            "album": "Bobby Caldwell",
+            "year": 1978,
+            "topicTags": [
+              "Bobby Caldwell",
+              "What You Won't Do for Love",
+              "1978",
+              "Cloud Records",
+              "TK Records",
+              "R&B crossover"
+            ],
+            "fact": "'What You Won't Do for Love' was released on Cloud Records — a subsidiary of TK Records — in 1978. The label's strategy of keeping Bobby Caldwell's face off the album cover allowed the record to receive heavy airplay on Black radio stations without revealing that Caldwell was white, making it one of the more remarkable crossover stories of the decade.",
+            "storyHook": "Cloud Records. A TK subsidiary. No face on the cover. Bobby Caldwell crossed over to Black radio in 1978 through a combination of talent and deliberate concealment.",
+            "sourceNotes": "PRIORITY VERIFY: Bobby Caldwell 'What You Won't Do for Love' on Cloud Records (TK Records subsidiary), 1978, cover strategy. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "What You Won't Do for Love – Bobby Caldwell (Cloud Records 1978) – YouTube",
+                "url": "https://www.youtube.com/watch?v=AxpEekcg5tQ",
+                "accessed": "2026-05-24"
+              },
+              {
+                "title": "What You Won't Do for Love (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/What_You_Won%27t_Do_for_Love_(song)",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP037-R1-RES1",
+          "episodeId": "EP037",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "'Best of My Love' by The Emotions spent how many weeks at #1 on the Billboard Hot 100?",
+          "choices": [
+            "5 weeks",
+            "3 weeks",
+            "4 weeks",
+            "2 weeks"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Emotions",
+            "song": "Best of My Love",
+            "album": "Rejoice",
+            "year": 1977,
+            "topicTags": [
+              "The Emotions",
+              "Best of My Love",
+              "1977",
+              "#1",
+              "5 weeks",
+              "Hot 100",
+              "chart"
+            ],
+            "fact": "'Best of My Love' spent five weeks at #1 on the Billboard Hot 100 in 1977 — a remarkable chart run for an R&B vocal group in an era increasingly dominated by disco. The record's warm, acoustic-rooted sound proved that traditional soul could still compete at pop radio's highest level.",
+            "storyHook": "Five weeks. 1977. The year disco was winning everything — and 'Best of My Love' was at number one.",
+            "sourceNotes": "PRIORITY VERIFY: 'Best of My Love' by The Emotions, 5 weeks at #1 on Hot 100 (1977). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Number Ones: The Emotions' Best Of My Love – Stereogum",
+                "url": "https://stereogum.com/2065158/the-number-ones-the-emotions-best-of-my-love/columns/the-number-ones",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R1-RES2",
+          "episodeId": "EP037",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Rose Royce's 'Love Don't Live Here Anymore' was released on which label — founded by the producer who left Motown to build his own empire?",
+          "choices": [
+            "Thom Bell Productions",
+            "Whitfield Records",
+            "Holland-Dozier-Holland Records",
+            "Solar Records"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Rose Royce",
+            "song": "Love Don't Live Here Anymore",
+            "album": "In Full Bloom",
+            "year": 1977,
+            "topicTags": [
+              "Rose Royce",
+              "Love Don't Live Here Anymore",
+              "Whitfield Records",
+              "Norman Whitfield",
+              "1977",
+              "Motown",
+              "label"
+            ],
+            "fact": "'Love Don't Live Here Anymore' was produced by Norman Whitfield — who had left Motown and founded Whitfield Records, releasing Rose Royce's records through that imprint. Whitfield's dense, dramatic production style — honed on Temptations records throughout the late 60s and early 70s — gave Rose Royce a cinematic grandeur that set them apart from contemporaries.",
+            "storyHook": "He left Motown. He built his own label. Norman Whitfield produced Rose Royce on Whitfield Records — and 'Love Don't Live Here Anymore' was the result.",
+            "sourceNotes": "PRIORITY VERIFY: Rose Royce 'Love Don't Live Here Anymore' produced by Norman Whitfield on Whitfield Records (1977). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rose Royce – Love Don't Live Here Anymore – Instagram",
+                "url": "https://www.instagram.com/reel/DWFgTrSES88/?hl=en",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "production",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R1-RES3",
+          "episodeId": "EP037",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "The Spinners' 'Could It Be I'm Falling in Love' was crafted by which Philadelphia Sound architect and producer?",
+          "choices": [
+            "Thom Bell",
+            "Kenny Gamble",
+            "Norman Whitfield",
+            "Leon Huff"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Spinners",
+            "song": "Could It Be I'm Falling in Love",
+            "album": "Spinners",
+            "year": 1972,
+            "topicTags": [
+              "The Spinners",
+              "Could It Be I'm Falling in Love",
+              "Thom Bell",
+              "Philadelphia",
+              "1972",
+              "Atlantic Records"
+            ],
+            "fact": "Thom Bell produced 'Could It Be I'm Falling in Love' — one of his signature arrangements for The Spinners on Atlantic Records. Bell's lush orchestrations and meticulous vocal production made The Spinners one of the most consistent hit-making groups of the early 70s, with this record reaching #4 on the Hot 100.",
+            "storyHook": "Thom Bell. The Spinners. Atlantic Records. 'Could It Be I'm Falling in Love' was Philadelphia Sound precision — every string, every vocal stack, exactly where Bell wanted it.",
+            "sourceNotes": "PRIORITY VERIFY: The Spinners 'Could It Be I'm Falling in Love' produced by Thom Bell, Atlantic Records (1972), #4 Hot 100. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Could It Be I'm Falling in Love – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Could_It_Be_I%27m_Falling_in_Love",
+                "accessed": "2026-05-24"
+              },
+              {
+                "title": "R.I.P. Thom Bell – Philly sound tribute – Carole King Facebook",
+                "url": "https://www.facebook.com/CaroleKing/posts/rip-thom-bell-who-inspired-me-and-future-generations-of-songwriters-with-his-phi/74172",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "production",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R1-RES4",
+          "episodeId": "EP037",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "1970s",
+          "question": "Barry White's 'I'm Gonna Love You Just a Little More Baby' was released on which label — where he built his entire early career?",
+          "choices": [
+            "Philadelphia International",
+            "Motown",
+            "20th Century Records",
+            "Polydor"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Barry White",
+            "song": "I'm Gonna Love You Just a Little More Baby",
+            "album": "I've Got So Much to Give",
+            "year": 1973,
+            "topicTags": [
+              "Barry White",
+              "I'm Gonna Love You Just a Little More Baby",
+              "20th Century Records",
+              "1973",
+              "#1 R&B"
+            ],
+            "fact": "Barry White's 'I'm Gonna Love You Just a Little More Baby' reached #1 on the R&B chart in 1973 and was released on 20th Century Records — the label where White built his entire solo career, writing, producing, and arranging every note himself. The record established his signature: orchestral grandeur wrapped around an intimate, conversational vocal delivery.",
+            "storyHook": "20th Century Records. Every note written, produced, and arranged by Barry White. 'I'm Gonna Love You Just a Little More Baby' was the sound of a man who needed no collaborators.",
+            "sourceNotes": "PRIORITY VERIFY: Barry White 'I'm Gonna Love You Just a Little More Baby' on 20th Century Records (1973), #1 R&B. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I'm Gonna Love You Just a Little More Baby – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I%27m_Gonna_Love_You_Just_a_Little_More_Baby",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Labels, chart facts, production credits, and the infrastructure behind the decade's great love records.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP037-R2-Q1",
+          "episodeId": "EP037",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Earth, Wind & Fire's 'Love's Holiday' appeared on which 1977 album — widely considered the peak of their classic period?",
+          "choices": [
+            "That's the Way of the World",
+            "All 'N All",
+            "I Am",
+            "Spirit"
+          ],
+          "correctIndex": 1,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Earth, Wind & Fire",
+            "song": "Love's Holiday",
+            "album": "All 'N All",
+            "year": 1977,
+            "topicTags": [
+              "Earth Wind & Fire",
+              "Love's Holiday",
+              "All 'N All",
+              "1977",
+              "Columbia Records",
+              "Maurice White"
+            ],
+            "fact": "All 'N All (1977) was Earth, Wind & Fire's seventh studio album and is widely regarded as the pinnacle of their classic period — featuring 'Love's Holiday,' 'September,' and 'Fantasy.' The album's Egyptian mythology concept and lush arrangements made it one of the most ambitious R&B records of the decade.",
+            "storyHook": "All 'N All. 1977. 'Love's Holiday.' 'September.' 'Fantasy.' Earth, Wind & Fire put everything they had into one album — and it became their masterpiece.",
+            "sourceNotes": "PRIORITY VERIFY: EWF 'Love's Holiday' from All 'N All (1977), Columbia Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "All N' All (1977) – Earth, Wind & Fire official site",
+                "url": "https://www.earthwindandfire.com/music/all-n-all-1977/",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R2-Q2",
+          "episodeId": "EP037",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Earth, Wind & Fire's 'Can't Hide Love' appeared on which 1975 double album — featuring both live performances and studio recordings?",
+          "choices": [
+            "Head to the Sky",
+            "Spirit",
+            "Last Days and Time",
+            "Gratitude"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Earth, Wind & Fire",
+            "song": "Can't Hide Love",
+            "album": "Gratitude",
+            "year": 1975,
+            "topicTags": [
+              "Earth Wind & Fire",
+              "Can't Hide Love",
+              "Gratitude",
+              "1975",
+              "Columbia Records",
+              "double album",
+              "live"
+            ],
+            "fact": "Gratitude (1975) was a double album combining live recordings from EWF's 1975 tour with new studio tracks — 'Can't Hide Love' among them. The album reached #1 on the Billboard 200 and demonstrated that Earth, Wind & Fire had become one of the era's most powerful live draws as well as a dominant studio act.",
+            "storyHook": "Live and studio. Double album. Number one on the Billboard 200. Gratitude was Earth, Wind & Fire proving they were the complete package.",
+            "sourceNotes": "PRIORITY VERIFY: EWF 'Can't Hide Love' from Gratitude (1975), double album format, Columbia Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Can't Hide Love – Earth, Wind & Fire – YouTube",
+                "url": "https://www.youtube.com/watch?v=7VBN2JyaukI",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R2-Q3",
+          "episodeId": "EP037",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Major Harris — who scored with 'Love Won't Let Me Wait' in 1975 — had previously been a member of which smooth Philadelphia soul group?",
+          "choices": [
+            "Blue Magic",
+            "The Stylistics",
+            "Harold Melvin & the Blue Notes",
+            "The Delfonics"
+          ],
+          "correctIndex": 3,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Major Harris",
+            "song": "Love Won't Let Me Wait",
+            "album": "My Way",
+            "year": 1975,
+            "topicTags": [
+              "Major Harris",
+              "Love Won't Let Me Wait",
+              "The Delfonics",
+              "1975",
+              "Atlantic Records",
+              "Philadelphia"
+            ],
+            "fact": "Major Harris was a member of The Delfonics — the silky Philadelphia vocal group known for 'Didn't I (Blow Your Mind This Time)' — before launching his solo career. His intimate, near-whispered delivery on 'Love Won't Let Me Wait' drew directly from the Delfonics' approach to romantic vulnerability.",
+            "storyHook": "The Delfonics taught him how to make a voice sound like a secret. Major Harris took that lesson and made 'Love Won't Let Me Wait' one of 1975's most intimate records.",
+            "sourceNotes": "PRIORITY VERIFY: Major Harris was a member of The Delfonics before his solo career; 'Love Won't Let Me Wait' (1975). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Major Harris (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Major_Harris_(singer)",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R2-Q4",
+          "episodeId": "EP037",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Love Ballad' was the breakout hit for L.T.D. — fronted by which vocalist who later became a major solo star?",
+          "choices": [
+            "Howard Hewett",
+            "Freddie Jackson",
+            "Alexander O'Neal",
+            "Jeffrey Osborne"
+          ],
+          "correctIndex": 3,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "L.T.D.",
+            "song": "Love Ballad",
+            "album": "Love to the World",
+            "year": 1976,
+            "topicTags": [
+              "L.T.D.",
+              "Love Ballad",
+              "Jeffrey Osborne",
+              "1976",
+              "A&M Records",
+              "solo career"
+            ],
+            "fact": "Jeffrey Osborne was L.T.D.'s lead vocalist — and the voice that made 'Love Ballad' the group's signature record. He left L.T.D. in 1980 to pursue a solo career, scoring hits including 'On the Wings of Love' and cementing himself as one of the decade's most distinctive R&B tenors.",
+            "storyHook": "He was the voice of L.T.D. He made 'Love Ballad' work. Then Jeffrey Osborne left and made 'On the Wings of Love' — and proved the voice was always the most important thing.",
+            "sourceNotes": "PRIORITY VERIFY: Jeffrey Osborne was L.T.D.'s lead vocalist on 'Love Ballad'; went solo in 1980. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jeffrey Osborne – Love Ballad – YouTube",
+                "url": "https://www.youtube.com/watch?v=EwdEbmo37q8",
+                "accessed": "2026-05-24"
+              },
+              {
+                "title": "L.T.D. band overview",
+                "url": "https://www.facebook.com/TheTrueHistoryofBlackAmerica/posts/ltd-love-togetherness-and-devotion-is-an-american-rbfunk-band-best-k",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R2-Q5",
+          "episodeId": "EP037",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Before his solo career, Barry White first found fame as the lead voice behind which orchestral soul group?",
+          "choices": [
+            "The Moments",
+            "The Whatnauts",
+            "The Natural Four",
+            "Love Unlimited"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Barry White",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Barry White",
+              "Love Unlimited",
+              "pre-solo",
+              "biography",
+              "20th Century Records"
+            ],
+            "fact": "Barry White was the creative force behind Love Unlimited — the female vocal trio he formed, produced, and arranged before launching his own solo career. Love Unlimited scored with 'Walkin' in the Rain with the One I Love' (1972) and White subsequently formed the Love Unlimited Orchestra to provide instrumental backing for both the group and his own records.",
+            "storyHook": "Before Barry White the solo star, there was Love Unlimited. He built the group, produced them, arranged their records — then stepped out front himself.",
+            "sourceNotes": "PRIORITY VERIFY: Barry White founded and produced Love Unlimited before his solo career. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Barry White & Love Unlimited Orchestra – bio post",
+                "url": "https://www.facebook.com/Certains.Posts.Peuvent.Heurter.Les.Plus.Cons/posts/barry-white-love-unlimited-orchestra-loves/142535229",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R2-B1",
+          "episodeId": "EP037",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Al Green's breakthrough into mainstream pop came with which 1971 single — his first top-ten hit on the Billboard Hot 100?",
+          "choices": [
+            "Let's Stay Together",
+            "I'm Still in Love with You",
+            "Call Me",
+            "Tired of Being Alone"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — THE DECADE IN FULL"
+          },
+          "metadata": {
+            "artist": "Al Green",
+            "song": "Tired of Being Alone",
+            "album": "Al Green Gets Next to You",
+            "year": 1971,
+            "topicTags": [
+              "Al Green",
+              "Tired of Being Alone",
+              "1971",
+              "Hi Records",
+              "Willie Mitchell",
+              "Hot 100",
+              "breakthrough"
+            ],
+            "fact": "'Tired of Being Alone' (1971) was Al Green's breakthrough pop single — reaching #11 on the Hot 100 and establishing his commercial foothold before 'Let's Stay Together' made him a superstar. Produced by Willie Mitchell, it introduced Green's signature sound: warm falsetto, sparse rhythm, and an intimacy that felt like a private conversation.",
+            "storyHook": "Before 'Let's Stay Together.' Before 'Love and Happiness.' 'Tired of Being Alone' was where the mainstream caught up to Al Green — and where everything began.",
+            "sourceNotes": "PRIORITY VERIFY: Al Green 'Tired of Being Alone' (1971), first top-ten Hot 100 hit, Hi Records, Willie Mitchell production. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tired of Being Alone – Official Audio – YouTube",
+                "url": "https://www.youtube.com/watch?v=7ll7ocQbH_k",
+                "accessed": "2026-05-24"
+              },
+              {
+                "title": "Al Green – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Al_Green",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP037-R2-RES1",
+          "episodeId": "EP037",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "'Drowning in the Sea of Love' by Joe Simon was released on which Philadelphia-based independent label?",
+          "choices": [
+            "Philadelphia International",
+            "Spring Records",
+            "Neptune Records",
+            "Gamble Records"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Joe Simon",
+            "song": "Drowning in the Sea of Love",
+            "album": "Drowning in the Sea of Love",
+            "year": 1971,
+            "topicTags": [
+              "Joe Simon",
+              "Drowning in the Sea of Love",
+              "Spring Records",
+              "1971",
+              "Gamble & Huff",
+              "Philadelphia"
+            ],
+            "fact": "Spring Records was the Philadelphia-based independent label that released Joe Simon's 'Drowning in the Sea of Love' — a Gamble & Huff production that predated the formal launch of Philadelphia International Records. Spring was distributed through Polydor and gave Gamble & Huff an outlet for their productions before they established their own flagship imprint.",
+            "storyHook": "Spring Records. Before Philadelphia International. Kenny Gamble and Leon Huff were already building the Philadelphia Sound on someone else's label — and Joe Simon's records were the proof.",
+            "sourceNotes": "PRIORITY VERIFY: Joe Simon 'Drowning in the Sea of Love' on Spring Records (1971), Gamble & Huff production. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Drowning in the Sea of Love (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Drowning_in_the_Sea_of_Love_(album)",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R2-RES2",
+          "episodeId": "EP037",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "Curtis Mayfield's Super Fly soundtrack was released on which label — his own imprint that gave him complete creative control?",
+          "choices": [
+            "Vee-Jay Records",
+            "Curtom Records",
+            "Brunswick Records",
+            "Stax Records"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Curtis Mayfield",
+            "song": "Give Me Your Love (Love Song)",
+            "album": "Super Fly",
+            "year": 1972,
+            "topicTags": [
+              "Curtis Mayfield",
+              "Curtom Records",
+              "Super Fly",
+              "1972",
+              "independent label",
+              "creative control"
+            ],
+            "fact": "Curtom Records was Curtis Mayfield's own label — co-founded with Eddie Thomas in 1968 — giving him the creative autonomy that major label deals rarely permitted. The Super Fly soundtrack was released through Curtom, allowing Mayfield to make the politically complex, lyrically unflinching record he envisioned without commercial compromise.",
+            "storyHook": "His own label. His own rules. Curtis Mayfield made the Super Fly soundtrack on Curtom Records — and nobody could tell him what it should sound like.",
+            "sourceNotes": "Verified: Curtis Mayfield Super Fly on Curtom Records (1972). Sources: YouTube https://www.youtube.com/watch?v=tL_FKAo2V5M, Facebook tribute https://www.facebook.com/100064201413097/videos/curtis-mayfield-give-me-your-love-love-songin-memory-of-curtismayfield",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Curtis Mayfield released the great Superfly soundtrack – Facebook",
+                "url": "https://www.facebook.com/ultimateclassicrock/posts/curtis-mayfield-released-the-great-superfly-soundtrack-on-this-day-in-1972wha",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R2-RES3",
+          "episodeId": "EP037",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1970s",
+          "question": "The Spinners' 'Could It Be I'm Falling in Love' reached number one on which Billboard chart in 1973?",
+          "choices": [
+            "Adult Contemporary",
+            "R&B chart (Hot Soul Singles)",
+            "Billboard Hot 100",
+            "Dance/Disco chart"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Spinners",
+            "song": "Could It Be I'm Falling in Love",
+            "album": "Spinners",
+            "year": 1972,
+            "topicTags": [
+              "The Spinners",
+              "Could It Be I'm Falling in Love",
+              "R&B chart",
+              "Hot Soul Singles",
+              "#1",
+              "1973",
+              "Thom Bell"
+            ],
+            "fact": "'Could It Be I'm Falling in Love' reached #1 on the Billboard R&B chart (Hot Soul Singles) in 1973 — and #4 on the Hot 100. Thom Bell's production made it one of the era's most perfectly constructed soul records: a string arrangement that lifts without overwhelming, and a vocal performance that balances hunger with restraint.",
+            "storyHook": "Number one R&B. Number four pop. Thom Bell and The Spinners in 1973 — the Philadelphia Sound at its most precisely calibrated.",
+            "sourceNotes": "PRIORITY VERIFY: The Spinners 'Could It Be I'm Falling in Love' #1 R&B (Hot Soul Singles), #4 Hot 100 (1973). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Could It Be I'm Falling in Love – Michigan Rock & Roll Legends",
+                "url": "https://michiganrockandrolllegends.com/hall-of-fame/legendary-mi-songs/138-could-it-be-i-m-falling-in-love",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Birth names, hidden identities, and the facts that reframe what you thought you knew.",
+      "color": "#FF6B6B",
+      "accentVar": "--coral",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP037-R3-Q1",
+          "episodeId": "EP037",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Al Green — whose 'Love and Happiness' and 'I'm Still in Love with You' defined 70s romantic soul — was born under which full name?",
+          "choices": [
+            "Albert Greene Jr.",
+            "Alfred Leon Greene",
+            "Albert Leornes Greene",
+            "Alvin Lee Garrett"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Al Green",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Al Green",
+              "Albert Leornes Greene",
+              "birth name",
+              "biography",
+              "Arkansas"
+            ],
+            "fact": "Al Green was born Albert Leornes Greene on April 13, 1946, in Forrest City, Arkansas. The name 'Al Green' — a professional simplification — gave nothing away about the extraordinary vocal instrument behind it.",
+            "storyHook": "Albert Leornes Greene. Born in Forrest City, Arkansas. The name became Al Green. The voice became one of the great instruments of the 20th century.",
+            "sourceNotes": "PRIORITY VERIFY: Al Green born Albert Leornes Greene, Forrest City, Arkansas, April 13, 1946. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Al Green – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Al_Green",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R3-Q2",
+          "episodeId": "EP037",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Jeffrey Osborne — the voice of L.T.D.'s 'Love Ballad' — was born in which US city?",
+          "choices": [
+            "Providence",
+            "Bridgeport",
+            "Hartford",
+            "Newark"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jeffrey Osborne",
+            "song": "Love Ballad",
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Jeffrey Osborne",
+              "Providence",
+              "Rhode Island",
+              "biography",
+              "birthplace",
+              "L.T.D."
+            ],
+            "fact": "Jeffrey Osborne was born on March 9, 1948, in Providence, Rhode Island — one of the few major R&B artists of the era to emerge from New England. His powerful, emotionally direct tenor became the sonic identity of L.T.D. before his solo career confirmed him as one of the genre's most distinctive voices.",
+            "storyHook": "Providence, Rhode Island. Not a city associated with 70s soul. But that's where the voice behind L.T.D.'s 'Love Ballad' came from.",
+            "sourceNotes": "PRIORITY VERIFY: Jeffrey Osborne born Providence, Rhode Island, March 9, 1948. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jeffrey Osborne – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jeffrey_Osborne",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R3-B1",
+          "episodeId": "EP037",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Brighter Side of Darkness recorded 'Love Jones' featuring a 13-year-old lead singer. What was his first name?",
+          "choices": [
+            "Darryl",
+            "Michael",
+            "Aaron",
+            "Tony"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "7",
+            "bonusHint": "DIGIT 3 OF 3 — THE DECADE AT ITS HEIGHT"
+          },
+          "metadata": {
+            "artist": "Brighter Side of Darkness",
+            "song": "Love Jones",
+            "album": "Love Jones",
+            "year": 1972,
+            "topicTags": [
+              "Brighter Side of Darkness",
+              "Love Jones",
+              "Darryl Lamont",
+              "1972",
+              "13 years old",
+              "Chicago",
+              "20th Century Records"
+            ],
+            "fact": "Darryl 'Dee' Lamont was 13 years old when he recorded 'Love Jones' with Brighter Side of Darkness in 1972 — his voice carrying an emotional weight that seemed implausible for his age. The group formed around students at a Chicago high school, making their chart success one of the more remarkable stories of early 70s soul.",
+            "storyHook": "His name was Darryl. He was thirteen. And his voice made 'Love Jones' one of the most emotionally convincing soul records of 1972.",
+            "sourceNotes": "PRIORITY VERIFY: Brighter Side of Darkness lead singer Darryl Lamont was 13 when 'Love Jones' was recorded (1972). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Brighter Side of Darkness – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Brighter_Side_of_Darkness",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP037-R3-RES1",
+          "episodeId": "EP037",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "Bobby Caldwell's debut album had no photo of him on the cover. Why did his label make that choice?",
+          "choices": [
+            "To avoid revealing that he was white to R&B radio",
+            "He refused to appear on covers as an artistic statement",
+            "His management controlled all image rights",
+            "The label preferred abstract artwork for all their releases"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bobby Caldwell",
+            "song": "What You Won't Do for Love",
+            "album": "Bobby Caldwell",
+            "year": 1978,
+            "topicTags": [
+              "Bobby Caldwell",
+              "What You Won't Do for Love",
+              "TK Records",
+              "Cloud Records",
+              "race",
+              "crossover",
+              "R&B radio",
+              "album cover"
+            ],
+            "fact": "Bobby Caldwell's label kept his face off the album cover because he is white — and they feared R&B radio programmers would not play the record if they knew. The strategy worked: 'What You Won't Do for Love' received heavy rotation on Black radio stations, and many listeners were surprised to eventually discover Caldwell's ethnicity.",
+            "storyHook": "No face on the cover. A deliberate choice. Bobby Caldwell crossed over to Black radio in 1978 because his label made sure nobody knew he was white until the record had already hit.",
+            "sourceNotes": "Verified: Bobby Caldwell's label kept his face off the album cover to conceal he was white from R&B radio. Sources: JazzCorner Facebook https://www.facebook.com/Jazzcorner/videos/bobby-caldwell-what-you-wont-do-for-love/118444827777631/, musician goods post https://www.facebook.com/musiciangoods/posts/in-1978-bobby-caldwell-released-what-you-wont-do-for-love-a-smooth-soul-track-th/1446714984136544/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The White Lie That Broke Bobby Caldwell on Black Radio – Red Bull Music Academy",
+                "url": "https://daily.redbullmusicacademy.com/2015/04/bobby-caldwell-feature/",
+                "accessed": "2026-05-24"
+              },
+              {
+                "title": "Bobby Caldwell – What You Won't Do For Love – JazzCorner video",
+                "url": "https://www.facebook.com/Jazzcorner/videos/bobby-caldwell-what-you-wont-do-for-love/118444827777631/",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP037-R3-RES2",
+          "episodeId": "EP037",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "The Emotions — the sisters who recorded 'Best of My Love' — all shared which surname?",
+          "choices": [
+            "Barrett",
+            "Robinson",
+            "Hutchinson",
+            "Williams"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "The Emotions",
+            "song": "Best of My Love",
+            "album": "Rejoice",
+            "year": 1977,
+            "topicTags": [
+              "The Emotions",
+              "Hutchinson",
+              "Wanda",
+              "Sheila",
+              "Jeanette",
+              "Chicago",
+              "sisters",
+              "biography"
+            ],
+            "fact": "The Emotions were the Hutchinson sisters — Wanda, Sheila, and Jeanette — who grew up in Chicago and began singing together at their local church. Their gospel foundation gave 'Best of My Love' its joyful, almost ecstatic quality, and made them natural collaborators for Maurice White's similarly church-rooted production approach.",
+            "storyHook": "Wanda, Sheila, and Jeanette Hutchinson. Three sisters. One church in Chicago. One number-one record. The Emotions made 'Best of My Love' sound like it cost nothing to feel.",
+            "sourceNotes": "Verified: The Emotions = Hutchinson sisters (Wanda, Sheila, Jeanette), from Chicago. Sources: Stereogum https://stereogum.com/2065158/the-number-ones-the-emotions-best-of-my-love/columns/the-number-ones, Instagram reel https://www.instagram.com/reel/DUvdlJfDK1o/",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Number Ones: The Emotions' Best Of My Love – Stereogum",
+                "url": "https://stereogum.com/2065158/the-number-ones-the-emotions-best-of-my-love/columns/the-number-ones",
+                "accessed": "2026-05-24"
+              },
+              {
+                "title": "Best of My Love – Emotions reel (Hutchinson sisters) – Instagram",
+                "url": "https://www.instagram.com/reel/DUvdlJfDK1o/",
+                "accessed": "2026-05-24"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-23",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-24T06:20:09.684270+00:00"
+  }
+}

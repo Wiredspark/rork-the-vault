@@ -1,0 +1,1568 @@
+{
+  "episodeId": "EP023",
+  "title": "The West Coast Sound",
+  "theme": "Synthesizers, slow grooves, and the P-Funk lineage. G-funk gave R&B its West Coast identity and the whole genre felt it.",
+  "narrativePurpose": "Test knowledge of the West Coast R&B and G-funk ecosystem - the artists, samples, family connections, and sonic architecture behind the sound that ran parallel to New York's dominance.",
+  "toneProgression": "Define the sound and name the records → samples, family connections, chart history → P-Funk lineage, area codes, and birth names",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "3"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-9-3 - the year Snoop Dogg's Doggystyle broke debut album sales records and proved G-funk was no regional curiosity. The West Coast had arrived, and every producer east of the Rockies felt it."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The albums and anthems that defined West Coast R&B. If you heard a synthesizer slide over a slow groove on 90s radio, this episode starts here.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP023-R1-Q1",
+          "episodeId": "EP023",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Warren G and Nate Dogg's 1994 anthem - which became one of G-funk's defining crossover moments - was titled what?",
+          "choices": [
+            "What's Next",
+            "This DJ",
+            "Do You See",
+            "Regulate"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Warren G & Nate Dogg",
+            "song": "Regulate",
+            "album": "Regulate... G Funk Era",
+            "year": 1994,
+            "topicTags": [
+              "Warren G",
+              "Nate Dogg",
+              "Regulate",
+              "1994",
+              "G-funk",
+              "Death Row Records",
+              "RAL Records"
+            ],
+            "fact": "'Regulate' reached #2 on the Billboard Hot 100 and #1 on the Hot Rap Singles chart in 1994 - its narrative structure, Michael McDonald sample, and the interplay between Warren G's rapping and Nate Dogg's singing established a template for West Coast hip-hop soul that dozens of records would follow. It appeared on the 'Above the Rim' soundtrack before Warren G's debut album.",
+            "storyHook": "A Michael McDonald sample. A narrative about a robbery that turns into a party. Nate Dogg singing the hook. Warren G rapping the story. This is how G-funk introduced itself to the mainstream.",
+            "sourceNotes": "Regulate... G Funk Era liner notes (RAL/Interscope Records, 1994). Billboard Hot 100 and Rap Singles chart archives. Above the Rim official soundtrack documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Regulate (song) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Regulate_(song)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Warren G - Regulate Official Video - YouTube",
+                "url": "https://www.youtube.com/watch?v=1plPyJdXKIY",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R1-Q2",
+          "episodeId": "EP023",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Warren G's 'Regulate' built its entire groove on a sample from which 1982 Michael McDonald song?",
+          "choices": [
+            "What a Fool Believes",
+            "Sweet Freedom",
+            "Yah Mo B There",
+            "I Keep Forgetting (Every Time You're Near)"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Warren G",
+            "song": "Regulate",
+            "album": "Regulate... G Funk Era",
+            "year": 1994,
+            "topicTags": [
+              "Regulate",
+              "I Keep Forgetting",
+              "Michael McDonald",
+              "sample",
+              "blue-eyed soul",
+              "G-funk",
+              "1982"
+            ],
+            "fact": "Michael McDonald's 'I Keep Forgetting (Every Time You're Near)' was a 1982 blue-eyed soul hit on Warner Bros. Records - Warren G lifted its chord progression and melodic feel wholesale, creating one of the most recognizable sample-source pairings in 90s hip-hop. McDonald reportedly had no objections and collected significant royalties from the song's commercial success.",
+            "storyHook": "A soft-rock singer from 1982. A Long Beach rapper from 1994. The same chord progression in two completely different rooms, twelve years apart. G-funk ran on blue-eyed soul and nobody blinked.",
+            "sourceNotes": "Regulate ASCAP sample credits (RAL/Interscope, 1994). Michael McDonald 'I Keep Forgetting' discography (Warner Bros., 1982). Sample clearance documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Regulate sample of I Keep Forgettin' - WhoSampled",
+                "url": "https://www.whosampled.com/sample/203/Warren-G-Nate-Dogg-Regulate-Michael-McDonald-I-Keep-Forgettin%27/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R1-Q3",
+          "episodeId": "EP023",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Dr. Dre's 1992 debut solo album - which established the G-funk production template and introduced a new West Coast sound - was titled what?",
+          "choices": [
+            "Doggystyle",
+            "The Aftermath",
+            "2001",
+            "The Chronic"
+          ],
+          "correctIndex": 3,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Dr. Dre",
+            "song": null,
+            "album": "The Chronic",
+            "year": 1992,
+            "topicTags": [
+              "Dr. Dre",
+              "The Chronic",
+              "1992",
+              "Death Row Records",
+              "G-funk",
+              "debut album"
+            ],
+            "fact": "'The Chronic' was released on Death Row Records in December 1992 and eventually certified triple platinum - its P-Funk-sampling production style, layered synthesizers, and slow BPMs created the G-funk aesthetic that would dominate West Coast rap and R&B for the next three years. The album also introduced Snoop Dogg to a mainstream audience.",
+            "storyHook": "The album that made slow sound dangerous. Synthesizers over P-Funk samples. Snoop Dogg as a guest. Death Row as the address. The Chronic defined a coast's sound in a single release.",
+            "sourceNotes": "The Chronic liner notes (Death Row/Interscope Records, 1992). RIAA certification records. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Chronic - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/The_Chronic",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R1-Q4",
+          "episodeId": "EP023",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Snoop Dogg's 1993 debut album - which introduced the Long Beach G-funk sound to a mainstream audience - was titled what?",
+          "choices": [
+            "Tha Doggfather",
+            "Doggystyle",
+            "R&G (Rhythm & Gangsta)",
+            "Paid tha Cost to Be da Bo$$"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Snoop Dogg",
+            "song": null,
+            "album": "Doggystyle",
+            "year": 1993,
+            "topicTags": [
+              "Snoop Dogg",
+              "Doggystyle",
+              "1993",
+              "Death Row Records",
+              "debut album",
+              "Dr. Dre"
+            ],
+            "fact": "'Doggystyle' was released on Death Row Records in November 1993 and debuted at #1 on the Billboard 200 - selling 800,000 copies in its first week, a then-record for a debut album. Produced entirely by Dr. Dre, the album cemented G-funk as the dominant West Coast sound and made Snoop Dogg's Californian drawl one of the most recognizable voices in popular music.",
+            "storyHook": "Eight hundred thousand copies in the first week. A debut album. Number one on the Billboard 200. Snoop Dogg arrived at a scale that most artists never reach in a full career.",
+            "sourceNotes": "Doggystyle liner notes (Death Row/Interscope Records, 1993). Billboard 200 chart archives. First-week sales documentation. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Doggystyle - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Doggystyle",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Snoop Doggy Dogg Leads the Pack - Los Angeles Times",
+                "url": "https://www.latimes.com/archives/la-xpm-1993-12-02-ca-63303-story.html",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R1-Q5",
+          "episodeId": "EP023",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Warren G's debut album - which contained 'Regulate' as its lead single and became a G-funk landmark - was titled what?",
+          "choices": [
+            "The G-Funk Era",
+            "Regulate... G Funk Era",
+            "Long Beach Story",
+            "This Is the Shakedown"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Warren G",
+            "song": null,
+            "album": "Regulate... G Funk Era",
+            "year": 1994,
+            "topicTags": [
+              "Warren G",
+              "Regulate... G Funk Era",
+              "debut album",
+              "1994",
+              "RAL Records",
+              "Interscope"
+            ],
+            "fact": "'Regulate... G Funk Era' was released on RAL/Interscope Records in June 1994 and debuted at #2 on the Billboard 200 - it was certified double platinum and established Warren G as one of the key architects of the G-funk sound alongside his half-brother Dr. Dre.",
+            "storyHook": "Named after the single. Debuted at #2. Double platinum. Warren G's debut arrived with the confidence of someone who already knew where the sound was going.",
+            "sourceNotes": "Regulate... G Funk Era liner notes (RAL/Interscope Records, 1994). Billboard 200 chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Regulate... G Funk Era - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Regulate..._G_Funk_Era",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R1-Q6",
+          "episodeId": "EP023",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Snoop Dogg's 1993 debut 'Doggystyle' set a new first-week sales record for a debut album - selling how many copies in its opening week?",
+          "choices": [
+            "1,000,000",
+            "500,000",
+            "800,000",
+            "350,000"
+          ],
+          "correctIndex": 2,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Snoop Dogg",
+            "song": null,
+            "album": "Doggystyle",
+            "year": 1993,
+            "topicTags": [
+              "Snoop Dogg",
+              "Doggystyle",
+              "800,000",
+              "first-week sales",
+              "debut record",
+              "1993",
+              "Death Row Records"
+            ],
+            "fact": "Doggystyle sold approximately 803,000 copies in its first week of release in November 1993 - setting a new debut album first-week sales record at the time. The figure reflected both the scale of Dr. Dre's production reputation coming off The Chronic and the marketing machine Death Row had built in the preceding year.",
+            "storyHook": "Eight hundred thousand copies. First week. A debut album. The machine Dr. Dre built with The Chronic ran directly into Doggystyle and neither slowed down.",
+            "sourceNotes": "Doggystyle first-week sales documentation (Death Row/Interscope, 1993). Billboard SoundScan chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Snoop Doggy Dogg Leads the Pack - Los Angeles Times",
+                "url": "https://www.latimes.com/archives/la-xpm-1993-12-02-ca-63303-story.html",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "group_member",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R1-B1",
+          "episodeId": "EP023",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Roger Troutman - whose talk box style defined West Coast R&B's sonic texture for a generation - was the frontman of which Dayton, Ohio funk band?",
+          "choices": [
+            "Midnight Star",
+            "The Isley Brothers",
+            "Zapp",
+            "Ohio Players"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 - ROGER TROUTMAN'S FUNK BAND"
+          },
+          "metadata": {
+            "artist": "Zapp",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Zapp",
+              "Roger Troutman",
+              "talk box",
+              "Dayton Ohio",
+              "G-funk influence",
+              "bonus digit"
+            ],
+            "fact": "Zapp - led by Roger Troutman - was a Dayton, Ohio funk band whose talk box recordings became foundational samples for West Coast G-funk producers. A talk box routes a synthesizer's sound through a plastic tube held in the performer's mouth, using the oral cavity as a resonating chamber - it is entirely distinct from a vocoder, which electronically processes the voice. Roger's warped, deeply physical talk box work on tracks like 'Computer Love' gave Dr. Dre and Warren G their signature sonic palette.",
+            "storyHook": "A funk band from Dayton, Ohio. A talk box - not a vocoder, a talk box. The sound that West Coast rap borrowed and made immortal. Zapp never moved to California, but California moved into Zapp.",
+            "sourceNotes": "Zapp official biography. Roger Troutman discography. Dayton, Ohio funk music documentation. G-funk sample clearance records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Roger Troutman - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Roger_Troutman",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP023-R1-RES1",
+          "episodeId": "EP023",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Nate Dogg - the smooth-voiced hook specialist of G-funk - has what birth name?",
+          "choices": [
+            "Nathan Jones",
+            "Nathaniel Hale",
+            "Marcus Nate Brown",
+            "Darius Dawkins"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Nate Dogg",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Nate Dogg",
+              "Nathaniel Hale",
+              "birth name",
+              "Long Beach",
+              "213",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Nate Dogg official biography. 213 press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Nate Dogg - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Nate_Dogg",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R1-RES2",
+          "episodeId": "EP023",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Michel'le - the Ruthless Records R&B vocalist whose debut was produced entirely by Dr. Dre - has what birth surname?",
+          "choices": [
+            "Denise",
+            "Williams",
+            "Toussaint",
+            "Jackson"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Michel'le",
+            "song": "Something in My Heart",
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Michel'le",
+              "Toussaint",
+              "birth surname",
+              "Ruthless Records",
+              "West Coast R&B",
+              "Dr. Dre",
+              "swap reserve"
+            ],
+            "fact": "Michel'le Denise Toussaint debuted on Eazy-E's Ruthless Records in 1989 with her self-titled album, produced entirely by Dr. Dre during his Ruthless era - years before Death Row existed. She is notable for the extraordinary contrast between her famously high-pitched, childlike speaking voice and her powerful, full-throated singing voice. Jewell was the vocalist who sang hooks on Death Row releases; Michel'le belonged to the Ruthless infrastructure.",
+            "storyHook": "",
+            "sourceNotes": "Michel'le liner notes (Ruthless Records, 1989). Dr. Dre production credits. Ruthless Records artist documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Michel'le - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Michel%27le",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R1-RES3",
+          "episodeId": "EP023",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Warren G's debut album 'Regulate... G Funk Era' was released on which label imprint - connected to Russell Simmons's Rush Communications empire?",
+          "choices": [
+            "RAL Records",
+            "Violator Records",
+            "Loud Records",
+            "Def Jam"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Warren G",
+            "song": null,
+            "album": "Regulate... G Funk Era",
+            "year": 1994,
+            "topicTags": [
+              "Warren G",
+              "RAL Records",
+              "Russell Simmons",
+              "label",
+              "Regulate... G Funk Era",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Regulate... G Funk Era liner notes (RAL/Interscope Records, 1994). Russell Simmons Rush Communications documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Regulate... G Funk Era - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Regulate..._G_Funk_Era",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Regulate... G Funk Era - Dork pressing info",
+                "url": "https://readdork.com/album/regulate-g-funk-era-warren-g/pressing/260480",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R1-RES4",
+          "episodeId": "EP023",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "DJ Quik's 1991 debut album - a Compton rap and R&B hybrid that announced his production style - was titled what?",
+          "choices": [
+            "Way 2 Fonky",
+            "Safe + Sound",
+            "Quik Is the Name",
+            "Balance & Options"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "DJ Quik",
+            "song": null,
+            "album": "Quik Is the Name",
+            "year": 1991,
+            "topicTags": [
+              "DJ Quik",
+              "Quik Is the Name",
+              "debut album",
+              "1991",
+              "Compton",
+              "Profile Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Quik Is the Name liner notes (Profile Records, 1991). Billboard chart archives. AllMusic editorial.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Quik Is the Name - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Quik_Is_the_Name",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Samples, family connections, birth names, and the infrastructure behind the G-funk machine.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP023-R2-Q1",
+          "episodeId": "EP023",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "'California Love' by 2Pac and Dr. Dre was built on an interpolation of which Zapp track - bringing Roger Troutman's legacy into the mid-90s as a live performer on the record?",
+          "choices": [
+            "Doo Wa Ditty",
+            "Computer Love",
+            "I Can Make You Dance",
+            "Doo Wa Ditty (Blow That Thing)"
+          ],
+          "correctIndex": 1,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "2Pac & Dr. Dre",
+            "song": "California Love",
+            "album": "All Eyez on Me",
+            "year": 1995,
+            "topicTags": [
+              "California Love",
+              "Computer Love",
+              "Zapp",
+              "Roger Troutman",
+              "2Pac",
+              "Dr. Dre",
+              "interpolation"
+            ],
+            "fact": "'California Love' interpolated Zapp's 'Computer Love' and featured Roger Troutman himself performing his signature talk box on the track - one of the last major recordings of his career before his murder in 1999. The song spent six weeks at #1 on the Billboard Hot 100 in 1996 and became one of the defining recordings of West Coast hip-hop.",
+            "storyHook": "They didn't just sample it. They brought Roger Troutman into the studio to play it live. 'California Love' is a tribute and a collaboration, not just a sample clearance.",
+            "sourceNotes": "California Love production credits (Death Row/Interscope, 1995). Zapp 'Computer Love' discography. Roger Troutman recording session documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "California Love - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/California_Love",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R2-Q2",
+          "episodeId": "EP023",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Snoop Dogg's mother gave him the nickname 'Snoop' because she thought he resembled which famous animated character?",
+          "choices": [
+            "Pluto",
+            "Scooby-Doo",
+            "Snoopy",
+            "Astro"
+          ],
+          "correctIndex": 2,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Snoop Dogg",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Snoop Dogg",
+              "Snoopy",
+              "nickname",
+              "origin",
+              "Cordozar Broadus",
+              "mother",
+              "Peanuts"
+            ],
+            "fact": "Snoop Dogg's mother nicknamed him 'Snoop' as a child because she thought his appearance - particularly his long face and droopy eyes - resembled Snoopy from Charles Schulz's Peanuts comic strip. The nickname stuck through childhood and into his professional career, becoming the most recognized name in hip-hop's West Coast era.",
+            "storyHook": "His mother thought he looked like a cartoon dog. She told him. The name held for fifty years. There are worse ways to acquire a stage name.",
+            "sourceNotes": "Snoop Dogg biographical records. Long Beach, California documentation. Peanuts cultural documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Snoop Dogg - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Snoop_Dogg",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R2-Q3",
+          "episodeId": "EP023",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Snoop Dogg's first mainstream recording appearance - predating Doggystyle by over a year - was on which 1992 Dr. Dre track from the film of the same name?",
+          "choices": [
+            "Deep Cover",
+            "Let Me Ride",
+            "Nuthin' But a G Thang",
+            "Gin and Juice"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Dr. Dre & Snoop Dogg",
+            "song": "Deep Cover",
+            "album": "Deep Cover (Soundtrack)",
+            "year": 1992,
+            "topicTags": [
+              "Deep Cover",
+              "Snoop Dogg",
+              "Dr. Dre",
+              "1992",
+              "debut recording",
+              "Interscope Records",
+              "film soundtrack"
+            ],
+            "fact": "'Deep Cover' was released in April 1992 for the Laurence Fishburne crime film of the same name - it was Snoop Dogg's first commercial recording release, appearing over a year before Doggystyle. The song introduced his voice and style to a wider audience and established the Dre-Snoop collaboration that would define both of their careers.",
+            "storyHook": "His first record. A film soundtrack. Over a year before Doggystyle. Snoop Dogg's mainstream debut happened quietly in 1992, and almost nobody was ready for what came next.",
+            "sourceNotes": "Deep Cover official soundtrack liner notes (Interscope Records, 1992). Snoop Dogg biographical records. Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Deep Cover (song) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Deep_Cover_(song)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R2-Q4",
+          "episodeId": "EP023",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Raphael Saadiq - later a celebrated neo-soul songwriter and producer - was the lead singer of which Oakland-based R&B trio?",
+          "choices": [
+            "En Vogue",
+            "Shai",
+            "Tony! Toni! Toné!",
+            "Club Nouveau"
+          ],
+          "correctIndex": 2,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Raphael Saadiq",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Raphael Saadiq",
+              "Tony! Toni! Toné!",
+              "Oakland",
+              "Bay Area",
+              "R&B trio",
+              "West Coast",
+              "DJ Quik",
+              "Let's Get Down"
+            ],
+            "fact": "Raphael Saadiq - born Charles Ray Wiggins - was the lead vocalist and primary musical architect of Tony! Toni! Toné!, the Oakland trio whose work defined Bay Area R&B in the early-to-mid 90s. The cross-regional reach of the West Coast sound is illustrated by their 1996 hit 'Let's Get Down,' which was produced by DJ Quik - bridging his Compton G-funk aesthetic with Saadiq's Oakland neo-soul sensibility. After the group's peak, Saadiq launched a solo and production career whose credits span neo-soul, hip-hop, and pop.",
+            "storyHook": "The lead singer of one of Oakland's greatest R&B groups became one of the most in-demand behind-the-scenes forces in the industry. Raphael Saadiq was always more than Tony! Toni! Toné! - but that's where he started.",
+            "sourceNotes": "Tony! Toni! Toné! official biography. Raphael Saadiq solo career documentation. Wing Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Tony! Toni! Toné! - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Tony!_Toni!_Ton%C3%A9!",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R2-Q5",
+          "episodeId": "EP023",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Nate Dogg - who became G-funk's defining hook vocalist - was born in which small Georgia city before relocating to Long Beach?",
+          "choices": [
+            "Valdosta",
+            "Macon",
+            "Albany",
+            "Warner Robins"
+          ],
+          "correctIndex": 3,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Nate Dogg",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Nate Dogg",
+              "Warner Robins",
+              "Georgia",
+              "birthplace",
+              "Long Beach",
+              "origin"
+            ],
+            "fact": "Nathaniel Dwayne Hale was born in Warner Robins, Georgia - a small city in central Georgia near Macon - before his family relocated to Long Beach, California, where he met Snoop Dogg and Warren G. The move from Georgia to Long Beach connected a Southern vocal sensibility to a West Coast production aesthetic.",
+            "storyHook": "Born in central Georgia. Moved to Long Beach. Found Warren G and Snoop Dogg. Became the voice of G-funk. Nate Dogg's career began 2,400 miles from where it made him famous.",
+            "sourceNotes": "Nate Dogg official biography. Warner Robins, Georgia civic documentation. 213 press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Nate Dogg - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Nate_Dogg",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R2-B1",
+          "episodeId": "EP023",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Dr. Dre's birth name - which appears on his earliest recording credits before the stage name took over - is what?",
+          "choices": [
+            "Andre Romelle Young",
+            "Andre Calvin Brown",
+            "Dre Andre Williams",
+            "Calvin Cordozar Broadus"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 - DR. DRE'S BIRTH NAME"
+          },
+          "metadata": {
+            "artist": "Dr. Dre",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Dr. Dre",
+              "Andre Romelle Young",
+              "birth name",
+              "stage name",
+              "NWA",
+              "Compton",
+              "bonus digit"
+            ],
+            "fact": "Dr. Dre was born Andre Romelle Young on February 18, 1965, in Compton, California - 'Dr. Dre' was a stage name developed during his early DJ career, combining a medical title with a tribute to Dr. J (Julius Erving), the basketball player. The birth name appears on early World Class Wreckin' Cru and NWA recording credits.",
+            "storyHook": "Named for a basketball player. Titled like a doctor. Andre Romelle Young from Compton became the man who built the sound of a decade. The name was borrowed. The talent was original.",
+            "sourceNotes": "Dr. Dre biographical records. World Class Wreckin' Cru discography. NWA signing documentation. Compton civic records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Dr. Dre - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Dr._Dre",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP023-R2-RES1",
+          "episodeId": "EP023",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Dr. Dre founded which Los Angeles-based label imprint in 1996 - his first major venture after departing Death Row Records?",
+          "choices": [
+            "Aftermath Entertainment",
+            "Interscope West",
+            "Compton Records",
+            "Beats by Dre Records"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Dr. Dre",
+            "song": null,
+            "album": null,
+            "year": 1996,
+            "topicTags": [
+              "Dr. Dre",
+              "Aftermath Entertainment",
+              "1996",
+              "Death Row Records",
+              "label",
+              "Interscope",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Aftermath Entertainment founding documentation (1996). Interscope Records partnership records. Dr. Dre biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Aftermath Entertainment - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Aftermath_Entertainment",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "general",
+            "factType": "label",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R2-RES2",
+          "episodeId": "EP023",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Roger Troutman of Zapp was shot and killed in Dayton, Ohio in April 1999 - the shooter was which family member, who then took his own life?",
+          "choices": [
+            "Lester Troutman",
+            "Tony Troutman",
+            "Larry Troutman",
+            "Terry Troutman"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Roger Troutman",
+            "song": null,
+            "album": null,
+            "year": 1999,
+            "topicTags": [
+              "Roger Troutman",
+              "Lester Troutman",
+              "murder",
+              "Dayton Ohio",
+              "1999",
+              "Zapp",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Verified: Roger Troutman was shot and killed by his brother Larry Troutman, who then died by suicide. Source: Wikipedia https://en.wikipedia.org/wiki/Roger_Troutman",
+            "clipCue": "",
+            "hostNote": "HOST_SENSITIVITY: Frame sensitively - documented historical event, not gratuitous.",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Roger Troutman - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Roger_Troutman",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Larry Troutman - IMDB biography",
+                "url": "https://www.imdb.com/name/nm1277742/bio/?ref_=nm_ov_bio_sm",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Zapp Brothers Found Dead - Rolling Stone",
+                "url": "https://www.rollingstone.com/music/music-news/zapp-brothers-found-dead-90905/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R2-RES3",
+          "episodeId": "EP023",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "DJ Quik - whose 1991 debut established him as one of the West Coast's defining producer-rappers - was raised in which Southern California city?",
+          "choices": [
+            "Inglewood",
+            "Long Beach",
+            "Pomona",
+            "Compton"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "DJ Quik",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "DJ Quik",
+              "Compton",
+              "West Coast",
+              "biography",
+              "producer",
+              "rapper"
+            ],
+            "fact": "DJ Quik was raised in Compton, California - the same city that produced N.W.A and shaped the hard-edged West Coast sound he would later refine into a smoother, more melodic G-funk and R&B hybrid. His Compton roots are central to the biography he established on his 1991 debut.",
+            "storyHook": "Compton produced N.W.A. It also produced DJ Quik - a different sound from the same streets.",
+            "sourceNotes": "PRIORITY VERIFY: Confirm DJ Quik was raised in Compton, California. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "DJ Quik - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/DJ_Quik",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-17",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "The P-Funk lineage, area codes, and the birth names underneath the West Coast sound.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP023-R3-Q1",
+          "episodeId": "EP023",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1970s",
+          "question": "G-funk's entire sonic template - its P-Funk samples, layered synthesizers, and slow grooves - traced back to the Parliament/Funkadelic catalog of which visionary musician?",
+          "choices": [
+            "Roger Troutman",
+            "George Clinton",
+            "Bootsy Collins",
+            "Bernie Worrell"
+          ],
+          "correctIndex": 1,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "George Clinton",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "George Clinton",
+              "Parliament",
+              "Funkadelic",
+              "P-Funk",
+              "G-funk lineage",
+              "influence",
+              "samples"
+            ],
+            "fact": "George Clinton - the architect of Parliament and Funkadelic - is the primary creative source from which G-funk drew its sample catalog, its sonic philosophy, and its production approach. Dr. Dre licensed dozens of P-Funk recordings for The Chronic and subsequent releases, and Clinton has said that G-funk kept his publishing catalog commercially active long after Parliament/Funkadelic's peak.",
+            "storyHook": "George Clinton made the music in the 70s. Dr. Dre sampled it in the 90s. The publishing royalties kept flowing. G-funk was not just an aesthetic - it was a decades-long transaction between two generations of Black American music.",
+            "sourceNotes": "George Clinton biographical records. Parliament/Funkadelic discography. Dr. Dre sample clearance documentation. P-Funk publishing records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "G-funk - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/G-funk",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R3-Q2",
+          "episodeId": "EP023",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "The group name '213' was taken directly from which California coastal city's telephone area code - the shared hometown of Snoop, Warren G, and Nate Dogg?",
+          "choices": [
+            "Compton",
+            "Inglewood",
+            "Carson",
+            "Long Beach"
+          ],
+          "correctIndex": 3,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "213",
+            "song": null,
+            "album": "The Hard Way",
+            "year": 2004,
+            "topicTags": [
+              "213",
+              "Long Beach",
+              "area code",
+              "213 area code",
+              "Snoop Dogg",
+              "Warren G",
+              "Nate Dogg"
+            ],
+            "fact": "The 213 area code covered the greater Los Angeles and Long Beach area - Snoop Dogg, Warren G, and Nate Dogg all grew up in Long Beach under that code before it was subdivided. The group name was both a geographic identifier and a statement of shared origin, linking three artists whose careers grew from the same neighborhood.",
+            "storyHook": "Three artists. One area code. One neighborhood. The name '213' is the most efficient biography any group has ever written - it tells you where they're from and nothing else. That turned out to be enough.",
+            "sourceNotes": "213 official biography. Long Beach area code history. California telephone number assignment documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "213 (group) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/213_(group)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R3-B1",
+          "episodeId": "EP023",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "DJ Quik - the Compton producer and rapper behind 'Tonite' and 'Dollaz + Sense' - has what birth name?",
+          "choices": [
+            "Darnell Brooks",
+            "David Blake",
+            "Deon Carter",
+            "Darius Quinn"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 3 OF 3 - DJ QUIK'S BIRTH NAME"
+          },
+          "metadata": {
+            "artist": "DJ Quik",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "DJ Quik",
+              "David Blake",
+              "birth name",
+              "Compton",
+              "California",
+              "West Coast",
+              "bonus digit"
+            ],
+            "fact": "DJ Quik was born David Marvin Blake on January 18, 1970, in Compton, California - his stage name 'Quik' reflected both the speed of his production process and his facility with live instrumentation. Blake's self-produced debut at 21 established him as one of the most technically accomplished producer-rappers the West Coast had generated.",
+            "storyHook": "Born David Blake. Became DJ Quik. Compton, 1970. Self-produced debut at 21. The name was a description, not a branding exercise.",
+            "sourceNotes": "DJ Quik official biography. Profile Records press materials. Compton civic documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "DJ Quik - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/DJ_Quik",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP023-R3-RES1",
+          "episodeId": "EP023",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "Before launching his solo career, Nate Dogg was a founding member of which Long Beach trio - alongside Snoop Dogg and Warren G?",
+          "choices": [
+            "Dogg Pound",
+            "Tha Eastsidaz",
+            "Long Beach Dub Allstars",
+            "213"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Nate Dogg",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Nate Dogg",
+              "213",
+              "Snoop Dogg",
+              "Warren G",
+              "Long Beach",
+              "supergroup",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "213 official biography. Nate Dogg biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "213 (group) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/213_(group)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Nate Dogg - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Nate_Dogg",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP023-R3-RES2",
+          "episodeId": "EP023",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Snoop Dogg's 1992 recording debut 'Deep Cover' appeared on the soundtrack of a crime film starring which actor in the lead role?",
+          "choices": [
+            "Forest Whitaker",
+            "Laurence Fishburne",
+            "Wesley Snipes",
+            "Denzel Washington"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Snoop Dogg",
+            "song": "Deep Cover",
+            "album": "Deep Cover (Soundtrack)",
+            "year": 1992,
+            "topicTags": [
+              "Snoop Dogg",
+              "Deep Cover",
+              "Laurence Fishburne",
+              "film",
+              "1992",
+              "soundtrack",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Deep Cover film production records (Universal Pictures, 1992). Soundtrack liner notes (Interscope Records, 1992).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Deep Cover (film) - Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Deep_Cover_(film)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "EP023",
+    "builtAt": "2026-05-10T20:08:41.611507+00:00"
+  }
+}

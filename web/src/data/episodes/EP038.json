@@ -1,0 +1,1550 @@
+{
+  "episodeId": "EP038",
+  "title": "The Feels",
+  "theme": "Contemporary R&B's era of emotional exposure — 2008 to 2013, when artists like Frank Ocean, Jhené Aiko, Miguel, and Jazmine Sullivan made vulnerability the aesthetic and the charts agreed.",
+  "narrativePurpose": "Test knowledge of the breakthrough records, labels, albums, and biographical facts behind the generation of R&B artists who defined the early 2010s — a period when the genre's emotional range expanded dramatically.",
+  "toneProgression": "Identify the track, the artist, and the album → labels, chart history, Grammy credits, and production context → birth names, birthplaces, and the personal facts behind the era's most intimate records",
+  "version": "1.0",
+  "status": "draft",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "2"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 2-0-1-2 — the year that crystallised this era: Frank Ocean's Channel ORANGE, Miguel's Kaleidoscope Dream, and Elle Varner's Conversational Lush all arrived in 2012, making it the most critically significant year in early 2010s R&B. The year the genre's new emotional architecture became undeniable."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The records, the artists, and the albums. Entry level — but this era rewards those who were paying attention.",
+      "color": "#FFD700",
+      "accentVar": "--gold",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP038-R1-Q1",
+          "episodeId": "EP038",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2010s",
+          "question": "At the 55th Grammy Awards in 2013, which artist won Best R&B Song for 'Adorn'?",
+          "choices": [
+            "Frank Ocean",
+            "Lloyd",
+            "Miguel",
+            "Trey Songz"
+          ],
+          "correctIndex": 2,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Miguel",
+            "song": "Adorn",
+            "album": "Kaleidoscope Dream",
+            "year": 2012,
+            "topicTags": [
+              "Miguel",
+              "Adorn",
+              "Grammy",
+              "Best R&B Song",
+              "55th Grammy Awards",
+              "2013",
+              "Kaleidoscope Dream"
+            ],
+            "fact": "'Adorn' won Best R&B Song at the 55th Annual Grammy Awards in 2013 — Miguel's first Grammy win and confirmation that his album Kaleidoscope Dream had positioned him as one of the defining voices of the new R&B generation.",
+            "storyHook": "The 55th Grammys. Best R&B Song. 'Adorn.' Miguel took the trophy and made the year's clearest statement about where R&B was going.",
+            "sourceNotes": "PRIORITY VERIFY: Miguel 'Adorn' won Best R&B Song at 55th Grammys (2013). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Miguel Wins Best R&B Song for 'Adorn' at 2013 Grammy Awards – The Drop",
+                "url": "https://thedrop.fm/miguel-wins-best-r-and-b-song-adorn-2013-grammy-awards/",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Miguel, Grammys 2013: 'Adorn' Wins Best R&B Song – The Boombox",
+                "url": "https://theboombox.com/miguel-grammys-2013-win/",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Miguel interview clip referencing 'Adorn' Grammy win – Brut",
+                "url": "https://www.facebook.com/brutamerica/videos/miguel-talked-to-brut-journalist-camille-guinevere-smith-about-the-unexpected-st/987",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "award",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R1-Q2",
+          "episodeId": "EP038",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2010s",
+          "question": "Frank Ocean's 'Thinkin Bout You' appeared on which critically acclaimed 2012 debut studio album?",
+          "choices": [
+            "nostalgia, ULTRA",
+            "Blonde",
+            "Channel ORANGE",
+            "Boys Don't Cry"
+          ],
+          "correctIndex": 2,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Frank Ocean",
+            "song": "Thinkin Bout You",
+            "album": "Channel ORANGE",
+            "year": 2012,
+            "topicTags": [
+              "Frank Ocean",
+              "Thinkin Bout You",
+              "Channel ORANGE",
+              "2012",
+              "Def Jam",
+              "debut album"
+            ],
+            "fact": "Channel ORANGE (2012) was Frank Ocean's debut studio album — released through Def Jam — and debuted at #2 on the Billboard 200. 'Thinkin Bout You' was its lead single and became one of the most emotionally resonant R&B records of the era, establishing Ocean as a generational voice.",
+            "storyHook": "Channel ORANGE. 2012. 'Thinkin Bout You' was the introduction. What followed was one of the decade's most important albums.",
+            "sourceNotes": "PRIORITY VERIFY: Frank Ocean 'Thinkin Bout You' from Channel ORANGE (2012), Def Jam Records, debut at #2 Billboard 200. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Thinkin Bout You – Spotify track page",
+                "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R1-Q3",
+          "episodeId": "EP038",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2010s",
+          "question": "Kelly Rowland's 2011 single 'Motivation' featured which rapper on the hook?",
+          "choices": [
+            "Drake",
+            "Lil Wayne",
+            "Nicki Minaj",
+            "Ludacris"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Kelly Rowland",
+            "song": "Motivation",
+            "album": "Here I Am",
+            "year": 2011,
+            "topicTags": [
+              "Kelly Rowland",
+              "Motivation",
+              "Lil Wayne",
+              "2011",
+              "Here I Am",
+              "feature"
+            ],
+            "fact": "'Motivation' — from Kelly Rowland's 2011 album Here I Am — featured Lil Wayne and became one of the most-played R&B singles of that summer, reaching #1 on the Billboard Hot R&B/Hip-Hop Songs chart.",
+            "storyHook": "Kelly Rowland. Lil Wayne. Summer 2011. 'Motivation' was everywhere — and for good reason.",
+            "sourceNotes": "PRIORITY VERIFY: Kelly Rowland 'Motivation' feat. Lil Wayne, from Here I Am (2011), #1 R&B. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Kelly Rowland - Motivation (Explicit) ft. Lil Wayne – YouTube",
+                "url": "https://www.youtube.com/watch?v=s1XozsBN5Z4",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "feature",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R1-Q4",
+          "episodeId": "EP038",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2010s",
+          "question": "'It Kills Me' was the breakthrough hit for which Canadian R&B singer?",
+          "choices": [
+            "Deborah Cox",
+            "Jully Black",
+            "Tamia",
+            "Melanie Fiona"
+          ],
+          "correctIndex": 3,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Melanie Fiona",
+            "song": "It Kills Me",
+            "album": "The Bridge",
+            "year": 2009,
+            "topicTags": [
+              "Melanie Fiona",
+              "It Kills Me",
+              "2009",
+              "The Bridge",
+              "Canadian",
+              "R&B"
+            ],
+            "fact": "'It Kills Me' appeared on Melanie Fiona's debut album The Bridge (2009) and became her commercial breakthrough — reaching #1 on the Billboard Hot R&B/Hip-Hop Songs chart. Fiona is Canadian, born in Toronto to parents of Guyanese heritage, and represented a strong wave of Caribbean-Canadian R&B talent.",
+            "storyHook": "Canadian. Guyanese heritage. A debut album. A number-one R&B single. Melanie Fiona arrived with 'It Kills Me' and made the case immediately.",
+            "sourceNotes": "PRIORITY VERIFY: Melanie Fiona 'It Kills Me' from The Bridge (2009), #1 R&B, Canadian artist. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Melanie Fiona - It Kills Me – YouTube",
+                "url": "https://www.youtube.com/watch?v=Q8yZedKTXJ0",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Melanie Fiona – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Melanie_Fiona",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R1-Q5",
+          "episodeId": "EP038",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2010s",
+          "question": "Trey Songz's 'Neighbors Know My Name' appeared on which 2009 album — his commercial breakthrough?",
+          "choices": [
+            "Ready",
+            "Trigga",
+            "Chapter V",
+            "Trey Day"
+          ],
+          "correctIndex": 0,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Trey Songz",
+            "song": "Neighbors Know My Name",
+            "album": "Ready",
+            "year": 2009,
+            "topicTags": [
+              "Trey Songz",
+              "Neighbors Know My Name",
+              "Ready",
+              "2009",
+              "Atlantic Records"
+            ],
+            "fact": "Ready (2009) was Trey Songz's third studio album and commercial breakthrough — debuting at #3 on the Billboard 200 and containing 'Neighbors Know My Name,' which became one of his signature records. The album established his persona as contemporary R&B's most unapologetically sensual voice.",
+            "storyHook": "Ready. 2009. The album that turned Trey Songz from a promising act into the sound of a generation's Saturday nights.",
+            "sourceNotes": "PRIORITY VERIFY: Trey Songz 'Neighbors Know My Name' from Ready (2009), Atlantic Records, debut at #3 Billboard 200. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Neighbors Know My Name – Spotify track page",
+                "url": "https://open.spotify.com/track/6jvvpPJQJy5rMOEkLlADl6",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R1-Q6",
+          "episodeId": "EP038",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2010s",
+          "question": "Jazmine Sullivan's 'Holding You Down (Goin' in Circles)' appeared on which 2010 album?",
+          "choices": [
+            "Heaux Tales",
+            "Love Me Back",
+            "Fearless",
+            "Reality Show"
+          ],
+          "correctIndex": 1,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jazmine Sullivan",
+            "song": "Holding You Down (Goin' in Circles)",
+            "album": "Love Me Back",
+            "year": 2010,
+            "topicTags": [
+              "Jazmine Sullivan",
+              "Holding You Down",
+              "Love Me Back",
+              "2010",
+              "J Records",
+              "Philadelphia"
+            ],
+            "fact": "Love Me Back (2010) was Jazmine Sullivan's second studio album — released on J Records — and contained 'Holding You Down (Goin' in Circles),' a portrait of the emotional trap of a one-sided relationship that became one of the era's most unflinching love songs.",
+            "storyHook": "Love Me Back. Jazmine Sullivan told the truth about loving someone who doesn't love you back — and 'Holding You Down' was the most honest version of that truth.",
+            "sourceNotes": "PRIORITY VERIFY: Jazmine Sullivan 'Holding You Down' from Love Me Back (2010), J Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Holding You Down (Goin' in Circles) – Spotify track page",
+                "url": "https://open.spotify.com/track/5UdicZrmNt418AmwNixCJP",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R1-B1",
+          "episodeId": "EP038",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "2010s",
+          "question": "Lloyd's 'Lay It Down' appeared on which 2008 album?",
+          "choices": [
+            "Street Love",
+            "King of Hearts",
+            "Lessons in Love",
+            "Southside"
+          ],
+          "correctIndex": 2,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "2",
+            "bonusHint": "DIGIT 1 OF 3 — THE ERA BEGINS"
+          },
+          "metadata": {
+            "artist": "Lloyd",
+            "song": "Lay It Down",
+            "album": "Lessons in Love",
+            "year": 2008,
+            "topicTags": [
+              "Lloyd",
+              "Lay It Down",
+              "Geffen Records",
+              "2008",
+              "Lessons in Love"
+            ],
+            "fact": "'Lay It Down' appeared on Lessons in Love (2008) — Lloyd's third studio album — and reached #1 on the Billboard Hot R&B/Hip-Hop Songs chart.",
+            "storyHook": "Geffen Records. 2008. 'Lay It Down' was Lloyd's moment — and the number-one R&B record confirmed it.",
+            "sourceNotes": "PRIORITY VERIFY: Lloyd 'Lay It Down' from Lessons in Love (2008), Geffen Records, #1 R&B. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lloyd - Lay It Down – YouTube",
+                "url": "https://www.youtube.com/watch?v=FSkRBCPRf8Q",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Lay It Down (Lloyd song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lay_It_Down_(Lloyd_song)",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP038-R1-RES1",
+          "episodeId": "EP038",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2010s",
+          "question": "Jhené Aiko's 'The Worst' appeared on which 2013 debut EP?",
+          "choices": [
+            "Trip",
+            "Chilombo",
+            "Souled Out",
+            "Sail Out"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jhené Aiko",
+            "song": "The Worst",
+            "album": "Sail Out",
+            "year": 2013,
+            "topicTags": [
+              "Jhené Aiko",
+              "The Worst",
+              "Sail Out",
+              "2013",
+              "Def Jam",
+              "EP"
+            ],
+            "fact": "Sail Out (2013) was Jhené Aiko's debut EP — released through Def Jam — and contained 'The Worst,' a bare, confessional account of being mistreated in a relationship. The EP's minimal production and Aiko's whispered delivery established an aesthetic that alternative R&B had not previously defined this precisely.",
+            "storyHook": "Sail Out. A debut EP. 'The Worst.' Jhené Aiko arrived in 2013 already knowing exactly who she was as an artist.",
+            "sourceNotes": "PRIORITY VERIFY: Jhené Aiko 'The Worst' from Sail Out EP (2013), Def Jam Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jhené Aiko - The Worst – YouTube",
+                "url": "https://www.youtube.com/watch?v=oEm3lY3trRU",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R1-RES2",
+          "episodeId": "EP038",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2010s",
+          "question": "'Finding My Way Back' was a single from which 2010 Jaheim album?",
+          "choices": [
+            "Never",
+            "Ghetto Love",
+            "Still Ghetto",
+            "Another Round"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jaheim",
+            "song": "Finding My Way Back",
+            "album": "Another Round",
+            "year": 2010,
+            "topicTags": [
+              "Jaheim",
+              "Finding My Way Back",
+              "Another Round",
+              "2010"
+            ],
+            "fact": "'Finding My Way Back' was the second single from Jaheim's 2010 album Another Round — a smooth, reflective R&B record that reinforced his reputation as one of the genre's most consistent balladeers in the late 2000s and early 2010s.",
+            "storyHook": "Jaheim. Another Round. 2010. 'Finding My Way Back' was everything his audience expected — and delivered without compromise.",
+            "sourceNotes": "Verified: 'Finding My Way Back' second single from Another Round (2010). Sources: Wikipedia https://en.wikipedia.org/wiki/Finding_My_Way_Back, Wikipedia Another Round https://en.wikipedia.org/wiki/Another_Round_(album)",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Another Round (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Another_Round_(album)",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R1-RES3",
+          "episodeId": "EP038",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2010s",
+          "question": "'Refill' was the breakthrough single for which R&B artist — who also released the 2012 mixtape Conversational Lush?",
+          "choices": [
+            "Jhené Aiko",
+            "K. Michelle",
+            "Tamar Braxton",
+            "Elle Varner"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Elle Varner",
+            "song": "Refill",
+            "album": "Conversational Lush",
+            "year": 2012,
+            "topicTags": [
+              "Elle Varner",
+              "Refill",
+              "Conversational Lush",
+              "2012",
+              "debut single",
+              "RCA Records"
+            ],
+            "fact": "'Refill' was Elle Varner's debut single — released in 2011 ahead of her 2012 album Conversational Lush on RCA Records. The song's earthy, jazz-inflected production and Varner's distinctive rasp immediately set her apart from her contemporaries, earning critical praise and establishing her as one of the most promising new voices in the genre.",
+            "storyHook": "A debut single. A distinctive voice. 'Refill' introduced Elle Varner and gave the new R&B generation one of its most promising arrivals.",
+            "sourceNotes": "PRIORITY VERIFY: Elle Varner 'Refill' debut single (2011), Conversational Lush album (2012), RCA Records. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Conversational Lush – Elle Varner mixtape playlist",
+                "url": "https://soundcloud.com/omgellevarner/sets/conversational-lush",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Perfectly Imperfect (Elle Varner album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Perfectly_Imperfect_(Elle_Varner_album)",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R1-RES4",
+          "episodeId": "EP038",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Radio Hits",
+          "era": "2010s",
+          "question": "Melanie Fiona won Best Traditional R&B Performance at the Grammys for 'Fool for You' — a collaboration with which artist?",
+          "choices": [
+            "Raphael Saadiq",
+            "CeeLo Green",
+            "John Legend",
+            "Anthony Hamilton"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Melanie Fiona",
+            "song": "Fool for You",
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Melanie Fiona",
+              "Fool for You",
+              "CeeLo Green",
+              "Grammy",
+              "Best Traditional R&B Performance"
+            ],
+            "fact": "Melanie Fiona won the Grammy for Best Traditional R&B Performance for 'Fool for You' — recorded with CeeLo Green. The award recognised her vocal command on a track that sat squarely in the classic soul tradition, a different register entirely from the contemporary R&B of 'It Kills Me.'",
+            "storyHook": "She broke through with 'It Kills Me.' She won the Grammy with CeeLo Green. Melanie Fiona had more than one mode — and the Academy noticed.",
+            "sourceNotes": "PRIORITY VERIFY: Melanie Fiona won Best Traditional R&B Performance for 'Fool for You' with CeeLo Green. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Fool for You – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Fool_for_You",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Melanie Fiona holds Grammys for 'Fool for You' – Magic Motown & Soul",
+                "url": "https://www.facebook.com/groups/susancrebello/posts/3714627582154897/",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Melanie Fiona holds Grammys for 'Fool for You' – Alamy caption",
+                "url": "https://www.alamy.com/melanie-fiona-holds-grammys-for-best-traditional-rb-performance-fool-for-you-by-cee-lo-green-and-fiona-at-imageTY2KR9",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "award",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Albums, labels, birth names, and the production context behind the era's defining records.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP038-R2-Q1",
+          "episodeId": "EP038",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2010s",
+          "question": "Miguel was born under which full birth name?",
+          "choices": [
+            "Miguel Omar Pimentel",
+            "Miguel Arturo Pimentel",
+            "Miguel David Sanchez",
+            "Miguel Jontel Pimentel"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Miguel",
+            "song": "Adorn",
+            "album": "Kaleidoscope Dream",
+            "year": 2012,
+            "topicTags": [
+              "Miguel",
+              "Miguel Jontel Pimentel",
+              "birth name",
+              "biography",
+              "San Pedro"
+            ],
+            "fact": "Miguel was born Miguel Jontel Pimentel on October 23, 1985, in San Pedro, Los Angeles, California. He performs under his first name only — a decision that emphasised the intimacy and directness his music was built around.",
+            "storyHook": "Miguel Jontel Pimentel. Born in San Pedro, California. He went by one name. The music made sure you remembered it.",
+            "sourceNotes": "PRIORITY VERIFY: Miguel born Miguel Jontel Pimentel, San Pedro, California. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Miguel (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Miguel_(singer)",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R2-Q2",
+          "episodeId": "EP038",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2010s",
+          "question": "Frank Ocean — whose 'Thinkin Bout You' defined 2012 R&B — was born under which name?",
+          "choices": [
+            "Christopher Julian Breaux",
+            "Frank Breaux Christopher",
+            "Christopher Breaux",
+            "Franklin Christopher"
+          ],
+          "correctIndex": 2,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Frank Ocean",
+            "song": "Thinkin Bout You",
+            "album": "Channel ORANGE",
+            "year": 2012,
+            "topicTags": [
+              "Frank Ocean",
+              "Christopher Breaux",
+              "birth name",
+              "biography",
+              "New Orleans"
+            ],
+            "fact": "Frank Ocean was born Christopher Edwin Breaux on October 28, 1987, in New Orleans, Louisiana. He adopted the stage name Frank Ocean — partly as an homage to Frank Sinatra and partly as a clean break from the name he grew up with — as he transitioned from ghostwriting to recording his own material.",
+            "storyHook": "Christopher Breaux became Frank Ocean. The name change was part of the reinvention — and Channel ORANGE made the new identity permanent.",
+            "sourceNotes": "PRIORITY VERIFY: Frank Ocean born Christopher Breaux (full: Christopher Edwin Breaux), New Orleans. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Frank Ocean, born Christopher Edwin Breaux – Instagram bio reel",
+                "url": "https://www.instagram.com/reel/DUD5VN7jV7d/?hl=en",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R2-Q3",
+          "episodeId": "EP038",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2010s",
+          "question": "Trey Songz — the man behind 'Neighbors Know My Name' — performs under a stage name. What is his birth name?",
+          "choices": [
+            "Trevon Anthony Robinson",
+            "Tremaine Aldon Neverson",
+            "Trevor Lawrence Simmons",
+            "Tremaine Devon Hollins"
+          ],
+          "correctIndex": 1,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Trey Songz",
+            "song": "Neighbors Know My Name",
+            "album": "Ready",
+            "year": 2009,
+            "topicTags": [
+              "Trey Songz",
+              "Tremaine Aldon Neverson",
+              "birth name",
+              "biography",
+              "Petersburg",
+              "Virginia"
+            ],
+            "fact": "Trey Songz was born Tremaine Aldon Neverson on November 28, 1984, in Petersburg, Virginia. The stage name — a reference to him being the third (Trey) singer/songwriter in his family lineage — replaced a birth name that carried the full weight of his Southern roots.",
+            "storyHook": "Tremaine Aldon Neverson. Petersburg, Virginia. He became Trey Songz. The neighbours knew his name — and eventually so did everyone else.",
+            "sourceNotes": "PRIORITY VERIFY: Trey Songz born Tremaine Aldon Neverson, Petersburg, Virginia. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Trey Songz – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Trey_Songz",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R2-Q4",
+          "episodeId": "EP038",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2010s",
+          "question": "'Adorn' appeared on which 2012 Miguel album — his second studio release?",
+          "choices": [
+            "Kaleidoscope Dream",
+            "All I Want Is You",
+            "War & Leisure",
+            "Wildheart"
+          ],
+          "correctIndex": 0,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Miguel",
+            "song": "Adorn",
+            "album": "Kaleidoscope Dream",
+            "year": 2012,
+            "topicTags": [
+              "Miguel",
+              "Adorn",
+              "Kaleidoscope Dream",
+              "2012",
+              "RCA Records"
+            ],
+            "fact": "Kaleidoscope Dream (2012) was Miguel's second studio album — released on RCA Records — and the record that established him as one of the most distinctive voices in contemporary R&B. 'Adorn' was its lead single and Grammy-winning centrepiece.",
+            "storyHook": "Kaleidoscope Dream. Second album. Lead single wins a Grammy. Miguel made the case for himself with one record — and the industry agreed.",
+            "sourceNotes": "PRIORITY VERIFY: Miguel Kaleidoscope Dream (2012), RCA Records, 'Adorn' as lead single. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Adorn (song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Adorn_(song)",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Kaleidoscope Dream – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Kaleidoscope_Dream",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R2-Q5",
+          "episodeId": "EP038",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2010s",
+          "question": "Elle Varner's debut studio album — home to breakthrough single 'Refill' — was titled what?",
+          "choices": [
+            "Perfectly Imperfect",
+            "4 Letter Word",
+            "Conversational Lush",
+            "Only Wanna Give It to You"
+          ],
+          "correctIndex": 0,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Elle Varner",
+            "song": "Refill",
+            "album": "Conversational Lush",
+            "year": 2012,
+            "topicTags": [
+              "Elle Varner",
+              "Conversational Lush",
+              "Refill",
+              "2012",
+              "RCA Records",
+              "debut album"
+            ],
+            "fact": "Perfectly Imperfect (2012) was Elle Varner's debut studio album on RCA Records. Conversational Lush was a 2012 mixtape she released around the same period — 'Refill' appeared on the studio album.",
+            "storyHook": "Conversational Lush. The title told you everything about the sound before you heard a note. Elle Varner's debut made good on every promise the title made.",
+            "sourceNotes": "PRIORITY VERIFY: Elle Varner Conversational Lush (2012), RCA Records, debut album. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Perfectly Imperfect (Elle Varner album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Perfectly_Imperfect_(Elle_Varner_album)",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Conversational Lush – Elle Varner mixtape playlist",
+                "url": "https://soundcloud.com/omgellevarner/sets/conversational-lush",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R2-B1",
+          "episodeId": "EP038",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "2010s",
+          "question": "Melanie Fiona — who broke through with 'It Kills Me' — was born in Toronto to parents of heritage from which Caribbean country?",
+          "choices": [
+            "Jamaica",
+            "Trinidad and Tobago",
+            "Barbados",
+            "Guyana"
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "0",
+            "bonusHint": "DIGIT 2 OF 3 — THE ERA IN FULL"
+          },
+          "metadata": {
+            "artist": "Melanie Fiona",
+            "song": "It Kills Me",
+            "album": "The Bridge",
+            "year": 2009,
+            "topicTags": [
+              "Melanie Fiona",
+              "Guyana",
+              "Guyanese",
+              "Toronto",
+              "Canadian",
+              "heritage",
+              "biography"
+            ],
+            "fact": "Melanie Fiona was born in Toronto, Canada, to parents of Guyanese heritage — making her part of a significant wave of Caribbean-Canadian R&B artists who brought a distinct cultural texture to the genre in the late 2000s and early 2010s.",
+            "storyHook": "Toronto. Guyanese roots. Canadian R&B. Melanie Fiona brought a specific heritage to a sound that didn't always know where to file it — and 'It Kills Me' made the filing irrelevant.",
+            "sourceNotes": "PRIORITY VERIFY: Melanie Fiona born in Toronto to Guyanese parents. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Melanie Fiona – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Melanie_Fiona",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Grammy star Melanie Fiona – CBC News",
+                "url": "https://www.cbc.ca/news/entertainment/grammy-star-melanie-fiona-1.1177329",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP038-R2-RES1",
+          "episodeId": "EP038",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2010s",
+          "question": "'Motivation' appeared on which 2011 Kelly Rowland album?",
+          "choices": [
+            "Ms. Kelly",
+            "Talk a Good Game",
+            "Kelly",
+            "Here I Am"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Kelly Rowland",
+            "song": "Motivation",
+            "album": "Here I Am",
+            "year": 2011,
+            "topicTags": [
+              "Kelly Rowland",
+              "Motivation",
+              "Here I Am",
+              "2011",
+              "Mercury Records"
+            ],
+            "fact": "Here I Am (2011) was Kelly Rowland's third solo studio album — and 'Motivation,' featuring Lil Wayne, was its commercial and cultural centrepiece. The album marked a confident assertion of Rowland's solo identity, independent of her Destiny's Child legacy.",
+            "storyHook": "Here I Am. The title was a statement. Kelly Rowland's third album made the case for a solo identity that the world had been slow to fully accept.",
+            "sourceNotes": "PRIORITY VERIFY: Kelly Rowland 'Motivation' from Here I Am (2011). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Here I Am (Kelly Rowland album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Here_I_Am_(Kelly_Rowland_album)",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R2-RES2",
+          "episodeId": "EP038",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2010s",
+          "question": "Jazmine Sullivan's 2008 debut album — which preceded Love Me Back — was titled what?",
+          "choices": [
+            "Fearless",
+            "Reality Show",
+            "Phoenix",
+            "Boldly Going Nowhere"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jazmine Sullivan",
+            "song": null,
+            "album": "Fearless",
+            "year": 2008,
+            "topicTags": [
+              "Jazmine Sullivan",
+              "Fearless",
+              "2008",
+              "J Records",
+              "debut album",
+              "Philadelphia"
+            ],
+            "fact": "Fearless (2008) was Jazmine Sullivan's debut studio album — released on J Records — and introduced her voice to a mainstream audience that had been prepared for her by years of industry word-of-mouth. The album produced 'Bust Your Windows' and established Sullivan as Philadelphia's most formidable new R&B voice.",
+            "storyHook": "Fearless. The debut. Before Love Me Back. Jazmine Sullivan arrived in 2008 with an album that lived up to its title.",
+            "sourceNotes": "PRIORITY VERIFY: Jazmine Sullivan Fearless (2008), J Records, debut album. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Fearless (Jazmine Sullivan album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Fearless_(Jazmine_Sullivan_album)",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "release",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R2-RES3",
+          "episodeId": "EP038",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2010s",
+          "question": "Trey Songz — who recorded 'Neighbors Know My Name' — was born in which small Virginia city?",
+          "choices": [
+            "Charlottesville",
+            "Petersburg",
+            "Norfolk",
+            "Roanoke"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Trey Songz",
+            "song": "Neighbors Know My Name",
+            "album": "Ready",
+            "year": 2009,
+            "topicTags": [
+              "Trey Songz",
+              "Petersburg",
+              "Virginia",
+              "birthplace",
+              "biography"
+            ],
+            "fact": "Trey Songz was born in Petersburg, Virginia — a small city south of Richmond — before eventually relocating to pursue his music career. His Southern roots informed the unhurried, intimate quality of his vocal delivery, a style that 'Neighbors Know My Name' exemplified perfectly.",
+            "storyHook": "Petersburg, Virginia. Not a city that defines R&B. But it's where Trey Songz came from — and where the voice was built.",
+            "sourceNotes": "PRIORITY VERIFY: Trey Songz born in Petersburg, Virginia. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Petersburg-native Trey Songz – 12 On Your Side Facebook",
+                "url": "https://www.facebook.com/12OnYourSide/posts/petersburg-native-trey-songz-is-performing-at-vsu-this-march-story/1312544407576052/",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Birth names, birthplaces, and the personal facts behind the era's most intimate records.",
+      "color": "#FF6B6B",
+      "accentVar": "--coral",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP038-R3-Q1",
+          "episodeId": "EP038",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2010s",
+          "question": "Jaheim — who recorded 'Finding My Way Back' — was born with which surname?",
+          "choices": [
+            "Holloway",
+            "Chambers",
+            "Whitfield",
+            "Hoagland"
+          ],
+          "correctIndex": 3,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jaheim",
+            "song": "Finding My Way Back",
+            "album": "Another Round",
+            "year": 2010,
+            "topicTags": [
+              "Jaheim",
+              "Hoagland",
+              "birth name",
+              "biography",
+              "Jersey City",
+              "New Jersey"
+            ],
+            "fact": "Jaheim was born Jaheim Hoagland in Jersey City, New Jersey. He performs under his first name only — a choice that emphasised both the intimacy of his vocal style and the directness of his lyrical approach to love and relationships.",
+            "storyHook": "Jaheim Hoagland. Jersey City. He performed under one name. The surname disappeared — but the voice made sure nobody forgot who was singing.",
+            "sourceNotes": "PRIORITY VERIFY: Jaheim born Jaheim Hoagland, Jersey City, New Jersey. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jaheim – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jaheim",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R3-Q2",
+          "episodeId": "EP038",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2010s",
+          "question": "Jhené Aiko — whose 'The Worst' is one of the era's most confessional love songs — was born under which full name?",
+          "choices": [
+            "Jhené Aiko Efuru Chilombo",
+            "Jhené Nicole Efuru Chilombo",
+            "Jhené Aiko Chilombo",
+            "Jhené Aiko Marie Chilombo"
+          ],
+          "correctIndex": 0,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Jhené Aiko",
+            "song": "The Worst",
+            "album": "Sail Out",
+            "year": 2013,
+            "topicTags": [
+              "Jhené Aiko",
+              "Jhené Aiko Efuru Chilombo",
+              "birth name",
+              "biography",
+              "Los Angeles"
+            ],
+            "fact": "Jhené Aiko was born Jhené Aiko Efuru Chilombo on March 16, 1988, in Los Angeles, California. She performs under a shortened version of her name — Jhené Aiko — with her surname Chilombo carried more prominently in later years, including as the title of her 2020 album.",
+            "storyHook": "Jhené Aiko Efuru Chilombo. Born in Los Angeles. 'The Worst' made the full name irrelevant — one name was enough to know exactly who was singing.",
+            "sourceNotes": "PRIORITY VERIFY: Jhené Aiko born Jhené Aiko Efuru Chilombo, Los Angeles. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Jhené Aiko – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Jhene_Aiko",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R3-B1",
+          "episodeId": "EP038",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "2010s",
+          "question": "Lloyd — who recorded 'Lay It Down' — was born under which full legal name?",
+          "choices": [
+            "Lloyd Anthony Polite",
+            "Lloyd Emmanuel Polite",
+            "Lloyd Polite III",
+            "Lloyd Polite Jr."
+          ],
+          "correctIndex": 3,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 3 OF 3 — THE ERA AT ITS HEIGHT"
+          },
+          "metadata": {
+            "artist": "Lloyd",
+            "song": "Lay It Down",
+            "album": "Lessons in Love",
+            "year": 2008,
+            "topicTags": [
+              "Lloyd",
+              "Lloyd Polite Jr.",
+              "birth name",
+              "biography",
+              "Atlanta"
+            ],
+            "fact": "Lloyd was born Lloyd Polite Jr. on January 3, 1986, in Atlanta, Georgia. He performs under his first name only — part of a wave of single-name R&B artists in the 2000s who used brevity as both a branding choice and an artistic statement about the primacy of voice over identity.",
+            "storyHook": "Lloyd Polite Jr. Born in Atlanta. Performed as Lloyd. 'Lay It Down' made one name more than enough.",
+            "sourceNotes": "PRIORITY VERIFY: Lloyd born Lloyd Polite Jr., Atlanta, Georgia. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Lloyd (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Lloyd_(singer)",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP038-R3-RES1",
+          "episodeId": "EP038",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2010s",
+          "question": "Frank Ocean — born Christopher Breaux — grew up in which US city before relocating to Los Angeles?",
+          "choices": [
+            "Atlanta",
+            "Houston",
+            "New Orleans",
+            "Memphis"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Frank Ocean",
+            "song": "Thinkin Bout You",
+            "album": "Channel ORANGE",
+            "year": 2012,
+            "topicTags": [
+              "Frank Ocean",
+              "New Orleans",
+              "birthplace",
+              "biography",
+              "Christopher Breaux"
+            ],
+            "fact": "Frank Ocean was born and grew up in New Orleans, Louisiana, before relocating to Los Angeles following Hurricane Katrina in 2005. The displacement — and the losses it entailed — shaped the emotional texture of his writing in ways he has spoken about in various interviews.",
+            "storyHook": "New Orleans. Hurricane Katrina. Los Angeles. Frank Ocean's biography runs deeper than Channel ORANGE suggests — and New Orleans is where it started.",
+            "sourceNotes": "PRIORITY VERIFY: Frank Ocean born and raised in New Orleans, relocated to LA after Hurricane Katrina. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Frank Ocean, born Christopher Edwin Breaux – Instagram bio reel",
+                "url": "https://www.instagram.com/reel/DUD5VN7jV7d/?hl=en",
+                "accessed": "2026-05-25"
+              },
+              {
+                "title": "Frank Ocean – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Frank_Ocean",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP038-R3-RES2",
+          "episodeId": "EP038",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2010s",
+          "question": "'Adorn' artist Miguel was born and raised in which Southern California city?",
+          "choices": [
+            "San Pedro",
+            "Compton",
+            "Inglewood",
+            "Long Beach"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Miguel",
+            "song": "Adorn",
+            "album": "Kaleidoscope Dream",
+            "year": 2012,
+            "topicTags": [
+              "Miguel",
+              "San Pedro",
+              "Los Angeles",
+              "Southern California",
+              "birthplace",
+              "biography"
+            ],
+            "fact": "Miguel was born and raised in San Pedro — a neighbourhood in the southern part of Los Angeles — before pursuing his music career. San Pedro's working-class character and cultural diversity shaped the eclectic influences that run through Kaleidoscope Dream.",
+            "storyHook": "San Pedro, Los Angeles. Not the part of the city that shows up in R&B mythology. But that's where Miguel came from — and Kaleidoscope Dream carried it.",
+            "sourceNotes": "PRIORITY VERIFY: Miguel born and raised in San Pedro, Los Angeles. Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Miguel (singer) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Miguel_(singer)",
+                "accessed": "2026-05-25"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "biography",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-24",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-25T05:42:45.045537+00:00"
+  }
+}

@@ -1,0 +1,1708 @@
+{
+  "episodeId": "EP026",
+  "title": "The Dance Floor",
+  "theme": "The records that made the room move. From Whitney's 1987 club crossover to Beyoncé's choreography era — R&B at its most kinetic.",
+  "narrativePurpose": "Test knowledge of the dance-floor hits, choreography artists, and club crossovers that defined R&B's physical identity — the songs built to make people move and the facts behind them.",
+  "toneProgression": "The songs everyone can still hear in their body → chart stats, Grammy facts, and epidemic tributes → batting cages, songwriting credits, and rival records",
+  "version": "1.1",
+  "status": "production",
+  "vault": {
+    "codeLength": 4,
+    "freeDigitMap": {
+      "3": "9"
+    },
+    "note": "Digit 4 (index 3) is always visible. Vault code 1-9-8-9 — the year Janet Jackson's Rhythm Nation 1814 made the dance floor political without surrendering a single groove. The year R&B and movement became the same conversation."
+  },
+  "scoring": {
+    "vaultPrize": 5000
+  },
+  "rounds": [
+    {
+      "round": 1,
+      "name": "RADIO HITS",
+      "tag": "ROUND 01 OF 03",
+      "description": "The songs everyone can still hear in their body. These records were built to make rooms move.",
+      "color": "#39FF14",
+      "accentVar": "--green",
+      "defaultTimer": 15,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP026-R1-Q1",
+          "episodeId": "EP026",
+          "round": 1,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Whitney Houston's 1987 club crossover — which remains one of the most danced-to songs of the decade — was titled what?",
+          "choices": [
+            "Greatest Love of All",
+            "Saving All My Love for You",
+            "I'm Every Woman",
+            "I Wanna Dance with Somebody (Who Loves Me)"
+          ],
+          "correctIndex": 3,
+          "payout": 150,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "I Wanna Dance with Somebody (Who Loves Me)",
+            "album": "Whitney",
+            "year": 1987,
+            "topicTags": [
+              "Whitney Houston",
+              "I Wanna Dance with Somebody",
+              "1987",
+              "Arista Records",
+              "dance",
+              "crossover"
+            ],
+            "fact": "'I Wanna Dance with Somebody (Who Loves Me)' debuted at #1 on the Billboard Hot 100 in 1987 and became one of the decade's defining dance-pop records — its combination of Whitney Houston's vocal power with a propulsive club production made it equally at home in arenas and on dance floors. The song was written by George Merrill and Shannon Rubicam, the same duo behind 'How Will I Know.'",
+            "storyHook": "A voice designed for ballads. A production designed for clubs. The combination produced one of 1987's most danced-to records and one of the decade's most enduring reminders that Whitney Houston could do both.",
+            "sourceNotes": "Whitney liner notes (Arista Records, 1987). Billboard Hot 100 chart archives. ASCAP songwriting credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Wanna Dance with Somebody – Whitney Houston official site",
+                "url": "https://www.whitneyhouston.com/news/whitney-houstons-i-wanna-dance-with-somebody-hit-1-this-day-in-1987/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "BILLBOARD #1 HITS: I Wanna Dance With Somebody – SliceTheLife",
+                "url": "https://slicethelife.com/2021/07/23/billboard-1-hits-631-i-wanna-dance-with-somebody-who-loves-me-whitney-houston-june-271987/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R1-Q2",
+          "episodeId": "EP026",
+          "round": 1,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1980s",
+          "question": "Janet Jackson's 1989 opening salvo from 'Rhythm Nation 1814' — the album's lead dance single — was titled what?",
+          "choices": [
+            "Come Back to Me",
+            "Alright",
+            "Escapade",
+            "Miss You Much"
+          ],
+          "correctIndex": 3,
+          "payout": 250,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": "Miss You Much",
+            "album": "Rhythm Nation 1814",
+            "year": 1989,
+            "topicTags": [
+              "Janet Jackson",
+              "Miss You Much",
+              "Rhythm Nation 1814",
+              "1989",
+              "A&M Records",
+              "lead single"
+            ],
+            "fact": "'Miss You Much' was the lead single from 'Rhythm Nation 1814' and spent four weeks at #1 on the Billboard Hot 100 in 1989 — it established the album's dance-floor identity before the heavier sociopolitical content of the title track arrived. The choreography that defined the Rhythm Nation era's visual identity was created by Anthony Thomas, while music video director Dominic Sena was responsible for the cinematic framing. Both credits contributed to the song's cultural impact.",
+            "storyHook": "The album contained a manifesto about society. Its lead single was a dance record. Janet Jackson understood that you have to get people moving before you can make them think.",
+            "sourceNotes": "Rhythm Nation 1814 liner notes (A&M Records, 1989). Billboard Hot 100 chart archives. Anthony Thomas choreography credits. Dominic Sena video direction credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Miss You Much – Janet Jackson Wiki",
+                "url": "https://janetjackson.fandom.com/wiki/Miss_You_Much",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Miss You Much release as lead single – Instagram",
+                "url": "https://www.instagram.com/reel/DVVgtCVDnPN/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R1-Q3",
+          "episodeId": "EP026",
+          "round": 1,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Ciara's 2005 dance smash — which became her first major Hot 100 breakthrough as a headliner — was titled what?",
+          "choices": [
+            "Goodies",
+            "1, 2 Step",
+            "Oh",
+            "Promise"
+          ],
+          "correctIndex": 1,
+          "payout": 350,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Ciara",
+            "song": "1, 2 Step",
+            "album": "Goodies",
+            "year": 2004,
+            "topicTags": [
+              "Ciara",
+              "1, 2 Step",
+              "Missy Elliott",
+              "2005",
+              "LaFace Records",
+              "dance",
+              "crunk and B"
+            ],
+            "fact": "'1, 2 Step' reached #4 on the Billboard Hot 100 and featured Missy Elliott — it was Ciara's second single after 'Goodies' and further established her choreography-forward identity. The song's step-counting hook and Ciara's fluid body movement made it one of the decade's most kinetically infectious radio records.",
+            "storyHook": "Step one. Step two. The instruction was in the title. Ciara made R&B's most literal dance command into one of 2005's most-played singles.",
+            "sourceNotes": "Goodies album liner notes (LaFace Records, 2004). Billboard Hot 100 chart archives. Missy Elliott feature credits.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "1, 2 Step – Music Charts Archive",
+                "url": "http://musicchartsarchive.com/singles/ciara/1-2-step",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Ciara – Artist Chart History – Billboard",
+                "url": "https://www.billboard.com/artist/ciara/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R1-Q4",
+          "episodeId": "EP026",
+          "round": 1,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "MC Hammer's 1990 Rick James-sampling dance phenomenon — which made parachute pants a cultural artifact — was titled what?",
+          "choices": [
+            "Have You Seen Her",
+            "U Can't Touch This",
+            "Pray",
+            "2 Legit 2 Quit"
+          ],
+          "correctIndex": 1,
+          "payout": 450,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "MC Hammer",
+            "song": "U Can't Touch This",
+            "album": "Please Hammer, Don't Hurt 'Em",
+            "year": 1990,
+            "topicTags": [
+              "MC Hammer",
+              "U Can't Touch This",
+              "Super Freak",
+              "Rick James",
+              "1990",
+              "Capitol Records"
+            ],
+            "fact": "'U Can't Touch This' reached #8 on the Billboard Hot 100 in 1990 and won the Grammy for Best Rap Solo Performance — it was built on a sample from Rick James's 'Super Freak' and became one of the most recognizable hooks of the decade. MC Hammer's choreography, parachute pants, and self-referential confidence made the song a visual as much as an audio phenomenon.",
+            "storyHook": "A sample from Rick James. A hook nobody could get out of their head. Parachute pants that somehow seemed appropriate. MC Hammer's dance identity and the song's production were so perfectly matched that the two became inseparable.",
+            "sourceNotes": "Please Hammer, Don't Hurt 'Em liner notes (Capitol Records, 1990). Billboard Hot 100 chart archives. Rick James 'Super Freak' ASCAP sample documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Rick James 'Super Freak' – Classic Motown",
+                "url": "https://classic.motown.com/story/rick-james-super-freak-part-1/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "MC Hammer sampled 'Super Freak' for 'U Can't Touch This' – Instagram",
+                "url": "https://www.instagram.com/reel/DEoNwPeRE8f/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R1-Q5",
+          "episodeId": "EP026",
+          "round": 1,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Tag Team's 1993 party anthem — which sparked a 'there it is' rivalry with a competing song of nearly identical name — was titled what?",
+          "choices": [
+            "Whoot, There It Is",
+            "Whoomp! (There It Is)",
+            "Boom! (Shake the Room)",
+            "Jump Around"
+          ],
+          "correctIndex": 1,
+          "payout": 550,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tag Team",
+            "song": "Whoomp! (There It Is)",
+            "album": "Whoomp! (There It Is)",
+            "year": 1993,
+            "topicTags": [
+              "Tag Team",
+              "Whoomp! (There It Is)",
+              "1993",
+              "Bellmark Records",
+              "party anthem",
+              "Atlanta"
+            ],
+            "fact": "'Whoomp! (There It Is)' spent 27 weeks on the Billboard Hot 100 in 1993 and competed directly with '95 South's 'Whoot, There It Is' — two Atlanta-area acts releasing near-identically named party records in the same week. Tag Team's version ultimately reached a higher commercial peak, selling over two million copies.",
+            "storyHook": "Two songs. Nearly identical titles. Released the same week. Atlanta had two competing 'there it is' records in 1993 and the radio had to sort it out in real time.",
+            "sourceNotes": "Tag Team 'Whoomp! (There It Is)' liner notes (Bellmark Records, 1993). Billboard Hot 100 chart archives. 95 South discography.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "95 South vs Tag Team: The 'Whoot' and 'Whoomp' Battle – YouTube",
+                "url": "https://www.youtube.com/watch?v=WeK2vMFwZkM",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Remember When Tag Team & 95 South Released the Same Song? – YouTube",
+                "url": "https://www.youtube.com/watch?v=mRYCo_WmqH0",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R1-Q6",
+          "episodeId": "EP026",
+          "round": 1,
+          "slot": 6,
+          "type": "standard",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Destiny's Child's 2001 dance-floor smash — which coined a new word for a curvaceous body that later entered the dictionary — was titled what?",
+          "choices": [
+            "Survivor",
+            "Independent Women Part I",
+            "Say My Name",
+            "Bootylicious"
+          ],
+          "correctIndex": 3,
+          "payout": 750,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": "Bootylicious",
+            "album": "Survivor",
+            "year": 2001,
+            "topicTags": [
+              "Destiny's Child",
+              "Bootylicious",
+              "2001",
+              "Columbia Records",
+              "Stevie Nicks",
+              "Edge of Seventeen",
+              "word coined"
+            ],
+            "fact": "'Bootylicious' sampled Stevie Nicks's 'Edge of Seventeen' guitar riff and reached #1 on the Billboard Hot 100 — the word itself was later accepted into the Oxford English Dictionary. The song's production was a deliberate departure from Destiny's Child's previous sound, with Beyoncé pushing for a harder, guitar-driven dance track.",
+            "storyHook": "Destiny's Child sampled Stevie Nicks. The result was a word that made it into the dictionary. The Oxford English Dictionary. 'Bootylicious' is now officially a word and Stevie Nicks's guitar is the reason.",
+            "sourceNotes": "Survivor liner notes (Columbia Records, 2001). Billboard Hot 100 chart archives. Oxford English Dictionary word inclusion documentation. Stevie Nicks 'Edge of Seventeen' sample clearance.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "On this day: 'Bootylicious' added to the OED – PinkNews",
+                "url": "https://www.facebook.com/pinknews/posts/on-this-day-september-9-in-2004-bootylicious-was-added-to-the-oxford-english-dic/1202861",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Bootylicious – Oxford English Dictionary",
+                "url": "https://www.oed.com/view/Entry/245132",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R1-B1",
+          "episodeId": "EP026",
+          "round": 1,
+          "slot": 7,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "'U Can't Touch This' by MC Hammer built its entire groove on a sample from which Rick James track?",
+          "choices": [
+            "Super Freak",
+            "Give It to Me Baby",
+            "Mary Jane",
+            "Standing on the Top"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 0,
+            "codeDigit": "1",
+            "bonusHint": "DIGIT 1 OF 3 — THE RICK JAMES TRACK SAMPLED ON U CAN'T TOUCH THIS"
+          },
+          "metadata": {
+            "artist": "MC Hammer",
+            "song": "U Can't Touch This",
+            "album": "Please Hammer, Don't Hurt 'Em",
+            "year": 1990,
+            "topicTags": [
+              "U Can't Touch This",
+              "Super Freak",
+              "Rick James",
+              "sample",
+              "MC Hammer",
+              "Capitol Records",
+              "bonus digit"
+            ],
+            "fact": "'Super Freak' was a 1981 Rick James hit on Gordy/Motown Records — MC Hammer's sample was so prominent that James received a co-writing credit on 'U Can't Touch This,' along with royalties that James later described as life-changing. The bassline and hook are essentially unchanged between the two recordings.",
+            "storyHook": "Rick James wrote it in 1981. MC Hammer sampled it in 1990. Rick James got a co-writing credit on the song that won the Grammy. He said the royalties changed his life. That is one sample clearance story with a genuinely happy ending.",
+            "sourceNotes": "'U Can't Touch This' ASCAP sample credits (Capitol Records, 1990). Rick James 'Super Freak' discography (Gordy/Motown, 1981). Grammy Award records (33rd ceremony, 1991).",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "U Can't Touch This – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/U_Can%27t_Touch_This",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "MC Hammer 'U Can't Touch This' sample of Rick James 'Super Freak' – WhoSampled",
+                "url": "https://www.whosampled.com/sample/40/MC-Hammer-U-Can%27t-Touch-This-Rick-James-Super-Freak/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "MC Hammer sampled 'Super Freak' – Instagram",
+                "url": "https://www.instagram.com/reel/DEoNwPeRE8f/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP026-R1-RES1",
+          "episodeId": "EP026",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Beyoncé's 2008 choreography anthem — which challenged men everywhere with a single hand gesture — was titled what?",
+          "choices": [
+            "Single Ladies (Put a Ring on It)",
+            "Love on Top",
+            "Irreplaceable",
+            "Crazy in Love"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Beyoncé",
+            "song": "Single Ladies (Put a Ring on It)",
+            "album": "I Am... Sasha Fierce",
+            "year": 2008,
+            "topicTags": [
+              "Beyoncé",
+              "Single Ladies",
+              "Put a Ring on It",
+              "choreography",
+              "2008",
+              "Columbia Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "I Am... Sasha Fierce liner notes (Columbia Records, 2008). Billboard Hot 100 chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Single Ladies (Put a Ring on It) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Single_Ladies_(Put_a_Ring_on_It)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Beyoncé – Single Ladies (Put a Ring on It) – YouTube",
+                "url": "https://www.youtube.com/watch?v=4m1EFMoRFvY",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Single Ladies (Put a Ring on It) – Instagram",
+                "url": "https://www.instagram.com/reel/DXGDSzeIe7t/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R1-RES2",
+          "episodeId": "EP026",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "2000s",
+          "question": "Aaliyah's 2000 dance-floor hit — which became the first song to reach #1 on the Billboard Hot 100 solely through airplay without a commercial single release — was titled what?",
+          "choices": [
+            "Are You That Somebody",
+            "More Than a Woman",
+            "I Don't Wanna",
+            "Try Again"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Aaliyah",
+            "song": "Try Again",
+            "album": "Romeo Must Die (Soundtrack)",
+            "year": 2000,
+            "topicTags": [
+              "Aaliyah",
+              "Try Again",
+              "Romeo Must Die",
+              "2000",
+              "Blackground Records",
+              "airplay",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Romeo Must Die soundtrack liner notes (Blackground/Virgin Records, 2000). Billboard Hot 100 chart archives. Airplay-only #1 documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "The Number Ones: Aaliyah's 'Try Again' – Stereogum",
+                "url": "https://stereogum.com/2195882/the-number-ones-aaliyahs-try-again/columns/the-number-ones",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Chart Rewind: Aaliyah's 'Try Again' – That Grape Juice",
+                "url": "https://thatgrapejuice.net/2019/06/aaliyah-back-forth-june-28/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "26 years ago: Aaliyah released 'Try Again' – Instagram",
+                "url": "https://www.instagram.com/reel/DWKEaWLAVGZ/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R1-RES3",
+          "episodeId": "EP026",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "MC Hammer — born in Oakland, California — has what birth name?",
+          "choices": [
+            "Marcus Kirk Hamilton",
+            "Stantley Hammerley",
+            "Darryl Stephen Burrell",
+            "Stanley Kirk Burrell"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "MC Hammer",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "MC Hammer",
+              "Stanley Kirk Burrell",
+              "birth name",
+              "Oakland",
+              "stage name",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "MC Hammer official biography. Capitol Records press materials.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "MC Hammer – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/MC_Hammer",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "MC Hammer vs. Rick James – Instagram bio snippet",
+                "url": "https://www.instagram.com/reel/DMxzCkUIERj/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R1-RES4",
+          "episodeId": "EP026",
+          "round": 1,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "easy",
+          "category": "Radio Hits",
+          "era": "1990s",
+          "question": "Bobby Brown's 1992 third solo album — his follow-up to the massive 'Don't Be Cruel' — was titled what?",
+          "choices": [
+            "Good Enough",
+            "Humpin' Around",
+            "Bobby",
+            "On Our Own"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 15,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bobby Brown",
+            "song": null,
+            "album": "Bobby",
+            "year": 1992,
+            "topicTags": [
+              "Bobby Brown",
+              "Bobby",
+              "third album",
+              "1992",
+              "MCA Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Bobby liner notes (MCA Records, 1992). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bobby (album) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bobby_(Bobby_Brown_album)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Bobby Brown – Discography – AllMusic",
+                "url": "https://www.allmusic.com/artist/bobby-brown-mn0000077742/discography",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "name": "DEEP CUTS",
+      "tag": "ROUND 02 OF 03",
+      "description": "Chart stats, Grammy facts, sampling history, and the personal stories behind the dance-floor records.",
+      "color": "#00F5FF",
+      "accentVar": "--cyan",
+      "defaultTimer": 17,
+      "bonusTimer": 20,
+      "questions": [
+        {
+          "id": "EP026-R2-Q1",
+          "episodeId": "EP026",
+          "round": 2,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1980s",
+          "question": "Bobby Brown — whose new jack swing style dominated the dance floor in the late 1980s — was born in which Massachusetts city?",
+          "choices": [
+            "Cambridge",
+            "Worcester",
+            "Springfield",
+            "Boston"
+          ],
+          "correctIndex": 3,
+          "payout": 1000,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Bobby Brown",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Bobby Brown",
+              "Boston",
+              "Massachusetts",
+              "birthplace",
+              "origin",
+              "New Edition"
+            ],
+            "fact": "Bobby Brown was born February 5, 1969, in Boston, Massachusetts — he grew up in the Orchard Park projects in Roxbury and was a founding member of New Edition, the Boston boy group whose choreography and new jack swing sensibility shaped his later solo dance identity.",
+            "storyHook": "From the Orchard Park projects in Roxbury, Boston. New Edition. Solo career. Bobby Brown's dance-floor dominance traced directly back to a Massachusetts childhood and a group that could move before they could drive.",
+            "sourceNotes": "Bobby Brown official biography. New Edition documentation. Roxbury, Boston civic records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bobby Brown – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bobby_Brown",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Bobby Brown (1969– ) – BlackPast.org",
+                "url": "https://blackpast.org/african-american-history/bobby-brown-1969/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Bobby Brown Biography – TV Guide",
+                "url": "https://www.tvguide.com/celebrities/bobby-brown/bio/3030751941/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R2-Q2",
+          "episodeId": "EP026",
+          "round": 2,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "MC Hammer's 'U Can't Touch This' — which sampled Rick James's 'Super Freak' — won two Grammys at which ceremony?",
+          "choices": [
+            "35th Grammy Awards",
+            "32nd Grammy Awards",
+            "34th Grammy Awards",
+            "33rd Grammy Awards"
+          ],
+          "correctIndex": 3,
+          "payout": 1200,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "MC Hammer",
+            "song": "U Can't Touch This",
+            "album": "Please Hammer, Don't Hurt 'Em",
+            "year": 1991,
+            "topicTags": [
+              "MC Hammer",
+              "U Can't Touch This",
+              "Grammy",
+              "33rd Grammy Awards",
+              "1991"
+            ],
+            "fact": "'U Can't Touch This' won Best Rap Solo Performance and Best R&B Song at the 33rd Grammy Awards in 1991 — making MC Hammer the first rap artist to win multiple Grammys at a single ceremony.",
+            "storyHook": "The Grammy was for rap. The audience was pop. MC Hammer won at the intersection of both and made the result look inevitable.",
+            "sourceNotes": "Verified: 'U Can't Touch This' won Grammys at the 33rd ceremony (1991). Sources: Wikipedia https://en.wikipedia.org/wiki/U_Can%27t_Touch_This, Recording Academy YouTube",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "U Can't Touch This – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/U_Can%27t_Touch_This",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "MC Hammer Grammy Win 1991 – Recording Academy YouTube",
+                "url": "https://www.youtube.com/watch?v=mWYCb2GFqe8",
+                "accessed": "2026-05-19"
+              },
+              {
+                "title": "Rick James estate post on MC Hammer's Grammy win – Facebook",
+                "url": "https://www.facebook.com/RickJames/posts/it-was-my-song-he-mc-hammer-won-a-grammy-award-for-it-he-still-hasnt-sent-me-one/101564",
+                "accessed": "2026-05-19"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R2-Q3",
+          "episodeId": "EP026",
+          "round": 2,
+          "slot": 3,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "'Bootylicious' — Destiny's Child's genre-defying dance hit — built its groove on the guitar riff of 'Edge of Seventeen' by which rock artist?",
+          "choices": [
+            "Stevie Nicks",
+            "Joan Jett",
+            "Pat Benatar",
+            "Ann Wilson"
+          ],
+          "correctIndex": 0,
+          "payout": 1400,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Destiny's Child",
+            "song": "Bootylicious",
+            "album": "Survivor",
+            "year": 2001,
+            "topicTags": [
+              "Bootylicious",
+              "Stevie Nicks",
+              "Edge of Seventeen",
+              "sample",
+              "Destiny's Child",
+              "Beyoncé",
+              "rock crossover"
+            ],
+            "fact": "Stevie Nicks's 'Edge of Seventeen' — released in 1982 on Nicks's 'Bella Donna' album — provided the guitar sample that became the rhythmic backbone of 'Bootylicious.' Beyoncé has said that she pushed for the harder, guitar-driven sound specifically because she wanted the song to sound unlike anything Destiny's Child had previously released. Nicks was reportedly delighted by the sampling.",
+            "storyHook": "A 1982 Stevie Nicks rock song became the backbone of a 2001 Destiny's Child dance record. The sample crossed genre, decade, and demographic — and produced a word that ended up in the Oxford English Dictionary.",
+            "sourceNotes": "Survivor ASCAP sample credits (Columbia Records, 2001). Stevie Nicks 'Edge of Seventeen' discography (Modern Records, 1982). Beyoncé interview documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Bootylicious – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Bootylicious",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Destiny's Child 'Bootylicious' sample of Stevie Nicks 'Edge of Seventeen' – WhoSampled",
+                "url": "https://www.whosampled.com/sample/83/Destiny%27s-Child-Bootylicious-Stevie-Nicks-Edge-of-Seventeen/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Stevie Nicks On Starring In 'Bootylicious' Video – Elle",
+                "url": "https://www.elle.com/uk/life-and-culture/a34324168/stevie-nicks-bootylicious-video-destinys-child/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "sample",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R2-Q4",
+          "episodeId": "EP026",
+          "round": 2,
+          "slot": 4,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Janet Jackson's 1997 dance-floor tribute 'Together Again' — a jubilant record about reunion — was written as a memorial to friends lost to which epidemic?",
+          "choices": [
+            "Drug addiction",
+            "AIDS",
+            "Cancer",
+            "Gun violence"
+          ],
+          "correctIndex": 1,
+          "payout": 1800,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": "Together Again",
+            "album": "The Velvet Rope",
+            "year": 1997,
+            "topicTags": [
+              "Janet Jackson",
+              "Together Again",
+              "AIDS",
+              "memorial",
+              "The Velvet Rope",
+              "1997",
+              "Virgin Records"
+            ],
+            "fact": "'Together Again' was written by Janet Jackson, James Harris III, and Terry Lewis as a tribute to friends who had died from AIDS — its production was deliberately euphoric and celebratory rather than mournful, reflecting Jackson's belief that the song should be a joyful reunion fantasy rather than a grief record. The song spent two weeks at #1 on the Billboard Hot 100.",
+            "storyHook": "A song about losing people to AIDS that sounds like the best party in the world. Janet Jackson made grief euphoric. The dance floor was the memorial.",
+            "sourceNotes": "The Velvet Rope liner notes (Virgin Records, 1997). Billboard Hot 100 chart archives. Janet Jackson interview documentation on AIDS tribute context.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Together Again (Janet Jackson song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Together_Again_(Janet_Jackson_song)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Janet Jackson – Together Again | The AIDS of it all – Random J Pop",
+                "url": "https://randomjpop.blogspot.com/2023/12/flashback-friday-janet-jackson-together-again.html",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R2-Q5",
+          "episodeId": "EP026",
+          "round": 2,
+          "slot": 5,
+          "type": "standard",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "MC Hammer's 1991 follow-up album — which contained '2 Legit 2 Quit' and attempted to sustain his commercial momentum — was titled what?",
+          "choices": [
+            "Too Legit to Quit",
+            "2 Legit",
+            "Please Hammer, Don't Hurt 'Em Vol. 2",
+            "The Funky Headhunter"
+          ],
+          "correctIndex": 0,
+          "payout": 2100,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "MC Hammer",
+            "song": "2 Legit 2 Quit",
+            "album": "Too Legit to Quit",
+            "year": 1991,
+            "topicTags": [
+              "MC Hammer",
+              "Too Legit to Quit",
+              "2 Legit 2 Quit",
+              "1991",
+              "Capitol Records",
+              "follow-up album"
+            ],
+            "fact": "'Too Legit to Quit' was released on Capitol Records in October 1991 — it debuted at #1 on the Billboard 200, demonstrating that MC Hammer's commercial machine was still operational after the massive success of 'Please Hammer, Don't Hurt 'Em.' The title track's signature two-handed gesture became its own cultural shorthand.",
+            "storyHook": "The follow-up to the best-selling rap album of 1990. It debuted at number one. The hand gesture from the music video entered the cultural vocabulary. MC Hammer did not slow down.",
+            "sourceNotes": "Too Legit to Quit liner notes (Capitol Records, 1991). Billboard 200 chart archives. RIAA certification records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Too Legit to Quit – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Too_Legit_to_Quit",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "2 Legit 2 Quit – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/2_Legit_2_Quit",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R2-B1",
+          "episodeId": "EP026",
+          "round": 2,
+          "slot": 6,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Ciara — whose crunk & B sound defined early-2000s dance R&B — was born in which Texas city?",
+          "choices": [
+            "San Antonio",
+            "Austin",
+            "Houston",
+            "Dallas"
+          ],
+          "correctIndex": 1,
+          "payout": 0,
+          "timer": 20,
+          "bonus": {
+            "codeDigitIndex": 1,
+            "codeDigit": "9",
+            "bonusHint": "DIGIT 2 OF 3 — CIARA'S BIRTH CITY"
+          },
+          "metadata": {
+            "artist": "Ciara",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "Ciara",
+              "Austin",
+              "Texas",
+              "birthplace",
+              "origin",
+              "LaFace Records",
+              "bonus digit"
+            ],
+            "fact": "Ciara Princess Harris was born October 25, 1985, in Austin, Texas — she grew up in a military family that moved frequently, eventually settling in the Atlanta area where she was discovered and signed to LaFace Records. Her Austin birth and Atlanta upbringing placed her at the intersection of Texas culture and the Atlanta R&B infrastructure that launched her career.",
+            "storyHook": "Born in Austin. Raised in military housing. Discovered in Atlanta. Ciara's route to the LaFace roster was more geographically complicated than most people know.",
+            "sourceNotes": "Ciara official biography. LaFace Records press materials. Austin, Texas civic documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Ciara – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Ciara",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Ciara born in Austin, Texas – Instagram",
+                "url": "https://www.instagram.com/p/DXHssfiSxsK/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "city",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP026-R2-RES1",
+          "episodeId": "EP026",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Whitney Houston's 'I Wanna Dance with Somebody (Who Loves Me)' was the lead single from which 1987 album — her second studio LP?",
+          "choices": [
+            "Whitney",
+            "I'm Your Baby Tonight",
+            "Whitney Houston",
+            "One Moment in Time"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "I Wanna Dance with Somebody (Who Loves Me)",
+            "album": "Whitney",
+            "year": 1987,
+            "topicTags": [
+              "Whitney Houston",
+              "Whitney",
+              "1987",
+              "Arista Records",
+              "second album",
+              "dance",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "Whitney liner notes (Arista Records, 1987). Billboard 200 chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Whitney Houston's Second Album 'Whitney' Released 1987 – Whitney official site",
+                "url": "https://www.whitneyhouston.com/news/whitney-houstons-second-album-whitney-released-this-day-in-1987/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Whitney – full album info – YouTube",
+                "url": "https://www.youtube.com/watch?v=6fznruzXmQs",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "chart",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R2-RES2",
+          "episodeId": "EP026",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "2000s",
+          "question": "Beyoncé's 'Single Ladies (Put a Ring on It)' appeared on which 2008 album?",
+          "choices": [
+            "B'Day",
+            "I Am... Sasha Fierce",
+            "Dangerously in Love",
+            "4"
+          ],
+          "correctIndex": 1,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Beyoncé",
+            "song": "Single Ladies (Put a Ring on It)",
+            "album": "I Am... Sasha Fierce",
+            "year": 2008,
+            "topicTags": [
+              "Beyoncé",
+              "I Am... Sasha Fierce",
+              "Single Ladies",
+              "2008",
+              "Columbia Records",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "I Am... Sasha Fierce liner notes (Columbia Records, 2008). Billboard chart archives.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Am... Sasha Fierce – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Am..._Sasha_Fierce",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "album",
+            "factType": "album",
+            "sourcesCount": 1,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R2-RES3",
+          "episodeId": "EP026",
+          "round": 2,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "medium",
+          "category": "Deep Cuts",
+          "era": "1990s",
+          "question": "Janet Jackson's dance-floor tribute 'Together Again' (1997) was written and produced by which long-time collaborators?",
+          "choices": [
+            "Babyface and L.A. Reid",
+            "Rodney Jerkins and Fred Jerkins",
+            "Jimmy Jam and Terry Lewis",
+            "Teddy Riley and Bernard Belle"
+          ],
+          "correctIndex": 2,
+          "payout": null,
+          "timer": 17,
+          "bonus": null,
+          "metadata": {
+            "artist": "Janet Jackson",
+            "song": "Together Again",
+            "album": "The Velvet Rope",
+            "year": 1997,
+            "topicTags": [
+              "Janet Jackson",
+              "Together Again",
+              "Jimmy Jam",
+              "Terry Lewis",
+              "producer",
+              "songwriter",
+              "The Velvet Rope",
+              "1997"
+            ],
+            "fact": "Jimmy Jam and Terry Lewis wrote and produced 'Together Again' — as they did for the vast majority of Janet Jackson's catalog from Control onward. The Minneapolis-based duo's collaboration with Janet is one of the most sustained and commercially successful producer-artist partnerships in R&B history.",
+            "storyHook": "She made the record. They built the groove. Jimmy Jam and Terry Lewis were behind 'Together Again' the same way they were behind almost everything Janet did.",
+            "sourceNotes": "PRIORITY VERIFY: Confirm Jimmy Jam and Terry Lewis produced 'Together Again' (1997). Must be sourced before production.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Together Again (Janet Jackson song) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Together_Again_(Janet_Jackson_song)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Together Again – Janet Jackson Wiki",
+                "url": "https://janetjackson.fandom.com/wiki/Together_Again",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Together Again (1997) – Janet Jackson – Dork track profile",
+                "url": "https://readdork.com/track/janet-jackson-together-again",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "draft",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "producer",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-17",
+            "flags": []
+          }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "name": "HIDDEN GEMS",
+      "tag": "ROUND 03 OF 03",
+      "description": "Batting cages, songwriting credits, rival records, and the histories underneath the hits.",
+      "color": "#FF2D78",
+      "accentVar": "--pink",
+      "defaultTimer": 20,
+      "bonusTimer": 23,
+      "questions": [
+        {
+          "id": "EP026-R3-Q1",
+          "episodeId": "EP026",
+          "round": 3,
+          "slot": 1,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Before his music career, MC Hammer was a batboy for which Oakland-based Major League Baseball team — befriending players who helped finance his early label?",
+          "choices": [
+            "California Angels",
+            "San Francisco Giants",
+            "Oakland Athletics",
+            "Oakland Oaks"
+          ],
+          "correctIndex": 2,
+          "payout": 4500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "MC Hammer",
+            "song": null,
+            "album": null,
+            "year": null,
+            "topicTags": [
+              "MC Hammer",
+              "Oakland Athletics",
+              "batboy",
+              "baseball",
+              "origin story",
+              "Bustin' Records"
+            ],
+            "fact": "MC Hammer worked as a batboy for the Oakland Athletics in the late 1970s, where he befriended players including Reggie Jackson and Mike Davis who later helped fund his independent label Bustin' Records. The Athletics connection gave Hammer early industry exposure and the seed money to record and distribute his debut independently before Capitol Records signed him.",
+            "storyHook": "A batboy at the Oakland Coliseum. Reggie Jackson as a mentor. Players funding his first label. MC Hammer's path to 'U Can't Touch This' started in a baseball dugout in Oakland.",
+            "sourceNotes": "MC Hammer biographical records. Oakland Athletics historical documentation. Bustin' Records founding documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "MC Hammer – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/MC_Hammer",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "MC Hammer And The Oakland A's – WBUR Only A Game",
+                "url": "https://www.wbur.org/onlyagame/2015/06/13/mc-hammer-golden-state-oakland-as",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "MC Hammer Oakland A's batboy – Baseball In Pics",
+                "url": "https://www.facebook.com/baseballinpics/posts/mc-hammer-oakland-as-batboy-he-was-a-batboy-and-clubhouse-assistant-for-the-oakl/",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "artist",
+            "factType": "artist",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R3-Q2",
+          "episodeId": "EP026",
+          "round": 3,
+          "slot": 2,
+          "type": "standard",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1980s",
+          "question": "Whitney Houston's 'I Wanna Dance with Somebody (Who Loves Me)' was written by which songwriting duo — the same pair who had also written her earlier hit 'How Will I Know'?",
+          "choices": [
+            "Jimmy Jam and Terry Lewis",
+            "George Merrill and Shannon Rubicam",
+            "Narada Michael Walden and Preston Glass",
+            "Babyface and L.A. Reid"
+          ],
+          "correctIndex": 1,
+          "payout": 5500,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Whitney Houston",
+            "song": "I Wanna Dance with Somebody (Who Loves Me)",
+            "album": "Whitney",
+            "year": 1987,
+            "topicTags": [
+              "George Merrill",
+              "Shannon Rubicam",
+              "Whitney Houston",
+              "songwriter duo",
+              "How Will I Know",
+              "I Wanna Dance with Somebody"
+            ],
+            "fact": "George Merrill and Shannon Rubicam wrote both 'How Will I Know' (1985) and 'I Wanna Dance with Somebody (Who Loves Me)' (1987) for Whitney Houston — their second collaboration for her was even more commercially successful than the first. Rubicam and Merrill were a real-life couple who wrote several of the decade's most recognizable pop-R&B crossover records.",
+            "storyHook": "Two songs. Same writers. Same artist. George Merrill and Shannon Rubicam gave Whitney Houston two of the decade's most durable dance-pop records and were a couple in real life while doing it.",
+            "sourceNotes": "Whitney Houston 'I Wanna Dance with Somebody' ASCAP credits (Arista Records, 1987). 'How Will I Know' ASCAP credits (Arista Records, 1985). George Merrill and Shannon Rubicam biographical records.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "I Wanna Dance with Somebody (Who Loves Me) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/I_Wanna_Dance_with_Somebody_(Who_Loves_Me)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "I Wanna Dance with Somebody – Whitney Houston Fandom",
+                "url": "https://whitney-houston.fandom.com/wiki/I_Wanna_Dance_with_Somebody_(Who_Loves_Me)",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "artist",
+            "sourcesCount": 2,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R3-B1",
+          "episodeId": "EP026",
+          "round": 3,
+          "slot": 3,
+          "type": "bonus",
+          "difficulty": "bonus",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "Tag Team's 'Whoomp! (There It Is)' was released on which Los Angeles-based independent label — founded by Stax Records legend Al Bell — despite the group being Atlanta-bred DJs?",
+          "choices": [
+            "Bellmark Records",
+            "So So Def",
+            "Life Records",
+            "LaFace Records"
+          ],
+          "correctIndex": 0,
+          "payout": 0,
+          "timer": 23,
+          "bonus": {
+            "codeDigitIndex": 2,
+            "codeDigit": "8",
+            "bonusHint": "DIGIT 3 OF 3 — TAG TEAM'S RECORD LABEL"
+          },
+          "metadata": {
+            "artist": "Tag Team",
+            "song": "Whoomp! (There It Is)",
+            "album": "Whoomp! (There It Is)",
+            "year": 1993,
+            "topicTags": [
+              "Tag Team",
+              "Bellmark Records",
+              "Whoomp! (There It Is)",
+              "1993",
+              "Atlanta",
+              "independent label",
+              "bonus digit"
+            ],
+            "fact": "Bellmark Records was founded by Al Bell — the legendary Stax Records president — and was based in Los Angeles, not Atlanta. Tag Team were Atlanta DJs who worked the city's club circuit, including Magic City, but their record reached national audiences through Bellmark's LA-based independent distribution. The geographic split — Atlanta group, LA label — is one of the period's more notable independent-major crossover stories.",
+            "storyHook": "Atlanta DJs. Los Angeles label. Founded by the man who ran Stax Records. Bellmark Records had a more distinguished pedigree than most people knew, and Tag Team got their national platform through it despite being rooted in a completely different city.",
+            "sourceNotes": "Tag Team 'Whoomp! (There It Is)' liner notes (Bellmark Records, 1993). Al Bell biographical records. Bellmark Records label history. Stax Records documentation.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Whoomp! (There It Is) – Wikipedia",
+                "url": "https://en.wikipedia.org/wiki/Whoomp!_(There_It_Is)",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Whoomp! (There It Is) – Tag Team official site",
+                "url": "https://www.tagteambackagain.com/whoomp-there-it-is/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Whoomp! Who Owns It? – American Bankruptcy Institute",
+                "url": "https://www.abi.org/feed-item/whoomp-who-owns-it",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "label",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ],
+      "reserve": [
+        {
+          "id": "EP026-R3-RES1",
+          "episodeId": "EP026",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "2000s",
+          "question": "MC Hammer's debut independent album — before Capitol Records signed him — was released on which label that he founded himself?",
+          "choices": [
+            "Bustin' Records",
+            "Oaktown Records",
+            "Oakland Sound",
+            "Hammer Records"
+          ],
+          "correctIndex": 0,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "MC Hammer",
+            "song": null,
+            "album": "Feel My Power",
+            "year": 1987,
+            "topicTags": [
+              "MC Hammer",
+              "Bustin' Records",
+              "Feel My Power",
+              "independent debut",
+              "1987",
+              "Oakland",
+              "swap reserve"
+            ],
+            "fact": "Bustin' Records was the independent label MC Hammer founded and self-distributed in Oakland — his debut album 'Feel My Power' (1987) was recorded and pressed independently, with distribution funded partly by Oakland Athletics players. Capitol Records A&R discovered the record through its local success and signed Hammer, re-releasing the album as 'Let's Get It Started' before the massive 'Please Hammer, Don't Hurt 'Em' followed.",
+            "storyHook": "",
+            "sourceNotes": "MC Hammer biographical records. Bustin' Records label documentation. Feel My Power liner notes (Bustin' Records, 1987). Capitol Records signing history.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "Feel My Power – Wikipedia mirror",
+                "url": "https://a.osmarks.net/content/wikipedia_en_all_maxi_2020-08/A/Feel_My_Power",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "MC Hammer: Feel My Power (1986) – Instagram",
+                "url": "https://www.instagram.com/p/DKvVmPuulFn/",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Feel My Power – Bustin' Records album listing – Soul & Funk Music",
+                "url": "https://soulandfunkmusic.com/album/mc_hammer/Feel_my_power",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        },
+        {
+          "id": "EP026-R3-RES2",
+          "episodeId": "EP026",
+          "round": 3,
+          "slot": null,
+          "type": "reserve",
+          "difficulty": "hard",
+          "category": "Hidden Gems",
+          "era": "1990s",
+          "question": "'Whoomp! (There It Is)' by Tag Team competed directly with a near-identically named party record released the same week — that rival song was by which Atlanta-area group?",
+          "choices": [
+            "Kris Kross",
+            "Arrested Development",
+            "2 Live Crew",
+            "95 South"
+          ],
+          "correctIndex": 3,
+          "payout": null,
+          "timer": 20,
+          "bonus": null,
+          "metadata": {
+            "artist": "Tag Team",
+            "song": "Whoomp! (There It Is)",
+            "album": null,
+            "year": 1993,
+            "topicTags": [
+              "95 South",
+              "Whoot There It Is",
+              "Tag Team",
+              "rivalry",
+              "1993",
+              "Atlanta",
+              "swap reserve"
+            ],
+            "fact": "",
+            "storyHook": "",
+            "sourceNotes": "95 South discography documentation. 'Whoot, There It Is' chart archives (1993). Billboard chart competition analysis.",
+            "clipCue": "",
+            "hostNote": "",
+            "factCheckStatus": "verified",
+            "sources": [
+              {
+                "title": "95 South vs Tag Team: The Whoot and Whoomp Battle – YouTube",
+                "url": "https://www.youtube.com/watch?v=WeK2vMFwZkM",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "Remember in 1993 When Tag Team & 95 South Released the Same Song? – YouTube",
+                "url": "https://www.youtube.com/watch?v=mRYCo_WmqH0",
+                "accessed": "2026-05-17"
+              },
+              {
+                "title": "95 South: There It Is – Los Angeles Times",
+                "url": "https://www.latimes.com/archives/la-xpm-1993-08-15-ca-23926-story.html",
+                "accessed": "2026-05-17"
+              }
+            ]
+          },
+          "qa": {
+            "status": "approved",
+            "reviewer": "RBV",
+            "entityLevel": "track",
+            "factType": "general",
+            "sourcesCount": 3,
+            "lastVerified": "2026-05-10",
+            "flags": []
+          }
+        }
+      ]
+    }
+  ],
+  "_schema": {
+    "version": "1.1",
+    "engineVersion": "2.5"
+  },
+  "rules": {
+    "bonusPerRound": 1,
+    "bonusPosition": "last_slot_in_round",
+    "visibleDigitIndexes": [
+      3
+    ],
+    "reserveReplacementScope": "same_round_standard_only",
+    "reserveDifficultyRule": "same_round_tier",
+    "bonusExcludedFromReserve": true
+  },
+  "build": {
+    "tool": "episode_toolkit.py",
+    "toolVersion": "0.3.1",
+    "shuffleSeed": "random",
+    "builtAt": "2026-05-19T22:49:45.594622+00:00"
+  }
+}
