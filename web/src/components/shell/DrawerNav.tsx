@@ -1,6 +1,8 @@
-import { BarChart3, Disc3, Gauge, Home, KeyRound, Play, Trophy, type LucideIcon } from "lucide-react";
+import { useQuery } from "@tanstack/react-query";
+import { Disc3, Gauge, Home, KeyRound, Play, Swords, Trophy, type LucideIcon } from "lucide-react";
 import { NavLink, useLocation, useNavigate } from "react-router-dom";
 
+import { fetchArenaOverview } from "@/lib/arena/api";
 import { cn } from "@/lib/utils";
 import { useGame } from "@/providers/GameProvider";
 import { useShellUI } from "@/providers/ShellUIProvider";
@@ -25,11 +27,28 @@ function RowBody({ icon: Icon, label, hint }: { icon: LucideIcon; label: string;
   );
 }
 
-function RouteItem({ to, icon, label, hint, onNavigate }: { to: string; icon: LucideIcon; label: string; hint?: string; onNavigate?: () => void }) {
+function RouteItem({
+  to,
+  icon,
+  label,
+  hint,
+  onNavigate,
+  end = true,
+  live,
+}: {
+  to: string;
+  icon: LucideIcon;
+  label: string;
+  hint?: string;
+  onNavigate?: () => void;
+  end?: boolean;
+  live?: boolean;
+}) {
   return (
     <li>
-      <NavLink to={to} end onClick={onNavigate} className={({ isActive }) => cn(ROW, isActive ? ACTIVE : IDLE)}>
+      <NavLink to={to} end={end} onClick={onNavigate} className={({ isActive }) => cn(ROW, isActive ? ACTIVE : IDLE)}>
         <RowBody icon={icon} label={label} hint={hint} />
+        {live && <span aria-hidden="true" className="h-2 w-2 shrink-0 animate-live-dot rounded-full bg-vault-success" />}
       </NavLink>
     </li>
   );
@@ -63,6 +82,9 @@ export function DrawerNav({ onNavigate }: { onNavigate?: () => void }) {
   const { runAfterMenuClose, openLeaderboard, setPickerOpen } = useShellUI();
   const navigate = useNavigate();
   const { pathname } = useLocation();
+  const arena = useQuery({ queryKey: ["arena-overview"], queryFn: fetchArenaOverview, refetchInterval: 20_000, staleTime: 10_000, retry: 1 });
+  const online = arena.data?.online ?? 0;
+  const arenaHint = arena.isError ? "Live multiplayer rooms" : `${online} ${online === 1 ? "player" : "players"} online`;
 
   const playHint =
     status === "fresh"
@@ -85,8 +107,12 @@ export function DrawerNav({ onNavigate }: { onNavigate?: () => void }) {
         <RouteItem to="/vault" icon={KeyRound} label="Vault Chamber" hint={vaultHint} onNavigate={onNavigate} />
       </Section>
 
+      <Section title="Arena">
+        <RouteItem to="/arena" end={false} icon={Swords} label="Arena" hint={arenaHint} onNavigate={onNavigate} live={online > 0} />
+      </Section>
+
       <Section title="Compete">
-        <ActionItem icon={Trophy} label="Leaderboard" hint="Top 10 · your rank" onSelect={() => runAfterMenuClose(() => openLeaderboard("standings"))} />
+        <ActionItem icon={Trophy} label="Leaderboard" hint="Solo · Arena · your rank" onSelect={() => runAfterMenuClose(() => openLeaderboard("standings"))} />
         <ActionItem icon={Gauge} label="Career Stats" hint="All time · week · episode" onSelect={() => runAfterMenuClose(() => openLeaderboard("stats"))} />
       </Section>
 

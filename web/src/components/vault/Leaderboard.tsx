@@ -13,6 +13,7 @@ import {
   Loader2,
   Share2,
   Sparkles,
+  Swords,
   Target,
   Trophy,
   UserRound,
@@ -24,6 +25,7 @@ import { memo, useMemo, useState } from "react";
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
+import { ArenaBoard } from "@/components/arena/ArenaBoard";
 import { ShareRankDialog } from "@/components/vault/ShareRankDialog";
 import { ACTIVE_MODULE } from "@/data/modules";
 import { supabase } from "@/integrations/supabase/client";
@@ -383,10 +385,12 @@ export function LeaderboardDialog() {
             <Trophy className="h-5 w-5 text-vault-neon" aria-hidden="true" />
             Leaderboard & Career
           </DialogTitle>
-          <DialogDescription className="vault-kicker text-[11px]">Global standings · lifetime VC · your stats</DialogDescription>
+          <DialogDescription className="vault-kicker text-[11px]">Global standings · solo VC · Arena rating</DialogDescription>
         </DialogHeader>
 
         <div className="flex-1 overflow-y-auto px-4 pb-5 pt-4">
+          {boardSection !== "arena" && (
+          <>
           <div role="radiogroup" aria-label="Time range" className="grid grid-cols-3 gap-1 rounded-lg border border-vault-line bg-vault-ink/60 p-1">
             {SCOPES.map(({ id, label, icon: Icon }) => (
               <button
@@ -425,8 +429,10 @@ export function LeaderboardDialog() {
           <div className="mt-3">
             <YourRankCard me={me} totalPlayers={totalPlayers} isPending={Boolean(user) && query.isPending} scope={boardScope} episodeId={episodeId} onShare={() => setShareOpen(true)} />
           </div>
+          </>
+          )}
 
-          <Tabs value={boardSection} onValueChange={(v) => openLeaderboard(v as BoardSection)} className="mt-4">
+          <Tabs value={boardSection} onValueChange={(v) => openLeaderboard(v as BoardSection)} className={boardSection === "arena" ? "" : "mt-4"}>
             <TabsList className="flex h-auto w-full gap-1 rounded-lg bg-vault-ink/60 p-1">
               <TabsTrigger value="standings" className={TAB_TRIGGER}>
                 <ListOrdered className="h-3.5 w-3.5" aria-hidden="true" />
@@ -436,7 +442,15 @@ export function LeaderboardDialog() {
                 <Gauge className="h-3.5 w-3.5" aria-hidden="true" />
                 My career
               </TabsTrigger>
+              <TabsTrigger value="arena" className={TAB_TRIGGER}>
+                <Swords className="h-3.5 w-3.5" aria-hidden="true" />
+                Arena
+              </TabsTrigger>
             </TabsList>
+
+            <TabsContent value="arena" className="mt-3">
+              <ArenaBoard enabled={boardOpen && boardSection === "arena" && Boolean(user)} onNavigate={() => setBoardOpen(false)} />
+            </TabsContent>
 
             <TabsContent value="standings" className="mt-3">
               {!user ? (

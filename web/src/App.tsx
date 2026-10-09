@@ -14,6 +14,9 @@ import NotFound from "./pages/NotFound";
 import Play from "./pages/Play";
 import Results from "./pages/Results";
 import VaultChamber from "./pages/VaultChamber";
+import ArenaLobby from "./pages/arena/ArenaLobby";
+import ArenaRoom from "./pages/arena/ArenaRoom";
+import AdminArena from "./pages/admin/AdminArena";
 import AdminEpisodeEditor from "./pages/admin/AdminEpisodeEditor";
 import AdminEpisodes from "./pages/admin/AdminEpisodes";
 import AdminLogin from "./pages/admin/AdminLogin";
@@ -43,12 +46,15 @@ const App = () => (
               <Route index element={<AdminEpisodes />} />
               <Route path="episodes/:id" element={<AdminEpisodeEditor />} />
               <Route path="roles" element={<AdminRoles />} />
+              <Route path="arena" element={<AdminArena />} />
             </Route>
             <Route element={<ProtectedLayout />}>
               <Route path="/" element={<Dashboard />} />
               <Route path="/play" element={<Play />} />
               <Route path="/vault" element={<VaultChamber />} />
               <Route path="/results" element={<Results />} />
+              <Route path="/arena" element={<ArenaLobby />} />
+              <Route path="/arena/room/:roomId" element={<ArenaRoom />} />
               {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
               <Route path="*" element={<NotFound />} />
             </Route>

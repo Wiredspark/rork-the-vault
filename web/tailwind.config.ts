@@ -148,6 +148,31 @@ export default {
           "0%, 100%": { opacity: "1" },
           "50%": { opacity: "0.45" },
         },
+        "float-up": {
+          "0%": { opacity: "0", transform: "translateY(8px) scale(0.6)" },
+          "15%": { opacity: "1", transform: "translateY(0) scale(1.15)" },
+          "30%": { transform: "translateY(-8px) scale(1)" },
+          "100%": { opacity: "0", transform: "translateY(-120px) scale(0.9)" },
+        },
+        "pop-in": {
+          "0%": { opacity: "0", transform: "scale(0.6) translateY(6px)" },
+          "60%": { opacity: "1", transform: "scale(1.12) translateY(-2px)" },
+          "100%": { opacity: "1", transform: "scale(1) translateY(0)" },
+        },
+        "jackpot-burst": {
+          "0%": { opacity: "0", transform: "scale(0.3)" },
+          "35%": { opacity: "1" },
+          "100%": { opacity: "0", transform: "scale(2.6)" },
+        },
+        "podium-rise": {
+          from: { transform: "scaleY(0)", opacity: "0" },
+          to: { transform: "scaleY(1)", opacity: "1" },
+        },
+        "live-dot": {
+          "0%": { boxShadow: "0 0 0 0 rgba(63,224,168,0.6)" },
+          "70%": { boxShadow: "0 0 0 7px rgba(63,224,168,0)" },
+          "100%": { boxShadow: "0 0 0 0 rgba(63,224,168,0)" },
+        },
       },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
@@ -163,6 +188,11 @@ export default {
         "door-reveal": "door-reveal 1.4s cubic-bezier(0.2, 0.8, 0.2, 1) both",
         "dial-spin": "dial-spin 1.6s cubic-bezier(0.6, 0, 0.2, 1) both",
         "timer-urgent": "timer-urgent 0.6s ease-in-out infinite",
+        "float-up": "float-up 2.4s cubic-bezier(0.2, 0.8, 0.3, 1) both",
+        "pop-in": "pop-in 0.45s cubic-bezier(0.3, 1.5, 0.5, 1) both",
+        "jackpot-burst": "jackpot-burst 1.4s cubic-bezier(0.1, 0.8, 0.3, 1) both",
+        "podium-rise": "podium-rise 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) both",
+        "live-dot": "live-dot 1.8s ease-out infinite",
       },
     },
   },

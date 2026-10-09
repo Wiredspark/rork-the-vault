@@ -2,7 +2,7 @@ import createContextHook from "@nkzw/create-context-hook";
 import { useCallback, useMemo, useRef, useState } from "react";
 
 export type BoardScope = "all" | "week" | "episode";
-export type BoardSection = "standings" | "stats";
+export type BoardSection = "standings" | "stats" | "arena";
 
 /**
  * Shell-level overlay state (drawer, leaderboard, streak guide, episode picker) so the
