@@ -149,6 +149,39 @@ export function buildMatchSet(pool: string, exclusions: ArenaExclusions, recent:
   };
 }
 
+/**
+ * Builds a 12-question tournament final: 9 standard (3 easy, 3 medium, 3 hard) with the vault's three
+ * earnable digit questions at Q3, Q7 and Q10 (one digit is free), plus a deep sudden-death reserve
+ * for tiebreaks at the elimination cut lines.
+ */
+export function buildFinalSet(pool: string, exclusions: ArenaExclusions): MatchSet {
+  const excludedEps = new Set(exclusions.episodes);
+  const excludedQs = new Set(exclusions.questions);
+  const available = POOL.questions.filter((q) => !excludedEps.has(q.ep) && !excludedQs.has(q.id));
+  const vaults = POOL.vaults.filter((v) => !excludedEps.has(v.ep) && v.digits.length >= 3);
+  const vault = shuffle(vaults.length ? vaults : POOL.vaults)[0];
+  const digits = [...vault.digits].sort((a, b) => a.di - b.di).slice(0, 3);
+  const earned = new Set(digits.map((d) => d.di));
+  const freeIndexes = Array.from({ length: vault.code.length }, (_, i) => i).filter((i) => !earned.has(i));
+
+  const used = new Set<string>(digits.map((d) => d.id));
+  const easy = pick(available, "easy", 3, pool, used);
+  const medium = pick(available, "medium", 3, pool, used);
+  const hard = pick(available, "hard", 3, pool, used);
+  const sudden = [...pick(available, "medium", 4, pool, used), ...pick(available, "hard", 4, pool, used)];
+
+  const standard = [...easy, ...medium, ...hard].map((q) => toMatch(q));
+  const [d1, d2, d3] = shuffle(digits).map((d) => toMatch(d, { index: d.di, value: d.dv }));
+  // Positions (0-based): digit questions land at 2, 6 and 9.
+  const questions = [...standard.slice(0, 2), d1, ...standard.slice(2, 5), d2, ...standard.slice(5, 7), d3, ...standard.slice(7)];
+
+  return {
+    questions,
+    suddenDeath: shuffle(sudden).map((q) => toMatch(q)),
+    vault: { episodeId: vault.ep, title: vault.title, code: vault.code, freeIndexes, story: vault.story },
+  };
+}
+
 /** Episode list for the admin exclusions panel. */
 export function poolEpisodes(): { id: string; title: string; questionCount: number }[] {
   const counts = new Map<string, number>();

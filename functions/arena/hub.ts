@@ -1,6 +1,7 @@
 import { DurableObject } from "cloudflare:workers";
 
 import { JACKPOT_BASE, JACKPOT_CAP, JACKPOT_STEP, poolEpisodes } from "./pool";
+import { TournamentError, TournamentStore, type RequestUser } from "./tournaments";
 import {
   ARENA_MAX_PLAYERS,
   type ArenaAdminState,
@@ -13,13 +14,17 @@ import {
   type ArenaRoomSummary,
 } from "./protocol";
 
-type Env = { DO: Fetcher };
+type Env = {
+  DO: Fetcher & {
+    setAlarm(className: string, id: string, scheduledTime: number | Date): Promise<void>;
+  };
+};
 
 const ROOM_TTL_MS = 90_000;
 const RATING_START = 1000;
 const RATING_K = 32;
 
-interface PlayerRow {
+type PlayerRow = {
   user_id: string;
   name: string;
   matches: number;
@@ -28,7 +33,11 @@ interface PlayerRow {
   arena_vc: number;
   jackpots: number;
   best_score: number;
-}
+  t_champion?: number;
+  t_finalist?: number;
+  t_qualifier?: number;
+  title?: string | null;
+};
 
 function toStats(row: PlayerRow): ArenaPlayerStats {
   return {
@@ -40,6 +49,8 @@ function toStats(row: PlayerRow): ArenaPlayerStats {
     arenaVc: row.arena_vc,
     jackpots: row.jackpots,
     bestScore: row.best_score,
+    trophies: { champion: row.t_champion ?? 0, finalist: row.t_finalist ?? 0, qualifier: row.t_qualifier ?? 0 },
+    title: row.title ?? null,
   };
 }
 
@@ -54,6 +65,9 @@ function randomId(length: number): string {
  * player stats + skill rating, match history, the public jackpot, and admin pool exclusions.
  */
 export class ArenaHub extends DurableObject<Env> {
+  private readonly tournaments: TournamentStore;
+  private alarmAt: number | null = null;
+
   constructor(ctx: DurableObjectState, env: Env) {
     super(ctx, env);
     const sql = this.ctx.storage.sql;
@@ -68,10 +82,87 @@ export class ArenaHub extends DurableObject<Env> {
       best_score INTEGER NOT NULL DEFAULT 0, updated_at INTEGER NOT NULL DEFAULT 0)`);
     sql.exec(`CREATE TABLE IF NOT EXISTS matches (match_id TEXT PRIMARY KEY, ended_at INTEGER NOT NULL, data TEXT NOT NULL)`);
     sql.exec(`CREATE TABLE IF NOT EXISTS kv (key TEXT PRIMARY KEY, value TEXT NOT NULL)`);
-    // Real player ids are Supabase UUIDs; clear any leftover rows from pre-launch bot testing.
+    const cols = new Set(sql.exec<{ name: string }>("PRAGMA table_info(players)").toArray().map((c) => c.name));
+    const add: [string, string][] = [
+      ["t_champion", "INTEGER NOT NULL DEFAULT 0"],
+      ["t_finalist", "INTEGER NOT NULL DEFAULT 0"],
+      ["t_qualifier", "INTEGER NOT NULL DEFAULT 0"],
+      ["title", "TEXT"],
+      ["title_series", "TEXT"],
+    ];
+    add.forEach(([name, type]) => {
+      if (!cols.has(name)) sql.exec(`ALTER TABLE players ADD COLUMN ${name} ${type}`);
+    });
+    // Clear pre-launch bot test data (real player ids are Supabase UUIDs).
     sql.exec("DELETE FROM players WHERE user_id LIKE 'test-%'");
     sql.exec(`DELETE FROM matches WHERE data LIKE '%"userId":"test-%'`);
     sql.exec("DELETE FROM rooms WHERE player_ids LIKE '%test-%'");
+    this.tournaments = new TournamentStore(sql, (className, id, path, body) => {
+      const headers = new Headers({ "X-Rork-DO-Class": className, "X-Rork-DO-Id": id, "Content-Type": "application/json" });
+      return this.env.DO.fetch(new Request(`https://internal${path}`, { method: "POST", headers, body: JSON.stringify(body ?? {}) }));
+    });
+  }
+
+  /** Durable scheduler: advances tournaments even when nobody is online. */
+  async onAlarm(): Promise<void> {
+    this.alarmAt = null;
+    const now = Date.now();
+    this.tournaments.process(now);
+    await Promise.allSettled(this.tournaments.drain());
+    await this.armAlarm(true);
+  }
+
+  private async armAlarm(force = false): Promise<void> {
+    const next = this.tournaments.nextDue(Date.now());
+    if (next === null) return;
+    if (!force && this.alarmAt !== null && this.alarmAt <= next) return;
+    this.alarmAt = next;
+    try {
+      await this.env.DO.setAlarm("ArenaHub", "global", next);
+    } catch (err) {
+      console.warn("[hub] setAlarm failed", String(err));
+      this.alarmAt = null;
+    }
+  }
+
+  private async afterTournamentWrite(): Promise<void> {
+    this.ctx.waitUntil(Promise.allSettled(this.tournaments.drain()).then(() => undefined));
+    await this.armAlarm(true);
+  }
+
+  private async tournamentRoute(request: Request, url: URL): Promise<Response | null> {
+    const path = url.pathname;
+    if (!path.startsWith("/t/")) return null;
+    const now = Date.now();
+    const user: RequestUser | null = url.searchParams.get("userId")
+      ? { userId: url.searchParams.get("userId")!, name: url.searchParams.get("name") ?? "Player", email: url.searchParams.get("email") }
+      : null;
+    const body = request.method === "POST" ? ((await request.json().catch(() => ({}))) as Record<string, unknown>) : {};
+    try {
+      // Catch up on anything overdue before answering (the alarm is the backstop).
+      this.tournaments.process(now);
+      let out: unknown;
+      if (path === "/t/list") out = this.tournaments.list(user, now);
+      else if (path === "/t/detail") out = this.tournaments.detail(String(url.searchParams.get("id")), user, now);
+      else if (path === "/t/register" && user) out = this.tournaments.register(String(body.id), user, typeof body.code === "string" ? body.code : null, now);
+      else if (path === "/t/run" && user) out = await this.tournaments.startRun(String(body.id), user, now);
+      else if (path === "/t/checkin" && user) out = this.tournaments.checkin(String(body.id), user, now);
+      else if (path === "/t/run-result") out = this.tournaments.runResult(body as never, now);
+      else if (path === "/t/final-result") out = { placements: this.tournaments.finalResult(body as never, now) };
+      else if (path === "/t/admin/list") out = { tournaments: this.tournaments.adminList(now), insights: this.tournaments.insights(now) };
+      else if (path === "/t/admin/save") out = this.tournaments.save(body as never, now);
+      else if (path === "/t/admin/invites") out = this.tournaments.setInvites(String(body.id), body.invites, now);
+      else if (path === "/t/admin/action") out = this.tournaments.action(body as never, now);
+
+      else return Response.json({ error: "not found" }, { status: 404 });
+      await this.afterTournamentWrite();
+      return Response.json(out);
+    } catch (err) {
+      await this.afterTournamentWrite();
+      if (err instanceof TournamentError) return Response.json({ error: err.message }, { status: err.status });
+      console.error("[hub] tournament route failed", path, String(err));
+      return Response.json({ error: "Something went wrong with the tournament." }, { status: 500 });
+    }
   }
 
   private getKv<T>(key: string, fallback: T): T {
@@ -134,6 +225,9 @@ export class ArenaHub extends DurableObject<Env> {
     const url = new URL(request.url);
     const path = url.pathname;
 
+    const tournamentResponse = await this.tournamentRoute(request, url);
+    if (tournamentResponse) return tournamentResponse;
+
     if (request.method === "POST" && path === "/report") {
       const report = (await request.json()) as ArenaRoomSummary;
       if (report.playerCount + report.spectators === 0) {
@@ -191,6 +285,7 @@ export class ArenaHub extends DurableObject<Env> {
         liveRooms: rooms.filter((r) => r.phase !== "lobby" && r.phase !== "countdown").length,
         publicJackpot: this.publicJackpot(),
         me: row ? toStats(row) : null,
+        spotlight: this.tournaments.spotlight(Date.now()),
       };
       return Response.json(overview);
     }
@@ -256,6 +351,7 @@ export class ArenaHub extends DurableObject<Env> {
       this.setKv("public_jackpot", record.jackpotCracked ? JACKPOT_BASE : Math.min(JACKPOT_CAP, current + JACKPOT_STEP));
     }
 
+    this.tournaments.bumpActivity(record.endedAt, record.standings.length);
     // Practice matches (a single player) never touch ratings or the board.
     const field = record.standings;
     if (field.length < 2) return;
@@ -295,21 +391,23 @@ export class ArenaHub extends DurableObject<Env> {
     field.forEach((s) => {
       const row = rows.get(s.userId)!;
       const isWinner = s.userId === record.winnerId;
+      // arena_vc is incremented in SQL so tournament fees/prizes landing in between are never overwritten.
       sql.exec(
         `INSERT INTO players (user_id, name, matches, wins, rating, arena_vc, jackpots, best_score, updated_at)
          VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
          ON CONFLICT(user_id) DO UPDATE SET name = excluded.name, matches = excluded.matches, wins = excluded.wins,
-           rating = excluded.rating, arena_vc = excluded.arena_vc, jackpots = excluded.jackpots,
+           rating = excluded.rating, arena_vc = players.arena_vc + ?, jackpots = excluded.jackpots,
            best_score = excluded.best_score, updated_at = excluded.updated_at`,
         s.userId,
         s.name,
         row.matches + 1,
         row.wins + (isWinner ? 1 : 0),
         Math.max(100, row.rating + (deltas.get(s.userId) ?? 0)),
-        row.arena_vc + s.vcEarned,
+        s.vcEarned,
         row.jackpots + (isWinner && record.jackpotCracked ? 1 : 0),
         Math.max(row.best_score, s.score),
         Date.now(),
+        s.vcEarned,
       );
     });
   }

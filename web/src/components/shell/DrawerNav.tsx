@@ -1,5 +1,5 @@
 import { useQuery } from "@tanstack/react-query";
-import { Disc3, Gauge, Home, KeyRound, Play, Swords, Trophy, type LucideIcon } from "lucide-react";
+import { Crown, Disc3, Gauge, Home, KeyRound, Play, Swords, Trophy, type LucideIcon } from "lucide-react";
 import { NavLink, useLocation, useNavigate } from "react-router-dom";
 
 import { fetchArenaOverview } from "@/lib/arena/api";
@@ -85,6 +85,17 @@ export function DrawerNav({ onNavigate }: { onNavigate?: () => void }) {
   const arena = useQuery({ queryKey: ["arena-overview"], queryFn: fetchArenaOverview, refetchInterval: 20_000, staleTime: 10_000, retry: 1 });
   const online = arena.data?.online ?? 0;
   const arenaHint = arena.isError ? "Live multiplayer rooms" : `${online} ${online === 1 ? "player" : "players"} online`;
+  const spotlight = arena.data?.spotlight ?? null;
+  const finalLive = spotlight?.status === "final";
+  const tournamentHint = !spotlight
+    ? "Qualifiers · live finals"
+    : finalLive
+      ? `Final live · ${spotlight.name}`
+      : spotlight.status === "qualifying"
+        ? `Qualifiers open · ${spotlight.name}`
+        : spotlight.status === "scheduled"
+          ? `Next: ${spotlight.name}`
+          : `${spotlight.name} · finals soon`;
 
   const playHint =
     status === "fresh"
@@ -108,7 +119,8 @@ export function DrawerNav({ onNavigate }: { onNavigate?: () => void }) {
       </Section>
 
       <Section title="Arena">
-        <RouteItem to="/arena" end={false} icon={Swords} label="Arena" hint={arenaHint} onNavigate={onNavigate} live={online > 0} />
+        <RouteItem to="/arena" icon={Swords} label="Arena" hint={arenaHint} onNavigate={onNavigate} live={online > 0} />
+        <RouteItem to="/arena/tournaments" end={false} icon={Crown} label="Tournaments" hint={tournamentHint} onNavigate={onNavigate} live={finalLive} />
       </Section>
 
       <Section title="Compete">

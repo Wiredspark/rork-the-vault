@@ -25,7 +25,9 @@ export function MatchStage({ snapshot, remaining, send }: MatchStageProps) {
   const me = snapshot.me;
   const myView = snapshot.players.find((p) => p.userId === me.userId);
   const canAnswer = me.role === "player" && !isReveal && me.answer === null && (!isSudden || Boolean(snapshot.sudden?.playerIds.includes(me.userId)));
-  const contenders = isSudden ? snapshot.players.filter((p) => snapshot.sudden?.playerIds.includes(p.userId)) : snapshot.players.filter((p) => !p.left);
+  const contenders = isSudden
+    ? snapshot.players.filter((p) => snapshot.sudden?.playerIds.includes(p.userId))
+    : snapshot.players.filter((p) => !p.left && p.eliminatedAfter === null);
   const lockedCount = contenders.filter((p) => p.answered).length;
   const revealSound = useRef<string | null>(null);
 
@@ -76,7 +78,7 @@ export function MatchStage({ snapshot, remaining, send }: MatchStageProps) {
           <p className={cn("flex flex-wrap items-center gap-2 font-mono text-[11px] font-medium uppercase tracking-[0.24em]", isSudden ? "text-vault-danger" : "text-vault-neon")}>
             {isSudden ? (
               <>
-                <Skull className="h-3.5 w-3.5" aria-hidden="true" /> Sudden death · round {snapshot.sudden?.round ?? 1} of 3
+                <Skull className="h-3.5 w-3.5" aria-hidden="true" /> {snapshot.sudden?.purpose === "cut" ? "Cut-line sudden death" : "Sudden death"} · round {snapshot.sudden?.round ?? 1} of 3
               </>
             ) : (
               <>
@@ -108,7 +110,8 @@ export function MatchStage({ snapshot, remaining, send }: MatchStageProps) {
               className={cn(
                 "h-1 flex-1 rounded-full",
                 i < snapshot.questionIndex ? "bg-vault-neon/70" : i === snapshot.questionIndex ? "bg-vault-neonhi" : "bg-white/[0.08]",
-                (i === 4 || i === 8) && i > snapshot.questionIndex && "bg-vault-neon/25",
+                snapshot.digitPositions.includes(i) && i > snapshot.questionIndex && "bg-vault-neon/25",
+                snapshot.elimination?.checkpoints.includes(i + 1) && "relative after:absolute after:-right-[3px] after:-top-1 after:h-3 after:w-[2px] after:rounded-full after:bg-vault-danger/70",
               )}
             />
           ))}
@@ -121,7 +124,7 @@ export function MatchStage({ snapshot, remaining, send }: MatchStageProps) {
 
       {isSudden && !snapshot.sudden?.playerIds.includes(me.userId) && (
         <p className="mt-3 inline-flex items-center gap-2 rounded-full border border-vault-line bg-vault-ink/60 px-3 py-1.5 text-[12.5px] text-vault-ice/70">
-          <Eye className="h-3.5 w-3.5" aria-hidden="true" /> Watching the tiebreaker
+          <Eye className="h-3.5 w-3.5" aria-hidden="true" /> {snapshot.sudden?.purpose === "cut" ? "Watching the fight for the last seats" : "Watching the tiebreaker"}
         </p>
       )}
 
@@ -190,7 +193,9 @@ export function MatchStage({ snapshot, remaining, send }: MatchStageProps) {
             {lockedCount}/{contenders.length} locked in
           </span>
           {me.answer !== null && <span className="text-[13px] text-vault-neon">Locked. Answers reveal when time's up or everyone's in.</span>}
-          {me.role === "spectator" && <span className="text-[13px] text-vault-ice/60">You're spectating this match.</span>}
+          {me.role === "spectator" && (
+            <span className="text-[13px] text-vault-ice/60">{myView?.eliminatedAfter ? `Sealed out after Q${myView.eliminatedAfter}. Watching the rest.` : "You're spectating this match."}</span>
+          )}
         </div>
       )}
 
@@ -242,8 +247,11 @@ export function MatchSidebar({ snapshot, send }: { snapshot: ArenaSnapshot; send
   const inQuestion = snapshot.phase === "question";
   const answered = me.answer !== null;
   const nextDigit = snapshot.question?.isDigit ? snapshot.question.digitIndex : null;
+  const isFinal = snapshot.kind === "final";
+  const hasVault = snapshot.kind !== "qualifier";
   return (
     <div className="flex flex-col gap-4">
+      {!isFinal && (
       <div className="neon-card p-4">
         <p className="eyebrow-muted pb-3">Lifelines · once each</p>
         <div className="grid grid-cols-2 gap-3">
@@ -266,6 +274,8 @@ export function MatchSidebar({ snapshot, send }: { snapshot: ArenaSnapshot; send
           />
         </div>
       </div>
+      )}
+      {hasVault && (
       <div className="neon-card p-4">
         <p className="eyebrow-muted">Your vault digits</p>
         <div className="mt-3 flex gap-2">
@@ -281,9 +291,13 @@ export function MatchSidebar({ snapshot, send }: { snapshot: ArenaSnapshot; send
           ))}
         </div>
         <p className="mt-3 text-[12px] leading-relaxed text-vault-muted">
-          {snapshot.vault ? `Vault from ${snapshot.vault.episodeId} · ${snapshot.vault.title}. ` : ""}Two digits are free; gold questions unlock the rest. Only the winner opens the vault.
+          {snapshot.vault ? `Vault from ${snapshot.vault.episodeId} · ${snapshot.vault.title}. ` : ""}
+          {isFinal
+            ? "One digit is free; three gold questions unlock the rest. Survivors use them in the vault race."
+            : "Two digits are free; gold questions unlock the rest. Only the winner opens the vault."}
         </p>
       </div>
+      )}
     </div>
   );
 }

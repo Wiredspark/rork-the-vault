@@ -1,4 +1,4 @@
-import { Flame, Zap } from "lucide-react";
+import { Flame, Lock, Zap } from "lucide-react";
 import { memo, useMemo } from "react";
 
 import { PlayerAvatar } from "@/components/arena/ArenaBits";
@@ -18,7 +18,10 @@ interface LiveStandingsProps {
 
 /** Live leaderboard whose rows glide into their new order after every reveal. */
 export const LiveStandings = memo(function LiveStandings({ players, meId, showDelta, highlightIds, className }: LiveStandingsProps) {
-  const ranked = useMemo(() => [...players].sort((a, b) => b.score - a.score || a.name.localeCompare(b.name)), [players]);
+  const ranked = useMemo(
+    () => [...players].sort((a, b) => Number(a.eliminatedAfter !== null) - Number(b.eliminatedAfter !== null) || b.score - a.score || a.name.localeCompare(b.name)),
+    [players],
+  );
   const positions = useMemo(() => new Map(ranked.map((p, i) => [p.userId, i])), [ranked]);
   // Stable DOM order (by id) so rows animate their transform instead of remounting.
   const stable = useMemo(() => [...players].sort((a, b) => a.userId.localeCompare(b.userId)), [players]);
@@ -27,7 +30,7 @@ export const LiveStandings = memo(function LiveStandings({ players, meId, showDe
     <div className={cn("neon-card p-4", className)}>
       <div className="flex items-center justify-between pb-3">
         <p className="eyebrow-muted">Live standings</p>
-        <p className="font-mono text-[10.5px] text-vault-muted tabular">{players.filter((p) => p.connected && !p.left).length} live</p>
+        <p className="font-mono text-[10.5px] text-vault-muted tabular">{players.filter((p) => p.connected && !p.left && p.eliminatedAfter === null).length} live</p>
       </div>
       <ol className="relative" style={{ height: ranked.length * ROW_H }} aria-label="Live standings">
         {stable.map((p) => {
@@ -47,6 +50,7 @@ export const LiveStandings = memo(function LiveStandings({ players, meId, showDe
                   isMe ? "border-vault-neon/50 bg-vault-neon/[0.08]" : "border-transparent bg-white/[0.02]",
                   lit && "border-vault-danger/50 bg-vault-danger/[0.06]",
                   highlightIds && !lit && "opacity-45",
+                  p.eliminatedAfter !== null && "border-transparent bg-transparent opacity-40 grayscale",
                 )}
               >
                 <span className={cn("w-5 shrink-0 text-center font-mono text-[12px] tabular", pos === 0 ? "text-vault-neonhi" : "text-vault-muted")}>
@@ -59,7 +63,11 @@ export const LiveStandings = memo(function LiveStandings({ players, meId, showDe
                     {isMe && <span className="shrink-0 font-mono text-[9px] uppercase tracking-[0.16em] text-vault-neon">You</span>}
                   </span>
                   <span className="flex items-center gap-2 font-mono text-[10px] text-vault-muted tabular">
-                    {p.left ? (
+                    {p.eliminatedAfter !== null ? (
+                      <span className="inline-flex items-center gap-1 text-vault-danger/80">
+                        <Lock className="h-2.5 w-2.5" aria-hidden="true" /> Sealed after Q{p.eliminatedAfter}
+                      </span>
+                    ) : p.left ? (
                       <span className="text-vault-danger/80">Left</span>
                     ) : !p.connected ? (
                       <span className="text-vault-danger/80">Away · can rejoin</span>

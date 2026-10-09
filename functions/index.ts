@@ -5,7 +5,9 @@ export { ArenaHub } from "./arena/hub";
 export { ArenaRoom } from "./arena/room";
 
 type Env = {
-  DO: Fetcher;
+  DO: Fetcher & {
+    setAlarm(className: string, id: string, scheduledTime: number | Date): Promise<void>;
+  };
   EXPO_PUBLIC_SUPABASE_URL?: string;
   EXPO_PUBLIC_SUPABASE_ANON_KEY?: string;
 };
@@ -13,11 +15,15 @@ type Env = {
 interface Identity {
   userId: string;
   name: string;
+  email: string | null;
   token: string;
 }
 
 const PRIVATE_CODE = /^[A-HJ-NP-Z2-9]{6}$/;
 const PUBLIC_ID = /^pub-[a-z0-9]{6}$/;
+const QUALIFIER_ID = /^q-[a-z0-9]{10}$/;
+const FINAL_ID = /^f-[a-z0-9]{8}$/;
+const TOURNAMENT_ID = /^t-[a-z0-9]{8}$/;
 
 function json(data: unknown, status = 200): Response {
   return Response.json(data, { status, headers: { "Cache-Control": "no-store" } });
@@ -45,7 +51,7 @@ async function identify(request: Request, env: Env): Promise<Identity | null> {
     if (!user.id) return null;
     const meta = user.user_metadata?.display_name;
     const name = typeof meta === "string" && meta.trim() ? meta.trim() : (user.email?.split("@")[0] ?? "Player");
-    return { userId: user.id, name: name.slice(0, 32), token };
+    return { userId: user.id, name: name.slice(0, 32), email: user.email?.toLowerCase() ?? null, token };
   } catch (err) {
     console.warn("[arena] identify failed", String(err));
     return null;
@@ -86,7 +92,20 @@ function newPrivateCode(): string {
 }
 
 function validRoomId(id: string): boolean {
-  return PRIVATE_CODE.test(id) || PUBLIC_ID.test(id);
+  return PRIVATE_CODE.test(id) || PUBLIC_ID.test(id) || QUALIFIER_ID.test(id) || FINAL_ID.test(id);
+}
+
+/** Private codes are uppercase; public, qualifier and final room ids are lowercase. */
+function normalizeRoomId(raw: string): string {
+  const lower = raw.toLowerCase();
+  return /^(pub|q|f)-/.test(lower) ? lower : raw.toUpperCase();
+}
+
+function userQuery(identity: Identity | null): string {
+  if (!identity) return "";
+  const q = new URLSearchParams({ userId: identity.userId, name: identity.name });
+  if (identity.email) q.set("email", identity.email);
+  return q.toString();
 }
 
 export default {
@@ -100,8 +119,7 @@ export default {
       // Live room socket: /arena/room/<id>/ws?token=<supabase access token>
       const wsMatch = path.match(/^\/arena\/room\/([^/]+)\/ws$/);
       if (wsMatch && request.headers.get("Upgrade") === "websocket") {
-        const roomId = decodeURIComponent(wsMatch[1]).toUpperCase().replace(/^PUB-/, "pub-");
-        const normalized = roomId.startsWith("pub-") ? roomId.toLowerCase() : roomId;
+        const normalized = normalizeRoomId(decodeURIComponent(wsMatch[1]));
         if (!validRoomId(normalized)) return new Response("invalid room", { status: 400 });
         const identity = await identify(request, env);
         if (!identity) return new Response("sign in required", { status: 401 });
@@ -123,6 +141,24 @@ export default {
       }
 
       const identity = await identify(request, env);
+
+      // Tournaments: anyone can browse; playing needs a session.
+      if (path === "/arena/tournaments" && request.method === "GET") {
+        return hub(env, `/t/list?${userQuery(identity)}`);
+      }
+      const tMatch = path.match(/^\/arena\/tournaments\/([^/]+)(?:\/(register|run|checkin))?$/);
+      if (tMatch) {
+        const tid = tMatch[1].toLowerCase();
+        if (!TOURNAMENT_ID.test(tid)) return json({ error: "That tournament doesn't exist." }, 404);
+        if (!tMatch[2] && request.method === "GET") return hub(env, `/t/detail?id=${tid}&${userQuery(identity)}`);
+        if (tMatch[2] && request.method === "POST") {
+          if (!identity) return json({ error: "Sign in to enter tournaments." }, 401);
+          const body = (await request.json().catch(() => ({}))) as { code?: unknown };
+          const code = typeof body.code === "string" ? body.code.slice(0, 16) : null;
+          return hub(env, `/t/${tMatch[2]}?${userQuery(identity)}`, { method: "POST", body: JSON.stringify({ id: tid, code }) });
+        }
+      }
+
       if (!identity) return json({ error: "Sign in to play in the Arena." }, 401);
 
       if (path === "/arena/public/join" && request.method === "POST") {
@@ -138,8 +174,7 @@ export default {
 
       const infoMatch = path.match(/^\/arena\/room\/([^/]+)$/);
       if (infoMatch && request.method === "GET") {
-        const raw = decodeURIComponent(infoMatch[1]);
-        const id = raw.toLowerCase().startsWith("pub-") ? raw.toLowerCase() : raw.toUpperCase();
+        const id = normalizeRoomId(decodeURIComponent(infoMatch[1]));
         if (!validRoomId(id)) return json({ exists: false });
         return json(await (await toDo(env, "ArenaRoom", id, "/info")).json());
       }
@@ -150,6 +185,13 @@ export default {
 
       if (path.startsWith("/arena/admin/")) {
         if (!(await isAdmin(identity, env))) return json({ error: "Admins only." }, 403);
+        if (path === "/arena/admin/tournaments" && request.method === "GET") {
+          return hub(env, "/t/admin/list");
+        }
+        const adminT = path.match(/^\/arena\/admin\/tournaments\/(save|invites|action)$/);
+        if (adminT && request.method === "POST") {
+          return hub(env, `/t/admin/${adminT[1]}`, { method: "POST", body: await request.text() });
+        }
         if (path === "/arena/admin/state" && request.method === "GET") {
           return json(await (await hub(env, "/admin/state")).json());
         }

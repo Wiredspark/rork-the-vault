@@ -1,6 +1,6 @@
 import { DurableObject } from "cloudflare:workers";
 
-import { basePoints, buildMatchSet, JACKPOT_BASE, JACKPOT_CAP, JACKPOT_STEP, multiplierForStreak, POOL_OPTIONS, type MatchQuestion, type MatchSet } from "./pool";
+import { basePoints, buildFinalSet, buildMatchSet, JACKPOT_BASE, JACKPOT_CAP, JACKPOT_STEP, multiplierForStreak, POOL_OPTIONS, type MatchQuestion, type MatchSet } from "./pool";
 import {
   ARENA_JACKPOT_ATTEMPTS,
   ARENA_JACKPOT_MS,
@@ -11,6 +11,9 @@ import {
   ARENA_REVEAL_MS,
   ARENA_SUDDEN_MS,
   ARENA_TOTAL_QUESTIONS,
+  FINAL_CHECKPOINTS,
+  FINAL_RACE_MS,
+  FINAL_TOTAL_QUESTIONS,
   type ArenaExclusions,
   type ArenaJackpotView,
   type ArenaMatchRecord,
@@ -20,13 +23,20 @@ import {
   type ArenaSnapshot,
   type ArenaStanding,
   type ClientMessage,
+  type RaceView,
   type Reaction,
   type RoomKind,
   type ServerMessage,
+  type TournamentPlacement,
+  type TournamentRaceSummary,
   type WinReason,
 } from "./protocol";
 
-type Env = { DO: Fetcher };
+type Env = {
+  DO: Fetcher & {
+    setAlarm(className: string, id: string, scheduledTime: number | Date): Promise<void>;
+  };
+};
 
 const PUBLIC_COUNTDOWN_MS = 20_000;
 const PRIVATE_COUNTDOWN_MS = 5_000;
@@ -34,6 +44,11 @@ const PUBLIC_RESULTS_MS = 25_000;
 const JACKPOT_OUTRO_MS = 4_500;
 const LOBBY_GRACE_MS = 12_000;
 const SUDDEN_ROUNDS = 3;
+const QUALIFIER_COUNTDOWN_MS = 4_000;
+const FINAL_COUNTDOWN_MS = 10_000;
+const CHECKPOINT_MS = 6_500;
+const RACE_OUTRO_MS = 6_000;
+const RACE_ATTEMPTS = 3;
 const TICK_MS = 1_000;
 const REPORT_EVERY_MS = 30_000;
 const STATE_KEY = "room";
@@ -68,6 +83,7 @@ interface PlayerState {
   lastChoice: number | null;
   sudden: Answer | null;
   ready: boolean;
+  eliminatedAfter: number | null;
 }
 
 interface JackpotState {
@@ -75,6 +91,40 @@ interface JackpotState {
   amount: number;
   attempts: { code: string; correct: boolean }[];
   status: "open" | "cracked" | "sealed";
+}
+
+interface CutState {
+  checkpoint: number;
+  slots: number;
+  group: string[];
+  safe: string[];
+  below: string[];
+}
+
+interface EliminationState {
+  cuts: number[];
+  done: number;
+  lastCut: string[];
+  pending: CutState | null;
+}
+
+interface RaceState {
+  startedAt: number;
+  racers: { userId: string; codes: string[]; crackedAtMs: number | null }[];
+  status: "open" | "done";
+  winnerId: string | null;
+}
+
+interface TournamentLink {
+  id: string;
+  name: string;
+  ownerId: string | null;
+  runId: string | null;
+  rank: number | null;
+  runsLeft: number | null;
+  entrants: number | null;
+  reported: boolean;
+  startsAt: number | null;
 }
 
 interface RoomState {
@@ -92,7 +142,11 @@ interface RoomState {
   set: MatchSet | null;
   qIndex: number;
   questionStartedAt: number;
-  sudden: { round: number; playerIds: string[] } | null;
+  sudden: { round: number; playerIds: string[]; purpose: "win" | "cut" } | null;
+  suddenIndex: number;
+  elimination: EliminationState | null;
+  race: RaceState | null;
+  tournament: TournamentLink | null;
   winnerId: string | null;
   winReason: WinReason | null;
   jackpot: JackpotState | null;
@@ -101,6 +155,22 @@ interface RoomState {
   standings: ArenaStanding[] | null;
   recent: string[];
   notice: string | null;
+}
+
+interface Seat {
+  userId: string;
+  name: string;
+}
+
+interface InitBody {
+  kind?: RoomKind;
+  hostId?: string;
+  ownerId?: string;
+  runId?: string;
+  pool?: string;
+  startsAt?: number;
+  tournament?: { id: string; name: string };
+  seats?: Seat[];
 }
 
 interface SocketMeta {
@@ -125,6 +195,10 @@ function freshState(): RoomState {
     qIndex: 0,
     questionStartedAt: 0,
     sudden: null,
+    suddenIndex: -1,
+    elimination: null,
+    race: null,
+    tournament: null,
     winnerId: null,
     winReason: null,
     jackpot: null,
@@ -154,6 +228,7 @@ function resetMatchFields(p: PlayerState): void {
   p.lastChoice = null;
   p.sudden = null;
   p.ready = false;
+  p.eliminatedAfter = null;
 }
 
 function newPlayer(userId: string, name: string, role: PlayerState["role"]): PlayerState {
@@ -168,6 +243,17 @@ function newPlayer(userId: string, name: string, role: PlayerState["role"]): Pla
   } as PlayerState;
   resetMatchFields(p);
   return p;
+}
+
+/**
+ * How many finalists drop at each checkpoint: half the field goes over two cuts (8 → 6 → 4),
+ * never leaving fewer than 2 for the vault race.
+ */
+export function eliminationCuts(field: number): number[] {
+  if (field <= 2) return [0, 0];
+  const survivors = Math.max(2, Math.ceil(field / 2));
+  const total = field - survivors;
+  return [Math.ceil(total / 2), Math.floor(total / 2)];
 }
 
 function shuffle<T>(items: T[]): T[] {
@@ -205,11 +291,76 @@ export class ArenaRoom extends DurableObject<Env> {
     const url = new URL(request.url);
 
     if (request.method === "POST" && url.pathname === "/init") {
-      const { hostId } = (await request.json()) as { hostId: string };
+      const body = (await request.json()) as InitBody;
       if (!this.state.initialized) {
-        this.state = { ...freshState(), initialized: true, kind: "private", hostId };
+        if (body.kind === "qualifier" || body.kind === "final") {
+          this.state = {
+            ...freshState(),
+            initialized: true,
+            kind: body.kind,
+            pool: body.pool ?? "all",
+            tournament: {
+              id: body.tournament?.id ?? "",
+              name: body.tournament?.name ?? "Tournament",
+              ownerId: body.ownerId ?? null,
+              runId: body.runId ?? null,
+              rank: null,
+              runsLeft: null,
+              entrants: null,
+              reported: false,
+              startsAt: body.startsAt ?? null,
+            },
+          };
+          if (body.kind === "final") this.seedSeats(body.seats ?? []);
+        } else {
+          this.state = { ...freshState(), initialized: true, kind: "private", hostId: body.hostId ?? null };
+        }
         this.persist();
       }
+      return Response.json({ ok: true });
+    }
+
+    if (request.method === "POST" && url.pathname === "/final/preview") {
+      const body = (await request.json()) as { seats: Seat[]; startsAt: number };
+      const s = this.state;
+      if (s.kind === "final" && s.phase === "lobby") {
+        this.seedSeats(body.seats);
+        if (s.tournament) s.tournament.startsAt = body.startsAt;
+        this.persist();
+        this.broadcast();
+      }
+      return Response.json({ ok: true });
+    }
+
+    if (request.method === "POST" && url.pathname === "/final/start") {
+      const body = (await request.json()) as { seats: Seat[] };
+      const s = this.state;
+      if (s.kind === "final" && s.phase === "lobby") {
+        this.seedSeats(body.seats, true);
+        s.phase = "countdown";
+        s.phaseEndsAt = Date.now() + FINAL_COUNTDOWN_MS;
+        s.notice = null;
+        this.persist();
+        this.broadcast();
+        this.report(true);
+        this.schedule();
+      }
+      return Response.json({ ok: true, phase: s.phase });
+    }
+
+    if (request.method === "POST" && url.pathname === "/poke") {
+      await this.tick();
+      this.schedule();
+      return Response.json({ ok: true, phase: this.state.phase, reported: this.state.tournament?.reported ?? false });
+    }
+
+    if (request.method === "POST" && url.pathname === "/final/cancel") {
+      const s = this.state;
+      s.notice = "This tournament was cancelled. Entry fees have been refunded.";
+      s.phase = "lobby";
+      s.phaseEndsAt = null;
+      this.persist();
+      this.broadcast();
       return Response.json({ ok: true });
     }
 
@@ -217,6 +368,7 @@ export class ArenaRoom extends DurableObject<Env> {
       const exists = this.state.initialized || this.roomId.startsWith("pub-");
       return Response.json({
         exists,
+        tournamentId: this.state.tournament?.id ?? null,
         kind: this.state.kind,
         phase: this.state.phase,
         players: this.activePlayers().length,
@@ -253,6 +405,11 @@ export class ArenaRoom extends DurableObject<Env> {
     if (!this.state.initialized) {
       this.sendTo(server, { type: "error", message: "That room doesn't exist or has closed." });
       server.close(4404, "room not found");
+      return new Response(null, { status: 101, webSocket: client });
+    }
+    if (this.state.kind === "qualifier" && this.state.tournament?.ownerId !== userId) {
+      this.sendTo(server, { type: "kicked", message: "Qualifier runs are solo. Only the player who started this run can join." });
+      server.close(4403, "not your run");
       return new Response(null, { status: 101, webSocket: client });
     }
     if (this.state.kicked.includes(userId)) {
@@ -333,7 +490,43 @@ export class ArenaRoom extends DurableObject<Env> {
 
   /** Players who can still act right now. */
   private livePlayers(): PlayerState[] {
-    return this.activePlayers().filter((p) => p.connected && !p.left);
+    return this.activePlayers().filter((p) => p.connected && !p.left && p.eliminatedAfter === null);
+  }
+
+  private isArena(): boolean {
+    return this.state.kind === "public" || this.state.kind === "private";
+  }
+
+  private totalQuestions(): number {
+    return this.state.kind === "final" ? FINAL_TOTAL_QUESTIONS : ARENA_TOTAL_QUESTIONS;
+  }
+
+  private digitPositions(): number[] {
+    if (this.state.kind === "qualifier") return [];
+    if (!this.state.set) return this.state.kind === "final" ? [2, 6, 9] : [4, 8];
+    return this.state.set.questions.map((q, i) => (q.digitIndex !== null ? i : -1)).filter((i) => i >= 0);
+  }
+
+  /** Final rooms: seat the finalists (shown as away until they connect); everyone else watches. */
+  private seedSeats(seats: Seat[], lock = false): void {
+    const s = this.state;
+    const ids = new Set(seats.map((x) => x.userId));
+    seats.forEach((seat, i) => {
+      const existing = this.player(seat.userId);
+      if (existing) {
+        existing.role = "player";
+        existing.joinedAt = existing.joinedAt || Date.now() + i;
+      } else {
+        const p = newPlayer(seat.userId, seat.name, "player");
+        p.connected = false;
+        p.joinedAt = Date.now() + i;
+        s.players.push(p);
+      }
+    });
+    s.players.forEach((p) => {
+      if (!ids.has(p.userId) && p.role === "player") p.role = "spectator";
+    });
+    if (lock) s.players = s.players.filter((p) => p.role === "player" || p.connected);
   }
 
   private inMatch(): boolean {
@@ -344,7 +537,7 @@ export class ArenaRoom extends DurableObject<Env> {
     const s = this.state;
     if (!s.set) return null;
     if (s.phase === "question" || s.phase === "reveal") return s.set.questions[s.qIndex] ?? null;
-    if ((s.phase === "sudden" || s.phase === "sudden_reveal") && s.sudden) return s.set.suddenDeath[s.sudden.round - 1] ?? null;
+    if ((s.phase === "sudden" || s.phase === "sudden_reveal") && s.sudden) return s.set.suddenDeath[s.suddenIndex] ?? null;
     return null;
   }
 
@@ -358,7 +551,8 @@ export class ArenaRoom extends DurableObject<Env> {
       return;
     }
     const seated = this.activePlayers().length;
-    const role: PlayerState["role"] = !this.inMatch() && s.phase !== "results" && seated < ARENA_MAX_PLAYERS ? "player" : "spectator";
+    const canSit = s.kind === "final" ? false : s.kind === "qualifier" ? userId === s.tournament?.ownerId : !this.inMatch() && s.phase !== "results" && seated < ARENA_MAX_PLAYERS;
+    const role: PlayerState["role"] = canSit ? "player" : "spectator";
     s.players.push(newPlayer(userId, name, role));
     if (s.kind === "private" && !s.hostId) s.hostId = userId;
   }
@@ -420,10 +614,11 @@ export class ArenaRoom extends DurableObject<Env> {
       lastChoice: isReveal ? p.lastChoice : null,
       inSuddenDeath: Boolean(s.sudden?.playerIds.includes(p.userId)),
       ready: p.ready,
+      eliminatedAfter: p.eliminatedAfter,
     }));
 
-    const digits: (string | null)[] = Array.from({ length: codeLength }, () => null);
-    if (s.set) {
+    const digits: (string | null)[] = Array.from({ length: s.kind === "qualifier" ? 0 : codeLength }, () => null);
+    if (s.set && s.kind !== "qualifier") {
       s.set.vault.freeIndexes.forEach((i) => {
         digits[i] = s.set!.vault.code[i];
       });
@@ -454,7 +649,8 @@ export class ArenaRoom extends DurableObject<Env> {
       : null;
 
     const answer = isSuddenPhase ? (me?.sudden?.choice ?? null) : (me?.current?.choice ?? null);
-    const isSeated = Boolean(me && me.role === "player" && !me.left);
+    const isSeated = Boolean(me && me.role === "player" && !me.left && me.eliminatedAfter === null);
+    const showDigits = s.kind !== "qualifier";
 
     return {
       type: "state",
@@ -485,27 +681,76 @@ export class ArenaRoom extends DurableObject<Env> {
             number: isSuddenPhase ? (s.sudden?.round ?? 1) : s.qIndex + 1,
             prompt: q.prompt,
             choices: q.choices,
-            difficulty: q.difficulty,
+            difficulty: !showDigits && q.difficulty === "bonus" ? "hard" : q.difficulty,
             episodeId: q.episodeId,
-            isDigit: q.digitIndex !== null,
-            digitIndex: q.digitIndex,
+            isDigit: showDigits && q.digitIndex !== null,
+            digitIndex: showDigits ? q.digitIndex : null,
             startedAt: s.questionStartedAt,
             durationMs: isSuddenPhase ? ARENA_SUDDEN_MS : ARENA_QUESTION_MS,
           }
         : null,
       reveal,
       questionIndex: s.qIndex,
-      totalQuestions: ARENA_TOTAL_QUESTIONS,
+      totalQuestions: this.totalQuestions(),
       sudden: s.sudden,
-      vault: s.set
-        ? { episodeId: s.set.vault.episodeId, title: s.set.vault.title, freeIndexes: s.set.vault.freeIndexes, codeLength }
+      vault:
+        s.set && showDigits
+          ? { episodeId: s.set.vault.episodeId, title: s.set.vault.title, freeIndexes: s.set.vault.freeIndexes, codeLength }
+          : null,
+      digitPositions: this.digitPositions(),
+      tournament: s.tournament
+        ? { id: s.tournament.id, name: s.tournament.name, rank: s.tournament.rank, runsLeft: s.tournament.runsLeft, entrants: s.tournament.entrants }
         : null,
+      elimination: s.elimination
+        ? {
+            checkpoints: FINAL_CHECKPOINTS,
+            cuts: s.elimination.cuts,
+            next: s.elimination.done < s.elimination.cuts.length ? s.elimination.done : null,
+            lastCut: s.elimination.lastCut,
+            survivors: this.activePlayers().filter((p) => p.eliminatedAfter === null).length,
+          }
+        : null,
+      race: this.raceView(userId),
       jackpotAmount: s.jackpotAmount,
       winnerId: s.winnerId,
       winReason: s.winReason,
       jackpot,
       standings: s.standings,
       notice: s.notice,
+      startsAt: s.tournament?.startsAt ?? null,
+    };
+  }
+
+  private knownDigitCount(p: PlayerState): number {
+    return (this.state.set?.vault.freeIndexes.length ?? 0) + Object.keys(p.earned).length;
+  }
+
+  private raceView(viewerId: string): RaceView | null {
+    const s = this.state;
+    if (!s.race) return null;
+    const done = s.race.status === "done";
+    const viewerRacing = !done && s.race.racers.some((r) => r.userId === viewerId);
+    return {
+      racers: s.race.racers.map((r) => {
+        const p = this.player(r.userId);
+        const own = r.userId === viewerId;
+        return {
+          userId: r.userId,
+          name: p?.name ?? "Player",
+          attempts: r.codes.length,
+          // Rival racers can't read each other's guesses mid-race; spectators and knocked-out players can.
+          codes: r.codes.map((c) => (own || done || !viewerRacing ? c : null)),
+          cracked: r.crackedAtMs !== null,
+          crackedAtMs: r.crackedAtMs,
+          knownDigits: p ? this.knownDigitCount(p) : 0,
+          score: p?.score ?? 0,
+        };
+      }),
+      status: s.race.status,
+      winnerId: s.race.winnerId,
+      code: done ? (s.set?.vault.code ?? null) : null,
+      story: done ? (s.set?.vault.story ?? null) : null,
+      attemptsPerRacer: RACE_ATTEMPTS,
     };
   }
 
@@ -573,7 +818,9 @@ export class ArenaRoom extends DurableObject<Env> {
           p.left = true;
           changed = true;
         }
-      } else if (away > LOBBY_GRACE_MS) {
+      } else if (s.kind === "final" && p.role === "player") {
+        // Finalists keep their seat while they're away from the lobby.
+      } else if (away > LOBBY_GRACE_MS && !(s.kind === "qualifier" && p.userId === s.tournament?.ownerId)) {
         s.players = s.players.filter((x) => x !== p);
         changed = true;
       }
@@ -584,9 +831,27 @@ export class ArenaRoom extends DurableObject<Env> {
       changed = true;
     }
 
-    if (this.inMatch() && this.activePlayers().every((p) => p.left)) {
+    if (this.isArena() && this.inMatch() && this.activePlayers().every((p) => p.left)) {
       this.resetToLobby("Match cancelled. Everyone left.");
       changed = true;
+    }
+    // A qualifier player who stays away past the rejoin window banks what they have.
+    if (s.kind === "qualifier" && this.inMatch() && s.phase !== "results" && this.activePlayers().every((p) => p.left) && !this.transitioning) {
+      this.transitioning = true;
+      try {
+        await this.finishRun();
+      } finally {
+        this.transitioning = false;
+      }
+      changed = true;
+    }
+    if (s.kind === "qualifier" && s.phase === "lobby" && this.livePlayers().length >= 1) {
+      s.phase = "countdown";
+      s.phaseEndsAt = now + QUALIFIER_COUNTDOWN_MS;
+      changed = true;
+    }
+    if (s.kind === "final" && s.phase === "results" && s.tournament && !s.tournament.reported && now - this.lastResultPushAt > 10_000) {
+      await this.pushFinalResult();
     }
 
     if (s.phase === "lobby" && s.kind === "public" && this.livePlayers().length >= 2) {
@@ -595,7 +860,7 @@ export class ArenaRoom extends DurableObject<Env> {
       s.notice = null;
       changed = true;
     }
-    if (s.phase === "countdown" && this.livePlayers().length < 2) {
+    if (this.isArena() && s.phase === "countdown" && this.livePlayers().length < 2) {
       s.phase = "lobby";
       s.phaseEndsAt = null;
       s.notice = "Countdown paused. Waiting for another player.";
@@ -630,19 +895,35 @@ export class ArenaRoom extends DurableObject<Env> {
       case "question":
         this.revealQuestion();
         return;
-      case "reveal":
-        if (s.qIndex + 1 < ARENA_TOTAL_QUESTIONS && s.set && s.qIndex + 1 < s.set.questions.length) {
-          s.qIndex += 1;
-          this.openQuestion();
-        } else {
-          this.finishMain();
+      case "reveal": {
+        const answered = s.qIndex + 1;
+        if (s.kind === "final" && s.elimination && s.elimination.done < s.elimination.cuts.length && FINAL_CHECKPOINTS[s.elimination.done] === answered) {
+          if (s.elimination.cuts[s.elimination.done] > 0) {
+            this.runCheckpoint();
+            return;
+          }
+          // Tiny finals skip empty checkpoints.
+          s.elimination.done += 1;
         }
+        await this.nextQuestionOrFinish();
+        return;
+      }
+      case "checkpoint":
+        await this.nextQuestionOrFinish();
         return;
       case "sudden":
         this.revealSudden();
         return;
       case "sudden_reveal":
-        this.resolveSudden();
+        if (s.sudden?.purpose === "cut") this.resolveCutSudden();
+        else this.resolveSudden();
+        return;
+      case "race":
+        if (s.race && s.race.status === "open") {
+          this.closeRace();
+          return;
+        }
+        await this.finalize();
         return;
       case "jackpot":
         if (s.jackpot && s.jackpot.status === "open") {
@@ -653,7 +934,8 @@ export class ArenaRoom extends DurableObject<Env> {
         await this.finalize();
         return;
       case "results":
-        this.resetToLobby(null);
+        if (this.isArena()) this.resetToLobby(null);
+        else s.phaseEndsAt = null;
         return;
       default:
         s.phaseEndsAt = null;
@@ -664,7 +946,7 @@ export class ArenaRoom extends DurableObject<Env> {
 
   private async startMatch(): Promise<void> {
     const s = this.state;
-    if (this.livePlayers().length < 2) {
+    if (this.isArena() && this.livePlayers().length < 2) {
       s.phase = "lobby";
       s.phaseEndsAt = null;
       s.notice = "Need at least 2 players to start.";
@@ -681,24 +963,29 @@ export class ArenaRoom extends DurableObject<Env> {
       console.warn("[arena] match-config failed", String(err));
     }
 
-    s.set = buildMatchSet(s.pool, exclusions, s.recent);
+    s.set = s.kind === "final" ? buildFinalSet(s.pool, exclusions) : buildMatchSet(s.pool, exclusions, s.recent);
     s.recent = [...s.set.questions.map((q) => q.id), ...s.recent].slice(0, 80);
     s.matchNumber += 1;
     s.matchId = `${this.roomId}-${Date.now().toString(36)}`;
     s.jackpotAmount = s.kind === "public" ? publicJackpot : s.privateJackpot;
     s.qIndex = 0;
     s.sudden = null;
+    s.suddenIndex = -1;
+    s.race = null;
     s.winnerId = null;
     s.winReason = null;
     s.jackpot = null;
     s.standings = null;
     s.notice = null;
-    // Players who dropped in the lobby don't take a seat in the match.
-    s.players = s.players.filter((p) => p.connected || p.role === "spectator");
+    // Players who dropped in the lobby don't take a seat in an Arena match; finalists always keep theirs.
+    if (s.kind !== "final") s.players = s.players.filter((p) => p.connected || p.role === "spectator");
     s.players.forEach((p) => {
       resetMatchFields(p);
       p.left = false;
+      // A finalist who never showed up is treated as away from the first question.
+      if (s.kind === "final" && p.role === "player" && !p.connected && p.disconnectedAt === null) p.disconnectedAt = Date.now();
     });
+    s.elimination = s.kind === "final" ? { cuts: eliminationCuts(this.activePlayers().length), done: 0, lastCut: [], pending: null } : null;
     this.openQuestion();
   }
 
@@ -733,6 +1020,13 @@ export class ArenaRoom extends DurableObject<Env> {
     const base = isDigit ? 1000 : basePoints(q.difficulty);
 
     this.activePlayers().forEach((p) => {
+      if (p.eliminatedAfter !== null) {
+        p.lastChoice = null;
+        p.lastCorrect = null;
+        p.lastPoints = 0;
+        p.lastSpeedBonus = 0;
+        return;
+      }
       const ans = p.current;
       const correct = ans !== null && ans.choice === q.correctIndex;
       p.lastChoice = ans?.choice ?? null;
@@ -774,12 +1068,13 @@ export class ArenaRoom extends DurableObject<Env> {
     if (ranked.length === 1) return this.declareWinner(ranked[0].userId, "solo");
     if (tied.length === 0) return this.declareWinner(ranked[0].userId, "time");
     if (tied.length === 1) return this.declareWinner(tied[0].userId, "score");
-    this.state.sudden = { round: 1, playerIds: tied.map((p) => p.userId) };
+    this.state.sudden = { round: 1, playerIds: tied.map((p) => p.userId), purpose: "win" };
     this.openSudden();
   }
 
   private openSudden(): void {
     const s = this.state;
+    s.suddenIndex += 1;
     s.phase = "sudden";
     s.questionStartedAt = Date.now();
     s.phaseEndsAt = s.questionStartedAt + ARENA_SUDDEN_MS;
@@ -811,7 +1106,7 @@ export class ArenaRoom extends DurableObject<Env> {
       .filter((p) => p.sudden && p.sudden.choice === q.correctIndex)
       .sort((a, b) => (a.sudden!.ms - b.sudden!.ms) || a.totalTimeMs - b.totalTimeMs || a.joinedAt - b.joinedAt);
     if (correct.length > 0) return this.declareWinner(correct[0].userId, "sudden");
-    if (s.sudden.round < SUDDEN_ROUNDS && s.set && s.set.suddenDeath.length > s.sudden.round) {
+    if (s.sudden.round < SUDDEN_ROUNDS && s.set && s.set.suddenDeath.length > s.suddenIndex + 1) {
       s.sudden = { ...s.sudden, round: s.sudden.round + 1 };
       return this.openSudden();
     }
@@ -831,6 +1126,7 @@ export class ArenaRoom extends DurableObject<Env> {
 
   private async finalize(): Promise<void> {
     const s = this.state;
+    if (s.kind === "final") return this.finalizeFinal();
     const cracked = s.jackpot?.status === "cracked";
     const winnerId = s.winnerId;
     const others = this.ranking().filter((p) => p.userId !== winnerId);
@@ -875,6 +1171,294 @@ export class ArenaRoom extends DurableObject<Env> {
     s.phase = "results";
     s.phaseEndsAt = s.kind === "public" ? Date.now() + PUBLIC_RESULTS_MS : null;
     this.activePlayers().forEach((p) => (p.ready = false));
+  }
+
+  // ---------- tournament flow ----------
+
+  private async nextQuestionOrFinish(): Promise<void> {
+    const s = this.state;
+    const total = Math.min(this.totalQuestions(), s.set?.questions.length ?? 0);
+    if (s.qIndex + 1 < total) {
+      s.qIndex += 1;
+      this.openQuestion();
+      return;
+    }
+    if (s.kind === "qualifier") {
+      await this.finishRun();
+      return;
+    }
+    if (s.kind === "final") {
+      await this.openRace();
+      return;
+    }
+    this.finishMain();
+  }
+
+  /** Ranks finalists still in it: players who left drop to the bottom, then score, then total answer time. */
+  private finalRanking(): PlayerState[] {
+    return this.activePlayers()
+      .filter((p) => p.eliminatedAfter === null)
+      .sort((a, b) => Number(a.left) - Number(b.left) || b.score - a.score || a.totalTimeMs - b.totalTimeMs || a.joinedAt - b.joinedAt);
+  }
+
+  private runCheckpoint(): void {
+    const s = this.state;
+    const el = s.elimination!;
+    const checkpoint = FINAL_CHECKPOINTS[el.done];
+    const cut = el.cuts[el.done];
+    const ranked = this.finalRanking();
+    const keep = ranked.length - cut;
+    if (cut <= 0 || keep < 1) {
+      el.done += 1;
+      el.lastCut = [];
+      this.openCheckpoint();
+      return;
+    }
+    // Players who left are never "tied" with someone still playing.
+    const lastSafe = ranked[keep - 1];
+    const firstOut = ranked[keep];
+    const sameLine = (a: PlayerState, b: PlayerState) => a.score === b.score && a.left === b.left;
+    if (!sameLine(lastSafe, firstOut) || lastSafe.left) {
+      this.applyCut(checkpoint, ranked.slice(keep));
+      return;
+    }
+    const group = ranked.filter((p) => sameLine(p, lastSafe));
+    const safe = ranked.filter((p) => !group.includes(p) && ranked.indexOf(p) < keep);
+    const below = ranked.filter((p) => !group.includes(p) && ranked.indexOf(p) >= keep);
+    const slots = keep - safe.length;
+    el.pending = { checkpoint, slots, group: group.map((p) => p.userId), safe: safe.map((p) => p.userId), below: below.map((p) => p.userId) };
+    s.sudden = { round: 1, playerIds: el.pending.group, purpose: "cut" };
+    s.notice = `Tie at the cut line. ${group.length} players fight for ${slots} ${slots === 1 ? "seat" : "seats"}.`;
+    this.openSudden();
+  }
+
+  private resolveCutSudden(): void {
+    const s = this.state;
+    const el = s.elimination;
+    const q = this.currentQuestion();
+    if (!el?.pending || !s.sudden || !q) return;
+    const pending = el.pending;
+    const contenders = this.activePlayers().filter((p) => pending.group.includes(p.userId));
+    const correct = contenders
+      .filter((p) => !p.left && p.sudden && p.sudden.choice === q.correctIndex)
+      .sort((a, b) => a.sudden!.ms - b.sudden!.ms || a.totalTimeMs - b.totalTimeMs || a.joinedAt - b.joinedAt);
+    const through = correct.slice(0, pending.slots);
+    pending.safe.push(...through.map((p) => p.userId));
+    pending.slots -= through.length;
+    pending.group = pending.group.filter((id) => !through.some((p) => p.userId === id));
+
+    const finish = () => {
+      const cutIds = new Set([...pending.group, ...pending.below]);
+      el.pending = null;
+      s.sudden = null;
+      s.notice = null;
+      this.applyCut(pending.checkpoint, this.activePlayers().filter((p) => cutIds.has(p.userId)));
+    };
+    if (pending.slots <= 0) return finish();
+    const canRetry = s.sudden.round < SUDDEN_ROUNDS && s.set && s.set.suddenDeath.length > s.suddenIndex + 1;
+    if (canRetry) {
+      s.sudden = { round: s.sudden.round + 1, playerIds: [...pending.group], purpose: "cut" };
+      s.notice = `${pending.group.length} players fight for ${pending.slots} ${pending.slots === 1 ? "seat" : "seats"}.`;
+      return this.openSudden();
+    }
+    // Still level after sudden death: faster total answer time takes the remaining seats.
+    const byTime = this.activePlayers()
+      .filter((p) => pending.group.includes(p.userId))
+      .sort((a, b) => Number(a.left) - Number(b.left) || a.totalTimeMs - b.totalTimeMs || a.joinedAt - b.joinedAt);
+    const rest = byTime.slice(0, pending.slots).map((p) => p.userId);
+    pending.safe.push(...rest);
+    pending.group = pending.group.filter((id) => !rest.includes(id));
+    pending.slots = 0;
+    finish();
+  }
+
+  private applyCut(checkpoint: number, out: PlayerState[]): void {
+    const s = this.state;
+    const el = s.elimination!;
+    out.forEach((p) => {
+      p.eliminatedAfter = checkpoint;
+      p.current = null;
+      p.sudden = null;
+    });
+    el.lastCut = out.map((p) => p.userId);
+    el.done += 1;
+    this.openCheckpoint();
+  }
+
+  private openCheckpoint(): void {
+    const s = this.state;
+    s.phase = "checkpoint";
+    s.phaseEndsAt = Date.now() + CHECKPOINT_MS;
+  }
+
+  private async openRace(): Promise<void> {
+    const s = this.state;
+    const survivors = this.activePlayers().filter((p) => p.eliminatedAfter === null);
+    if (survivors.length === 0) {
+      await this.finalizeFinal();
+      return;
+    }
+    s.race = {
+      startedAt: Date.now(),
+      racers: survivors.map((p) => ({ userId: p.userId, codes: [], crackedAtMs: null })),
+      status: "open",
+      winnerId: null,
+    };
+    s.phase = "race";
+    s.phaseEndsAt = Date.now() + FINAL_RACE_MS;
+  }
+
+  /** Time's up or everyone's out of tries: nobody cracked it, so the top score among survivors takes it. */
+  private closeRace(): void {
+    const s = this.state;
+    if (!s.race || s.race.status !== "open") return;
+    const top = this.finalRanking()[0];
+    s.race.status = "done";
+    s.race.winnerId = top?.userId ?? null;
+    s.winnerId = top?.userId ?? null;
+    const rivals = this.finalRanking();
+    s.winReason = rivals.length > 1 && rivals[1].score === top?.score ? "time" : "score";
+    s.phaseEndsAt = Date.now() + RACE_OUTRO_MS;
+  }
+
+  private placements(): TournamentPlacement[] {
+    const s = this.state;
+    const winnerId = s.race?.winnerId ?? s.winnerId;
+    const survivors = this.finalRanking();
+    const eliminated = this.activePlayers()
+      .filter((p) => p.eliminatedAfter !== null)
+      .sort((a, b) => (b.eliminatedAfter ?? 0) - (a.eliminatedAfter ?? 0) || b.score - a.score || a.totalTimeMs - b.totalTimeMs);
+    const winner = survivors.find((p) => p.userId === winnerId);
+    const ordered = [...(winner ? [winner] : []), ...survivors.filter((p) => p !== winner), ...eliminated];
+    return ordered.map((p, i) => ({
+      userId: p.userId,
+      name: p.name,
+      placement: i + 1,
+      score: p.score,
+      eliminatedAfter: p.eliminatedAfter,
+      vcPrize: 0,
+      cracked: (s.race?.racers.find((r) => r.userId === p.userId)?.crackedAtMs ?? null) !== null,
+    }));
+  }
+
+  private raceSummary(): TournamentRaceSummary | null {
+    const s = this.state;
+    if (!s.race || !s.set) return null;
+    const winner = s.race.racers.find((r) => r.userId === s.race!.winnerId);
+    return {
+      winnerId: s.race.winnerId,
+      cracked: Boolean(winner && winner.crackedAtMs !== null),
+      crackedAtMs: winner?.crackedAtMs ?? null,
+      code: s.set.vault.code,
+      vaultTitle: s.set.vault.title,
+      attempts: s.race.racers.map((r) => ({
+        userId: r.userId,
+        name: this.player(r.userId)?.name ?? "Player",
+        codes: r.codes,
+        cracked: r.crackedAtMs !== null,
+      })),
+    };
+  }
+
+  private async finalizeFinal(): Promise<void> {
+    const s = this.state;
+    const placements = this.placements();
+    s.winnerId = placements[0]?.userId ?? null;
+    s.standings = placements.map((pl) => {
+      const p = this.player(pl.userId)!;
+      return {
+        userId: p.userId,
+        name: p.name,
+        placement: pl.placement,
+        score: p.score,
+        correct: p.correct,
+        answered: p.answered,
+        fastestMs: p.fastestMs,
+        totalTimeMs: p.totalTimeMs,
+        vcEarned: 0,
+        left: p.left,
+        eliminatedAfter: p.eliminatedAfter,
+      };
+    });
+    s.phase = "results";
+    s.phaseEndsAt = null;
+    await this.pushFinalResult();
+  }
+
+  private lastResultPushAt = 0;
+
+  private finalResultBody(): string {
+    const s = this.state;
+    return JSON.stringify({
+      tournamentId: s.tournament?.id,
+      placements: this.placements(),
+      race: this.raceSummary(),
+      viewers: s.players.filter((p) => p.role === "spectator").length,
+    });
+  }
+
+  /** Sends the final's placings to the hub, which pays prizes. Retried until the hub confirms. */
+  private async pushFinalResult(): Promise<void> {
+    const s = this.state;
+    if (!s.tournament || s.tournament.reported) return;
+    this.lastResultPushAt = Date.now();
+    try {
+      const res = await this.env.DO.fetch(this.hubRequest("/t/final-result", { method: "POST", body: this.finalResultBody() }));
+      if (res.ok) {
+        const data = (await res.json()) as { placements?: TournamentPlacement[] };
+        s.tournament.reported = true;
+        if (data.placements && s.standings) {
+          const prize = new Map(data.placements.map((p) => [p.userId, p.vcPrize]));
+          s.standings = s.standings.map((row) => ({ ...row, vcEarned: prize.get(row.userId) ?? 0 }));
+        }
+      }
+    } catch (err) {
+      console.warn("[arena] final result push failed", String(err));
+    }
+  }
+
+  /** Qualifier run over: report the score to the hub and show the player where they landed. */
+  private async finishRun(): Promise<void> {
+    const s = this.state;
+    if (s.phase === "results") return;
+    const p = this.activePlayers()[0];
+    s.standings = p
+      ? [
+          {
+            userId: p.userId,
+            name: p.name,
+            placement: 1,
+            score: p.score,
+            correct: p.correct,
+            answered: p.answered,
+            fastestMs: p.fastestMs,
+            totalTimeMs: p.totalTimeMs + (this.totalQuestions() - Math.min(this.totalQuestions(), s.qIndex + 1)) * ARENA_QUESTION_MS,
+            vcEarned: 0,
+            left: p.left,
+          },
+        ]
+      : [];
+    s.phase = "results";
+    s.phaseEndsAt = null;
+    s.winnerId = p?.userId ?? null;
+    if (!s.tournament || !p) return;
+    try {
+      const res = await this.env.DO.fetch(
+        this.hubRequest("/t/run-result", {
+          method: "POST",
+          body: JSON.stringify({ runId: s.tournament.runId, tournamentId: s.tournament.id, userId: p.userId, score: p.score, totalTimeMs: s.standings[0].totalTimeMs }),
+        }),
+      );
+      const data = (await res.json()) as { rank?: number | null; runsLeft?: number; entrants?: number; error?: string };
+      s.tournament.reported = res.ok;
+      s.tournament.rank = data.rank ?? null;
+      s.tournament.runsLeft = data.runsLeft ?? null;
+      s.tournament.entrants = data.entrants ?? null;
+      if (!res.ok && data.error) s.notice = data.error;
+    } catch (err) {
+      console.warn("[arena] run result failed", String(err));
+      s.notice = "Your score is saved here but couldn't reach the tournament board yet. Refresh in a moment.";
+    }
   }
 
   private resetToLobby(notice: string | null): void {
@@ -961,7 +1545,7 @@ export class ArenaRoom extends DurableObject<Env> {
     const s = this.state;
     const p = this.player(userId);
     if (!p) return;
-    const seated = p.role === "player" && !p.left;
+    const seated = p.role === "player" && !p.left && p.eliminatedAfter === null;
     const fail = (message: string) => {
       for (const ws of this.ctx.getWebSockets(userId)) this.sendTo(ws, { type: "error", message });
     };
@@ -987,14 +1571,14 @@ export class ArenaRoom extends DurableObject<Env> {
       }
       case "fifty": {
         const q = this.currentQuestion();
-        if (!seated || s.phase !== "question" || !q || p.fiftyUsed || p.current) return;
+        if (!seated || s.phase !== "question" || !q || p.fiftyUsed || p.current || s.kind === "final") return;
         const wrong = shuffle([0, 1, 2, 3].filter((i) => i !== q.correctIndex)).slice(0, 2);
         p.fiftyUsed = true;
         p.removed = wrong;
         break;
       }
       case "shield": {
-        if (!seated || !this.inMatch() || p.shield !== "ready") return;
+        if (!seated || !this.inMatch() || p.shield !== "ready" || s.kind === "final") return;
         if (s.phase === "question" && p.current) return fail("Arm the Shield before you answer.");
         p.shield = "armed";
         break;
@@ -1014,6 +1598,28 @@ export class ArenaRoom extends DurableObject<Env> {
         break;
       }
       case "crack": {
+        if (s.phase === "race") {
+          // Messages are handled one at a time, so the first correct code the server receives wins outright.
+          const race = s.race;
+          const racer = race?.racers.find((r) => r.userId === userId);
+          if (!race || race.status !== "open" || !racer || racer.crackedAtMs !== null) return;
+          if (racer.codes.length >= RACE_ATTEMPTS) return fail("You're out of tries.");
+          const code = String(msg.code ?? "").replace(/\D/g, "");
+          const length = s.set?.vault.code.length ?? 4;
+          if (code.length !== length) return fail(`Enter all ${length} digits.`);
+          racer.codes.push(code);
+          if (code === s.set?.vault.code) {
+            racer.crackedAtMs = Date.now() - race.startedAt;
+            race.status = "done";
+            race.winnerId = userId;
+            s.winnerId = userId;
+            s.winReason = "cracked";
+            s.phaseEndsAt = Date.now() + RACE_OUTRO_MS;
+          } else if (race.racers.every((r) => r.codes.length >= RACE_ATTEMPTS || !this.player(r.userId)?.connected)) {
+            this.closeRace();
+          }
+          break;
+        }
         const jp = s.jackpot;
         if (s.phase !== "jackpot" || !jp || jp.status !== "open" || jp.winnerId !== userId) return;
         const code = String(msg.code ?? "").replace(/\D/g, "");

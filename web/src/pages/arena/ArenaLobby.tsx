@@ -1,13 +1,15 @@
 import { useMutation, useQuery } from "@tanstack/react-query";
-import { ArrowRight, DoorOpen, Gem, KeyRound, Loader2, Lock, Medal, Swords, Timer, Trophy, Users } from "lucide-react";
+import { ArrowRight, Crown, DoorOpen, Gem, KeyRound, Loader2, Lock, Medal, Swords, Timer, Trophy, Users } from "lucide-react";
 import { useState, type FormEvent } from "react";
-import { useNavigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import { toast } from "sonner";
 
 import { LiveDot, MiniStat, winRate } from "@/components/arena/ArenaBits";
+import { formatClock, STATUS_LABEL, TrophyBadges, useTicker } from "@/components/tournaments/TournamentBits";
 import { PageHeader } from "@/components/shell/PageHeader";
 import { IMAGES } from "@/data/assets";
 import { createPrivateRoom, fetchArenaOverview, fetchRoomInfo, joinPublicArena, normalizeRoomCode } from "@/lib/arena/api";
+import type { ArenaOverview } from "@/lib/arena/protocol";
 import { formatMoney } from "@/lib/scoring";
 import { cn } from "@/lib/utils";
 import { useShellUI } from "@/providers/ShellUIProvider";
@@ -164,6 +166,9 @@ export default function ArenaLobby() {
                   Arena board
                 </button>
               </div>
+              {me && (me.title || me.trophies.champion + me.trophies.finalist + me.trophies.qualifier > 0) && (
+                <TrophyBadges trophies={me.trophies} title={me.title} className="mt-2" />
+              )}
               <div className="mt-3 grid grid-cols-2 gap-2">
                 <MiniStat label="Rating" value={me ? `${me.rating}` : "1000"} sub={me ? `best ${me.bestScore.toLocaleString("en-US")}` : "unrated"} />
                 <MiniStat label="Wins" value={`${me?.wins ?? 0}`} sub={`${winRate(me?.wins ?? 0, me?.matches ?? 0)} of ${me?.matches ?? 0}`} />
@@ -174,6 +179,8 @@ export default function ArenaLobby() {
           </div>
         </div>
       </section>
+
+      <TournamentTeaser spotlight={data?.spotlight ?? null} />
 
       <section aria-labelledby="rules-title">
         <h2 id="rules-title" className="sr-only">
@@ -201,5 +208,43 @@ export default function ArenaLobby() {
         </p>
       </section>
     </div>
+  );
+}
+
+const SPOT_COPY: Record<string, string> = {
+  scheduled: "Qualifiers open in",
+  qualifying: "Qualifiers close in",
+  locking: "Final starts in",
+  checkin: "Final starts in",
+  final: "Final is live",
+};
+
+/** Gold strip promoting the live or next tournament. */
+function TournamentTeaser({ spotlight }: { spotlight: ArenaOverview["spotlight"] }) {
+  const left = useTicker(spotlight && spotlight.status !== "final" ? spotlight.at : null);
+  return (
+    <Link
+      to={spotlight ? `/arena/tournaments/${spotlight.id}` : "/arena/tournaments"}
+      className="group neon-card animate-rise-in relative flex flex-wrap items-center gap-4 overflow-hidden border-vault-neon/35 p-5 transition-colors hover:border-vault-neon/70 sm:px-6"
+    >
+      <span aria-hidden="true" className="pointer-events-none absolute -left-10 top-1/2 h-40 w-40 -translate-y-1/2 rounded-full bg-vault-neon/[0.12] blur-3xl" />
+      <span className="relative flex h-12 w-12 shrink-0 items-center justify-center rounded-xl border border-vault-neon/50 bg-vault-neon/10">
+        <Crown className="h-6 w-6 text-vault-neonhi" aria-hidden="true" />
+      </span>
+      <div className="relative min-w-0 flex-1">
+        <p className="flex items-center gap-2 font-mono text-[10.5px] uppercase tracking-[0.22em] text-vault-neon">
+          {spotlight?.status === "final" && <LiveDot />}
+          {spotlight ? STATUS_LABEL[spotlight.status] : "Tournaments"}
+        </p>
+        <p className="mt-1 truncate font-display text-[22px] text-vault-ice">{spotlight ? spotlight.name : "Qualify, survive the cuts, race for the vault"}</p>
+      </div>
+      {spotlight && (
+        <div className="relative text-right">
+          <p className="hud-label text-[9.5px]">{SPOT_COPY[spotlight.status] ?? ""}</p>
+          {spotlight.status !== "final" && <p className="vault-display mt-1 text-[22px] leading-none tabular text-vault-neonhi">{left > 0 ? formatClock(left) : "Soon"}</p>}
+        </div>
+      )}
+      <ArrowRight className="relative h-5 w-5 text-vault-neon transition-transform group-hover:translate-x-1" aria-hidden="true" />
+    </Link>
   );
 }

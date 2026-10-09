@@ -3,6 +3,7 @@ import { CloudAlert, Gem, Loader2, Swords, Trophy } from "lucide-react";
 import { Link } from "react-router-dom";
 
 import { MiniStat, winRate } from "@/components/arena/ArenaBits";
+import { TrophyBadges } from "@/components/tournaments/TournamentBits";
 import { fetchArenaLeaderboard } from "@/lib/arena/api";
 import type { ArenaLeaderboardRow } from "@/lib/arena/protocol";
 import { formatMoney } from "@/lib/scoring";
@@ -29,6 +30,7 @@ function Row({ row }: { row: ArenaLeaderboardRow }) {
         <span className="flex items-center gap-1.5 text-[15px] font-medium text-vault-ice">
           <span className="truncate">{row.name}</span>
           {row.isMe && <span className="shrink-0 rounded-sm bg-vault-neon/15 px-1.5 py-0.5 font-mono text-[9px] font-semibold uppercase tracking-[0.18em] text-vault-neon">You</span>}
+          <TrophyBadges trophies={row.trophies} title={row.title} className="shrink-0" />
         </span>
         <span className="font-mono text-[10.5px] uppercase tracking-[0.12em] text-vault-muted tabular">
           {row.wins}W · {row.matches} played · {winRate(row.wins, row.matches)}
@@ -75,6 +77,18 @@ export function ArenaBoard({ enabled, onNavigate }: { enabled: boolean; onNaviga
         <MiniStat label="Wins" value={`${me?.wins ?? 0}`} sub={winRate(me?.wins ?? 0, me?.matches ?? 0)} />
         <MiniStat label="Arena VC" value={formatMoney(me?.arenaVc ?? 0)} sub={`${me?.jackpots ?? 0} jackpots`} />
       </div>
+
+      {me && (me.title || me.trophies.champion + me.trophies.finalist + me.trophies.qualifier > 0) && (
+        <div className="flex flex-wrap items-center justify-between gap-2 rounded-lg border border-vault-neon/30 bg-vault-neon/[0.05] px-3.5 py-2.5">
+          <span className="hud-label text-[9.5px]">Your trophy case</span>
+          <span className="flex flex-wrap items-center gap-3 font-mono text-[11px] text-vault-ice/80 tabular">
+            <span>{me.trophies.champion} champion</span>
+            <span>{me.trophies.finalist} finalist</span>
+            <span>{me.trophies.qualifier} qualifier</span>
+            {me.title && <TrophyBadges title={me.title} />}
+          </span>
+        </div>
+      )}
 
       {board.rows.length === 0 ? (
         <div className="flex flex-col items-center gap-2 rounded-lg border border-vault-line bg-vault-panel px-4 py-8 text-center">

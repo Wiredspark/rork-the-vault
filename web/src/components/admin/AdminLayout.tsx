@@ -1,4 +1,4 @@
-import { ArrowLeft, Library, LogOut, ShieldAlert, ShieldCheck, Swords, UsersRound } from "lucide-react";
+import { ArrowLeft, Crown, Library, LogOut, ShieldAlert, ShieldCheck, Swords, UsersRound } from "lucide-react";
 import { Navigate, NavLink, Outlet, useLocation, useNavigate } from "react-router-dom";
 import { toast } from "sonner";
 
@@ -93,6 +93,10 @@ export function AdminLayout() {
             <NavLink to="/admin/arena" className={({ isActive }) => cn(TAB, isActive ? "bg-vault-neon/15 text-vault-neonhi" : "text-vault-ice/65 hover:text-vault-ice")}>
               <Swords className="h-4 w-4" aria-hidden="true" />
               Arena
+            </NavLink>
+            <NavLink to="/admin/tournaments" className={({ isActive }) => cn(TAB, isActive ? "bg-vault-neon/15 text-vault-neonhi" : "text-vault-ice/65 hover:text-vault-ice")}>
+              <Crown className="h-4 w-4" aria-hidden="true" />
+              Tournaments
             </NavLink>
           </nav>
 
